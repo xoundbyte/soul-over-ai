@@ -13341,37 +13341,6 @@
     "instagram": null
   },
   {
-    "id": "isaa-corva",
-    "name": "Isaa Corva",
-    "dateAdded": "2026-01-26T17:19:38.890Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureText": null,
-    "aiUsage": [],
-    "indicators": [
-      "ai-visuals",
-      "anonymous"
-    ],
-    "indicatorsText": null,
-    "comments": null,
-    "tags": [
-      "ai-visuals",
-      "audio-artifacts",
-      "minimal-bio",
-      "anonymous"
-    ],
-    "genres": [],
-    "popularity": null,
-    "followers": null,
-    "shScore": null,
-    "spotify": "6Eu0fL4IFsEWzSwSZmgEAj",
-    "apple": "1734136063",
-    "amazon": "B0CVYRSFG6",
-    "youtube": "@isaacorva",
-    "tiktok": null,
-    "instagram": null
-  },
-  {
     "id": "istatiks",
     "name": "Istatiks",
     "dateAdded": "2026-01-20T21:30:48.067Z",
@@ -17526,35 +17495,6 @@
     "youtube": "UCdro7o5W5GpKG0LEEE6DDyQ",
     "tiktok": null,
     "instagram": null
-  },
-  {
-    "id": "me-and-the-robots",
-    "name": "ME & The Robots",
-    "dateAdded": "2025-12-20T23:37:34.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureText": null,
-    "aiUsage": [],
-    "indicators": [
-      "anonymous",
-      "high-output"
-    ],
-    "indicatorsText": "Band members page on their website does not give any information on the people behind the project.",
-    "comments": "Band members page on their website does not give any information on the people behind the project.",
-    "tags": [
-      "high-output",
-      "anonymous"
-    ],
-    "genres": [],
-    "popularity": null,
-    "followers": null,
-    "shScore": null,
-    "spotify": "4I6RjWltIwwTHshCRvRzGR",
-    "apple": "1773070661",
-    "amazon": "B0DJPY1FBK",
-    "youtube": "@me_and_the_robots",
-    "tiktok": "@me_and_the_robots",
-    "instagram": "me_and_the_robots"
   },
   {
     "id": "medieval-confessions",
