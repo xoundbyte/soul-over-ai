@@ -2,16 +2,16 @@
   "id": "cr-33-pia",
   "name": "CR33PIA",
   "dateAdded": "2025-12-22T16:58:01.000Z",
-  "dateUpdated": null,
-  "disclosure": "none",
-  "disclosureNotes": null,
+  "dateUpdated": "2026-01-30T17:51:04.182Z",
+  "disclosure": "confirmed",
+  "disclosureNotes": "The TikTok profile states that they \"create dark sound with AI.\"",
   "disclosureTypes": [],
   "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts. Additionally, their TikTok profile states that they \"create dark sound with AI.\"",
+  "markerNotes": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts.",
   "comments": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts. Additionally, their TikTok profile states that they \"create dark sound with AI.\"",
   "tags": [
     "high-output",
