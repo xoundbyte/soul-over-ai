@@ -14,10 +14,11 @@ const existingArtist = JSON.parse(readFileSync(`src/${data.id}.json`, 'utf8'));
 
 // Fields that can be updated (excluding id which is mandatory)
 const updateableFields = [
-  'name',
-  'comments',
-  'tags',
-  'spotify',
+  'disclosure',
+  'disclosureNotes',
+  'disclosureTypes',
+  'markers',
+  'markerNotes',
   'apple',
   'amazon',
   'youtube',
@@ -29,7 +30,7 @@ const updateableFields = [
 const changedData = { id: data.id };
 
 // Fields where empty strings should be converted to null
-const nullableFields = ['comments', 'spotify', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
+const nullableFields = ['disclosureNotes', 'markerNotes', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
 
 for (const field of updateableFields) {
   if (!(field in data)) continue;
@@ -60,7 +61,7 @@ for (const field of updateableFields) {
 
 // Only create issue if there are actual changes (more than just id)
 if (Object.keys(changedData).length > 1) {
-  
+
   // Create link to souloverai.com update form with prefilled data
   const params = Object.keys(changedData)
     .filter(key => key !== 'id') // id is in the URL path, not query params
@@ -80,12 +81,12 @@ if (Object.keys(changedData).length > 1) {
     .filter(Boolean)
     .join('&');
 
-  const link = `[Review changes](https://souloverai.com/artist/${data.id}/update?${params ? params : ''})`
+  const link = `[Make changes](https://souloverai.com/artist/${data.id}/update?${params ? params : ''})`
   const issueBody = `\`\`\`json\n${JSON.stringify(changedData, null, 2)}\n\`\`\`\n\n${link}`;
 
   // If an issue with the same artist ID exists, add a comment instead of creating a new issue
   (async () => {
-    const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "Update Artist: ${data.id}"`;
+    const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "${data.name} (${data.spotify})"`;
     const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
 
     // Add comment
@@ -103,7 +104,7 @@ if (Object.keys(changedData).length > 1) {
       await octokit.issues.create({
         owner,
         repo,
-        title: `Update Artist: ${data.id}`,
+        title: `${data.name} (${data.spotify})`,
         body: issueBody,
         labels: ['update-artist'],
       });
