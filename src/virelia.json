@@ -2,11 +2,19 @@
   "id": "virelia",
   "name": "Virelia",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
-  "disclosure": "none",
-  "disclosureNotes": null,
-  "disclosureTypes": [],
-  "markers": [],
+  "dateUpdated": "2026-01-30T20:17:11.342Z",
+  "disclosure": "partial",
+  "disclosureNotes": "The YouTube bio states: \"Lyrics are my own - music is powered by Suno AI and the artwork is created with a combo of AI, digital painting and Photoshop.\"",
+  "disclosureTypes": [
+    "instrumentation",
+    "mastering",
+    "mixing",
+    "vocals"
+  ],
+  "markers": [
+    "ai-visuals",
+    "anonymous"
+  ],
   "markerNotes": null,
   "comments": null,
   "tags": [],
@@ -17,7 +25,7 @@
   "spotify": "4Rkn7txj59CVY5DRnIfmUM",
   "apple": "1838323607",
   "amazon": null,
-  "youtube": null,
+  "youtube": "@VireliaMusic",
   "tiktok": null,
   "instagram": "vireliamusic"
 }
