@@ -2,15 +2,16 @@
   "id": "take-your-time",
   "name": "take your time",
   "dateAdded": "2026-01-09T13:59:12.483Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-30T20:12:09.836Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
   "markers": [
     "anonymous",
-    "high-output"
+    "high-output",
+    "ai-visuals"
   ],
-  "markerNotes": "Has released almost 40 albums in 2025 alone.",
+  "markerNotes": "The artist has released almost 40 albums in 2025 alone.",
   "comments": "Has released almost 40 albums in 2025 alone.",
   "tags": [
     "minimal-bio",
