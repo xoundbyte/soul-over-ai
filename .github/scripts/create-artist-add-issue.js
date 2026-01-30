@@ -23,6 +23,7 @@ for (const key of propertyOrder) {
 // Convert comma-delimited strings to arrays, default to empty array
 orderedData.tags = orderedData.tags && typeof orderedData.tags === 'string' ? orderedData.tags.split(',').map(s => s.trim()) : [];
 orderedData.disclosureTypes = orderedData.disclosureTypes && typeof orderedData.disclosureTypes === 'string' ? orderedData.disclosureTypes.split(',').map(s => s.trim()) : [];
+orderedData.markers = orderedData.markers && typeof orderedData.markers === 'string' ? orderedData.markers.split(',').map(s => s.trim()) : [];
 
 // Trim strings and set empty to null
 for (const key in orderedData) {
