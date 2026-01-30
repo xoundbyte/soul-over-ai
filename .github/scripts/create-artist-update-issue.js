@@ -32,6 +32,9 @@ const changedData = { id: data.id };
 // Fields where empty strings should be converted to null
 const nullableFields = ['disclosureNotes', 'markerNotes', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
 
+// Fields received as comma-delimited strings that should be arrays
+const arrayFields = ['disclosureTypes', 'markers'];
+
 for (const field of updateableFields) {
   if (!(field in data)) continue;
 
@@ -41,6 +44,13 @@ for (const field of updateableFields) {
   // Trim string values to avoid whitespace differences
   if (typeof newValue === 'string') {
     newValue = newValue.trim();
+  }
+
+  // Convert comma-delimited strings to arrays
+  if (arrayFields.includes(field)) {
+    newValue = typeof newValue === 'string' && newValue !== ''
+      ? newValue.split(',').map(s => s.trim())
+      : [];
   }
 
   // Convert empty strings to null for nullable fields
