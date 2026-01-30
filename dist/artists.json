@@ -26149,6 +26149,32 @@
     "instagram": "sombrasdelcondor.ia"
   },
   {
+    "id": "something-new",
+    "name": "Something New",
+    "dateAdded": "2026-01-30T16:37:03.327Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"these are songs from the soul, written entirely by me (with a little help from AI to bring the productions to life).\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "comments": null,
+    "tags": [],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3DeO6Ny3TcnJstgBwPZP6U",
+    "apple": "1859092360",
+    "amazon": "B001E39VMK",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "son-of-the-dead-sun",
     "name": "Son of the Dead Sun",
     "dateAdded": "2026-01-09T16:05:19.479Z",
