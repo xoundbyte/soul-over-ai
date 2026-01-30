@@ -135,10 +135,13 @@ const main = async () => {
     artistData.id = fileName.replace(/\.json$/, '');
     artistData.dateAdded = new Date().toISOString();
     artistData.dateUpdated = null;
-    if (typeof artistData.tags === 'string') {
-      artistData.tags = artistData.tags.split(',').map(s => s.trim()).filter(Boolean);
-    } else if (!Array.isArray(artistData.tags)) {
-      artistData.tags = [];
+    
+    if (!Array.isArray(artistData.disclosureTypes)) {
+      throw new Error('Disclosure types is invalid.');
+    }
+
+      if (!Array.isArray(artistData.markers)) {
+      throw new Error('Markers is invalid.');
     }
 
     let genres = [];
@@ -197,6 +200,10 @@ const main = async () => {
     artistData.popularity = popularity;
     artistData.followers = followers;
     artistData.shScore = shScore;
+    
+    // Deprecated fields
+    artistData.comments = null;
+    artistData.tags = [];
 
     if (!validate(artistData)) {
       console.error('Validation errors:', validate.errors);
