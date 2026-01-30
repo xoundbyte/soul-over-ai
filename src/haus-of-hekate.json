@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-04T16:56:27.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "inconsistent-style"
   ],
-  "indicatorsText": "SubmitHub detects strong AI characteristics in their music.",
+  "markerNotes": "SubmitHub detects strong AI characteristics in their music.",
   "comments": "SubmitHub detects strong AI characteristics in their music.",
   "tags": [
     "ai-visuals",

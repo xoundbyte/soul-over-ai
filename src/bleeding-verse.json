@@ -4,12 +4,12 @@
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-16T10:19:44.819Z",
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states: \"Human lyrics, turned to songs with AI.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states: \"Human lyrics, turned to songs with AI.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states: \"Human lyrics, turned to songs with AI.\"",
   "tags": [
     "self-disclosed-ai",

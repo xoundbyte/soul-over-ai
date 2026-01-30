@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-28T14:36:04.438Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states: \"I'm taking my ideas about the world-the funny, the political, the absurd-and using AI to turn them into music.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states: \"I'm taking my ideas about the world-the funny, the political, the absurd-and using AI to turn them into music.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states: \"I'm taking my ideas about the world-the funny, the political, the absurd-and using AI to turn them into music.\"",
   "tags": [
     "ai-visuals",

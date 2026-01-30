@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-15T09:55:01.402Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "There also appears to be different voices used for the singer across their tracks.",
+  "markerNotes": "There also appears to be different voices used for the singer across their tracks.",
   "comments": "There also appears to be different voices used for the singer across their tracks.",
   "tags": [
     "ai-visuals",

@@ -4,14 +4,14 @@
   "dateAdded": "2025-12-29T20:26:10.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "The YouTube bio states: \"Our music is AI-assisted, a way to make lyrics gain life — technology as a spark that turns words into living sound.\"",
+  "markerNotes": "The YouTube bio states: \"Our music is AI-assisted, a way to make lyrics gain life — technology as a spark that turns words into living sound.\"",
   "comments": "The YouTube bio states: \"Our music is AI-assisted, a way to make lyrics gain life — technology as a spark that turns words into living sound.\"",
   "tags": [
     "high-output",

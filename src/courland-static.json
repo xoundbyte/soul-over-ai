@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-27T23:18:40.676Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states: \"One person writing everything, teaming up with AI to turn Baltic gloom, concrete and late-night thoughts into loud, melodic chaos.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states: \"One person writing everything, teaming up with AI to turn Baltic gloom, concrete and late-night thoughts into loud, melodic chaos.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states: \"One person writing everything, teaming up with AI to turn Baltic gloom, concrete and late-night thoughts into loud, melodic chaos.\"",
   "tags": [
     "ai-visuals",

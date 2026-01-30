@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-01T15:35:45.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Tracks are frequently featured on AI-focused playlists on Spotify.",
+  "markerNotes": "Tracks are frequently featured on AI-focused playlists on Spotify.",
   "comments": "Tracks are frequently featured on AI-focused playlists on Spotify.",
   "tags": [
     "high-output",

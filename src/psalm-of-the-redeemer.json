@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-04T09:28:34.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "YouTube bio explicitly states that all music was generated using Udio with human lyrics.",
+  "markerNotes": "YouTube bio explicitly states that all music was generated using Udio with human lyrics.",
   "comments": "YouTube bio explicitly states that all music was generated using Udio with human lyrics.",
   "tags": [
     "ai-visuals",

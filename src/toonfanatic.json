@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-04T16:33:57.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "SubmitHub suggests their music has a high probability of being AI-generated.",
+  "markerNotes": "SubmitHub suggests their music has a high probability of being AI-generated.",
   "comments": "SubmitHub suggests their music has a high probability of being AI-generated.",
   "tags": [
     "no-social-presence",

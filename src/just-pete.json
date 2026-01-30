@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-02T12:23:33.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "No available information on the artist, with only singles released in 2025.",
+  "markerNotes": "No available information on the artist, with only singles released in 2025.",
   "comments": "No available information on the artist, with only singles released in 2025.",
   "tags": [
     "minimal-bio",

@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-19T19:52:51.092Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"We use AI technology to rework iconic tracks in fresh styles.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"We use AI technology to rework iconic tracks in fresh styles.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"We use AI technology to rework iconic tracks in fresh styles.\"",
   "tags": [
     "self-disclosed-ai",

@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-16T20:55:41.143Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states: \"The voice you hear in my songs is AI-generated.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states: \"The voice you hear in my songs is AI-generated.\"",
+  "disclosureTypes": [],
+  "markers": [
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states: \"The voice you hear in my songs is AI-generated.\"",
   "tags": [
     "self-disclosed-ai",

@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-03T18:25:55.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Uses AI-generated visuals in music videos and album artwork. The website provides no concrete information about performers, focusing instead on thematic content related to Norse religion.",
+  "markerNotes": "Uses AI-generated visuals in music videos and album artwork. The website provides no concrete information about performers, focusing instead on thematic content related to Norse religion.",
   "comments": "Uses AI-generated visuals in music videos and album artwork. The website provides no concrete information about performers, focusing instead on thematic content related to Norse religion.",
   "tags": [
     "ai-visuals",

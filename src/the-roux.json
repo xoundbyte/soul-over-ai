@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-03T18:41:08.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "inconsistent-style"
   ],
-  "indicatorsText": "No information about the band is available online. All artwork appear AI-generated. Vocals show noticeable inconsistency across different tracks.",
+  "markerNotes": "No information about the band is available online. All artwork appear AI-generated. Vocals show noticeable inconsistency across different tracks.",
   "comments": "No information about the band is available online. All artwork appear AI-generated. Vocals show noticeable inconsistency across different tracks.",
   "tags": [
     "ai-visuals",

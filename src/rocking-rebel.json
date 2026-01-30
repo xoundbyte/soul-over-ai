@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-10T22:56:35.786Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": null,
   "tags": [
     "high-output",

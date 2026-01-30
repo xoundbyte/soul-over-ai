@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-19T10:57:54.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Not to be confused with another band from the early 00s by the same name.",
+  "markerNotes": "Not to be confused with another band from the early 00s by the same name.",
   "comments": "Not to be confused with another band from the early 00s by the same name.",
   "tags": [
     "high-output",

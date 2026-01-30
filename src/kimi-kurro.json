@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-20T21:24:04.886Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "This artist has over 7,000 monthly listeners withonly one song and all clips are ai generated.",
+  "markerNotes": "This artist has over 7,000 monthly listeners withonly one song and all clips are ai generated.",
   "comments": "This artist has over 7,000 monthly listeners withonly one song and all clips are ai generated.",
   "tags": [
     "ai-visuals",

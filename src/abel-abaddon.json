@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-02T19:06:04.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Some tracks feature collaborations with other artists known for AI-generated music.",
+  "markerNotes": "Some tracks feature collaborations with other artists known for AI-generated music.",
   "comments": "Some tracks feature collaborations with other artists known for AI-generated music.",
   "tags": [
     "minimal-bio",

@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-13T21:39:15.245Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "YouTube channel bio states: \"All music and illustrations on this channel are original works created using AI technology.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "YouTube channel bio states: \"All music and illustrations on this channel are original works created using AI technology.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "YouTube channel bio states: \"All music and illustrations on this channel are original works created using AI technology.\"",
   "tags": [
     "self-disclosed-ai",

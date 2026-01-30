@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-07T14:40:05.752Z",
   "dateUpdated": "2026-01-10T14:40:52.104Z",
   "disclosure": "confirmed",
-  "disclosureText": "The artist states that all lyrics, melodies, and compositions are written by themselves, with AI tools such as Suno and Moises used to perform and enhance instrumental and vocal elements.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The artist states that all lyrics, melodies, and compositions are written by themselves, with AI tools such as Suno and Moises used to perform and enhance instrumental and vocal elements.",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The artist states that all lyrics, melodies, and compositions are written by themselves, with AI tools such as Suno and Moises used to perform and enhance instrumental and vocal elements.",
   "tags": [
     "ai-visuals",

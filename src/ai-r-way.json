@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-26T18:08:43.920Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"AI/R\\WAY is a virtual band fronted by Aime Way-an AI vocalist with a human heart.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"AI/R\\WAY is a virtual band fronted by Aime Way-an AI vocalist with a human heart.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"AI/R\\WAY is a virtual band fronted by Aime Way-an AI vocalist with a human heart.\"",
   "tags": [
     "self-disclosed-ai",

@@ -4,14 +4,14 @@
   "dateAdded": "2025-12-09T21:09:28.000Z",
   "dateUpdated": "2026-01-12T10:56:42.818Z",
   "disclosure": "confirmed",
-  "disclosureText": "The description on their YouTube channel states they are \"supercharged by AI-assisted music innovation.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The description on their YouTube channel states they are \"supercharged by AI-assisted music innovation.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The description on their YouTube channel states they are \"supercharged by AI-assisted music innovation.\"",
   "tags": [
     "ai-visuals",

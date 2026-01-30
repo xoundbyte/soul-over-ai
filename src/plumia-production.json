@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-19T13:09:32.722Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"J'écris des paroles et leurs donne vies\" (I write lyrics and bring them to life).",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"J'écris des paroles et leurs donne vies\" (I write lyrics and bring them to life).",
+  "disclosureTypes": [],
+  "markers": [
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"J'écris des paroles et leurs donne vies\" (I write lyrics and bring them to life).",
   "tags": [
     "self-disclosed-ai",

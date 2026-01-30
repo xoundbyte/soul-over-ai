@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-02T13:02:34.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "All releases date from 2025, with minimal social media presence and no detailed descriptions. Band members use aliases, with no credible information available to confirm their identities.",
+  "markerNotes": "All releases date from 2025, with minimal social media presence and no detailed descriptions. Band members use aliases, with no credible information available to confirm their identities.",
   "comments": "All releases date from 2025, with minimal social media presence and no detailed descriptions. Band members use aliases, with no credible information available to confirm their identities.",
   "tags": [
     "ai-visuals",

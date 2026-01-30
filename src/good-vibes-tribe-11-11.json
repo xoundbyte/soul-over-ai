@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-18T09:54:37.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "The creator acknowledges it's AI-generated in some of their Instagram comments.",
+  "markerNotes": "The creator acknowledges it's AI-generated in some of their Instagram comments.",
   "comments": "The creator acknowledges it's AI-generated in some of their Instagram comments.",
   "tags": [
     "inconsistent-style",

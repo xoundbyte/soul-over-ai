@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-20T22:05:52.732Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "Uses hashtags such as #aiartist and #aimusic on social profiles.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "Uses hashtags such as #aiartist and #aimusic on social profiles.",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "Uses hashtags such as #aiartist and #aimusic on social profiles.",
   "tags": [
     "ai-visuals",

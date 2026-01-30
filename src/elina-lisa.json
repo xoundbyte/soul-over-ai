@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-05T20:40:32.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "Spotify bio claims that the artist is an \"AI Singer\" and utilises Suno.",
+  "markerNotes": "Spotify bio claims that the artist is an \"AI Singer\" and utilises Suno.",
   "comments": "Spotify bio claims that the artist is an \"AI Singer\" and utilises Suno.",
   "tags": [
     "partial-ai",

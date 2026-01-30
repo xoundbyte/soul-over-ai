@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-08T16:05:02.513Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": null,
   "tags": [
     "ai-visuals",

@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-02T19:13:55.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "inconsistent-style"
   ],
-  "indicatorsText": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",
+  "markerNotes": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",
   "comments": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",
   "tags": [
     "ai-visuals",

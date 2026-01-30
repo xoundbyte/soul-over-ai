@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-04T16:39:25.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "No information exists about the creator. Instagram features AI-generated images and videos, with a large volume of songs released only in recent months. SubmitHub detected patterns typical of AI-generated music.",
+  "markerNotes": "No information exists about the creator. Instagram features AI-generated images and videos, with a large volume of songs released only in recent months. SubmitHub detected patterns typical of AI-generated music.",
   "comments": "No information exists about the creator. Instagram features AI-generated images and videos, with a large volume of songs released only in recent months. SubmitHub detected patterns typical of AI-generated music.",
   "tags": [
     "ai-visuals",

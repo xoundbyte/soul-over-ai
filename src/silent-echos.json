@@ -4,12 +4,12 @@
   "dateAdded": "2025-12-19T11:02:03.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous"
   ],
-  "indicatorsText": "AI cover art. No online presence.",
+  "markerNotes": "AI cover art. No online presence.",
   "comments": "AI cover art. No online presence.",
   "tags": [
     "anonymous"

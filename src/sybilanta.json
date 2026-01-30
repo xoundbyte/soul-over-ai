@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-16T19:29:14.300Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states that they are a \"digital artist\" but \"all the songs and lyrics were written by human hands.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states that they are a \"digital artist\" but \"all the songs and lyrics were written by human hands.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states that they are a \"digital artist\" but \"all the songs and lyrics were written by human hands.\"",
   "tags": [
     "ai-visuals",

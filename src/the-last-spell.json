@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-18T12:44:49.923Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "The artist appears to feature on collaborations with a network of other artists managed by a single entity.",
+  "markerNotes": "The artist appears to feature on collaborations with a network of other artists managed by a single entity.",
   "comments": "The artist appears to feature on collaborations with a network of other artists managed by a single entity.",
   "tags": [
     "high-output",

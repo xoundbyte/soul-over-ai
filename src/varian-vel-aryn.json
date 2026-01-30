@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-26T09:20:36.470Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "The artist has 1800+ uploaded songs, many with AI generated visuals. Their social media displays suspicious activity, with posts focusing on how many plays they have rather than the music.",
+  "markerNotes": "The artist has 1800+ uploaded songs, many with AI generated visuals. Their social media displays suspicious activity, with posts focusing on how many plays they have rather than the music.",
   "comments": "The artist has 1800+ uploaded songs, many with AI generated visuals. Their social media displays suspicious activity, with posts focusing on how many plays they have rather than the music.",
   "tags": [
     "ai-visuals",

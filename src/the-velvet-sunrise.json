@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-24T17:55:55.362Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "Created by Danny Sapko, and in an interview with Guitar World, he states: \"The Velvet Sunrise are an AI generated band that I created by entering 'eighties power ballad' into an AI generator.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "Created by Danny Sapko, and in an interview with Guitar World, he states: \"The Velvet Sunrise are an AI generated band that I created by entering 'eighties power ballad' into an AI generator.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "Created by Danny Sapko, and in an interview with Guitar World, he states: \"The Velvet Sunrise are an AI generated band that I created by entering 'eighties power ballad' into an AI generator.\"",
   "tags": [
     "self-disclosed-ai",

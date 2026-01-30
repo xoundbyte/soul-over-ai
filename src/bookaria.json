@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-19T19:50:33.492Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "it has the same vocals characteristics, and audio artifacts.",
+  "markerNotes": "it has the same vocals characteristics, and audio artifacts.",
   "comments": "it has the same vocals characteristics, and audio artifacts.",
   "tags": [
     "ai-visuals",

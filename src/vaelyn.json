@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-09T21:17:37.000Z",
   "dateUpdated": "2026-01-21T11:07:31.216Z",
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"AI vocals and Instrumentation.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"AI vocals and Instrumentation.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"AI vocals and Instrumentation.\"",
   "tags": [
     "ai-visuals",

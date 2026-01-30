@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-03T18:43:10.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "YouTube bio states: \"AI-generated music across all genres.\"",
+  "markerNotes": "YouTube bio states: \"AI-generated music across all genres.\"",
   "comments": "YouTube bio states: \"AI-generated music across all genres.\"",
   "tags": [
     "inconsistent-style",

@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-12T20:26:14.733Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "The artist has disabled comments on their YouTube videos, which is a common theme with other AI music artists.",
+  "markerNotes": "The artist has disabled comments on their YouTube videos, which is a common theme with other AI music artists.",
   "comments": "The artist has disabled comments on their YouTube videos, which is a common theme with other AI music artists.",
   "tags": [
     "minimal-bio",

@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-03T18:22:49.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "YouTube bio states: \"The #1 Source for High-Quality Beats, Free FL Studio FLPs, and AI-Powered Music Creations.\"",
+  "markerNotes": "YouTube bio states: \"The #1 Source for High-Quality Beats, Free FL Studio FLPs, and AI-Powered Music Creations.\"",
   "comments": "YouTube bio states: \"The #1 Source for High-Quality Beats, Free FL Studio FLPs, and AI-Powered Music Creations.\"",
   "tags": [
     "ai-visuals",

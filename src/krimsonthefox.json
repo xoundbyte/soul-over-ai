@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-02T19:02:00.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "The YouTube bio explicitly acknowledges the use of AI.",
+  "markerNotes": "The YouTube bio explicitly acknowledges the use of AI.",
   "comments": "The YouTube bio explicitly acknowledges the use of AI.",
   "tags": [
     "ai-visuals",

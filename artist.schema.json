@@ -31,31 +31,31 @@
       "enum": ["confirmed", "full", "partial", "none"],
       "description": "Whether the artist has self-disclosed AI usage: confirmed = yes without context, full = fully AI-generated, partial = uses AI for parts of their process, none = no disclosure"
     },
-    "disclosureText": {
+    "disclosureNotes": {
       "type": [
         "string",
         "null"
       ],
       "description": "Additional details for the disclosure value, or null if no details provided"
     },
-    "aiUsage": {
+    "disclosureTypes": {
       "type": "array",
       "description": "Types of AI usage in the artist's music production",
       "items": {
         "type": "string",
         "enum": [
+          "composition",
           "instrumentation",
           "lyrics",
-          "mastering",
           "mixing",
           "vocals"
         ]
       },
       "uniqueItems": true
     },
-    "indicators": {
+    "markers": {
       "type": "array",
-      "description": "Indicators suggesting AI-generated content",
+      "description": "markers suggesting AI-generated content",
       "items": {
         "type": "string",
         "enum": [
@@ -68,23 +68,23 @@
       },
       "uniqueItems": true
     },
-    "indicatorsText": {
+    "markerNotes": {
       "type": [
         "string",
         "null"
       ],
-      "description": "Additional details for the indicators value, or null if no details provided"
+      "description": "Additional details for the markers value, or null if no details provided"
     },
     "comments": {
       "type": [
         "string",
         "null"
       ],
-      "description": "Additional notes or context about why this artist is considered AI-generated, or null if no comments"
+      "description": "DEPRECATED: Additional notes or context about why this artist is considered AI-generated, or null if no comments"
     },
     "tags": {
       "type": "array",
-      "description": "Special tags/flags for this artist",
+      "description": "DEPRECATED: Special tags/flags for this artist",
       "items": {
         "type": "string",
         "enum": [
@@ -190,10 +190,10 @@
     "dateAdded",
     "dateUpdated",
     "disclosure",
-    "disclosureText",
-    "aiUsage",
-    "indicators",
-    "indicatorsText",
+    "disclosureNotes",
+    "disclosureTypes",
+    "markers",
+    "markerNotes",
     "comments",
     "tags",
     "genres",

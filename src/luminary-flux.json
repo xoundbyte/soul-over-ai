@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-02T14:15:12.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "AI-generated album artwork, with no visible presence or evidence of human involvement.",
+  "markerNotes": "AI-generated album artwork, with no visible presence or evidence of human involvement.",
   "comments": "AI-generated album artwork, with no visible presence or evidence of human involvement.",
   "tags": [
     "ai-visuals",

@@ -4,15 +4,15 @@
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-27T23:10:04.514Z",
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",
   "tags": [
     "ai-visuals",

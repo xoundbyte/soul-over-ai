@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-03T09:41:26.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "Promotes themselves as an AI artist on Instagram and YouTube bio acknowledges use of AI. All releases are created as companion music for the book 'Fourth Wing'.",
+  "markerNotes": "Promotes themselves as an AI artist on Instagram and YouTube bio acknowledges use of AI. All releases are created as companion music for the book 'Fourth Wing'.",
   "comments": "Promotes themselves as an AI artist on Instagram and YouTube bio acknowledges use of AI. All releases are created as companion music for the book 'Fourth Wing'.",
   "tags": [
     "ai-visuals",

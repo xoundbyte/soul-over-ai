@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-02T11:53:39.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Generative AI cover art, with tracks appearing on AI-focused playlists.",
+  "markerNotes": "Generative AI cover art, with tracks appearing on AI-focused playlists.",
   "comments": "Generative AI cover art, with tracks appearing on AI-focused playlists.",
   "tags": [
     "ai-visuals",

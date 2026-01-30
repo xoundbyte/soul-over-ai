@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-27T13:52:19.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "The artist self-identifies as utilising AI in their production. Creates 1960s-themed covers of modern-day songs.",
+  "markerNotes": "The artist self-identifies as utilising AI in their production. Creates 1960s-themed covers of modern-day songs.",
   "comments": "The artist self-identifies as utilising AI in their production. Creates 1960s-themed covers of modern-day songs.",
   "tags": [
     "anonymous",

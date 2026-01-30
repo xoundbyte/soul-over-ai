@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-26T17:15:12.817Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "Songs feature AI vocalist Sadie Winters.",
+  "markerNotes": "Songs feature AI vocalist Sadie Winters.",
   "comments": "Songs feature AI vocalist Sadie Winters.",
   "tags": [
     "ai-visuals",

@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-14T10:25:07.673Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "The artist's top song on Spotify features Justin Bieber and Ed Sheeran, but only has 308k plays (at time of writing) and does not list them as features.",
+  "markerNotes": "The artist's top song on Spotify features Justin Bieber and Ed Sheeran, but only has 308k plays (at time of writing) and does not list them as features.",
   "comments": "The artist's top song on Spotify features Justin Bieber and Ed Sheeran, but only has 308k plays (at time of writing) and does not list them as features.",
   "tags": [
     "ai-visuals",

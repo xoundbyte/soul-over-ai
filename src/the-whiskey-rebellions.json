@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-21T17:15:49.723Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states: \"We write all our music and lyrics ourselves, using AI as a modern studio assistant.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states: \"We write all our music and lyrics ourselves, using AI as a modern studio assistant.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states: \"We write all our music and lyrics ourselves, using AI as a modern studio assistant.\"",
   "tags": [
     "ai-visuals",

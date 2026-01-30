@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-29T20:10:40.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "The Spotify bio explicitly states that AI is used in the project's creation.",
+  "markerNotes": "The Spotify bio explicitly states that AI is used in the project's creation.",
   "comments": "The Spotify bio explicitly states that AI is used in the project's creation.",
   "tags": [
     "audio-artifacts",

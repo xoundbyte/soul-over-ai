@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-16T19:37:28.583Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states that their music is \"created by advanced AI from udio.com.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states that their music is \"created by advanced AI from udio.com.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states that their music is \"created by advanced AI from udio.com.\"",
   "tags": [
     "self-disclosed-ai",

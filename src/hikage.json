@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-02T13:32:46.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "The YouTube bio states: \"The lyrics were written and composed by AI.\"",
+  "markerNotes": "The YouTube bio states: \"The lyrics were written and composed by AI.\"",
   "comments": "The YouTube bio states: \"The lyrics were written and composed by AI.\"",
   "tags": [
     "high-output",

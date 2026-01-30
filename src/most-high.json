@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-12T16:13:43.319Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The artist's Spotify bio states that they utilise \"advanced AI and music production software.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The artist's Spotify bio states that they utilise \"advanced AI and music production software.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The artist's Spotify bio states that they utilise \"advanced AI and music production software.\"",
   "tags": [
     "ai-visuals",

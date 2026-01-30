@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-29T20:25:20.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "AI-generated YouTube videos with no discernible information about band members.",
+  "markerNotes": "AI-generated YouTube videos with no discernible information about band members.",
   "comments": "AI-generated YouTube videos with no discernible information about band members.",
   "tags": [
     "ai-visuals",

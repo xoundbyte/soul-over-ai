@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-22T12:45:21.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "Pop / R&B AI singer.",
+  "markerNotes": "Pop / R&B AI singer.",
   "comments": "Pop / R&B AI singer.",
   "tags": [
     "anonymous",

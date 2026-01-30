@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-14T21:23:43.457Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Instagram bio states: \"Lyricist meets AI generated music.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Instagram bio states: \"Lyricist meets AI generated music.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Instagram bio states: \"Lyricist meets AI generated music.\"",
   "tags": [
     "ai-visuals",

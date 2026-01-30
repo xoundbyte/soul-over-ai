@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-16T20:54:19.827Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states: \"I compose melodies with tools like Ableton Live 12 and Analog Lab V, write lyrics from scratch, and use AI-like Grok 3-to polish their rhythm and flow. Synthesizer V then crafts vocals that bring my vision to life.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states: \"I compose melodies with tools like Ableton Live 12 and Analog Lab V, write lyrics from scratch, and use AI-like Grok 3-to polish their rhythm and flow. Synthesizer V then crafts vocals that bring my vision to life.\"",
+  "disclosureTypes": [],
+  "markers": [
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states: \"I compose melodies with tools like Ableton Live 12 and Analog Lab V, write lyrics from scratch, and use AI-like Grok 3-to polish their rhythm and flow. Synthesizer V then crafts vocals that bring my vision to life.\"",
   "tags": [
     "partial-ai",

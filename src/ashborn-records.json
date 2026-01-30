@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-02T13:58:40.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "The YouTube bio self-acknowledges AI use, describing the content as \"Original AI Gothic-Metal tracks.\"",
+  "markerNotes": "The YouTube bio self-acknowledges AI use, describing the content as \"Original AI Gothic-Metal tracks.\"",
   "comments": "The YouTube bio self-acknowledges AI use, describing the content as \"Original AI Gothic-Metal tracks.\"",
   "tags": [
     "ai-visuals",

@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-01T15:59:15.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": "Uses AI-generated voices to emulate cartoon characters while performing original lyrics. Cover artwork also appears to be AI-generated.",
+  "markerNotes": "Uses AI-generated voices to emulate cartoon characters while performing original lyrics. Cover artwork also appears to be AI-generated.",
   "comments": "Uses AI-generated voices to emulate cartoon characters while performing original lyrics. Cover artwork also appears to be AI-generated.",
   "tags": [
     "partial-ai",

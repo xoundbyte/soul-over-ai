@@ -4,14 +4,14 @@
   "dateAdded": "2025-12-30T18:38:25.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "No evident media presence or biographical details about individuals involved. A large number of tracks were released in a short period, accompanied by AI-generated cover artwork.",
+  "markerNotes": "No evident media presence or biographical details about individuals involved. A large number of tracks were released in a short period, accompanied by AI-generated cover artwork.",
   "comments": "No evident media presence or biographical details about individuals involved. A large number of tracks were released in a short period, accompanied by AI-generated cover artwork.",
   "tags": [
     "ai-visuals",

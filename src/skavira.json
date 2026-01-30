@@ -4,15 +4,15 @@
   "dateAdded": "2025-12-27T12:52:07.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "There are strong indications that the artist is not a real person, with no authentic photographs available.",
+  "markerNotes": "There are strong indications that the artist is not a real person, with no authentic photographs available.",
   "comments": "There are strong indications that the artist is not a real person, with no authentic photographs available.",
   "tags": [
     "ai-visuals",

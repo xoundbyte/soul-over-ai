@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-13T21:53:21.594Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "YouTube bio states the project is \"where human creativity meets digital storytelling.\" The Instagram and TikTok bios also states: \"Human creativity meets digital rhythm.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "YouTube bio states the project is \"where human creativity meets digital storytelling.\" The Instagram and TikTok bios also states: \"Human creativity meets digital rhythm.\"",
+  "disclosureTypes": [],
+  "markers": [
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "YouTube bio states the project is \"where human creativity meets digital storytelling.\" The Instagram and TikTok bios also states: \"Human creativity meets digital rhythm.\"",
   "tags": [
     "audio-artifacts",

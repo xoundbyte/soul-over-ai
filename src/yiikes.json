@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-14T10:19:04.452Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The artist's TikTok profile contains \"ai\" in the username, and the posts allude to AI usage.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The artist's TikTok profile contains \"ai\" in the username, and the posts allude to AI usage.",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The artist's TikTok profile contains \"ai\" in the username, and the posts allude to AI usage.",
   "tags": [
     "ai-visuals",

@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-25T12:49:56.185Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"Almost Alive is a modern AI-assisted rock band.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"Almost Alive is a modern AI-assisted rock band.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"Almost Alive is a modern AI-assisted rock band.\"",
   "tags": [
     "ai-visuals",

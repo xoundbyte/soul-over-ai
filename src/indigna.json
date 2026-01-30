@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-03T18:40:41.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "The music shows clear AI traits despite claims of manual rhythm guitar composition alongside Suno AI use. With 22 albums (around 290 tracks) released in just over a year, the output is unusually high, indicating the content is likely predominantly AI-generated.",
+  "markerNotes": "The music shows clear AI traits despite claims of manual rhythm guitar composition alongside Suno AI use. With 22 albums (around 290 tracks) released in just over a year, the output is unusually high, indicating the content is likely predominantly AI-generated.",
   "comments": "The music shows clear AI traits despite claims of manual rhythm guitar composition alongside Suno AI use. With 22 albums (around 290 tracks) released in just over a year, the output is unusually high, indicating the content is likely predominantly AI-generated.",
   "tags": [
     "ai-visuals",

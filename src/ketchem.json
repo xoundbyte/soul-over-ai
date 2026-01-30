@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-23T23:40:43.022Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "The label name, \"10227924 Records DK,\" is a default placeholder assigned by DistroKid when no label is specified. It is frequently linked to AI-generated, rapidly-produced, or low-quality spam releases.",
+  "markerNotes": "The label name, \"10227924 Records DK,\" is a default placeholder assigned by DistroKid when no label is specified. It is frequently linked to AI-generated, rapidly-produced, or low-quality spam releases.",
   "comments": "The label name, \"10227924 Records DK,\" is a default placeholder assigned by DistroKid when no label is specified. It is frequently linked to AI-generated, rapidly-produced, or low-quality spam releases.",
   "tags": [
     "anonymous",

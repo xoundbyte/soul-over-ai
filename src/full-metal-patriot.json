@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-09T21:57:45.000Z",
   "dateUpdated": "2026-01-24T17:43:47.726Z",
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"This channel delivers high-impact visuals, AI-powered storytelling, original music, and relentless commentary.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"This channel delivers high-impact visuals, AI-powered storytelling, original music, and relentless commentary.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"This channel delivers high-impact visuals, AI-powered storytelling, original music, and relentless commentary.\"",
   "tags": [
     "ai-visuals",

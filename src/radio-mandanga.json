@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-29T21:57:36.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "inconsistent-style"
   ],
-  "indicatorsText": "The YouTube bio states that the cover tracks are created with AI.",
+  "markerNotes": "The YouTube bio states that the cover tracks are created with AI.",
   "comments": "The YouTube bio states that the cover tracks are created with AI.",
   "tags": [
     "ai-visuals",

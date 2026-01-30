@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-19T11:14:05.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "Incredibly high number of releases in 2025. Characters in YouTube videos look like AI-generated Anime scenes.",
+  "markerNotes": "Incredibly high number of releases in 2025. Characters in YouTube videos look like AI-generated Anime scenes.",
   "comments": "Incredibly high number of releases in 2025. Characters in YouTube videos look like AI-generated Anime scenes.",
   "tags": [
     "high-output",

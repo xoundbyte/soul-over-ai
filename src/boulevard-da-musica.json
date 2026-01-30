@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-03T08:54:34.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "Music activity began in 2025, with no Wikipedia or independent artist profiles found. Their Instagram, YouTube, and Spotify profiles feature vague, AI-generated imagery, with no photos of band members. Instagram profile also posts unrelated content from other artists.",
+  "markerNotes": "Music activity began in 2025, with no Wikipedia or independent artist profiles found. Their Instagram, YouTube, and Spotify profiles feature vague, AI-generated imagery, with no photos of band members. Instagram profile also posts unrelated content from other artists.",
   "comments": "Music activity began in 2025, with no Wikipedia or independent artist profiles found. Their Instagram, YouTube, and Spotify profiles feature vague, AI-generated imagery, with no photos of band members. Instagram profile also posts unrelated content from other artists.",
   "tags": [
     "ai-visuals",

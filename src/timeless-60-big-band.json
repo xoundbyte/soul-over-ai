@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-20T17:53:50.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Brazilian/Portuguese AI-generated Christian music. Masquerades as a vintage nostalgic 60s big band. AI cover art and songs.",
+  "markerNotes": "Brazilian/Portuguese AI-generated Christian music. Masquerades as a vintage nostalgic 60s big band. AI cover art and songs.",
   "comments": "Brazilian/Portuguese AI-generated Christian music. Masquerades as a vintage nostalgic 60s big band. AI cover art and songs.",
   "tags": [
     "high-output",

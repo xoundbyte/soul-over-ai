@@ -4,14 +4,14 @@
   "dateAdded": "2025-12-29T19:23:56.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "The YouTube bio states: \"Every week, I use AI music to reimagine legendary hits in new styles.\"",
+  "markerNotes": "The YouTube bio states: \"Every week, I use AI music to reimagine legendary hits in new styles.\"",
   "comments": "The YouTube bio states: \"Every week, I use AI music to reimagine legendary hits in new styles.\"",
   "tags": [
     "ai-visuals",

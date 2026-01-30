@@ -4,13 +4,13 @@
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-15T20:01:14.758Z",
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"for every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"for every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"for every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music.\"",
   "tags": [
     "ai-visuals",
