@@ -84,14 +84,25 @@ if (Object.keys(changedData).length > 1) {
   const link = `[Make changes](https://souloverai.com/artist/${data.id}/update?${params ? params : ''})`
   const issueBody = `\`\`\`json\n${JSON.stringify(changedData, null, 2)}\n\`\`\`\n\n${link}`;
 
-  // If an issue with the same artist ID exists, add a comment instead of creating a new issue
   (async () => {
-    const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "${data.name} (${data.spotify})"`;
+    const searchQuery = `repo:${owner}/${repo} is:issue in:title "${data.name} (${data.spotify})"`;
     const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
 
-    // Add comment
+    // Add comment to existing issue
     if (searchResults.data.items.length > 0) {
       const existingIssue = searchResults.data.items[0];
+
+      // Re-open closed issues and clear labels
+      if (existingIssue.state === 'closed') {
+        await octokit.issues.update({
+          owner,
+          repo,
+          issue_number: existingIssue.number,
+          state: 'open',
+          labels: ['update-artist'],
+        });
+      }
+
       await octokit.issues.createComment({
         owner,
         repo,

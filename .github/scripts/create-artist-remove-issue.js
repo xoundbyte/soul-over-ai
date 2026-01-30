@@ -21,11 +21,39 @@ const issueData = {
 const issueBody = `\`\`\`json\n${JSON.stringify(issueData, null, 2)}\n\`\`\``;
 
 (async () => {
-  await octokit.issues.create({
-    owner,
-    repo,
-    title: `Remove Artist: ${existingArtist.name}`,
-    body: issueBody,
-    labels: ['remove-artist'],
-  });
+  const searchQuery = `repo:${owner}/${repo} is:issue in:title "${existingArtist.name} (${existingArtist.spotify})"`;
+  const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
+
+  // If there is an existing issue
+  if (searchResults.data.items.length > 0) {
+    const existingIssue = searchResults.data.items[0];
+
+    // Re-open closed issues and set label to remove-artist
+    if (existingIssue.state === 'closed') {
+      await octokit.issues.update({
+        owner,
+        repo,
+        issue_number: existingIssue.number,
+        state: 'open',
+        labels: ['remove-artist'],
+      });
+    }
+
+    await octokit.issues.createComment({
+      owner,
+      repo,
+      issue_number: existingIssue.number,
+      body: issueBody,
+    });
+  }
+  // Create new issue
+  else {
+    await octokit.issues.create({
+      owner,
+      repo,
+      title: `${existingArtist.name} (${data.spotify})`,
+      body: issueBody,
+      labels: ['remove-artist'],
+    });
+  }
 })();
