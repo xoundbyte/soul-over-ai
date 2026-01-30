@@ -50,7 +50,7 @@ const params = Object.keys(orderedData)
   .filter(Boolean)
   .join('&');
 
-const link = `[Review submission](https://souloverai.com/add?${params})`;
+const link = `[Make changes](https://souloverai.com/add?${params})`;
 const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n\n${link}`;
 
 // If an issue with the same artist name exists, add a comment instead of creating a new issue
