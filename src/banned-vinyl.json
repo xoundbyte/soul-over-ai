@@ -4,14 +4,14 @@
   "dateAdded": "2025-12-19T11:18:51.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "AI-generated artwork and videos. Extremely crude lyrics.",
+  "markerNotes": "AI-generated artwork and videos. Extremely crude lyrics.",
   "comments": "AI-generated artwork and videos. Extremely crude lyrics.",
   "tags": [
     "anonymous",

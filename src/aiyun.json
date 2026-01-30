@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-25T23:26:41.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "The YouTube bio acknowledges the use of AI-generated content, and the name itself is suggestive of an AI-based project.",
+  "markerNotes": "The YouTube bio acknowledges the use of AI-generated content, and the name itself is suggestive of an AI-based project.",
   "comments": "The YouTube bio acknowledges the use of AI-generated content, and the name itself is suggestive of an AI-based project.",
   "tags": [
     "ai-visuals",

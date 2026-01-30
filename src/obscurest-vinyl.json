@@ -4,15 +4,15 @@
   "dateAdded": "2025-12-31T17:37:27.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "Very crude song themes.",
+  "markerNotes": "Very crude song themes.",
   "comments": "Very crude song themes.",
   "tags": [
     "ai-visuals",

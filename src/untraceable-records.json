@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-31T17:40:32.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "Crude song themes and songs found on many AI-related Spotify playlists.",
+  "markerNotes": "Crude song themes and songs found on many AI-related Spotify playlists.",
   "comments": "Crude song themes and songs found on many AI-related Spotify playlists.",
   "tags": [
     "ai-visuals",

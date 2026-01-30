@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-16T12:15:03.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "AI-generated cover art; notable absence of a genuine online presence, website, or social media. Tracks also contain audio artifacts pointing to tools like Suno being used.",
+  "markerNotes": "AI-generated cover art; notable absence of a genuine online presence, website, or social media. Tracks also contain audio artifacts pointing to tools like Suno being used.",
   "comments": "AI-generated cover art; notable absence of a genuine online presence, website, or social media. Tracks also contain audio artifacts pointing to tools like Suno being used.",
   "tags": [
     "anonymous",

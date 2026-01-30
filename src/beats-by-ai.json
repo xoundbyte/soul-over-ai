@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-24T17:52:50.433Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The username acknowledges the use of AI-generated content.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The username acknowledges the use of AI-generated content.",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The username acknowledges the use of AI-generated content.",
   "tags": [
     "ai-visuals",

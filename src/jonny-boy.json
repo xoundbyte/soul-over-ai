@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-03T12:11:24.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "inconsistent-style"
   ],
-  "indicatorsText": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
+  "markerNotes": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
   "comments": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
   "tags": [
     "human-lyrics",

@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-03T11:12:59.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": "Openly acknowledges usage of AI-generated content.",
+  "markerNotes": "Openly acknowledges usage of AI-generated content.",
   "comments": "Openly acknowledges usage of AI-generated content.",
   "tags": [
     "ai-visuals",

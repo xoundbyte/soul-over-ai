@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-12T11:27:32.620Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The artist's YouTube bio states that they combine \"human creativity with modern tools like AI to explore new sounds\".",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The artist's YouTube bio states that they combine \"human creativity with modern tools like AI to explore new sounds\".",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The artist's YouTube bio states that they combine \"human creativity with modern tools like AI to explore new sounds\".",
   "tags": [
     "ai-visuals",

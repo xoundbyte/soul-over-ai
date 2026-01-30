@@ -4,14 +4,14 @@
   "dateAdded": "2025-12-28T12:52:21.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "No official website or social media presence. A similarly named Instagram account appears unrelated. The project is anonymous, with many releases in a short period and exclusively AI-generated visuals.",
+  "markerNotes": "No official website or social media presence. A similarly named Instagram account appears unrelated. The project is anonymous, with many releases in a short period and exclusively AI-generated visuals.",
   "comments": "No official website or social media presence. A similarly named Instagram account appears unrelated. The project is anonymous, with many releases in a short period and exclusively AI-generated visuals.",
   "tags": [
     "ai-visuals",

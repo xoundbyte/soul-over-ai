@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-19T13:05:07.657Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"Powered by AI.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"Powered by AI.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"Powered by AI.\"",
   "tags": [
     "ai-visuals",

@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-20T21:53:59.466Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "This artist is featured in AI playlists on Spotify.",
+  "markerNotes": "This artist is featured in AI playlists on Spotify.",
   "comments": "This artist is featured in AI playlists on Spotify.",
   "tags": [
     "ai-visuals",

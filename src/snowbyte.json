@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-23T14:16:41.703Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states that the project is an : \"AI entity.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states that the project is an : \"AI entity.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states that the project is an : \"AI entity.\"",
   "tags": [
     "no-social-presence",

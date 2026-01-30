@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-02T11:49:28.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "The Spotify bio describes the project as \"AI-powered,\" and the tracks appear in AI-focused music playlists.",
+  "markerNotes": "The Spotify bio describes the project as \"AI-powered,\" and the tracks appear in AI-focused music playlists.",
   "comments": "The Spotify bio describes the project as \"AI-powered,\" and the tracks appear in AI-focused music playlists.",
   "tags": [
     "ai-visuals",

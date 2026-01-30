@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-18T12:34:16.888Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Instagram bio states: \"Groupe de metal IA.\" (AI metal band)",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Instagram bio states: \"Groupe de metal IA.\" (AI metal band)",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Instagram bio states: \"Groupe de metal IA.\" (AI metal band)",
   "tags": [
     "ai-visuals",

@@ -4,12 +4,12 @@
   "dateAdded": "2025-12-20T23:40:34.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "high-output"
   ],
-  "indicatorsText": "Acknowledges the use of AI assistance. Instagram account alludes to the use of AI for parts of their music (unconfirmed if used for all parts of their music).",
+  "markerNotes": "Acknowledges the use of AI assistance. Instagram account alludes to the use of AI for parts of their music (unconfirmed if used for all parts of their music).",
   "comments": "Acknowledges the use of AI assistance. Instagram account alludes to the use of AI for parts of their music (unconfirmed if used for all parts of their music).",
   "tags": [
     "partial-ai",

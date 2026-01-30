@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-26T17:50:36.200Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "All ai visuals. Sounds AI, even the voices.",
+  "markerNotes": "All ai visuals. Sounds AI, even the voices.",
   "comments": "All ai visuals. Sounds AI, even the voices.",
   "tags": [
     "ai-visuals",

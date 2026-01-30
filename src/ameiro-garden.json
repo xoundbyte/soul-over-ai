@@ -4,12 +4,12 @@
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-20T13:27:56.718Z",
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"I use commercially licensed AI-generated elements. If you do not accept the use of AI, please refrain from viewing.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"I use commercially licensed AI-generated elements. If you do not accept the use of AI, please refrain from viewing.\"",
+  "disclosureTypes": [],
+  "markers": [
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"I use commercially licensed AI-generated elements. If you do not accept the use of AI, please refrain from viewing.\"",
   "tags": [
     "self-disclosed-ai",

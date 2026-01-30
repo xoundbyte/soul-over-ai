@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-19T13:20:20.381Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "Their song 'Jag vet, du är inte min' was banned from the Swedish music charts for being an AI creation.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "Their song 'Jag vet, du är inte min' was banned from the Swedish music charts for being an AI creation.",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "Their song 'Jag vet, du är inte min' was banned from the Swedish music charts for being an AI creation.",
   "tags": [
     "ai-visuals",

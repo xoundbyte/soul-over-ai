@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-15T20:28:30.401Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states the channel features \"original AI-assisted tracks + lyrics videos.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states the channel features \"original AI-assisted tracks + lyrics videos.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states the channel features \"original AI-assisted tracks + lyrics videos.\"",
   "tags": [
     "ai-visuals",

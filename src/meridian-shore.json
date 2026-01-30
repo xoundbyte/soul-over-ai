@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-25T21:02:11.689Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"An emotional post-hardcore project combining real, vulnerable lyrics with AI-assisted instrumentation and vocals.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"An emotional post-hardcore project combining real, vulnerable lyrics with AI-assisted instrumentation and vocals.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"An emotional post-hardcore project combining real, vulnerable lyrics with AI-assisted instrumentation and vocals.\"",
   "tags": [
     "ai-visuals",

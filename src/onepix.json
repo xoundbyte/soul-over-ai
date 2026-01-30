@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-07T22:24:51.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": null,
   "tags": [
     "anonymous",

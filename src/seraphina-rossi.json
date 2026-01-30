@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-07T10:32:13.809Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": "SubmitHub flags the songs as showing strong AI-generated characteristics.",
+  "markerNotes": "SubmitHub flags the songs as showing strong AI-generated characteristics.",
   "comments": "SubmitHub flags the songs as showing strong AI-generated characteristics.",
   "tags": [
     "minimal-bio",

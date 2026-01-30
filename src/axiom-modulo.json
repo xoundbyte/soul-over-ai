@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-03T17:13:19.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "Very frequent uploads, inconsistent stylistic direction, and changing vocalists across tracks.",
+  "markerNotes": "Very frequent uploads, inconsistent stylistic direction, and changing vocalists across tracks.",
   "comments": "Very frequent uploads, inconsistent stylistic direction, and changing vocalists across tracks.",
   "tags": [
     "high-output",

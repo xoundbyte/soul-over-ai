@@ -4,12 +4,12 @@
   "dateAdded": "2025-12-15T11:32:20.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": null,
   "tags": [
     "high-output"

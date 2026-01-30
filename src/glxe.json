@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-23T10:51:26.598Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The TikTok bio states: \"AI KPop Group.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The TikTok bio states: \"AI KPop Group.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The TikTok bio states: \"AI KPop Group.\"",
   "tags": [
     "ai-visuals",

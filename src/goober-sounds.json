@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-29T21:49:26.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "The YouTube bio acknowledges the use of AI \"assistance\" in the creative process.",
+  "markerNotes": "The YouTube bio acknowledges the use of AI \"assistance\" in the creative process.",
   "comments": "The YouTube bio acknowledges the use of AI \"assistance\" in the creative process.",
   "tags": [
     "ai-visuals",

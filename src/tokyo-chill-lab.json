@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-04T09:03:31.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "The YouTube bio states that all tracks and visuals are \"original creations produced using AI\". Albums are released roughly every two weeks, with no identifiable information about the artist beyond Spotify and YouTube.",
+  "markerNotes": "The YouTube bio states that all tracks and visuals are \"original creations produced using AI\". Albums are released roughly every two weeks, with no identifiable information about the artist beyond Spotify and YouTube.",
   "comments": "The YouTube bio states that all tracks and visuals are \"original creations produced using AI\". Albums are released roughly every two weeks, with no identifiable information about the artist beyond Spotify and YouTube.",
   "tags": [
     "high-output",

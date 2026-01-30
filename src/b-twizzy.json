@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-18T12:38:05.804Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The artist has acknowledged the use of AI via their Twitch and Discord channels. Also states that their lyrics are human written.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The artist has acknowledged the use of AI via their Twitch and Discord channels. Also states that their lyrics are human written.",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The artist has acknowledged the use of AI via their Twitch and Discord channels. Also states that their lyrics are human written.",
   "tags": [
     "self-disclosed-ai",

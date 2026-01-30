@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-25T15:27:50.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "Audio quality is inconsistent across tracks, with vocal artifacts typical of AI-generated content.",
+  "markerNotes": "Audio quality is inconsistent across tracks, with vocal artifacts typical of AI-generated content.",
   "comments": "Audio quality is inconsistent across tracks, with vocal artifacts typical of AI-generated content.",
   "tags": [
     "anonymous",

@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-03T12:47:43.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Multiple tracks feature different vocal timbres, each showing varying degrees of AI-related artifacts. Approximately 40 tracks were released within eight months, including a collaboration with an artist widely identified as AI-generated on Spotify.",
+  "markerNotes": "Multiple tracks feature different vocal timbres, each showing varying degrees of AI-related artifacts. Approximately 40 tracks were released within eight months, including a collaboration with an artist widely identified as AI-generated on Spotify.",
   "comments": "Multiple tracks feature different vocal timbres, each showing varying degrees of AI-related artifacts. Approximately 40 tracks were released within eight months, including a collaboration with an artist widely identified as AI-generated on Spotify.",
   "tags": [
     "audio-artifacts",

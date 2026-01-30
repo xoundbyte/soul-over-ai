@@ -4,14 +4,14 @@
   "dateAdded": "2025-12-22T15:43:04.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "AI record label with multiple sub-labels that post Brazilian/Portuguese Christian music in various genres. Has videos with up to 860k+ views  and 400k+ monthly users on Spotify at time of writing.",
+  "markerNotes": "AI record label with multiple sub-labels that post Brazilian/Portuguese Christian music in various genres. Has videos with up to 860k+ views  and 400k+ monthly users on Spotify at time of writing.",
   "comments": "AI record label with multiple sub-labels that post Brazilian/Portuguese Christian music in various genres. Has videos with up to 860k+ views  and 400k+ monthly users on Spotify at time of writing.",
   "tags": [
     "ai-visuals",

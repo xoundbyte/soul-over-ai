@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-04T09:23:58.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "Heavy use of AI-generated artwork, a highly suspicious artist description, and the channel is explicitly labelled by YouTube as \"altered or synthetic content.\"",
+  "markerNotes": "Heavy use of AI-generated artwork, a highly suspicious artist description, and the channel is explicitly labelled by YouTube as \"altered or synthetic content.\"",
   "comments": "Heavy use of AI-generated artwork, a highly suspicious artist description, and the channel is explicitly labelled by YouTube as \"altered or synthetic content.\"",
   "tags": [
     "ai-visuals",

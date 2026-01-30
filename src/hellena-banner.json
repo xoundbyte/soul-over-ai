@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-15T20:30:47.785Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The artist acknowledges usage of AI on hug.art.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The artist acknowledges usage of AI on hug.art.",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The artist acknowledges usage of AI on hug.art.",
   "tags": [
     "minimal-bio",

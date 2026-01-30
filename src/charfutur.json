@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-02T13:56:05.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Three albums released on Spotify in 2025 with no prior releases. No information found through Google searches or Discogs references.",
+  "markerNotes": "Three albums released on Spotify in 2025 with no prior releases. No information found through Google searches or Discogs references.",
   "comments": "Three albums released on Spotify in 2025 with no prior releases. No information found through Google searches or Discogs references.",
   "tags": [
     "anonymous",

@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-23T10:35:30.532Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The Spotify bio states: \"Einarsson is an AI-based artist who writes lyrics and creates music using artificial intelligence.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The Spotify bio states: \"Einarsson is an AI-based artist who writes lyrics and creates music using artificial intelligence.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The Spotify bio states: \"Einarsson is an AI-based artist who writes lyrics and creates music using artificial intelligence.\"",
   "tags": [
     "self-disclosed-ai",

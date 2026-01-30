@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-19T10:30:03.359Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "The person behind this project also has another AI project called 'UNFINISH'.",
+  "markerNotes": "The person behind this project also has another AI project called 'UNFINISH'.",
   "comments": "The person behind this project also has another AI project called 'UNFINISH'.",
   "tags": [
     "ai-visuals",

@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-28T12:40:39.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "The Spotify page acknowledges the use of AI, with the artist confirming that the vocals are AI-generated.",
+  "markerNotes": "The Spotify page acknowledges the use of AI, with the artist confirming that the vocals are AI-generated.",
   "comments": "The Spotify page acknowledges the use of AI, with the artist confirming that the vocals are AI-generated.",
   "tags": [
     "ai-visuals",

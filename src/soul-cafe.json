@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-27T15:37:29.847Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "Multiple videos on their YouTube channel have a description that states: \"All Songs & Image Created by Soul Cafe with AI.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "Multiple videos on their YouTube channel have a description that states: \"All Songs & Image Created by Soul Cafe with AI.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "Multiple videos on their YouTube channel have a description that states: \"All Songs & Image Created by Soul Cafe with AI.\"",
   "tags": [
     "ai-visuals",

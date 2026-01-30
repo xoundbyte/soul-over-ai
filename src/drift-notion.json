@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-28T16:43:29.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "Some vocal artifacts are present, the bio appears AI-written, and the images look AI-generated.",
+  "markerNotes": "Some vocal artifacts are present, the bio appears AI-written, and the images look AI-generated.",
   "comments": "Some vocal artifacts are present, the bio appears AI-written, and the images look AI-generated.",
   "tags": [
     "ai-visuals",

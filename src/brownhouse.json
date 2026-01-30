@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-05T20:25:21.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "Over 15 albums released within a single year, each with roughly 10-12 tracks. The YouTube channel openly acknowledges AI involvement, and most songs are capped around 2:30 in length, consistent with common AI generation limits (with few exceptions).",
+  "markerNotes": "Over 15 albums released within a single year, each with roughly 10-12 tracks. The YouTube channel openly acknowledges AI involvement, and most songs are capped around 2:30 in length, consistent with common AI generation limits (with few exceptions).",
   "comments": "Over 15 albums released within a single year, each with roughly 10-12 tracks. The YouTube channel openly acknowledges AI involvement, and most songs are capped around 2:30 in length, consistent with common AI generation limits (with few exceptions).",
   "tags": [
     "ai-visuals",

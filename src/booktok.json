@@ -4,15 +4,15 @@
   "dateAdded": "2026-01-03T17:26:05.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "High volume of song releases aligned with the trending \"spicy BookTok\" theme on TikTok.",
+  "markerNotes": "High volume of song releases aligned with the trending \"spicy BookTok\" theme on TikTok.",
   "comments": "High volume of song releases aligned with the trending \"spicy BookTok\" theme on TikTok.",
   "tags": [
     "ai-visuals",

@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-24T23:28:44.440Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The artist's TikTok posts uses hashtags such as #aicover and #ai.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The artist's TikTok posts uses hashtags such as #aicover and #ai.",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The artist's TikTok posts uses hashtags such as #aicover and #ai.",
   "tags": [
     "ai-visuals",

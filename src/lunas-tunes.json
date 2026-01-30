@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-02T14:03:33.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "The Instagram bio describes the artist as \"AI Music Queen\". All releases date from 2025, with no information available online: no articles, record label affiliations, tours, website or Discogs listings. The music is AI-assisted symphonic metal and dark rock.",
+  "markerNotes": "The Instagram bio describes the artist as \"AI Music Queen\". All releases date from 2025, with no information available online: no articles, record label affiliations, tours, website or Discogs listings. The music is AI-assisted symphonic metal and dark rock.",
   "comments": "The Instagram bio describes the artist as \"AI Music Queen\". All releases date from 2025, with no information available online: no articles, record label affiliations, tours, website or Discogs listings. The music is AI-assisted symphonic metal and dark rock.",
   "tags": [
     "high-output",

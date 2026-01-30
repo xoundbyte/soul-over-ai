@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-08T16:09:38.828Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "Spotify profile states: \"We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "Spotify profile states: \"We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "Spotify profile states: \"We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\"",
   "tags": [
     "self-disclosed-ai",

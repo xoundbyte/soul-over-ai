@@ -4,13 +4,13 @@
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-12T10:58:54.426Z",
   "disclosure": "confirmed",
-  "disclosureText": "Their YouTube bio states: \"This in an experiment how to utilize AI in music, everything is made with AI.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "Their YouTube bio states: \"This in an experiment how to utilize AI in music, everything is made with AI.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "Their YouTube bio states: \"This in an experiment how to utilize AI in music, everything is made with AI.\"",
   "tags": [
     "self-disclosed-ai",

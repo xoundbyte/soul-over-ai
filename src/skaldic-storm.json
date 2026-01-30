@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-17T15:19:37.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "Clear AI, AI images, frequent release schedule.",
+  "markerNotes": "Clear AI, AI images, frequent release schedule.",
   "comments": "Clear AI, AI images, frequent release schedule.",
   "tags": [
     "high-output",

@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-30T18:45:19.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "Despite 1.3M monthly listeners, the project shows minimal social media presence, with a small Instagram following. Available images appear AI-generated, and Reddit users report being blocked after raising questions about AI use.",
+  "markerNotes": "Despite 1.3M monthly listeners, the project shows minimal social media presence, with a small Instagram following. Available images appear AI-generated, and Reddit users report being blocked after raising questions about AI use.",
   "comments": "Despite 1.3M monthly listeners, the project shows minimal social media presence, with a small Instagram following. Available images appear AI-generated, and Reddit users report being blocked after raising questions about AI use.",
   "tags": [
     "ai-visuals",

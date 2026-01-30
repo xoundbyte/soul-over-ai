@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-29T19:30:06.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": "An unusually high volume of song releases within 2025.",
+  "markerNotes": "An unusually high volume of song releases within 2025.",
   "comments": "An unusually high volume of song releases within 2025.",
   "tags": [
     "ai-visuals",

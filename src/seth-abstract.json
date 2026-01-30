@@ -4,12 +4,12 @@
   "dateAdded": "2026-01-16T15:22:17.465Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The artist states on their Spotify bio: \"Using Suno to make new sounds.\" They state that all visuals are created by themselves.",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The artist states on their Spotify bio: \"Using Suno to make new sounds.\" They state that all visuals are created by themselves.",
+  "disclosureTypes": [],
+  "markers": [
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The artist states on their Spotify bio: \"Using Suno to make new sounds.\" They state that all visuals are created by themselves.",
   "tags": [
     "self-disclosed-ai",

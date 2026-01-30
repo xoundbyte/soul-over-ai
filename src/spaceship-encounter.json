@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-02T15:15:25.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "Their online profiles feature solely AI-generated images. Multiple singles and EPs were released in rapid succession throughout 2025.",
+  "markerNotes": "Their online profiles feature solely AI-generated images. Multiple singles and EPs were released in rapid succession throughout 2025.",
   "comments": "Their online profiles feature solely AI-generated images. Multiple singles and EPs were released in rapid succession throughout 2025.",
   "tags": [
     "ai-visuals",

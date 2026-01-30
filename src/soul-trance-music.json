@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-21T17:12:02.417Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"On this channel, you'll discover a unique collection of uplifting, progressive, vocal, and classic trance tracks, all created by state-of-the-art AI music generators.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"On this channel, you'll discover a unique collection of uplifting, progressive, vocal, and classic trance tracks, all created by state-of-the-art AI music generators.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"On this channel, you'll discover a unique collection of uplifting, progressive, vocal, and classic trance tracks, all created by state-of-the-art AI music generators.\"",
   "tags": [
     "high-output",

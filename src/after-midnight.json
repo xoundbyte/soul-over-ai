@@ -4,14 +4,14 @@
   "dateAdded": "2026-01-16T13:47:26.091Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous",
     "high-output"
   ],
-  "indicatorsText": "This artist has an alias \"After Midnight Deep\" which publishes similar songs.",
+  "markerNotes": "This artist has an alias \"After Midnight Deep\" which publishes similar songs.",
   "comments": "This artist has an alias \"After Midnight Deep\" which publishes similar songs.",
   "tags": [
     "ai-visuals",

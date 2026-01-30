@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-29T19:49:41.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "The vocal timbre and musical style are consistent with commonly observed AI-generated music patterns.",
+  "markerNotes": "The vocal timbre and musical style are consistent with commonly observed AI-generated music patterns.",
   "comments": "The vocal timbre and musical style are consistent with commonly observed AI-generated music patterns.",
   "tags": [
     "ai-visuals",

@@ -4,13 +4,13 @@
   "dateAdded": "2025-12-10T17:16:34.000Z",
   "dateUpdated": "2026-01-14T09:44:52.640Z",
   "disclosure": "confirmed",
-  "disclosureText": "Spotify bio states: \"The Skeletons Library is a modern metal project built on real human emotion and brought to life through the power of AI.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "Spotify bio states: \"The Skeletons Library is a modern metal project built on real human emotion and brought to life through the power of AI.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "Spotify bio states: \"The Skeletons Library is a modern metal project built on real human emotion and brought to life through the power of AI.\"",
   "tags": [
     "self-disclosed-ai",

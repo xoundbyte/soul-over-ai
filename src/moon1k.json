@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-03T09:57:08.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": "The artist acknowledges using Suno to create songs in YouTube comments on several videos.",
+  "markerNotes": "The artist acknowledges using Suno to create songs in YouTube comments on several videos.",
   "comments": "The artist acknowledges using Suno to create songs in YouTube comments on several videos.",
   "tags": [
     "minimal-bio",

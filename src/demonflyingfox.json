@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-18T21:31:23.943Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"Hi, I'm demonflyingfox and I want to show what's possible with AI.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"Hi, I'm demonflyingfox and I want to show what's possible with AI.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"Hi, I'm demonflyingfox and I want to show what's possible with AI.\"",
   "tags": [
     "ai-visuals",

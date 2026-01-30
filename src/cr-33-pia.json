@@ -4,14 +4,14 @@
   "dateAdded": "2025-12-22T16:58:01.000Z",
   "dateUpdated": null,
   "disclosure": "none",
-  "disclosureText": null,
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": null,
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output",
     "inconsistent-style"
   ],
-  "indicatorsText": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts. Additionally, their TikTok profile states that they \"create dark sound with AI.\"",
+  "markerNotes": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts. Additionally, their TikTok profile states that they \"create dark sound with AI.\"",
   "comments": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts. Additionally, their TikTok profile states that they \"create dark sound with AI.\"",
   "tags": [
     "high-output",

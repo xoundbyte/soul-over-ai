@@ -4,13 +4,13 @@
   "dateAdded": "2026-01-26T14:39:33.557Z",
   "dateUpdated": null,
   "disclosure": "confirmed",
-  "disclosureText": "The YouTube bio states: \"Every composition originates through advanced AI generation.\"",
-  "aiUsage": [],
-  "indicators": [
+  "disclosureNotes": "The YouTube bio states: \"Every composition originates through advanced AI generation.\"",
+  "disclosureTypes": [],
+  "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "indicatorsText": null,
+  "markerNotes": null,
   "comments": "The YouTube bio states: \"Every composition originates through advanced AI generation.\"",
   "tags": [
     "ai-visuals",
