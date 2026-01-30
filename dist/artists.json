@@ -780,6 +780,34 @@
     "instagram": null
   },
   {
+    "id": "ai-music-matrix",
+    "name": "AI MUSIC MATRIX",
+    "dateAdded": "2026-01-30T20:29:47.830Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify and YouTube profiles state: \"AI MUSIC MATRIX is a project that combines the latest AI technology with music production\" and  \"Utilizing the generative AIs: suno ai, Claude, and ChatGPT.\" (translated into English)",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "2024-onwards"
+    ],
+    "markerNotes": "The artist has released over 160 albums since mid-2024.",
+    "comments": null,
+    "tags": [],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2q8l7EDyOchwz4biw4uIiW",
+    "apple": "1759727596",
+    "amazon": "B0D9LC2RXK",
+    "youtube": "@ai.music.matrix",
+    "tiktok": "@ai.music.matrix",
+    "instagram": "ai.music.matrix"
+  },
+  {
     "id": "ai-ncm-zone",
     "name": "AI NCM Zone",
     "dateAdded": "2026-01-07T13:32:20.718Z",
@@ -3194,11 +3222,14 @@
     "id": "bards-of-ethernia",
     "name": "Bards of Ethernia",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
+    "dateUpdated": "2026-01-30T20:09:04.041Z",
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"All songs and visuals are created with the help of AI, blending imagination and technology into one story.\"",
     "disclosureTypes": [],
-    "markers": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
     "markerNotes": null,
     "comments": null,
     "tags": [],
@@ -27394,15 +27425,16 @@
     "id": "take-your-time",
     "name": "take your time",
     "dateAdded": "2026-01-09T13:59:12.483Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-30T20:12:09.836Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
       "anonymous",
-      "high-output"
+      "high-output",
+      "ai-visuals"
     ],
-    "markerNotes": "Has released almost 40 albums in 2025 alone.",
+    "markerNotes": "The artist has released almost 40 albums in 2025 alone.",
     "comments": "Has released almost 40 albums in 2025 alone.",
     "tags": [
       "minimal-bio",
@@ -30673,11 +30705,19 @@
     "id": "virelia",
     "name": "Virelia",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
-    "markers": [],
+    "dateUpdated": "2026-01-30T20:17:11.342Z",
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"Lyrics are my own - music is powered by Suno AI and the artwork is created with a combo of AI, digital painting and Photoshop.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
     "markerNotes": null,
     "comments": null,
     "tags": [],
@@ -30688,7 +30728,7 @@
     "spotify": "4Rkn7txj59CVY5DRnIfmUM",
     "apple": "1838323607",
     "amazon": null,
-    "youtube": null,
+    "youtube": "@VireliaMusic",
     "tiktok": null,
     "instagram": "vireliamusic"
   },
