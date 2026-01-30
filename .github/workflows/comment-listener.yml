@@ -12,3 +12,7 @@ jobs:
   update_artist:
     if: github.event.comment.body == '/update' && github.event.comment.author_association == 'OWNER'
     uses: ./.github/workflows/create-artist-update-pr.yml
+
+  remove_artist:
+    if: github.event.comment.body == '/remove' && github.event.comment.author_association == 'OWNER'
+    uses: ./.github/workflows/create-artist-remove-pr.yml
