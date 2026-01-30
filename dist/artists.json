@@ -8758,6 +8758,32 @@
     "instagram": null
   },
   {
+    "id": "embers-of-the-empty",
+    "name": "Embers Of The Empty",
+    "dateAdded": "2026-01-30T20:42:24.581Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"Created with AI Assistance.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "comments": null,
+    "tags": [],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1EE6CRJaSEPEQrghG3hqz9",
+    "apple": "1859141652",
+    "amazon": "B0G5GJJZNW",
+    "youtube": "@EmbersOfTheEmpty",
+    "tiktok": null,
+    "instagram": "embersoftheempty"
+  },
+  {
     "id": "emo-appalachia",
     "name": "Emo Appalachia",
     "dateAdded": "2025-12-10T17:28:11.000Z",
@@ -11385,6 +11411,31 @@
     "youtube": "@GreyWolve",
     "tiktok": "@greywolvetx",
     "instagram": "greywolveband"
+  },
+  {
+    "id": "grgr-playlist",
+    "name": "grgr_playlist",
+    "dateAdded": "2026-01-30T20:49:08.176Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"Creating laid-back groove & hip hop playlists with AI-made tracks.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "comments": null,
+    "tags": [],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4MTxbWBI7q4w2NhKvEm8nv",
+    "apple": "1857194346",
+    "amazon": "B0G4HBSH44",
+    "youtube": "@grgr_playlist",
+    "tiktok": "@grgr_playlist",
+    "instagram": "grgr_playlist"
   },
   {
     "id": "grid-theory",
@@ -16854,6 +16905,31 @@
     "youtube": "UCQCGhQEx_KUEsmkPjIM2NZA",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "m-h-m",
+    "name": "M-H-M",
+    "dateAdded": "2026-01-30T20:36:33.435Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"AI-supported electronic music & experimental sounds.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "comments": null,
+    "tags": [],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7gQB07XguuzGImL1CTzb5p",
+    "apple": "1847740136",
+    "amazon": "B0FX8BGY5Z",
+    "youtube": "@M-H-M_Music",
+    "tiktok": null,
+    "instagram": "m_h_m_music"
   },
   {
     "id": "machina-aeon",
@@ -30550,6 +30626,36 @@
     "youtube": "UCesBBfOuoaf7Oa7JpPefR8w",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "vibecrafttwo",
+    "name": "VibecraftTwo",
+    "dateAdded": "2026-01-30T20:49:16.741Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The Spotify bio states: \"Created with AI, remixed, mastered, and fine-tuned piece by piece to perfection by VibecraftTwo, you're in for a sonic adventure.\"",
+    "disclosureTypes": [
+      "vocals",
+      "lyrics",
+      "instrumentation"
+    ],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "comments": null,
+    "tags": [],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4KHqA3gqU4VTR0N6x7VDXu",
+    "apple": "1781541599",
+    "amazon": "B0DNY2FS7T",
+    "youtube": "@VibecraftTwo",
+    "tiktok": "@vibecrafttwo",
+    "instagram": "vibecrafttwo"
   },
   {
     "id": "vibes-and-tones",
