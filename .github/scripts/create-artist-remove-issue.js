@@ -51,7 +51,7 @@ const issueBody = `\`\`\`json\n${JSON.stringify(issueData, null, 2)}\n\`\`\``;
     await octokit.issues.create({
       owner,
       repo,
-      title: `${existingArtist.name} (${data.spotify})`,
+      title: `${existingArtist.name} (${existingArtist.spotify})`,
       body: issueBody,
       labels: ['remove-artist'],
     });
