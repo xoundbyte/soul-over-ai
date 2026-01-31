@@ -63,12 +63,26 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
 
 // If an issue with the same artist name exists, add a comment instead of creating a new issue
 (async () => {
-  const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "${data.name} (${data.spotify})"`;
+  const searchQuery = `repo:${owner}/${repo} is:issue in:title "${data.name} (${data.spotify})"`;
   const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
+  const label = data.disclosure === 'none' ? 'add-artist:low' : 'add-artist:high';
 
-  // Add comment
+  // Add comment to existing issue
   if (searchResults.data.items.length > 0) {
     const existingIssue = searchResults.data.items[0];
+
+    // Re-open closed issues and reset labels
+    if (existingIssue.state === 'closed') {
+      await octokit.issues.update({
+        owner,
+        repo,
+        issue_number: existingIssue.number,
+        state: 'open',
+        labels: [label],
+      });
+    }
+
+    // Add comment
     await octokit.issues.createComment({
       owner,
       repo,
@@ -76,7 +90,6 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
       body: issueBody,
     });
   }
-
   // Add new issue
   else {
     // Determine label based on Spotify followers/popularity
@@ -100,7 +113,6 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
     //     console.warn('Failed to fetch Spotify data, defaulting to low priority:', err.message);
     //   }
     // }
-    const label = data.disclosure == 'none' ? 'add-artist:low' : 'add-artist:high';
 
     await octokit.issues.create({
       owner,
