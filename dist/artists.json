@@ -571,6 +571,31 @@
     "instagram": "aftersapiens"
   },
   {
+    "id": "aghapy",
+    "name": "Aghapy",
+    "dateAdded": "2026-01-31T21:51:50.009Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"At Aghapy, we bring the Bible to life through breathtaking cinematic visuals, AI-enhanced storytelling, and deep spiritual insights.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0m3Qvo8WfzeOVC1mQPpXcV",
+    "apple": "1829005041",
+    "amazon": null,
+    "youtube": "UCtKhSbUtqu3bPJcYZ5oZpiA",
+    "tiktok": null,
+    "instagram": "_aghapy"
+  },
+  {
     "id": "ai-emo-kids",
     "name": "AI Emo Kids",
     "dateAdded": "2026-01-26T22:53:24.930Z",
@@ -1311,11 +1336,16 @@
     "id": "angelofanarchy",
     "name": "AngelofAnarchy",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
-    "markers": [],
+    "dateUpdated": "2026-01-31T21:06:07.958Z",
+    "disclosure": "partial",
+    "disclosureNotes": "The Spotify bio states: \"I take my human lyrics, self-composed melodies, and sometimes my “still-a-work-in-progress” voice, and use AI music tools to shape them into full-production songs.\"",
+    "disclosureTypes": [
+      "mastering",
+      "mixing"
+    ],
+    "markers": [
+      "2024-onwards"
+    ],
     "markerNotes": null,
     "genres": [],
     "popularity": null,
@@ -2286,11 +2316,14 @@
     "id": "aventhis",
     "name": "Aventhis",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
+    "dateUpdated": "2026-01-31T21:02:15.536Z",
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"Harnessing the creative power of AI as part of his artistic process.\"",
     "disclosureTypes": [],
-    "markers": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals"
+    ],
     "markerNotes": null,
     "genres": [],
     "popularity": null,
@@ -2298,8 +2331,8 @@
     "shScore": null,
     "spotify": "0a97V3mDhGyNg93Dcf9Ahj",
     "apple": "1800594409",
-    "amazon": null,
-    "youtube": null,
+    "amazon": "B0DZMGNXJT",
+    "youtube": "UC-t79t7t3paBwPx0mYx5V1w",
     "tiktok": null,
     "instagram": null
   },
@@ -3099,12 +3132,13 @@
     "id": "bleeding-verse",
     "name": "Bleeding Verse",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": "2026-01-16T10:19:44.819Z",
+    "dateUpdated": "2026-01-31T21:01:06.865Z",
     "disclosure": "confirmed",
     "disclosureNotes": "The Spotify bio states: \"Human lyrics, turned to songs with AI.\"",
     "disclosureTypes": [],
     "markers": [
-      "ai-visuals"
+      "ai-visuals",
+      "2024-onwards"
     ],
     "markerNotes": null,
     "genres": [],
@@ -3113,10 +3147,10 @@
     "shScore": null,
     "spotify": "6CrsGj3Zj4gIM3rQSU7DeW",
     "apple": "1829140059",
-    "amazon": null,
-    "youtube": null,
+    "amazon": "B0FK32BH68",
+    "youtube": "UCljtMjyy35oKk3GUnbcy3CA",
     "tiktok": null,
-    "instagram": null
+    "instagram": "bleeding_verse_band"
   },
   {
     "id": "blood-and-oak",
@@ -5386,11 +5420,15 @@
     "id": "deadluve",
     "name": "DEADLUVE",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": "2026-01-24T17:50:28.016Z",
+    "dateUpdated": "2026-01-31T21:04:43.592Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
-    "markers": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
     "markerNotes": null,
     "genres": [],
     "popularity": null,
@@ -5398,7 +5436,7 @@
     "shScore": null,
     "spotify": "3CwHxE8HXuezwO8DobgbiM",
     "apple": "1838822179",
-    "amazon": null,
+    "amazon": "B0FQHR7KT8",
     "youtube": "UCOFDJM_SFgN1AT9a7v7ftog",
     "tiktok": null,
     "instagram": null
@@ -5520,6 +5558,31 @@
     "youtube": "UCsADRXEuMIGdw8rodYNwsFg",
     "tiktok": "@decayed.souls",
     "instagram": "decayed.souls"
+  },
+  {
+    "id": "delaylah",
+    "name": "Delaylah",
+    "dateAdded": "2026-01-31T21:26:18.762Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1vQSlfG4o7tT6kJPA61W6f",
+    "apple": "1850548137",
+    "amazon": "B0FZFB8LVM",
+    "youtube": "UCA7vsCqk7oyMQldZLi7YRKQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "demonflyingfox",
@@ -8591,11 +8654,14 @@
     "id": "ghost-signal",
     "name": "Ghost//Signal",
     "dateAdded": "2025-12-13T22:15:02.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-31T21:06:41.522Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
-    "markers": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals"
+    ],
     "markerNotes": null,
     "genres": [],
     "popularity": null,
@@ -8603,8 +8669,8 @@
     "shScore": null,
     "spotify": "1MSx7eCIGLByF6My5VMgrH",
     "apple": "1820841282",
-    "amazon": null,
-    "youtube": null,
+    "amazon": "B0FD9JLZ4Z",
+    "youtube": "UC4D_GXejDXWtkH8gqRL3H1w",
     "tiktok": null,
     "instagram": null
   },
@@ -10639,6 +10705,32 @@
     "amazon": "B0D54TTQ85",
     "youtube": "UCKI9W7Eu2PiRE3ikpTi2y9g",
     "tiktok": "@inhuman666music",
+    "instagram": null
+  },
+  {
+    "id": "inkflow",
+    "name": "Inkflow",
+    "dateAdded": "2026-01-31T21:31:39.403Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "inconsistent-style",
+      "anonymous"
+    ],
+    "markerNotes": "The Spotify bio alludes to AI usage by stating: \"Music transcends the means of its creation. It's not about technique, but the emotion it stirs in you and those who listen. If it moves your spirit, it is authentic.\" The Instagram profile linked on Spotify points to WMLS Music, which features other AI artists.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4YdG0BPYRJstDLvB9yW2nz",
+    "apple": "1824573032",
+    "amazon": "B0C7DTBR8Q",
+    "youtube": "UCJOZ1seQFPr2EkWqWT7aiHw",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -16165,6 +16257,30 @@
     "instagram": null
   },
   {
+    "id": "nomarkmore",
+    "name": "NOMARKMORE",
+    "dateAdded": "2026-01-31T21:15:38.473Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The artist acknowledges the use of AI on Reddit: \"Yeah, I sing the vocals myself, but I use AI to filter and tweak them to get the sound I want\" and \"It’s a hybrid workflow. I use modern tools to push the sound boundaries, but the core vision and direction are mine.\"\nhttps://www.reddit.com/r/PromoteYourMusic/comments/1pzpu8w/",
+    "disclosureTypes": [
+      "mastering",
+      "mixing"
+    ],
+    "markers": [],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2MWLcIknPfRiaIktptiPil",
+    "apple": "1847981909",
+    "amazon": "B0FXCY11ZY",
+    "youtube": "UC4J2uA-W7dPzZM4fm9qgK-w",
+    "tiktok": "@nomarkmoremusic",
+    "instagram": "nomarkmore"
+  },
+  {
     "id": "nona-cyrelle",
     "name": "Nona Cyrelle",
     "dateAdded": "2026-01-13T11:26:09.821Z",
@@ -19001,20 +19117,23 @@
     "id": "ruby-darkrose",
     "name": "Ruby Darkrose",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-31T21:04:22.086Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
-    "markers": [],
-    "markerNotes": null,
+    "markers": [
+      "2024-onwards",
+      "high-output"
+    ],
+    "markerNotes": "The YouTube bio strongly hints at AI usage without explicitly saying it: \"With the help of tools, I found a way to create music.\"",
     "genres": [],
     "popularity": null,
     "followers": null,
     "shScore": null,
     "spotify": "7o8g4at6tDpzRdmzFCnHUX",
     "apple": "1824662915",
-    "amazon": null,
-    "youtube": null,
+    "amazon": "B0F7LNKYCX",
+    "youtube": "UC6zIywLc1JcPN6dzdYUiVnA",
     "tiktok": null,
     "instagram": null
   },
@@ -19844,11 +19963,14 @@
     "id": "serinx",
     "name": "Serinx",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-31T21:04:58.954Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
-    "markers": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous"
+    ],
     "markerNotes": null,
     "genres": [],
     "popularity": null,
@@ -22110,6 +22232,31 @@
     "instagram": "taleswith_lora"
   },
   {
+    "id": "tanjuschka",
+    "name": "Tanjuschka",
+    "dateAdded": "2026-01-31T21:23:34.486Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": "The artist has displayed an extremely high output of 20 songs in 6 days.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5Nn6a0c1Ku41vuE2OT7Qeo",
+    "apple": "1788635665",
+    "amazon": "B0918SRJGX",
+    "youtube": "UC9xdnGoqHgd9sR3TNgu8giA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "tapas",
     "name": "Tapas",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -22733,6 +22880,31 @@
     "youtube": "UC5t_Al2kuT-CyanizyUfiKg",
     "tiktok": null,
     "instagram": "the.love.algorithm"
+  },
+  {
+    "id": "the-luna-lounge",
+    "name": "The Luna Lounge",
+    "dateAdded": "2026-01-31T21:09:05.332Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous",
+      "high-output",
+      "ai-visuals"
+    ],
+    "markerNotes": "They have released over 38 albums with 100+ songs in the span of two years.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3MBWYwbrY4qoT2wMEHTzc5",
+    "apple": "1773307101",
+    "amazon": null,
+    "youtube": "UCa2S6MZvaPop7W22vK3mBEg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "the-miracle-worker",
