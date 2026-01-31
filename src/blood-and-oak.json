@@ -1,0 +1,30 @@
+{
+  "id": "blood-and-oak",
+  "name": "Blood and Oak",
+  "dateAdded": "2026-01-31T11:44:25.423Z",
+  "dateUpdated": null,
+  "disclosure": "partial",
+  "disclosureNotes": "On certain YouTube videos, the artist asks the question in the video description: \"Do you want more metal versions of classics created with AI?.\" Certain videos also have lyric credits to other people.",
+  "disclosureTypes": [
+    "instrumentation",
+    "mastering",
+    "mixing",
+    "vocals"
+  ],
+  "markers": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "1Muz8ZyAQGHov9KwrfNPGm",
+  "apple": "1858485823",
+  "amazon": null,
+  "youtube": "UCb9YyrDcvwvpsf4HX1558Yg",
+  "tiktok": null,
+  "instagram": null
+}
