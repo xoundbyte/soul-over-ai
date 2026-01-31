@@ -3119,6 +3119,36 @@
     "instagram": null
   },
   {
+    "id": "blood-and-oak",
+    "name": "Blood and Oak",
+    "dateAdded": "2026-01-31T11:44:25.423Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "On certain YouTube videos, the artist asks the question in the video description: \"Do you want more metal versions of classics created with AI?.\" Certain videos also have lyric credits to other people.",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1Muz8ZyAQGHov9KwrfNPGm",
+    "apple": "1858485823",
+    "amazon": null,
+    "youtube": "UCb9YyrDcvwvpsf4HX1558Yg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "blow-records",
     "name": "BLOW RECORDS",
     "dateAdded": "2026-01-28T13:59:07.446Z",
@@ -4548,16 +4578,18 @@
     "id": "cr-33-pia",
     "name": "CR33PIA",
     "dateAdded": "2025-12-22T16:58:01.000Z",
-    "dateUpdated": "2026-01-30T17:51:04.182Z",
-    "disclosure": "confirmed",
-    "disclosureNotes": "The TikTok profile states that they \"create dark sound with AI.\"",
-    "disclosureTypes": [],
+    "dateUpdated": "2026-01-31T11:49:39.240Z",
+    "disclosure": "partial",
+    "disclosureNotes": "The TikTok profile states \"Ai-Assisted.\"",
+    "disclosureTypes": [
+      "vocals",
+      "instrumentation"
+    ],
     "markers": [
       "ai-visuals",
-      "high-output",
       "inconsistent-style"
     ],
-    "markerNotes": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts.",
+    "markerNotes": "Their TikTok profile content appears to rely heavily on AI-generated prompts.",
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -10420,6 +10452,31 @@
     "instagram": null
   },
   {
+    "id": "illkillshot",
+    "name": "iLLKiLLshot",
+    "dateAdded": "2026-01-31T11:47:41.206Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2OM0G5jFKlRWkybIN3skrA",
+    "apple": null,
+    "amazon": "B0FJWBYZ7X",
+    "youtube": "UC4ofhJeV3DEO2Qc1D9bWuoA",
+    "tiktok": "@illkillshot",
+    "instagram": null
+  },
+  {
     "id": "ily-ghoul",
     "name": "ILY Ghoul",
     "dateAdded": "2026-01-14T17:02:11.551Z",
@@ -12816,6 +12873,32 @@
     "instagram": "its_lg0r"
   },
   {
+    "id": "likeai",
+    "name": "Likeai",
+    "dateAdded": "2026-01-31T11:07:16.133Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "2024-onwards"
+    ],
+    "markerNotes": "The YouTube channel was created in January 2025.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2AtcyK7DI8ZSYtdZlRZIt1",
+    "apple": "1808288646",
+    "amazon": "B0F3XPQMNL",
+    "youtube": "UCjBzl6Yp_jJXSDbtjpeIFgw",
+    "tiktok": "@l.i.k.eai",
+    "instagram": null
+  },
+  {
     "id": "lin-rae",
     "name": "LinRae",
     "dateAdded": "2025-12-16T18:12:50.000Z",
@@ -14508,6 +14591,32 @@
     "apple": "1850830525",
     "amazon": null,
     "youtube": "@Midnight_Lust",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "midnight-muse",
+    "name": "midnight muse",
+    "dateAdded": "2026-01-31T11:09:42.182Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "Their YouTube bio states: \"As an avid listener of Lo-Fi music, I often use this genre for work and study.  Out of curiosity, I tried to create tracks that I liked with AI.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "high-output",
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": "The first 3 albums of 2024 are released in a short timeline, 17 September, 22 September, and 26 September.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5hLAWrKxRJxQYmu1Mb6hTQ",
+    "apple": "1768981998",
+    "amazon": null,
+    "youtube": "UCEBIhVIf22vlrdakq0HOYSA",
     "tiktok": null,
     "instagram": null
   },
