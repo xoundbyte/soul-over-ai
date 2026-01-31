@@ -200,10 +200,6 @@ const main = async () => {
     artistData.popularity = popularity;
     artistData.followers = followers;
     artistData.shScore = shScore;
-    
-    // Deprecated fields
-    artistData.comments = null;
-    artistData.tags = [];
 
     if (!validate(artistData)) {
       console.error('Validation errors:', validate.errors);
