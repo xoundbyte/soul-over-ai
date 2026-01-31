@@ -137,8 +137,8 @@
         "string",
         "null"
       ],
-      "pattern": "^(UC[a-zA-Z0-9_-]{22}|@[\\p{L}0-9._-]+)$",
-      "description": "YouTube channel handle/ID or null if not available"
+      "pattern": "^UC[a-zA-Z0-9_-]{22}$",
+      "description": "YouTube channel ID (starting with UC), or null if not available"
     },
     "tiktok": {
       "type": [
