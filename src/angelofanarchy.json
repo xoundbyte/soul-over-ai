@@ -2,11 +2,16 @@
   "id": "angelofanarchy",
   "name": "AngelofAnarchy",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
-  "disclosure": "none",
-  "disclosureNotes": null,
-  "disclosureTypes": [],
-  "markers": [],
+  "dateUpdated": "2026-01-31T21:06:07.958Z",
+  "disclosure": "partial",
+  "disclosureNotes": "The Spotify bio states: \"I take my human lyrics, self-composed melodies, and sometimes my “still-a-work-in-progress” voice, and use AI music tools to shape them into full-production songs.\"",
+  "disclosureTypes": [
+    "mastering",
+    "mixing"
+  ],
+  "markers": [
+    "2024-onwards"
+  ],
   "markerNotes": null,
   "genres": [],
   "popularity": null,
