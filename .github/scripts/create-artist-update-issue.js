@@ -1,5 +1,6 @@
 import { Octokit } from '@octokit/rest';
 import { readFileSync } from 'fs';
+import { resolveHandle } from './youtube.js';
 
 const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
@@ -67,6 +68,13 @@ for (const field of updateableFields) {
   if (!isEqual) {
     changedData[field] = newValue;
   }
+}
+
+// Resolve YouTube @handle to channel ID
+if (changedData.youtube && changedData.youtube.startsWith('@')) {
+  console.log(`Resolving YouTube handle ${changedData.youtube}...`);
+  changedData.youtube = await resolveHandle(changedData.youtube);
+  console.log(`Resolved to channel ID: ${changedData.youtube}`);
 }
 
 // Only create issue if there are actual changes (more than just id)
