@@ -1,6 +1,7 @@
 import { Octokit } from '@octokit/rest';
 import fs from 'fs';
 import path from 'path';
+import { resolveHandle } from './youtube.js';
 // import { createSpotifyClient } from './spotify.js';
 
 const octokit = new Octokit({
@@ -30,6 +31,13 @@ for (const key in orderedData) {
     const trimmed = orderedData[key].trim();
     orderedData[key] = trimmed === '' ? null : trimmed;
   }
+}
+
+// Resolve YouTube @handle to channel ID
+if (orderedData.youtube && orderedData.youtube.startsWith('@')) {
+  console.log(`Resolving YouTube handle ${orderedData.youtube}...`);
+  orderedData.youtube = await resolveHandle(orderedData.youtube);
+  console.log(`Resolved to channel ID: ${orderedData.youtube}`);
 }
 
 // Create link to souloverai.com submission form with prefilled data
