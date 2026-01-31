@@ -2,20 +2,23 @@
   "id": "ruby-darkrose",
   "name": "Ruby Darkrose",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-31T21:04:22.086Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
-  "markers": [],
-  "markerNotes": null,
+  "markers": [
+    "2024-onwards",
+    "high-output"
+  ],
+  "markerNotes": "The YouTube bio strongly hints at AI usage without explicitly saying it: \"With the help of tools, I found a way to create music.\"",
   "genres": [],
   "popularity": null,
   "followers": null,
   "shScore": null,
   "spotify": "7o8g4at6tDpzRdmzFCnHUX",
   "apple": "1824662915",
-  "amazon": null,
-  "youtube": null,
+  "amazon": "B0F7LNKYCX",
+  "youtube": "UC6zIywLc1JcPN6dzdYUiVnA",
   "tiktok": null,
   "instagram": null
 }
