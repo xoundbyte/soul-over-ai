@@ -75,33 +75,6 @@
       ],
       "description": "Additional details for the markers value, or null if no details provided"
     },
-    "comments": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "description": "DEPRECATED: Additional notes or context about why this artist is considered AI-generated, or null if no comments"
-    },
-    "tags": {
-      "type": "array",
-      "description": "DEPRECATED: Special tags/flags for this artist",
-      "items": {
-        "type": "string",
-        "enum": [
-          "ai-visuals",
-          "anonymous",
-          "audio-artifacts",
-          "high-output",
-          "human-lyrics",
-          "inconsistent-style",
-          "minimal-bio",
-          "no-social-presence",
-          "partial-ai",
-          "self-disclosed-ai"
-        ]
-      },
-      "uniqueItems": true
-    },
     "genres": {
       "type": "array",
       "description": "Spotify genres associated with the artist",
@@ -194,8 +167,6 @@
     "disclosureTypes",
     "markers",
     "markerNotes",
-    "comments",
-    "tags",
     "genres",
     "popularity",
     "followers",
