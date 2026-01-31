@@ -2,11 +2,15 @@
   "id": "deadluve",
   "name": "DEADLUVE",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": "2026-01-24T17:50:28.016Z",
+  "dateUpdated": "2026-01-31T21:04:43.592Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
-  "markers": [],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous"
+  ],
   "markerNotes": null,
   "genres": [],
   "popularity": null,
@@ -14,7 +18,7 @@
   "shScore": null,
   "spotify": "3CwHxE8HXuezwO8DobgbiM",
   "apple": "1838822179",
-  "amazon": null,
+  "amazon": "B0FQHR7KT8",
   "youtube": "UCOFDJM_SFgN1AT9a7v7ftog",
   "tiktok": null,
   "instagram": null
