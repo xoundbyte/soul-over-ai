@@ -2,11 +2,14 @@
   "id": "aventhis",
   "name": "Aventhis",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
-  "disclosure": "none",
-  "disclosureNotes": null,
+  "dateUpdated": "2026-01-31T21:02:15.536Z",
+  "disclosure": "confirmed",
+  "disclosureNotes": "The Spotify bio states: \"Harnessing the creative power of AI as part of his artistic process.\"",
   "disclosureTypes": [],
-  "markers": [],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals"
+  ],
   "markerNotes": null,
   "genres": [],
   "popularity": null,
@@ -14,8 +17,8 @@
   "shScore": null,
   "spotify": "0a97V3mDhGyNg93Dcf9Ahj",
   "apple": "1800594409",
-  "amazon": null,
-  "youtube": null,
+  "amazon": "B0DZMGNXJT",
+  "youtube": "UC-t79t7t3paBwPx0mYx5V1w",
   "tiktok": null,
   "instagram": null
 }
