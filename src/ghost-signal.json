@@ -2,11 +2,14 @@
   "id": "ghost-signal",
   "name": "Ghost//Signal",
   "dateAdded": "2025-12-13T22:15:02.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-31T21:06:41.522Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
-  "markers": [],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals"
+  ],
   "markerNotes": null,
   "genres": [],
   "popularity": null,
@@ -14,8 +17,8 @@
   "shScore": null,
   "spotify": "1MSx7eCIGLByF6My5VMgrH",
   "apple": "1820841282",
-  "amazon": null,
-  "youtube": null,
+  "amazon": "B0FD9JLZ4Z",
+  "youtube": "UC4D_GXejDXWtkH8gqRL3H1w",
   "tiktok": null,
   "instagram": null
 }
