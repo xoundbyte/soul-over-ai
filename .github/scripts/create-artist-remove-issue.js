@@ -18,7 +18,8 @@ const issueData = {
   email: data.email || null,
 };
 
-const issueBody = `\`\`\`json\n${JSON.stringify(issueData, null, 2)}\n\`\`\``;
+const link = `[View artist profile](https://souloverai.com/artist/${data.id})`;
+const issueBody = `\`\`\`json\n${JSON.stringify(issueData, null, 2)}\n\`\`\`\n\n${link}`;
 
 (async () => {
   const searchQuery = `repo:${owner}/${repo} is:issue in:title "${existingArtist.name} (${existingArtist.spotify})"`;
