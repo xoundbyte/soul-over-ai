@@ -2,16 +2,17 @@
   "id": "frostborne",
   "name": "FrostBorne",
   "dateAdded": "2026-01-05T11:50:47.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-02-01T18:58:35.326Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
   "markers": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "2024-onwards"
   ],
-  "markerNotes": "Extremely high music output paired with minimal available information and no evident social media presence.",
+  "markerNotes": null,
   "genres": [],
   "popularity": null,
   "followers": null,
@@ -20,6 +21,6 @@
   "apple": "1818802314",
   "amazon": "B0CTN5K3WB",
   "youtube": "UCcPU3DB176XtY2UBRmZVgQA",
-  "tiktok": null,
+  "tiktok": "@frostborne677",
   "instagram": "siryeti_"
 }
