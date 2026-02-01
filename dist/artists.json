@@ -11021,6 +11021,31 @@
     "instagram": "therealizrailx"
   },
   {
+    "id": "izzy-byrne",
+    "name": "Izzy Byrne",
+    "dateAdded": "2026-02-01T12:21:39.194Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "high-output",
+      "2024-onwards",
+      "anonymous"
+    ],
+    "markerNotes": "The artist has released 28 songs across 5 EPs in 2025 (from September onwards) based on YouTube uploads.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6djzLHd3BUw3zHklHN7qbO",
+    "apple": "1827095766",
+    "amazon": null,
+    "youtube": "UCQzochjD-C4QyB7mThxmzZg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "j-bumi",
     "name": "J Bumi",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -15055,6 +15080,32 @@
     "youtube": "UC8ePMvgCpXWCQcUxhOfAy2g",
     "tiktok": "@ministry.of.dark",
     "instagram": "ministryofdarkofficial"
+  },
+  {
+    "id": "mister-cryptic",
+    "name": "Mister Cryptic",
+    "dateAdded": "2026-02-01T12:33:51.116Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The Spotify bio alludes to AI usage: \"I craft music for everyone to enjoy, blending modern intelligent production tools with traditional instruments to create a timeless and immersive listening experience.\"",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5wJ4rZ3rOHwxMV8paZKOeN",
+    "apple": null,
+    "amazon": "B0FKZJFWY6",
+    "youtube": "UCyB8zM1CG20mJUSVdN14bCQ",
+    "tiktok": null,
+    "instagram": "mistercryptic69"
   },
   {
     "id": "mithiclegend",
@@ -23225,6 +23276,30 @@
     "amazon": "B0GFBW3W29",
     "youtube": "UCuLgJP896EsSalAjLRbOliQ",
     "tiktok": "@theoldtavernmusic",
+    "instagram": null
+  },
+  {
+    "id": "the-pirx",
+    "name": "The Pirx",
+    "dateAdded": "2026-02-01T12:31:56.383Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "On the video for 'One Breath' (https://www.youtube.com/watch?v=WYpkpdP4EPY), the artist writes: \"The music is created using a sampler, a computer, FL Studio, Ableton Live, Audacity, AI models, and sound editing tools.\". Songs include vocals however no singer appears to be credited.",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3o6wJqVxTuXPHkmLaBOg7I",
+    "apple": "1831105557",
+    "amazon": "B0FL5ZCW7F",
+    "youtube": "UCzfTRcGmA8eKgrHf-MufK_A",
+    "tiktok": null,
     "instagram": null
   },
   {
