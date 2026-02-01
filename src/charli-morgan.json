@@ -2,13 +2,14 @@
   "id": "charli-morgan",
   "name": "Charli Morgan",
   "dateAdded": "2026-01-21T20:17:29.109Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-02-01T20:58:13.878Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
   "markers": [
+    "anonymous",
     "ai-visuals",
-    "anonymous"
+    "2024-onwards"
   ],
   "markerNotes": null,
   "genres": [],
