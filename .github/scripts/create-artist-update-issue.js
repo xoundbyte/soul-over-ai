@@ -1,6 +1,7 @@
 import { Octokit } from '@octokit/rest';
 import { readFileSync } from 'fs';
 import { resolveHandle } from './youtube.js';
+import { generateQueryParams, generateSocialLinks, formatIssueBody } from './issue-utils.js';
 
 const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
@@ -78,67 +79,53 @@ if (changedData.youtube && changedData.youtube.startsWith('@')) {
 }
 
 // Only create issue if there are actual changes (more than just id)
-if (Object.keys(changedData).length > 1) {
+if (!Object.keys(changedData).length) {
+  console.log('No changes detected for artist:', data.id);
+  return;
+}
 
-  // Create link to souloverai.com update form with prefilled data
-  const params = Object.keys(changedData)
-    .filter(key => key !== 'id') // id is in the URL path, not query params
-    .map(key => {
-      let value = changedData[key];
-      if (Array.isArray(value)) {
-        if (value.length === 0) return null;
-        value = value.join(',');
-      } else if (value === null || value === undefined) {
-        return null;
-      }
-      const encodedValue = encodeURIComponent(value)
-        .replace(/\(/g, '%28') // left parenthesis
-        .replace(/\)/g, '%29'); // right parenthesis
-      return `${key}=${encodedValue}`;
-    })
-    .filter(Boolean)
-    .join('&');
+// Create link to souloverai.com update form with prefilled data
+const params = generateQueryParams(changedData, ['id']);
+const issueBody = formatIssueBody(
+  changedData,
+  generateSocialLinks({ ...existingArtist, ...changedData }),
+  `https://souloverai.com/artist/${data.id}/update?${params}`
+);
 
-  const link = `[Make changes](https://souloverai.com/artist/${data.id}/update?${params ? params : ''})`
-  const issueBody = `\`\`\`json\n${JSON.stringify(changedData, null, 2)}\n\`\`\`\n\n${link}`;
+(async () => {
+  const searchQuery = `repo:${owner}/${repo} is:issue in:title "${data.name} (${data.spotify})"`;
+  const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
 
-  (async () => {
-    const searchQuery = `repo:${owner}/${repo} is:issue in:title "${data.name} (${data.spotify})"`;
-    const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
+  // Add comment to existing issue
+  if (searchResults.data.items.length > 0) {
+    const existingIssue = searchResults.data.items[0];
 
-    // Add comment to existing issue
-    if (searchResults.data.items.length > 0) {
-      const existingIssue = searchResults.data.items[0];
-
-      // Re-open closed issues and clear labels
-      if (existingIssue.state === 'closed') {
-        await octokit.issues.update({
-          owner,
-          repo,
-          issue_number: existingIssue.number,
-          state: 'open',
-          labels: ['update-artist'],
-        });
-      }
-
-      await octokit.issues.createComment({
+    // Re-open closed issues and clear labels
+    if (existingIssue.state === 'closed') {
+      await octokit.issues.update({
         owner,
         repo,
         issue_number: existingIssue.number,
-        body: issueBody,
-      });
-    }
-    // Add new issue
-    else {
-      await octokit.issues.create({
-        owner,
-        repo,
-        title: `${data.name} (${data.spotify})`,
-        body: issueBody,
+        state: 'open',
         labels: ['update-artist'],
       });
     }
-  })();
-} else {
-  console.log('No changes detected for artist:', data.id);
-}
+
+    await octokit.issues.createComment({
+      owner,
+      repo,
+      issue_number: existingIssue.number,
+      body: issueBody,
+    });
+  }
+  // Add new issue
+  else {
+    await octokit.issues.create({
+      owner,
+      repo,
+      title: `${data.name} (${data.spotify})`,
+      body: issueBody,
+      labels: ['update-artist'],
+    });
+  }
+})();
