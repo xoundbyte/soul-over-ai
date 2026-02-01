@@ -2821,6 +2821,31 @@
     "instagram": null
   },
   {
+    "id": "benetti-house-bar",
+    "name": "Benetti House Bar",
+    "dateAdded": "2026-02-01T20:43:12.153Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": "Platforms like Deezer (https://link.deezer.com/s/32jY7e5gjubqqZpJ7U9gv) and YouTube (https://youtu.be/dYpeV-AFuQ0) have flagged their profile as \"AI-generated\" or \"Synthetic\" content.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2g3XoKBDF3xPN5S68Rl0gR",
+    "apple": "1831856544",
+    "amazon": null,
+    "youtube": "UCTEImHhWamFqQfqlU9Raztw",
+    "tiktok": "@benettihousebar",
+    "instagram": "benettihousebar"
+  },
+  {
     "id": "bent-ardi",
     "name": "Bent Ardi",
     "dateAdded": "2025-12-10T17:26:26.000Z",
@@ -8465,16 +8490,17 @@
     "id": "frostborne",
     "name": "FrostBorne",
     "dateAdded": "2026-01-05T11:50:47.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-01T18:58:35.326Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "2024-onwards"
     ],
-    "markerNotes": "Extremely high music output paired with minimal available information and no evident social media presence.",
+    "markerNotes": null,
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -8483,7 +8509,7 @@
     "apple": "1818802314",
     "amazon": "B0CTN5K3WB",
     "youtube": "UCcPU3DB176XtY2UBRmZVgQA",
-    "tiktok": null,
+    "tiktok": "@frostborne677",
     "instagram": "siryeti_"
   },
   {
@@ -12189,6 +12215,32 @@
     "instagram": null
   },
   {
+    "id": "keen-red",
+    "name": "Keen Red",
+    "dateAdded": "2026-02-01T19:27:03.334Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "There are questions on this artist's video (https://www.youtube.com/watch?v=fctE3lp7S-A) asking if the project is AI, which appear to go unanswered.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3eTnHN4xvYorMWlcVZruzT",
+    "apple": "1824052430",
+    "amazon": "B0FGCVCBR3",
+    "youtube": "UClmSqg6WG6M6ClifgLa3JTA",
+    "tiktok": "@keenredmusic",
+    "instagram": "keenredmusic"
+  },
+  {
     "id": "kelly-boesch",
     "name": "Kelly Boesch",
     "dateAdded": "2026-01-05T20:31:45.000Z",
@@ -13326,6 +13378,32 @@
     "youtube": "UCQUZoL0qKBsnGqnfq77MZdg",
     "tiktok": "@lockandkeyvibes",
     "instagram": "lockandkeyvibes"
+  },
+  {
+    "id": "lofi-plum",
+    "name": "LoFi Plum",
+    "dateAdded": "2026-02-01T15:05:32.652Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The YouTube channel has a creation date of July 2025.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3hu5fLXYwgRLhitcC4osZt",
+    "apple": "1827288291",
+    "amazon": null,
+    "youtube": "UCadk6bvuUcT-0OK6kni0QbQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "lofilulla",
@@ -15912,6 +15990,32 @@
     "youtube": "UCX2Bil1Vb3rYUMn1Sk15-Pw",
     "tiktok": "@neononimetal",
     "instagram": "neononimetal"
+  },
+  {
+    "id": "neon-snakebite",
+    "name": "Neon Snakebite",
+    "dateAdded": "2026-02-01T19:30:02.430Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist's music is listed on Suno: https://suno.com/playlist/f2683972-4a65-41f8-ba46-71d73270dc0a. It appears to be from a user named 'Ramchek'.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "74PovjsvR65RaguNC6mFlr",
+    "apple": "1846917948",
+    "amazon": "B0FWVR3MVS",
+    "youtube": "UCnljJ9gZcXKk3E1fSQbD3mQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "neox-studio",
@@ -20490,6 +20594,31 @@
     "instagram": "shatterglassscallywags"
   },
   {
+    "id": "shelby-street-blues",
+    "name": "Shelby Street Blues",
+    "dateAdded": "2026-02-01T19:20:23.531Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "On this video (https://www.youtube.com/watch?v=UuQc21C8bBE) the artist states: \"I use modern tools as part of the creative process, but the direction, concept, and emotional intent of each track are entirely mine.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4kAl6IYLXd3cywr1W1gneB",
+    "apple": "1866030795",
+    "amazon": null,
+    "youtube": "UCi5eaflQY5QeMmpPSa12rJQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "shift-to-abundance",
     "name": "Shift to Abundance",
     "dateAdded": "2026-01-04T16:39:25.000Z",
@@ -21163,6 +21292,37 @@
     "youtube": "UC3csUrrAauLxjOSp-EfV_Vw",
     "tiktok": "@snowbyte.official",
     "instagram": null
+  },
+  {
+    "id": "so",
+    "name": "So",
+    "dateAdded": "2026-02-01T14:55:11.186Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"It’s basically me + AI teaming up to make sounds that (hopefully) don’t break your brain 😄 I bring my own riffs, melodies, and weird samples, and the AI helps me shape things faster but the final vibe always matches my taste and the style I want to create.\"",
+    "disclosureTypes": [
+      "mixing",
+      "mastering",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4t9YR7hufFHzGLkDxhKcTP",
+    "apple": "1865233999",
+    "amazon": null,
+    "youtube": "UCm-0DNclC6RdU_6rDZaK0bQ",
+    "tiktok": null,
+    "instagram": "so.controlledchaos"
   },
   {
     "id": "soaring-metal-lords",
@@ -23970,6 +24130,32 @@
     "apple": "1832973634",
     "amazon": "B0FR4NTNS6",
     "youtube": "UCfsmpGXkHvQzOLAhCPML91Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "tom-morgan",
+    "name": "Tom Morgan",
+    "dateAdded": "2026-02-01T15:02:33.812Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "markerNotes": "There is a thread on Reddit where users suspect the artist is AI generated: https://www.reddit.com/r/CountryMusicStuff/comments/1kb0x44/tom_morgan_sounds_like_ai/",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3O1tV7GESyriJiAnhjeR0c",
+    "apple": "1755827983",
+    "amazon": null,
+    "youtube": "UC7DK-e-z-0jfQygaH0-MCMw",
     "tiktok": null,
     "instagram": null
   },
