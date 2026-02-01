@@ -1,0 +1,30 @@
+{
+  "id": "jack-arden",
+  "name": "Jack Arden",
+  "dateAdded": "2026-02-01T22:38:07.543Z",
+  "dateUpdated": null,
+  "disclosure": "partial",
+  "disclosureNotes": "The Spotify bio states: \"This is Ai music, but with my lyrics and my heart. Available on all streaming platforms.\"",
+  "disclosureTypes": [
+    "instrumentation",
+    "mastering",
+    "mixing",
+    "vocals"
+  ],
+  "markers": [
+    "2024-onwards",
+    "anonymous",
+    "ai-visuals"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "5hEdCKwzDHl8SCpO5DjYb3",
+  "apple": "1853032162",
+  "amazon": null,
+  "youtube": "UC38vCpEXeeX4qEk8x6XEWXQ",
+  "tiktok": "@jack.arden.music",
+  "instagram": null
+}
