@@ -1046,6 +1046,31 @@
     "instagram": null
   },
   {
+    "id": "amber-drift",
+    "name": "Amber Drift",
+    "dateAdded": "2026-02-01T22:51:24.825Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0ewhASYRY9oRACxwBkcBOD",
+    "apple": "1832151914",
+    "amazon": null,
+    "youtube": "UCOgawHmJsMJSaTdFVmQVsYQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "ameiro-garden",
     "name": "Ameiro Garden",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -4122,13 +4147,14 @@
     "id": "charli-morgan",
     "name": "Charli Morgan",
     "dateAdded": "2026-01-21T20:17:29.109Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-01T20:58:13.878Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
+      "anonymous",
       "ai-visuals",
-      "anonymous"
+      "2024-onwards"
     ],
     "markerNotes": null,
     "genres": [],
@@ -4497,6 +4523,32 @@
     "youtube": "UCtfwOti_WkivBdfdzPn6wHw",
     "tiktok": "@cogsofthenight",
     "instagram": null
+  },
+  {
+    "id": "cold-aurelia",
+    "name": "Cold Aurelia",
+    "dateAdded": "2026-02-01T22:46:13.323Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The production quality of the music appears to vary between songs, and the same applies to the vocals.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6dPW3QcpOWUpLturiO6ymO",
+    "apple": "1816142066",
+    "amazon": null,
+    "youtube": "UCObalNlXej8kaXcDZQVac6g",
+    "tiktok": "@coldaurelia",
+    "instagram": "coldaurelia"
   },
   {
     "id": "collective-mind",
@@ -4868,6 +4920,31 @@
     "apple": "1842705089",
     "amazon": null,
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "cristi-din-apus",
+    "name": "Cristi din Apus",
+    "dateAdded": "2026-02-01T22:44:21.837Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "2024-onwards",
+      "anonymous"
+    ],
+    "markerNotes": "Appears to be a part of a network of AI-related channels with direct cross-links in their YouTube metadata: See https://www.youtube.com/@CristidinApus, https://www.youtube.com/@50MarkClub, https://www.youtube.com/@MandoVikingMusic, https://www.youtube.com/@MandoPirateMusic",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5l22ouPRNQBUkpAPlzIs6K",
+    "apple": "1782610723",
+    "amazon": null,
+    "youtube": "UC-uLp5NCfjjdVzvPaauDlkw",
     "tiktok": null,
     "instagram": null
   },
@@ -9438,6 +9515,31 @@
     "instagram": null
   },
   {
+    "id": "grooveboom",
+    "name": "GrooveBoom",
+    "dateAdded": "2026-02-01T22:48:44.156Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5DBe9f0EnYtMcldlb9vH0R",
+    "apple": "1871202000",
+    "amazon": "B0FYS3MSX7",
+    "youtube": "UCp72Hvr6OUj7waLs9s5rFlw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "grotestique",
     "name": "GROTESTIQUE",
     "dateAdded": "2026-01-03T18:31:16.000Z",
@@ -11187,6 +11289,36 @@
     "amazon": "B0FTG259CV",
     "youtube": "UCC4aVwU0RigaA8CAJnk4t5A",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "jack-arden",
+    "name": "Jack Arden",
+    "dateAdded": "2026-02-01T22:38:07.543Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The Spotify bio states: \"This is Ai music, but with my lyrics and my heart. Available on all streaming platforms.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "ai-visuals"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5hEdCKwzDHl8SCpO5DjYb3",
+    "apple": "1853032162",
+    "amazon": null,
+    "youtube": "UC38vCpEXeeX4qEk8x6XEWXQ",
+    "tiktok": "@jack.arden.music",
     "instagram": null
   },
   {
@@ -15113,6 +15245,32 @@
     "instagram": null
   },
   {
+    "id": "millvoices",
+    "name": "Millvoices",
+    "dateAdded": "2026-02-01T22:32:38.995Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Instagram bio implies Suno usage: \"The Weird Side of Music Child of the Sunoverse.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5AftTDwWo0cop0pxXuT8Tc",
+    "apple": "1847151952",
+    "amazon": null,
+    "youtube": "UCdNqz-g62_rZAZL-GjjBO7A",
+    "tiktok": null,
+    "instagram": "millvoices_official"
+  },
+  {
     "id": "minako",
     "name": "Minako",
     "dateAdded": "2026-01-24T23:19:23.992Z",
@@ -18739,6 +18897,32 @@
     "instagram": null
   },
   {
+    "id": "redneck-outlaw",
+    "name": "REDNECK OUTLAW",
+    "dateAdded": "2026-02-01T20:59:48.989Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "On the artist's website (https://www.redneckoutlawmusic.com) they state: \"Redneck Outlaw is a digital-first, AI-driven country rock band built for fans who want something real, raw, and rebellious. Every release is crafted to keep the spirit of outlaw music alive while pushing the edge of what AI-powered creativity can do.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5BORwASyFfCQ4peOHvrhLD",
+    "apple": "1859090802",
+    "amazon": null,
+    "youtube": null,
+    "tiktok": "@redneck.outlaw_music",
+    "instagram": null
+  },
+  {
     "id": "reformed-and-dangerous",
     "name": "Reformed and Dangerous",
     "dateAdded": "2025-12-08T10:39:22.000Z",
@@ -19677,6 +19861,37 @@
     "instagram": "runtimestudios"
   },
   {
+    "id": "ryker-ashford",
+    "name": "Ryker Ashford",
+    "dateAdded": "2026-02-01T22:39:50.256Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The Spotify bio states: \"While I collaborate with AI to craft the music, every word and emotion is authentically my own.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5wisI9hqYVfpfmccg9Zmbe",
+    "apple": "1791439194",
+    "amazon": "B0DRCB8CYG",
+    "youtube": "UCPY8h9bjRoAKqBZvdtkm4qw",
+    "tiktok": "@ryker_ashford",
+    "instagram": null
+  },
+  {
     "id": "s-quill",
     "name": "S. Quill",
     "dateAdded": "2026-01-15T20:29:16.153Z",
@@ -20291,6 +20506,33 @@
     "youtube": "UCWFPYvJabGylK66XXC63NkQ",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "seraphine-black",
+    "name": "Seraphine Black",
+    "dateAdded": "2026-02-01T22:34:26.539Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The Spotify bio implies AI usage, without outright saying it: \"I might be a digital artist, but my heart’s as real as it gets, and I'm here to make music that speaks to everyone.\"",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "62EZEE12ZbnDCebB8q41WN",
+    "apple": "1776473699",
+    "amazon": "B0DL4N6RY7",
+    "youtube": "UCtbLqquenTV_SGskR3dZuBQ",
+    "tiktok": null,
+    "instagram": "seraphine.black.artist"
   },
   {
     "id": "serenitys-soul-music-ai",
@@ -25319,6 +25561,32 @@
     "instagram": null
   },
   {
+    "id": "vicerend",
+    "name": "ViceRend",
+    "dateAdded": "2026-02-01T22:42:05.034Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "Perfect production despite only 52 monthly listeners (at time of writing) and released two 14 song albums in 2025.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0intK8pjQZK2VmRbe1RR10",
+    "apple": "1861195177",
+    "amazon": "B0G6XSYHM2",
+    "youtube": "UCfZ6BLD3Nx5Xk1hEzI6CF1A",
+    "tiktok": "@vicerend",
+    "instagram": null
+  },
+  {
     "id": "vidin",
     "name": "vidin",
     "dateAdded": "2025-12-16T08:19:10.000Z",
@@ -25362,6 +25630,33 @@
     "youtube": "UC4psA11KOn_ALhSOe7g24QA",
     "tiktok": null,
     "instagram": "viking_echoes"
+  },
+  {
+    "id": "viktoria4ever",
+    "name": "Viktoria4ever",
+    "dateAdded": "2026-02-01T22:37:01.250Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output",
+      "inconsistent-style",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2g6QQ4aI9OmQGvjEbUZtwA",
+    "apple": "1839041760",
+    "amazon": null,
+    "youtube": "UC2xjuAbYPqyToZDlUWjn-qw",
+    "tiktok": null,
+    "instagram": "viktoria4ever_music"
   },
   {
     "id": "violete-ephemerty",
