@@ -2459,6 +2459,30 @@
     "instagram": null
   },
   {
+    "id": "back-of-house",
+    "name": "Back of House",
+    "dateAdded": "2026-02-01T11:16:47.757Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "16kQWkDKaBv5qymJ72YJdL",
+    "apple": "1856614471",
+    "amazon": "B07XB3SKW9",
+    "youtube": "UCAUAGMPLLQiwUcySy3JPNrA",
+    "tiktok": "@backofhouseofficial",
+    "instagram": null
+  },
+  {
     "id": "bad-apples",
     "name": "Bad Apples",
     "dateAdded": "2025-11-24T23:56:10.000Z",
@@ -3635,6 +3659,31 @@
     "instagram": null
   },
   {
+    "id": "broken-trails",
+    "name": "Broken Trails",
+    "dateAdded": "2026-02-01T10:05:14.411Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4xx3ItNSXI7tUcCYU3St08",
+    "apple": "1850428773",
+    "amazon": "B0FZCQT2Q5",
+    "youtube": "UC5H9cY2J4fCyHriG8vb7LRw",
+    "tiktok": "@broken_trails",
+    "instagram": "broken.trails"
+  },
+  {
     "id": "brownhouse",
     "name": "BrownHouse",
     "dateAdded": "2026-01-05T20:25:21.000Z",
@@ -4139,6 +4188,30 @@
     "instagram": "iamchina_styles"
   },
   {
+    "id": "chris-wells",
+    "name": "Chris Wells",
+    "dateAdded": "2026-02-01T11:22:51.548Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to have a profile on Muso.ai: https://credits.muso.ai/profile/fb088ad5-ad3d-4e42-af37-21dbb9991f48",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6yX2ezgy4bn6JP1PbFXkJY",
+    "apple": "1623638657",
+    "amazon": "B0025NHGEI",
+    "youtube": "UCAQ-B9qz3fc6cMcu2KGpDvA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "christian-music-creations",
     "name": "Christian Music Creations",
     "dateAdded": "2025-12-18T18:23:59.000Z",
@@ -4422,6 +4495,31 @@
     "amazon": "B0G3SSKTV6",
     "youtube": "UCQcxdjM6IbkgvT0I7EawVIw",
     "tiktok": "@collectivemind33",
+    "instagram": null
+  },
+  {
+    "id": "collectivi-sumus",
+    "name": "COLLECTIVI SUMUS",
+    "dateAdded": "2026-02-01T11:11:42.569Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous",
+      "inconsistent-style",
+      "2024-onwards"
+    ],
+    "markerNotes": "Videos on the YouTube channel, feature the name 'Yaroslav Medvedev-Taraldset' who appears to show markers of another AI artist.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6Ywi2M2xS11x5wCj4c0Vmd",
+    "apple": "1865710308",
+    "amazon": null,
+    "youtube": "UCwHkK12xXfRX_7bTX5V97yw",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -6863,6 +6961,31 @@
     "youtube": "UCoYLFPOzwWzKiKs1uNzJpPg",
     "tiktok": "@eli.ridesss",
     "instagram": "eliridess"
+  },
+  {
+    "id": "elian-frost",
+    "name": "ELIAN FROST",
+    "dateAdded": "2026-02-01T10:10:13.437Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist has close to 200k listeners and over a million streams, yet there is no social presence.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1nfeNQNeB602cdXvEemd5d",
+    "apple": "1838269163",
+    "amazon": "B0CDFM8QKG",
+    "youtube": "UCJfggpLGpaa3VwSKUnW-Bbw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "elicaie",
@@ -16694,6 +16817,31 @@
     "instagram": null
   },
   {
+    "id": "official-giorgo",
+    "name": "Official_Giorgo",
+    "dateAdded": "2026-02-01T11:03:55.982Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "high-output",
+      "2024-onwards",
+      "ai-visuals"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3bwuh5nhjLHiw3pgWBsVoj",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCihbG1ijqrcF2Fvd9pDMneA",
+    "tiktok": "@official_giorgo",
+    "instagram": "official_giorgo"
+  },
+  {
     "id": "okiso",
     "name": "OKISO",
     "dateAdded": "2026-01-20T21:37:07.527Z",
@@ -17118,6 +17266,31 @@
     "instagram": null
   },
   {
+    "id": "outta-reach",
+    "name": "Outta Reach",
+    "dateAdded": "2026-02-01T11:25:08.457Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2DXR8ww8Tcjlbv0FlZLAHq",
+    "apple": "1864774821",
+    "amazon": "B0B9SMJRN7",
+    "youtube": "UCsEWTSP6p7PBBM-Qn2IKkjg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "pasxkal",
     "name": "PASXKAL",
     "dateAdded": "2026-01-08T15:50:58.963Z",
@@ -17187,6 +17360,32 @@
     "youtube": null,
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "pawfu",
+    "name": "Pawfu",
+    "dateAdded": "2026-02-01T11:31:52.998Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "anonymous",
+      "2024-onwards"
+    ],
+    "markerNotes": "The Spotify profile lists 13 whole albums in January 2026 alone. The Instagram photos also show visual differences between the artist (for example tattoos on the hand in some pictures but not others).",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1b4AHY2LAlXNxEYdaZ0yWB",
+    "apple": "1722606014",
+    "amazon": null,
+    "youtube": "UCTkyJtw0cJwep1UU-5kjbrg",
+    "tiktok": "@pawfu19",
+    "instagram": "littleboypawfu"
   },
   {
     "id": "peron",
@@ -19957,6 +20156,31 @@
     "amazon": "B0FFG7Q3JQ",
     "youtube": "UCpDyQkWvGF9P253-8AQ618g",
     "tiktok": "@serenityssoulmusicai",
+    "instagram": null
+  },
+  {
+    "id": "seri-rue",
+    "name": "Seri Rue",
+    "dateAdded": "2026-02-01T10:33:13.328Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous",
+      "high-output",
+      "ai-visuals"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7uibqYCDfuww997LfLFEsp",
+    "apple": "1845235103",
+    "amazon": "B0FVZC18WD",
+    "youtube": "UConMd2YKVon-bS-Jy0f6Kxw",
+    "tiktok": "@serirue",
     "instagram": null
   },
   {
@@ -24455,6 +24679,32 @@
     "instagram": null
   },
   {
+    "id": "veil-of-doom",
+    "name": "Veil of Doom",
+    "dateAdded": "2026-02-01T11:27:53.598Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0SZLZwOe5pA6l5wwbDKCG7",
+    "apple": "1808276602",
+    "amazon": "B0F4PTQ5GH",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "veilr",
     "name": "Veilr",
     "dateAdded": "2026-01-14T17:08:05.373Z",
@@ -25266,6 +25516,30 @@
     "instagram": null
   },
   {
+    "id": "we-are-jazz",
+    "name": "We Are Jazz",
+    "dateAdded": "2026-02-01T11:19:51.448Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7FaGU5ZdJWRnVhWJ4JiUvx",
+    "apple": "1856478845",
+    "amazon": "B0G48KNH4D",
+    "youtube": "UCJHxym5FqcPPqSZTH4SeaeA",
+    "tiktok": "@wearejazz",
+    "instagram": null
+  },
+  {
     "id": "we-are-still-here",
     "name": "We Are Still Here",
     "dateAdded": "2026-01-10T22:58:24.705Z",
@@ -25709,6 +25983,32 @@
     "instagram": "wyattcreedofficial"
   },
   {
+    "id": "wyrmship",
+    "name": "Wyrmship",
+    "dateAdded": "2026-02-01T10:17:09.722Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "2024-onwards",
+      "anonymous"
+    ],
+    "markerNotes": "The Spotify URL on the Instagram bio is localised to an Indonesian region.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1fNGfx13SYscLWdXyDxJ1m",
+    "apple": "1842883088",
+    "amazon": "B0FT56G355",
+    "youtube": "UC2gcznSaHbzaBtKuaEzX8lw",
+    "tiktok": null,
+    "instagram": "wyrmship_music"
+  },
+  {
     "id": "xania-monet",
     "name": "Xania Monet",
     "dateAdded": "2026-01-03T18:17:49.000Z",
@@ -25824,6 +26124,30 @@
     "youtube": "UC9tJ8KzXjA4Z7mLnss9Jbkg",
     "tiktok": "@xxios_music",
     "instagram": "edvabnov_music"
+  },
+  {
+    "id": "yakupova",
+    "name": "Yakupova",
+    "dateAdded": "2026-02-01T10:29:24.588Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The website (https://www.yakupova.xyz) claims that the band was founded in 2019, but also lists the band member ages as 14, 18, 16 and 13. That would mean even the oldest band member was 11 at the time.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4IX75u1GN7wDF1Ej5kLx2c",
+    "apple": "1822862858",
+    "amazon": "B0DBL8T5XV",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": "yakupovamusic"
   },
   {
     "id": "yara-nocturne",
@@ -26152,6 +26476,31 @@
     "youtube": "UCJrTm7GB5p7phTXaJu34lhg",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "zeros-and-ones",
+    "name": "zeros_and_ones",
+    "dateAdded": "2026-02-01T10:36:26.687Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "high-output",
+      "anonymous",
+      "ai-visuals"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0NIfPkuUB9xLkFN0YDRhVg",
+    "apple": "1806249713",
+    "amazon": null,
+    "youtube": "UCyMD-lxrhmk-VqV4oAhlwLw",
+    "tiktok": null,
+    "instagram": "zeros_and_ones_music"
   },
   {
     "id": "zionray",
