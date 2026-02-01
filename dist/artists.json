@@ -1405,6 +1405,30 @@
     "instagram": null
   },
   {
+    "id": "animusiac",
+    "name": "AnimusIAc",
+    "dateAdded": "2026-02-01T22:55:56.719Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"On this channel, we fuse the soul of anime, the energy of video games, and the creative power of artificial intelligence.\" (translated)",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1BmVXddIrjHZcftHcEpaDW",
+    "apple": "1793951912",
+    "amazon": null,
+    "youtube": "UCiUNF-8hw8XZhGKGByzjUVQ",
+    "tiktok": "@animusiac",
+    "instagram": "animusiac9"
+  },
+  {
     "id": "anna-regina",
     "name": "Anna Regina",
     "dateAdded": "2025-12-18T18:55:46.000Z",
@@ -4949,6 +4973,32 @@
     "instagram": null
   },
   {
+    "id": "crown-of-glass",
+    "name": "Crown of Glass",
+    "dateAdded": "2026-02-01T22:58:39.837Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5VAyloY5F1Qk7hmGvZHU3D",
+    "apple": "1861903997",
+    "amazon": null,
+    "youtube": "UCUOLM5zoKs-xBLHDdmAWw3Q",
+    "tiktok": "@crownofglass",
+    "instagram": null
+  },
+  {
     "id": "crowning-flame",
     "name": "Crowning Flame",
     "dateAdded": "2025-12-08T13:30:38.000Z",
@@ -5259,6 +5309,33 @@
     "apple": "1726143563",
     "amazon": null,
     "youtube": "UCqfrzgXGVsX4M1At3laTQLA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "daphne-rae-meyers",
+    "name": "Daphne Rae Meyers",
+    "dateAdded": "2026-02-01T23:07:29.892Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"Daphne Rae Meyers doesn't use AI as a tool. Instead she collaborates with them.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The artist has released 16 albums in 2025 with 5 monthly listeners on Spotify and no bio. The genres range from Christmas, to country, to epic pop. The album art is inconsistent, for example Rose Haven Christmas is a rectangle and not square, 'Emberwake Back To Our Music' has a guitar with completely incorrect stringing and pegs, and 'Emberwake Ancient Truths' album cover looks like a book cover.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "66rKvHV3Thj9w9XmrJG3WG",
+    "apple": "1818037045",
+    "amazon": "B0FBM11JLK",
+    "youtube": "UCI-FoteIfJ9Q0siq6fMCDAQ",
     "tiktok": null,
     "instagram": null
   },
@@ -10186,6 +10263,32 @@
     "amazon": "B002Y6857I",
     "youtube": "UCXbmh4yvJXezZf45OSTLE6Q",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "holy-grounds-christian-community",
+    "name": "Holy Grounds Christian Community",
+    "dateAdded": "2026-02-01T23:04:14.757Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3B7cPlfeCds8vBvKtX8IdQ",
+    "apple": "1851043128",
+    "amazon": null,
+    "youtube": "UC0XOXg97egQ4t4ALZWkLD_Q",
+    "tiktok": "@holygroundschrist",
     "instagram": null
   },
   {
