@@ -13217,6 +13217,32 @@
     "instagram": null
   },
   {
+    "id": "lamp-house",
+    "name": "LAMP HOUSE",
+    "dateAdded": "2026-02-02T10:08:26.056Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3DG2RuOvuBIW8UYdBtSQtR",
+    "apple": "1856894316",
+    "amazon": null,
+    "youtube": "UCKVQzYJOv3OuVi8n9gl4HHg",
+    "tiktok": null,
+    "instagram": "lamphouse.music"
+  },
+  {
     "id": "last-ashes",
     "name": "Last Ashes",
     "dateAdded": "2025-11-25T12:12:56.000Z",
