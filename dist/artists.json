@@ -1693,6 +1693,31 @@
     "instagram": "ariabyte.official"
   },
   {
+    "id": "aria-sai",
+    "name": "Aria Sai",
+    "dateAdded": "2026-02-02T17:01:02.479Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2CCtdU1GpSjr32FrR4dlrI",
+    "apple": "1743061588",
+    "amazon": "B0D2LS8GR9",
+    "youtube": "UC3ip0joLmtlcR3F2n3iTeig",
+    "tiktok": "@theariasai",
+    "instagram": "theariasai"
+  },
+  {
     "id": "ariana-lewis",
     "name": "Ariana Lewis",
     "dateAdded": "2026-01-22T23:06:33.286Z",
@@ -6854,6 +6879,32 @@
     "youtube": null,
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "echoes-from-tomorrow",
+    "name": "Echoes From Tomorrow",
+    "dateAdded": "2026-02-02T17:07:28.512Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2DGqTV4FmA9d4X1McoWoKa",
+    "apple": "1776960932",
+    "amazon": "B0DLG4HTYV",
+    "youtube": "UCFM2BP85o6oMiYLlXmtzY_g",
+    "tiktok": null,
+    "instagram": "echoesfromtomorrowofficial"
   },
   {
     "id": "echoes-of-babylon",
