@@ -240,6 +240,32 @@
     "instagram": null
   },
   {
+    "id": "a-million-sparks",
+    "name": "A Million Sparks",
+    "dateAdded": "2026-02-02T23:38:46.609Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"A creative engine that blends modern AI tools with old-school showmanship.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "high-output",
+      "ai-visuals",
+      "anonymous",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0Nfh2hppHDIUZIePUwsicV",
+    "apple": "1848771041",
+    "amazon": "B0FXJDZ711",
+    "youtube": "UCrtzlqUn8Y63Uh5sRcMIVgw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "a-shrine-to-failure",
     "name": "A Shrine to Failure",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -4736,6 +4762,33 @@
     "apple": "1752458561",
     "amazon": "B0D793RRVL",
     "youtube": "UCHp9OhzgWDY4ZpeNGWiRaxA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "cornelius-valerius",
+    "name": "Cornelius Valerius",
+    "dateAdded": "2026-02-02T23:47:20.197Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The song credits on YouTube and Spotify refer to a logistics company 'HESS LOGISTICS LLC'.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7aisX9VUgpBVXg6aXGT104",
+    "apple": null,
+    "amazon": "B0GJCCVWHH",
+    "youtube": "UCDO5HDRnO7LEfIo1vdl5-fA",
     "tiktok": null,
     "instagram": null
   },
@@ -13433,12 +13486,15 @@
     "id": "letters-from-ghosts",
     "name": "Letters From Ghosts",
     "dateAdded": "2026-01-12T22:33:02.760Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-02T23:32:24.968Z",
     "disclosure": "partial",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
+    "disclosureNotes": "The Spotify bio states: \"These songs are written by me, tracked into Logic, and vocals added in with AI.\"",
+    "disclosureTypes": [
+      "vocals"
+    ],
     "markers": [
-      "ai-visuals"
+      "ai-visuals",
+      "2024-onwards"
     ],
     "markerNotes": null,
     "genres": [],
@@ -15152,6 +15208,27 @@
     "youtube": "UCHReclEhfhDTfHKp8qU_5Qw",
     "tiktok": "@metalusprime",
     "instagram": "metalusprime_prv"
+  },
+  {
+    "id": "michael-dubois",
+    "name": "Michael DuBois",
+    "dateAdded": "2026-02-02T23:35:53.996Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "Quote from https://michaelduboismusic.com: \"Michael writes his own lyrics, uses a persona of his voice and directs the music which then is created using Suno AI. He then mixes and edits until things are good to go.\"",
+    "disclosureTypes": [],
+    "markers": [],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "55cIxvusflSYGLHLzPCOdY",
+    "apple": "1818506074",
+    "amazon": null,
+    "youtube": "UCxSMstsUvHk1llGZ1zlw97w",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "micolai",
@@ -22592,6 +22669,31 @@
     "instagram": "staticviolence"
   },
   {
+    "id": "steel-legion",
+    "name": "Steel Legion",
+    "dateAdded": "2026-02-02T23:37:15.492Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "Spotify description: \"All lyrics are written by Uwe Hunsicker, who also directs the artistic vision and sound design. The music is created in collaboration with Suno AI, under his creative supervision – combining human storytelling with cutting-edge technology.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "2024-onwards",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6TGRILNkRjenk3QbCeqYqQ",
+    "apple": "1834372352",
+    "amazon": null,
+    "youtube": "UCnfkKd-xvmpWkp4ehcEPY4A",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "stella-synth",
     "name": "Stella Synth",
     "dateAdded": "2026-01-08T21:14:29.137Z",
@@ -23469,6 +23571,32 @@
     "instagram": "the_black_mammoth"
   },
   {
+    "id": "the-blackest-red",
+    "name": "The Blackest Red",
+    "dateAdded": "2026-02-02T23:44:39.684Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1qpdzgXMSdR1ffKNyOm8Ym",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCql5QtnVAcICXF7pCZmBNgQ",
+    "tiktok": null,
+    "instagram": "theblackestredmusic"
+  },
+  {
     "id": "the-cheeky-celt",
     "name": "The Cheeky Celt",
     "dateAdded": "2026-01-07T23:33:50.981Z",
@@ -24129,6 +24257,32 @@
     "apple": null,
     "amazon": null,
     "youtube": "UCWjZ8I61NOk7xLPm5aUPpzw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "the-unbroken-kings",
+    "name": "The Unbroken Kings",
+    "dateAdded": "2026-02-02T23:34:38.787Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"AI channel\" and \"Making music with the help of AI about games and other things that I like.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6kLht1Mn1TMDOlwwcZW7sm",
+    "apple": null,
+    "amazon": "B0DS16Q2PH",
+    "youtube": "UCOdzLVw5lltX8R8yfBOhOmw",
     "tiktok": null,
     "instagram": null
   },
