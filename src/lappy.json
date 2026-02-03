@@ -1,0 +1,26 @@
+{
+  "id": "lappy",
+  "name": "Lappy",
+  "dateAdded": "2026-02-03T11:17:53.629Z",
+  "dateUpdated": null,
+  "disclosure": "partial",
+  "disclosureNotes": "The YouTube description for this video (https://www.youtube.com/watch?v=xiZZ53kWWuM) refers to: \"Vocals : AI\". The Spotify bio states: \"For legal/business, contact my management team Autodidactic Studios music@autodidactic.ai\"; Autodidactic is an AI company.",
+  "disclosureTypes": [
+    "lyrics",
+    "vocals"
+  ],
+  "markers": [
+    "2024-onwards"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "50RI7HrjY56ozmvYBd5mND",
+  "apple": "1649138777",
+  "amazon": null,
+  "youtube": "UCeA2_nawteB3Bn-sF9CBGxg",
+  "tiktok": null,
+  "instagram": null
+}
