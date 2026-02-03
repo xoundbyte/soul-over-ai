@@ -404,6 +404,30 @@
     "instagram": "asbc_nd"
   },
   {
+    "id": "absolute-introspect",
+    "name": "Absolute Introspect",
+    "dateAdded": "2026-02-03T14:00:02.893Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "Their Spotify bio reads: \"With no traditional band behind them, they lean into AI as their studio toolkit, building full arrangements around the songs they write together.\" It should also be noted that the band name is chosen to have the initials AI.",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1ZlAtM7QvAof6FK7yrFAqb",
+    "apple": "1854954884",
+    "amazon": null,
+    "youtube": null,
+    "tiktok": "@absoluteintrospect",
+    "instagram": null
+  },
+  {
     "id": "action-cop",
     "name": "Action Cop",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -1458,6 +1482,33 @@
     "instagram": null
   },
   {
+    "id": "animator",
+    "name": "Animator",
+    "dateAdded": "2026-02-03T13:52:54.797Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "Appears to be one of many AI side projects of Jülz, a member of the band Rev Theory. https://www.reddit.com/r/numetal/comments/1c8yzdu/is_rev_theory_passing_off_ai_music_as_new_songs/",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4XscE4PACFqLUbvJz2c1Zg",
+    "apple": "288801673",
+    "amazon": null,
+    "youtube": "UClc2GaRHyhf400EJYgPBEJA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "animusiac",
     "name": "AnimusIAc",
     "dateAdded": "2026-02-01T22:55:56.719Z",
@@ -2168,6 +2219,32 @@
     "youtube": "UC3S0pGmvn2nyxlysTCt4sCw",
     "tiktok": "@ashleymaddisionklein",
     "instagram": "ashleykleinmaddision"
+  },
+  {
+    "id": "ashpvnk",
+    "name": "ashpvnk",
+    "dateAdded": "2026-02-03T13:49:59.653Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": "Appears to be one of many AI side projects of a member Jülz of the established band Rev Theory. according to this thread: https://www.reddit.com/r/numetal/comments/1c8yzdu/is_rev_theory_passing_off_ai_music_as_new_songs/",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3dA0yRUHt4EC9GAbVqJZf3",
+    "apple": "1729320118",
+    "amazon": null,
+    "youtube": null,
+    "tiktok": null,
+    "instagram": "ashpvnkofficial"
   },
   {
     "id": "astra-gold",
@@ -3858,6 +3935,31 @@
     "amazon": "B0CSND1TBZ",
     "youtube": "UCAG9ypGp-SsA7piF6Kk2bIQ",
     "tiktok": "@brown_houseyoutube",
+    "instagram": null
+  },
+  {
+    "id": "burn-the-silence",
+    "name": "Burn the Silence",
+    "dateAdded": "2026-02-03T13:30:33.763Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6SOP5bQNtVEh1aXBqN3f7P",
+    "apple": "1864370988",
+    "amazon": "B0G59N2L2L",
+    "youtube": "UCVbhIW1jqjqfFEJ7TnSsojA",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -5680,6 +5782,33 @@
     "youtube": "UCDtaueeRYux3UxiRRAvSCCA",
     "tiktok": "@darth.kanga",
     "instagram": null
+  },
+  {
+    "id": "darth-marley",
+    "name": "Darth Marley",
+    "dateAdded": "2026-02-03T13:49:14.079Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "Appears to be one of many AI side projects of a member Jülz of the established band Rev Theory. according to this thread: https://www.reddit.com/r/numetal/comments/1c8yzdu/is_rev_theory_passing_off_ai_music_as_new_songs/",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6VI82roojGceqRlKUdoGdw",
+    "apple": "1740012660",
+    "amazon": null,
+    "youtube": "UCsZh9NN1fr06TxvZAv0wROQ",
+    "tiktok": null,
+    "instagram": "darthmarleyofficial"
   },
   {
     "id": "davian-blake",
@@ -9085,6 +9214,33 @@
     "instagram": null
   },
   {
+    "id": "georgenson",
+    "name": "Georgensøn",
+    "dateAdded": "2026-02-03T13:55:01.376Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "Appears related many AI side projects of Jülz, a member of the band Rev Theory. https://www.reddit.com/r/numetal/comments/1c8yzdu/is_rev_theory_passing_off_ai_music_as_new_songs/",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3RwRfD4qAPJ2BP3PQ0Qcz3",
+    "apple": "1763527079",
+    "amazon": "B0DDK1MFK3",
+    "youtube": "UCx0dpHyCSBqMWxgMl6O8wJw",
+    "tiktok": "@georgenson_music",
+    "instagram": "georgenson.music"
+  },
+  {
     "id": "get-into-zone",
     "name": "Get into Zone",
     "dateAdded": "2026-01-07T23:13:27.358Z",
@@ -11265,6 +11421,32 @@
     "apple": "1823929917",
     "amazon": "B0FG8ZFBS6",
     "youtube": "UCPzwot91OpxPs439NSneQ4g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "invadr76",
+    "name": "INVADR76",
+    "dateAdded": "2026-02-03T13:51:11.425Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": "Appears to be one of many AI side projects of Jülz, a member of the band Rev Theory. https://www.reddit.com/r/numetal/comments/1c8yzdu/is_rev_theory_passing_off_ai_music_as_new_songs/",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3KjQDMDK4Zc08VmXnAGAiX",
+    "apple": "1784305653",
+    "amazon": "B0DPLPTR2H",
+    "youtube": "UCMzm9LyvZan_IiOupTIsbLg",
     "tiktok": null,
     "instagram": null
   },
@@ -15286,6 +15468,36 @@
     "youtube": "UCHReclEhfhDTfHKp8qU_5Qw",
     "tiktok": "@metalusprime",
     "instagram": "metalusprime_prv"
+  },
+  {
+    "id": "mia-hipnosis",
+    "name": "Mia Hipnosis",
+    "dateAdded": "2026-02-03T13:31:58.002Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The Spotify bio states: \"Original lyrics, often from years ago, are now brought to life thanks to SUNO AI. I use Suno AI, FL Studio, and Audacity.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1GT0TeqzWpapvXyWgPwu10",
+    "apple": "1841592866",
+    "amazon": null,
+    "youtube": "UCG4lNLg_XKr0Du1m-Dk4b-Q",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "michael-dubois",
@@ -24248,6 +24460,31 @@
     "youtube": "UCbfBDXITCPSuXcBtikSxpJQ",
     "tiktok": null,
     "instagram": "thenorthsband"
+  },
+  {
+    "id": "the-old-harbour",
+    "name": "The Old Harbour",
+    "dateAdded": "2026-02-03T13:58:22.878Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"Every track is forged with grit, rum-rough voices, pounding deck-drums, sea-worn instruments and a spark of modern sorcerAI.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2aKRkyYQqg8sXSid8t9q6J",
+    "apple": "1854414895",
+    "amazon": null,
+    "youtube": "UCzWsJOfEn6Mzuua5OVTDsrw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "the-old-tavern",
