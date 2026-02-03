@@ -2,12 +2,16 @@
   "id": "beyond-disdain",
   "name": "Beyond Disdain",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
-  "disclosure": "none",
-  "disclosureNotes": null,
+  "dateUpdated": "2026-02-03T18:11:34.466Z",
+  "disclosure": "partial",
+  "disclosureNotes": "The YouTube bio states: \"Our music is composed using an innovative process mixing real instruments, traditional production techniques, professional mixing & mastering, blended with artificial intelligence to meticulously craft every track.\"",
   "disclosureTypes": [],
-  "markers": [],
-  "markerNotes": null,
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous"
+  ],
+  "markerNotes": "The first release was in 2025, and features another vocalist suspected to be entirely AI.",
   "genres": [],
   "popularity": null,
   "followers": null,
@@ -15,7 +19,7 @@
   "spotify": "2MpVNPYFczBeNjPXePyVB4",
   "apple": "1828078019",
   "amazon": null,
-  "youtube": null,
-  "tiktok": null,
-  "instagram": null
+  "youtube": "UC73H8sOxN_kkBGKn26CR4-w",
+  "tiktok": "@beyonddisdain",
+  "instagram": "beyonddisdain"
 }
