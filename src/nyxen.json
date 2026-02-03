@@ -1,0 +1,25 @@
+{
+  "id": "nyxen",
+  "name": "Nyxen",
+  "dateAdded": "2026-02-03T08:44:18.464Z",
+  "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureNotes": "The YouTube bio states: \"Artificial singer.\" (translated)",
+  "disclosureTypes": [],
+  "markers": [
+    "2024-onwards",
+    "anonymous",
+    "high-output"
+  ],
+  "markerNotes": "This Reddit thread (https://www.reddit.com/r/ADO/comments/1nnetl7/found_a_cool_new_artist/) discusses the artist, with many users suspecting the usage of AI.",
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "77VyPcNb3twQOF0ysMIiGI",
+  "apple": "1740440280",
+  "amazon": null,
+  "youtube": "UCxBLkzmYNxetft7LD6-oGUg",
+  "tiktok": null,
+  "instagram": null
+}
