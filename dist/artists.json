@@ -192,6 +192,31 @@
     "instagram": "7evensins.official"
   },
   {
+    "id": "7th-swing",
+    "name": "7th Swing",
+    "dateAdded": "2026-02-03T20:54:00.520Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5eLzdEJIog5HdDt9S4f2zx",
+    "apple": "1749077017",
+    "amazon": "B0D5DFLC9W",
+    "youtube": "UCX-uHjaqV8JLHPlBnXFk0EA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "88ds",
     "name": "88DS",
     "dateAdded": "2025-12-29T19:30:06.000Z",
@@ -431,16 +456,17 @@
     "id": "action-cop",
     "name": "Action Cop",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": "2026-01-07T14:36:01.919Z",
+    "dateUpdated": "2026-02-03T17:53:50.967Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
       "ai-visuals",
       "anonymous",
-      "inconsistent-style"
+      "inconsistent-style",
+      "2024-onwards"
     ],
-    "markerNotes": "The promotional videos appear to be mostly, if not entirely, AI. Some music tracks just end abruptly, as if they were not finished, and the vocals have many artifacts. The artist has no social media presence outside of promotion.",
+    "markerNotes": null,
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -496,6 +522,32 @@
     "youtube": "UC6SBiMdWpLJO5oHwOfU7dCA",
     "tiktok": "@aetherealdream99",
     "instagram": "aetherealdream99"
+  },
+  {
+    "id": "affinity-chronicles",
+    "name": "Affinity Chronicles",
+    "dateAdded": "2026-02-03T20:44:50.324Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7JlEwAPmaJSmQWhcdMtb0C",
+    "apple": "1749078636",
+    "amazon": "B0D5DDX559",
+    "youtube": "UCTQSqu714WaS5Zqcbn7niCg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "after-indigo",
@@ -1048,6 +1100,32 @@
     "amazon": "B0DPBXP272",
     "youtube": "UC6kfiFizv2GPJREb50ZEo6A",
     "tiktok": "@alteredinsurgence",
+    "instagram": null
+  },
+  {
+    "id": "alx-inv-music",
+    "name": "ALX INV MUSIC",
+    "dateAdded": "2026-02-03T20:56:42.323Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4eaEOZfd2iZopkmf3bRy09",
+    "apple": "1847195115",
+    "amazon": null,
+    "youtube": "UCxc9t1wtsAyHCr6lqPzeg6w",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -2880,6 +2958,36 @@
     "instagram": null
   },
   {
+    "id": "barhound",
+    "name": "Barhound",
+    "dateAdded": "2026-02-03T21:07:57.719Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "On the video 'My Neighbor Joined The Cult' https://www.youtube.com/watch?v=xo2OGCG9laI, the description states: \"AI Disclosure: Some elements of this track were enhanced using AI. Vocals and instruments are AI-assisted. My natural voice is smoother, and I primarily play acoustic rhythm and percussive guitar. The final mix includes AI-generated enhancements and additional instrumentation. Lyrics are written by me. I occasionally use ChatGPT for editing, proofing or rhyming help.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4HXvLyvzL3JWdBlNdWu5mF",
+    "apple": "1834769917",
+    "amazon": null,
+    "youtube": "UCG7LMNXonPrGyYhgq5VjSlg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "beach-days",
     "name": "Beach Days",
     "dateAdded": "2026-01-12T13:21:34.983Z",
@@ -3137,12 +3245,16 @@
     "id": "beyond-disdain",
     "name": "Beyond Disdain",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
+    "dateUpdated": "2026-02-03T18:11:34.466Z",
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"Our music is composed using an innovative process mixing real instruments, traditional production techniques, professional mixing & mastering, blended with artificial intelligence to meticulously craft every track.\"",
     "disclosureTypes": [],
-    "markers": [],
-    "markerNotes": null,
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": "The first release was in 2025, and features another vocalist suspected to be entirely AI.",
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -3150,9 +3262,9 @@
     "spotify": "2MpVNPYFczBeNjPXePyVB4",
     "apple": "1828078019",
     "amazon": null,
-    "youtube": null,
-    "tiktok": null,
-    "instagram": null
+    "youtube": "UC73H8sOxN_kkBGKn26CR4-w",
+    "tiktok": "@beyonddisdain",
+    "instagram": "beyonddisdain"
   },
   {
     "id": "biodrive",
@@ -3459,6 +3571,32 @@
     "youtube": "UCJHVp5FTzNyz99_sJ45GQlg",
     "tiktok": "@blow.records",
     "instagram": "blowrecordsbr"
+  },
+  {
+    "id": "blue-rhapsody-trio",
+    "name": "Blue Rhapsody Trio",
+    "dateAdded": "2026-02-03T20:52:36.499Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2Flu0CF3TFC0U2bXmOU8Ir",
+    "apple": "1750281418",
+    "amazon": "B0D5YZR5LL",
+    "youtube": "UCWeXYo_KmOEvC85j4zoajKw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "blueberryclub",
@@ -3838,6 +3976,30 @@
     "youtube": "UCVE9UMO6H8b6GQJ_Aa1CvKg",
     "tiktok": "@brokenavenue4",
     "instagram": null
+  },
+  {
+    "id": "broken-ember",
+    "name": "Broken Ember",
+    "dateAdded": "2026-02-03T18:30:46.643Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"Broken Ember is a fully self-produced fictional art project; all music, lyrics and depicted characters originate from the creative concept of Fabian Dargatz.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6TP59FaQW5hfyhsufpyDcr",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UC3mof_N_zvRPIxsFXQb8tZA",
+    "tiktok": null,
+    "instagram": "brokenembermusic"
   },
   {
     "id": "broken-oracle",
@@ -4443,6 +4605,32 @@
     "instagram": "iamchina_styles"
   },
   {
+    "id": "chords-and-scales",
+    "name": "Chords & Scales",
+    "dateAdded": "2026-02-03T20:50:33.942Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "15woIdoSSG3mybnu0b4zW8",
+    "apple": "1750280182",
+    "amazon": "B0D5YZFFZ6",
+    "youtube": "UCfDI08PCBCPKbWgv2UaXQyA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "chris-wells",
     "name": "Chris Wells",
     "dateAdded": "2026-02-01T11:22:51.548Z",
@@ -4612,14 +4800,17 @@
     "id": "closure",
     "name": "Closure",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-03T18:33:14.662Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
-      "anonymous"
+      "anonymous",
+      "high-output",
+      "ai-visuals",
+      "2024-onwards"
     ],
-    "markerNotes": null,
+    "markerNotes": "There also appears to be another YouTube channel for the artist:\nhttps://www.youtube.com/channel/UCje6pKU_cy_RCOs-wvGncIg",
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -5088,6 +5279,32 @@
     "youtube": "UC7gjH7UK1EKfbdoMRlf-UlQ",
     "tiktok": "@creezyworld",
     "instagram": "creezyworld"
+  },
+  {
+    "id": "crescent-city-collective",
+    "name": "Crescent City Collective",
+    "dateAdded": "2026-02-03T20:46:54.255Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7C0nWAPqKEnjoaeZt55SnY",
+    "apple": "1749078135",
+    "amazon": "B0D5DFW37R",
+    "youtube": "UCR9oNYVeitjZoxVLkm0HLrQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "crimson-collapse",
@@ -5999,6 +6216,32 @@
     "instagram": null
   },
   {
+    "id": "deadveins",
+    "name": "deadveins",
+    "dateAdded": "2026-02-03T21:04:36.355Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "49aqDHq2JAV6Aj7Z3yH9Ko",
+    "apple": "1862749676",
+    "amazon": "B0G951SVZQ",
+    "youtube": "UCpQQHUBfWpuv9uoYEBj2JsQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "death-culture",
     "name": "Death Culture",
     "dateAdded": "2026-01-03T14:03:41.000Z",
@@ -6168,6 +6411,32 @@
     "youtube": "UCXQOp-fpFvY0GHBLCPXT8Xw",
     "tiktok": "@departirmusic",
     "instagram": null
+  },
+  {
+    "id": "dept",
+    "name": "Dept",
+    "dateAdded": "2026-02-03T18:36:55.074Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "Very high output, with multiple albums released in 2025. The artist is Korean, and previously released acoustic music, yet has released a new electronic album in Spanish which has raised suspicions.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "48JtfAggQQpfUXQNxkGm5U",
+    "apple": "1134937261",
+    "amazon": "B001OQIETI",
+    "youtube": "UCI7bDhhETJhlk7dYUhDzLPA",
+    "tiktok": null,
+    "instagram": "dept113"
   },
   {
     "id": "desyoh",
@@ -7282,6 +7551,32 @@
     "amazon": "B0FQ45BQHW",
     "youtube": "UChQZesRU2CpUdEMLjvvXt5Q",
     "tiktok": "@eichenherz_musik",
+    "instagram": null
+  },
+  {
+    "id": "eight-to-the-bar-express",
+    "name": "Eight To The Bar Express",
+    "dateAdded": "2026-02-03T20:46:17.143Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3RjcaQX8gSyqV05wQineqr",
+    "apple": "1750280436",
+    "amazon": "B0D5YYSPYC",
+    "youtube": "UCsTVFaBAs5t5_JVP4owiT2g",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -8853,6 +9148,32 @@
     "instagram": "fraytasticmusic"
   },
   {
+    "id": "free-fusions",
+    "name": "Free Fusions",
+    "dateAdded": "2026-02-03T20:46:00.851Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4PeU2e1zkESash9T7bc6Ha",
+    "apple": "1750281554",
+    "amazon": "B0D5YXXW2Z",
+    "youtube": "UCtUJ9-HQ7IFQqzKtOVA-tyQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "friedeth",
     "name": "FRIEDETH",
     "dateAdded": "2026-01-05T11:53:59.000Z",
@@ -9900,6 +10221,32 @@
     "apple": "1803738313",
     "amazon": "B0C6BQ5WGD",
     "youtube": "UCoSBeEa2Te3KKNwyyKq7zIg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "groove-nouveau",
+    "name": "Groove Nouveau",
+    "dateAdded": "2026-02-03T20:48:07.999Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5Fu65cDbQ2y3grOfDnqKGw",
+    "apple": "1750278923",
+    "amazon": "B0D5YYHMVV",
+    "youtube": "UCzdiaN5X79AAjE01UCJuarg",
     "tiktok": null,
     "instagram": null
   },
@@ -11934,6 +12281,58 @@
     "instagram": "jaystacksbeats"
   },
   {
+    "id": "jazz-nouveau-project",
+    "name": "Jazz Nouveau Project",
+    "dateAdded": "2026-02-03T20:41:32.471Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2aoMCW2VySEft8UediKi3Q",
+    "apple": null,
+    "amazon": "B0D5DCMBP1",
+    "youtube": "UCJAcp9zBS_bW8XIUQGDL6bQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "jazzscape-symphony",
+    "name": "Jazzscape Symphony",
+    "dateAdded": "2026-02-03T20:47:35.170Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0uR7FiakAH3F5IDY0W8Drs",
+    "apple": "1749078858",
+    "amazon": "B0D5DFL131",
+    "youtube": "UCmk8UCjDQP7wT_TqGCuLe0g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "jazztified",
     "name": "Jazztified",
     "dateAdded": "2025-12-29T18:56:26.000Z",
@@ -11954,6 +12353,32 @@
     "apple": "1851784096",
     "amazon": "B0DNSB18K1",
     "youtube": "UCAL-GGWtfBU4cYCTbYnUdZw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "jazzy-nightfall",
+    "name": "Jazzy Nightfall",
+    "dateAdded": "2026-02-03T20:43:58.094Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5K1Au6BfUuIxd81E2sZoQl",
+    "apple": "1749077286",
+    "amazon": "B0D5DD5WGY",
+    "youtube": "UC_dnLs9s0TdtcUwOgWfZFLw",
     "tiktok": null,
     "instagram": null
   },
@@ -12337,6 +12762,32 @@
     "apple": "1849820201",
     "amazon": "B0FYNL79BB",
     "youtube": "UC9L5qLCyXUwUyCoW2kQ29Ig",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "julia-st",
+    "name": "Julia St.",
+    "dateAdded": "2026-02-03T20:49:52.726Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1ushN8gTRinumk7HlJVg1p",
+    "apple": "1750281040",
+    "amazon": "B0D5Z2FZ5H",
+    "youtube": "UCILvBZQNLd--xOh3cNdt--A",
     "tiktok": null,
     "instagram": null
   },
@@ -14082,6 +14533,31 @@
     "instagram": "logofoxofficial"
   },
   {
+    "id": "lokdwn",
+    "name": "LØKDWN",
+    "dateAdded": "2026-02-03T18:37:30.839Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5PHIGD79rfAWfAt98bXBgo",
+    "apple": "1848219297",
+    "amazon": null,
+    "youtube": "UCDqmEJluZg9gSb5lQsogb0A",
+    "tiktok": null,
+    "instagram": "lokdwn.music"
+  },
+  {
     "id": "lolita",
     "name": "Lolita",
     "dateAdded": "2026-01-03T19:05:11.000Z",
@@ -14410,6 +14886,32 @@
     "instagram": "lxnemusic"
   },
   {
+    "id": "lydian-dominant",
+    "name": "Lydian Dominant",
+    "dateAdded": "2026-02-03T20:51:35.339Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6YqDbj7CNxm6lqZGHK6ryQ",
+    "apple": "1750279388",
+    "amazon": "B0D5YZ285D",
+    "youtube": "UCqZ7j2Qmm8tDbrmHFjtJdhA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "lykanai",
     "name": "LykanAI",
     "dateAdded": "2026-01-09T13:44:38.784Z",
@@ -14611,6 +15113,32 @@
     "apple": "1741658303",
     "amazon": "B0D1YKBB67",
     "youtube": "UC7MRiI_FcVkSjGjQJSJotzw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "magazine-street-24",
+    "name": "Magazine Street 24",
+    "dateAdded": "2026-02-03T20:49:27.746Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "599lP7FCBbQb9wThFdB0rI",
+    "apple": "1750281298",
+    "amazon": "B0D5YYYW64",
+    "youtube": "UCcyodzwI3Ea59Eo-u-KGKlQ",
     "tiktok": null,
     "instagram": null
   },
@@ -14956,11 +15484,13 @@
     "id": "matthews-silent-chapter",
     "name": "Matthew's Silent Chapter",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-03T17:55:04.115Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
-    "markers": [],
+    "markers": [
+      "2024-onwards"
+    ],
     "markerNotes": null,
     "genres": [],
     "popularity": null,
@@ -14969,7 +15499,7 @@
     "spotify": "2JUTGg9txxR3B3acyTlFp7",
     "apple": "1789870492",
     "amazon": null,
-    "youtube": null,
+    "youtube": "UClzMmb5fbOcZNbcOujy61nQ",
     "tiktok": null,
     "instagram": null
   },
@@ -15538,6 +16068,32 @@
     "amazon": "B0G15BTRJG",
     "youtube": "UCVfhhhXn9uIVqEK_dLq_CnQ",
     "tiktok": "@official_micolai",
+    "instagram": null
+  },
+  {
+    "id": "midnight-groove-ensemble",
+    "name": "Midnight Groove Ensemble",
+    "dateAdded": "2026-02-03T20:40:00.089Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "20Y9X4BO7Xv2vhPNTftDht",
+    "apple": "1749076617",
+    "amazon": "B0D5DC17QQ",
+    "youtube": "UCxlT-_2NAUVYEmDcBr3fpUg",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -17945,6 +18501,35 @@
     "instagram": null
   },
   {
+    "id": "one-project",
+    "name": "ONE PROJECT",
+    "dateAdded": "2026-02-03T18:28:57.387Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "Many of their videos have credited vocals to the entity \"JUN (Ai).\"",
+    "disclosureTypes": [
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2VIZDPesAdDk0zppWuy70U",
+    "apple": "1510184184",
+    "amazon": "B087P8QBL4",
+    "youtube": "UC_yKp9qlR8xXQ-CVsv2VjPQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "onepix",
     "name": "Onepix",
     "dateAdded": "2025-12-07T22:24:51.000Z",
@@ -19548,6 +20133,31 @@
     "instagram": null
   },
   {
+    "id": "redfox2809",
+    "name": "REDFOX2809",
+    "dateAdded": "2026-02-03T18:39:12.543Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "On their YouTube video for Paralized (Hardstyle Mix) https://www.youtube.com/watch?v=GAx8IaxqgnA, the description states: \"Made (2026) with Suno AI, Grok Imagine, Chat GPT by Ronny Krahl.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "inconsistent-style",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "200V9pGDNVo9hb7VLFbgo5",
+    "apple": "1850877720",
+    "amazon": "B0FZS2SV43",
+    "youtube": "UC6lAsLZURabsH3YANfrKDJA",
+    "tiktok": "@redfox28095",
+    "instagram": null
+  },
+  {
     "id": "redia",
     "name": "ReDia",
     "dateAdded": "2026-01-01T15:20:11.000Z",
@@ -19667,6 +20277,33 @@
     "instagram": "remakebrasiloficial"
   },
   {
+    "id": "repeattwicedaily",
+    "name": "RepeatTwiceDaily",
+    "dateAdded": "2026-02-03T18:42:33.770Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "On the track 'Bound by a Dream' https://www.youtube.com/watch?v=6xT9K2Rx80Y, the description states: \"Lyrics by me, vocals made with SunoAi.\"",
+    "disclosureTypes": [
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6gyYwtCJKWURUHWsAm76PZ",
+    "apple": "1814215145",
+    "amazon": null,
+    "youtube": "UC0u4LkLcLtCYtGmpisYm8cw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "restylehits",
     "name": "ReStyleHits",
     "dateAdded": "2025-12-29T19:23:56.000Z",
@@ -19713,6 +20350,32 @@
     "youtube": "UCQp0G36fgQSZytt9o4rKnfw",
     "tiktok": "@retrobirdai",
     "instagram": "retrobirdai"
+  },
+  {
+    "id": "retro-city-pop",
+    "name": "Retro City Pop",
+    "dateAdded": "2026-02-03T18:23:33.910Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"All music is created and produced by Retro City Pop — blending authentic 80s-inspired lyrics and sound with the support of modern AI tools to reimagine the timeless Showa-era vibe.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6mVkcVizpVfnsAHqzURu9d",
+    "apple": "1818157113",
+    "amazon": null,
+    "youtube": "UCgZPKl0TkRAmOeLkmaPQ7ig",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "retrosync",
@@ -21679,6 +22342,31 @@
     "instagram": "shu.ai.art"
   },
   {
+    "id": "side-slips",
+    "name": "Side Slips",
+    "dateAdded": "2026-02-03T20:53:57.585Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "583HWrl2uUXchhX98BGzdR",
+    "apple": "1750279101",
+    "amazon": "B0D5Z15PSP",
+    "youtube": "UC9GWDZhU1bkLPA25Wy3eCkA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "sienna-rose",
     "name": "Sienna Rose",
     "dateAdded": "2025-12-31T16:13:56.000Z",
@@ -22208,6 +22896,32 @@
     "apple": "1840217603",
     "amazon": "B0FRCK3G3W",
     "youtube": "UCK1tWZHvEyUk2YtCBm2HG8g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "smooth-syndicate",
+    "name": "Smooth Syndicate",
+    "dateAdded": "2026-02-03T20:40:54.288Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3w47XPQMAdF84KHF9twJCH",
+    "apple": "1749075371",
+    "amazon": "B0D5DFXHRZ",
+    "youtube": "UCS7GjFLtoRwr5650rmBkefQ",
     "tiktok": null,
     "instagram": null
   },
@@ -22787,6 +23501,32 @@
     "youtube": "UC8BxS14YvsvHqHR0-G7-2bg",
     "tiktok": "@soul.trance.music",
     "instagram": "soultrancemusic"
+  },
+  {
+    "id": "soulful-sounds-trio",
+    "name": "Soulful Sounds Trio",
+    "dateAdded": "2026-02-03T20:43:04.993Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3piy636301G1jrxYZBCbN8",
+    "apple": "1749076565",
+    "amazon": "B0D5DFKH9M",
+    "youtube": "UCWfFj6ozWZJHVwfNi8zHMCg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "souls-cry",
@@ -23472,6 +24212,31 @@
     "youtube": "UCPpsPchGZaGzhavVS-DzrCw",
     "tiktok": null,
     "instagram": "sibi42_"
+  },
+  {
+    "id": "swing-stroller",
+    "name": "Swing Stroller",
+    "dateAdded": "2026-02-03T20:54:07.610Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4mIuNN9GeW7eVpaCM5hGmC",
+    "apple": "1750279653",
+    "amazon": "B0D5YYFZXZ",
+    "youtube": "UCzSRsGlDlg7SEjk1uHE1d-g",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "sybilanta",
@@ -24389,6 +25154,31 @@
     "instagram": null
   },
   {
+    "id": "the-medieval-inn",
+    "name": "The Medieval Inn",
+    "dateAdded": "2026-02-03T21:00:48.095Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "markerNotes": "Their YouTube channel features multiple new songs per day over a long period of time.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0WVhflO5EK9M4mNxftcepi",
+    "apple": "1864377036",
+    "amazon": null,
+    "youtube": "UC_3MqMmAryYGhL057jJ01zw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "the-miracle-worker",
     "name": "The Miracle Worker",
     "dateAdded": "2026-01-10T10:57:02.215Z",
@@ -24535,6 +25325,32 @@
     "instagram": null
   },
   {
+    "id": "the-pleasure-syndicate",
+    "name": "The Pleasure Syndicate",
+    "dateAdded": "2026-02-03T20:58:06.093Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2NiaqOMULyeqbv3hgr6UzD",
+    "apple": "1844980544",
+    "amazon": null,
+    "youtube": "UC7cfvCKzCyxcF0qXhNF2GKA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "the-power-alchemist",
     "name": "The Power Alchemist",
     "dateAdded": "2025-12-11T16:20:18.000Z",
@@ -24663,6 +25479,36 @@
     "apple": null,
     "amazon": "B0BRGJ89SW",
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "the-singing-tavern",
+    "name": "The Singing Tavern",
+    "dateAdded": "2026-02-03T21:03:30.953Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states\" \"How I create these stories: Every track starts with AI assisted audio stems that I manually mix, arrange, and master to ensure a rich, professional sound experience.\"",
+    "disclosureTypes": [
+      "lyrics",
+      "instrumentation",
+      "vocals"
+    ],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3AGAEn9ANXY5pcvILQ7iNS",
+    "apple": "1864533146",
+    "amazon": "B0G6DT46ZQ",
+    "youtube": "UCziCRQ5KnYAn_RfLOcLyhaA",
     "tiktok": null,
     "instagram": null
   },
@@ -25186,6 +26032,33 @@
     "instagram": null
   },
   {
+    "id": "titanchord",
+    "name": "TitanChord",
+    "dateAdded": "2026-02-03T18:12:56.641Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"Built with a little help from AI, but rooted in raw, human storytelling, TitanChord is for anyone who’s felt haunted… and kept going anyway.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1kt2ZmgH8Lwvgp00i4X3Lu",
+    "apple": "1788503356",
+    "amazon": null,
+    "youtube": "UCRzf1L1tH0mYIRck-oTUyjg",
+    "tiktok": "@titanchord_official",
+    "instagram": "titanchord"
+  },
+  {
     "id": "tokt",
     "name": "Tokt",
     "dateAdded": "2025-12-09T22:40:17.000Z",
@@ -25256,6 +26129,37 @@
     "youtube": "UC7DK-e-z-0jfQygaH0-MCMw",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "tomsen-dk",
+    "name": "Tomsen.dk",
+    "dateAdded": "2026-02-03T17:52:40.049Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The credits on a Facebook video https://www.facebook.com/watch/?v=1781123795897091 states that the music and voice is AI, whilst the lyrics are human.",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5EhsZRezYpRpoNy2DZYGxu",
+    "apple": "1869085873",
+    "amazon": "B0GGVM7NV9",
+    "youtube": "UCZVZqEhsrjl7fo15fab4nwA",
+    "tiktok": "@tomsen.dk",
+    "instagram": "tomsen.dk"
   },
   {
     "id": "tonu-meldre",
@@ -26297,6 +27201,32 @@
     "instagram": null
   },
   {
+    "id": "velvet-swing-express",
+    "name": "Velvet Swing Express",
+    "dateAdded": "2026-02-03T20:42:38.649Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0xCGx1EWEzjOH6QkmVOF3h",
+    "apple": "1749077569",
+    "amazon": "B0D5DGJFQ7",
+    "youtube": "UCe7Rgajc5uO3scVQGjPisgQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "vengeful",
     "name": "VENGEFUL",
     "dateAdded": "2026-01-21T14:34:33.763Z",
@@ -26467,6 +27397,32 @@
     "youtube": "UCfZ6BLD3Nx5Xk1hEzI6CF1A",
     "tiktok": "@vicerend",
     "instagram": null
+  },
+  {
+    "id": "video-girl",
+    "name": "Video Girl",
+    "dateAdded": "2026-02-03T18:18:08.904Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "There appears to be a lot of discussion online (Reddit, social profile comments etc) which debates whether this entity is AI generated or not. Given the sheer amount of music output and the deliberate anonymity, has led many to believe this is an AI project.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3M4lW4QlOqVOiaEpggbQwL",
+    "apple": "1845013853",
+    "amazon": null,
+    "youtube": "UC16U5xcHCdTMZqJGkQMgCig",
+    "tiktok": "@___video_girl___",
+    "instagram": "__video_girl__"
   },
   {
     "id": "vidin",
@@ -26665,6 +27621,32 @@
     "amazon": "B0DZX94SSZ",
     "youtube": "UChRw_spujGS2HA05jHuCFrA",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "vorpalraven",
+    "name": "Vorpalraven",
+    "dateAdded": "2026-02-03T18:24:37.122Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "high-output",
+      "anonymous",
+      "ai-visuals"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "23Mu3XZLTD4ajxuVghHXhS",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCRn6b13Ov2RZ8YlBv7rRKzw",
+    "tiktok": "@vorpalraven",
     "instagram": null
   },
   {
