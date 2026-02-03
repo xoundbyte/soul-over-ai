@@ -17286,6 +17286,31 @@
     "instagram": "nyxaranyx"
   },
   {
+    "id": "nyxen",
+    "name": "Nyxen",
+    "dateAdded": "2026-02-03T08:44:18.464Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"Artificial singer.\" (translated)",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "This Reddit thread (https://www.reddit.com/r/ADO/comments/1nnetl7/found_a_cool_new_artist/) discusses the artist, with many users suspecting the usage of AI.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "77VyPcNb3twQOF0ysMIiGI",
+    "apple": "1740440280",
+    "amazon": null,
+    "youtube": "UCxBLkzmYNxetft7LD6-oGUg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "o-es-3",
     "name": "O.es.3",
     "dateAdded": "2026-01-26T22:47:57.843Z",
@@ -18409,6 +18434,33 @@
     "youtube": "UCFilMVsz3u3v0Gu6Nk2Do-g",
     "tiktok": "@polkcountypagan",
     "instagram": "polkcountypagan"
+  },
+  {
+    "id": "polskai",
+    "name": "POLSKAi",
+    "dateAdded": "2026-02-03T08:41:34.912Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"The best AI songs and covers from the POLSKA label.\" (translated)",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7bNwfQsUzcgqf7Y9P8xIe6",
+    "apple": "1868200670",
+    "amazon": "B0G65G8Z1W",
+    "youtube": "UCf3ElZJiHx7uRD4qAypt9yA",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "porcelain-hearts",
@@ -23350,6 +23402,31 @@
     "apple": "1770974859",
     "amazon": "B0DJ7H11YD",
     "youtube": "UCtvjHYsL5nGckco_8gMxs_w",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "texas-hollow-records",
+    "name": "Texas Hollow Records",
+    "dateAdded": "2026-02-03T08:45:41.519Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"Here you'll find emotional and sad country music created with the help of AI.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "66eTpwc3YLUBNYQIM4PO19",
+    "apple": "1805625710",
+    "amazon": "B0F346ZXKG",
+    "youtube": "UCHTY3WA53QpFh8K7yp6wBDQ",
     "tiktok": null,
     "instagram": null
   },
