@@ -2,11 +2,13 @@
   "id": "matthews-silent-chapter",
   "name": "Matthew's Silent Chapter",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-02-03T17:55:04.115Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
-  "markers": [],
+  "markers": [
+    "2024-onwards"
+  ],
   "markerNotes": null,
   "genres": [],
   "popularity": null,
@@ -15,7 +17,7 @@
   "spotify": "2JUTGg9txxR3B3acyTlFp7",
   "apple": "1789870492",
   "amazon": null,
-  "youtube": null,
+  "youtube": "UClzMmb5fbOcZNbcOujy61nQ",
   "tiktok": null,
   "instagram": null
 }
