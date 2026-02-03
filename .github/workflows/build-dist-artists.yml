@@ -1,14 +1,8 @@
 name: Build dist
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "src/**/*.json"
-      - "artist.schema.json"
-      - ".github/scripts/build-dist.js"
-      - ".github/workflows/build-dist.yml"
+  schedule:
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -43,6 +37,7 @@ jobs:
 
         # Only create PR if not already a pull request and on main
       - name: Create Pull Request for changes
+        id: create-pr
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && success()
         uses: peter-evans/create-pull-request@v8
         with:
@@ -51,3 +46,9 @@ jobs:
           body: 'Automated update of dist/artists.json'
           branch: auto-build/update-dist-artists
           delete-branch: true
+
+      - name: Auto-merge Pull Request
+        if: steps.create-pr.outputs.pull-request-number
+        run: gh pr merge ${{ steps.create-pr.outputs.pull-request-number }} --squash --delete-branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
