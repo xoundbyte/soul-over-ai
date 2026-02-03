@@ -622,6 +622,33 @@
     "instagram": "_aghapy"
   },
   {
+    "id": "ahiezer",
+    "name": "ahiezer",
+    "dateAdded": "2026-02-03T11:14:14.059Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1OT0q3LE7xgkl5EfW7zkv6",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCg9dHLKtP_zwCSWFPgHQjoA",
+    "tiktok": "@ahie_zer",
+    "instagram": null
+  },
+  {
     "id": "ai-emo-kids",
     "name": "AI Emo Kids",
     "dateAdded": "2026-01-26T22:53:24.930Z",
@@ -4934,6 +4961,31 @@
     "youtube": "UCxcAGNwBp1jeF5LDJMMt4XA",
     "tiktok": "@cracked.by.rocks",
     "instagram": "crackedbyrocks"
+  },
+  {
+    "id": "creezy",
+    "name": "CREEZY",
+    "dateAdded": "2026-02-03T11:20:16.682Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4CoaYRHaLML5WE0C35HClI",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UC7gjH7UK1EKfbdoMRlf-UlQ",
+    "tiktok": "@creezyworld",
+    "instagram": "creezyworld"
   },
   {
     "id": "crimson-collapse",
@@ -13347,6 +13399,32 @@
     "instagram": "lamphouse.music"
   },
   {
+    "id": "lappy",
+    "name": "Lappy",
+    "dateAdded": "2026-02-03T11:17:53.629Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube description for this video (https://www.youtube.com/watch?v=xiZZ53kWWuM) refers to: \"Vocals : AI\". The Spotify bio states: \"For legal/business, contact my management team Autodidactic Studios music@autodidactic.ai\"; Autodidactic is an AI company.",
+    "disclosureTypes": [
+      "lyrics",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "50RI7HrjY56ozmvYBd5mND",
+    "apple": "1649138777",
+    "amazon": null,
+    "youtube": "UCeA2_nawteB3Bn-sF9CBGxg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "last-ashes",
     "name": "Last Ashes",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -15575,6 +15653,32 @@
     "instagram": "ministryofdarkofficial"
   },
   {
+    "id": "misfit",
+    "name": "MISFIT",
+    "dateAdded": "2026-02-03T11:28:07.054Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7AiAutnxd8YdKmy8APZazz",
+    "apple": "1802330466",
+    "amazon": null,
+    "youtube": "UCGMpLQkG-k1m1HDClJ6SUtQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "mister-cryptic",
     "name": "Mister Cryptic",
     "dateAdded": "2026-02-01T12:33:51.116Z",
@@ -17116,6 +17220,32 @@
     "instagram": null
   },
   {
+    "id": "novra",
+    "name": "NOVRA",
+    "dateAdded": "2026-02-03T10:46:04.845Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "2024-onwards",
+      "high-output",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3UaHmkA10ceTafW1sYcX4x",
+    "apple": null,
+    "amazon": "B0D62DWNWQ",
+    "youtube": "UCVYZBS5NweyLU0-Xuj9D14Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "nox-averill",
     "name": "Nox Averill",
     "dateAdded": "2026-01-10T21:09:15.929Z",
@@ -17260,6 +17390,31 @@
     "youtube": "UCyVrBBVUPYkxi7viOI88AdA",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "nyqki-niqole",
+    "name": "Nyqki Niqole",
+    "dateAdded": "2026-02-03T10:53:11.486Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist alludes to AI usage without explicitly saying it: \"My pen writes the truth. My faith fuels the message. And technology simply carries my voice farther than I ever could alone.\"",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5yYRrBAevJaDsmeU53WZZ2",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCZ-Py5bw1n7fSsM7c2HUKHQ",
+    "tiktok": "@nyqkiniqole",
+    "instagram": "popular"
   },
   {
     "id": "nyxara",
@@ -19438,6 +19593,31 @@
     "apple": "1779213999",
     "amazon": "B0DMSMQB7F",
     "youtube": "UCGJ-W21qmR4kCGrsNoxDVWg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "rhyxa",
+    "name": "RHYXA",
+    "dateAdded": "2026-02-03T10:44:24.497Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "57hpMX91TOWTH8YW2KL0gD",
+    "apple": "1831797693",
+    "amazon": null,
+    "youtube": "UCWqAINWcKMm77a_71t6ZZpQ",
     "tiktok": null,
     "instagram": null
   },
@@ -22932,6 +23112,35 @@
     "instagram": "sunday.night.low"
   },
   {
+    "id": "sunho974",
+    "name": "sunho974",
+    "dateAdded": "2026-02-03T10:57:52.839Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"All music on this channel is independently created using AI-assisted tools, but with human creative input. AI tools (e.g., ChatGPT, Suno AI) were used solely as creative aids, and final decisions regarding planning, composition, lyrics, and editing were made directly by artists sunho974, SONN985, and \"Music Speaks.\" (translated)",
+    "disclosureTypes": [
+      "instrumentation",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "More details about the artist are available here: https://www.instagram.com/reel/DQMFH-xESHg/",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0qS1EtuA0bXifVAGog7i2F",
+    "apple": "1842840631",
+    "amazon": "B0FT3Z3DPC",
+    "youtube": "UCWdYoELTuoqymXgBAdbmGEA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "sunremo",
     "name": "sunremo",
     "dateAdded": "2025-12-19T18:17:29.000Z",
@@ -25420,6 +25629,32 @@
     "instagram": null
   },
   {
+    "id": "valkorai",
+    "name": "Valkorai",
+    "dateAdded": "2026-02-03T11:21:09.901Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"Combining a love of painting with words and the cutting-edge collaboration of AI, Valkorai gives voice and melody to original lyrics.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5plnxQGfe4jfQE6wUETonC",
+    "apple": "1823748191",
+    "amazon": null,
+    "youtube": "UCs6GbF7_PxXnkSvgwt-NEMQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "valor-pulse",
     "name": "Valor Pulse",
     "dateAdded": "2026-01-21T17:07:59.754Z",
@@ -26318,6 +26553,35 @@
     "instagram": null
   },
   {
+    "id": "wade-ward-music",
+    "name": "Wade Ward Music",
+    "dateAdded": "2026-02-03T11:13:34.311Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"Because of how my brain works, digital tools and AI-assisted vocals help me get the ideas out before they disappear.\"",
+    "disclosureTypes": [
+      "vocals",
+      "instrumentation"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "244KEtZRcV8GudfqXPxF3x",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UC1KiNLfvoDwm2-8wx_yurPQ",
+    "tiktok": null,
+    "instagram": "wadewardmusic"
+  },
+  {
     "id": "wake-up-falling",
     "name": "WAKE UP FALLING",
     "dateAdded": "2026-01-10T11:03:34.170Z",
@@ -27115,6 +27379,30 @@
     "youtube": null,
     "tiktok": null,
     "instagram": "yakupovamusic"
+  },
+  {
+    "id": "yanti-niels",
+    "name": "Yanti Niels",
+    "dateAdded": "2026-02-03T10:39:33.740Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7GFKd0p7559tGHwVp91sEt",
+    "apple": "1771065641",
+    "amazon": "B0DJ3QDY83",
+    "youtube": "UCWPWyLt841DkZ1bYsL8o_SQ",
+    "tiktok": "@yantiniels",
+    "instagram": "yantiloebis"
   },
   {
     "id": "yara-nocturne",
