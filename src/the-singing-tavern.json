@@ -1,0 +1,30 @@
+{
+  "id": "the-singing-tavern",
+  "name": "The Singing Tavern",
+  "dateAdded": "2026-02-03T21:03:30.953Z",
+  "dateUpdated": null,
+  "disclosure": "partial",
+  "disclosureNotes": "The YouTube bio states\" \"How I create these stories: Every track starts with AI assisted audio stems that I manually mix, arrange, and master to ensure a rich, professional sound experience.\"",
+  "disclosureTypes": [
+    "lyrics",
+    "instrumentation",
+    "vocals"
+  ],
+  "markers": [
+    "ai-visuals",
+    "anonymous",
+    "high-output",
+    "2024-onwards"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "3AGAEn9ANXY5pcvILQ7iNS",
+  "apple": "1864533146",
+  "amazon": "B0G6DT46ZQ",
+  "youtube": "UCziCRQ5KnYAn_RfLOcLyhaA",
+  "tiktok": null,
+  "instagram": null
+}
