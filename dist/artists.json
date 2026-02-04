@@ -6226,6 +6226,30 @@
     "instagram": "daxlinveylo"
   },
   {
+    "id": "daylight-rapture",
+    "name": "Daylight Rapture",
+    "dateAdded": "2026-02-04T18:35:04.713Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5hqHeSF2ZIr5LOrKQcXlcg",
+    "apple": "1842985309",
+    "amazon": null,
+    "youtube": "UCEwcIyB1QUt9iJol3ZlBUwQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "dayseye",
     "name": "DaysEye",
     "dateAdded": "2026-01-02T11:49:28.000Z",
@@ -6574,6 +6598,31 @@
     "youtube": "UCI7bDhhETJhlk7dYUhDzLPA",
     "tiktok": null,
     "instagram": "dept113"
+  },
+  {
+    "id": "desa",
+    "name": "Desa",
+    "dateAdded": "2026-02-04T18:39:03.257Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7FmIJAs2tTovZGGACFN9zI",
+    "apple": "1828543718",
+    "amazon": "B0BFB894CZ",
+    "youtube": "UCUxsnm-6flBW9Nl42o8snkQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "desyoh",
@@ -19239,6 +19288,32 @@
     "instagram": null
   },
   {
+    "id": "phantomflow",
+    "name": "PhantomFlow",
+    "dateAdded": "2026-02-04T18:37:52.621Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1ZUMlbUfKFwPoFQbekakDZ",
+    "apple": "1851297186",
+    "amazon": "B0G17KC6TD",
+    "youtube": "UCM2MQWm4sdVUbFFAFY-OEaw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "phantomoffire",
     "name": "phantomoffire",
     "dateAdded": "2026-01-02T12:27:11.000Z",
@@ -22802,6 +22877,32 @@
     "instagram": null
   },
   {
+    "id": "siso-wave",
+    "name": "SISO Wave",
+    "dateAdded": "2026-02-04T18:43:12.600Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "Some of their older videos https://www.youtube.com/watch?v=f606zWRiuAo state in the description: \"Created with the assistance of AI technology.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "inconsistent-style",
+      "high-output",
+      "anonymous"
+    ],
+    "markerNotes": "The first YouTube upload was on Dec 2024, and there are over 40 playlists of original music lasting more than an hour in 2025 alone. Completely anonymous, no credits available for performance, writing or production available according to Spotify. Inconsistent vocals with different male and female vocalists present across the songs.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "58QaqpkXN1fXiKBuEeatC3",
+    "apple": "1789938123",
+    "amazon": "B0DS9W19G6",
+    "youtube": "UClRxY7lEeNqc6oezxGSpkKA",
+    "tiktok": "@sisowave",
+    "instagram": "sisowave"
+  },
+  {
     "id": "six-gun-siren",
     "name": "Six Gun Siren",
     "dateAdded": "2026-01-20T21:22:40.536Z",
@@ -25751,6 +25852,31 @@
     "youtube": "UCziCRQ5KnYAn_RfLOcLyhaA",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "the-smoothies",
+    "name": "The Smoothies",
+    "dateAdded": "2026-02-04T18:34:05.664Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3lnkHMOJWmkPXk5weCf24a",
+    "apple": "1475704379",
+    "amazon": "B00K86SDFA",
+    "youtube": "UC6nFvZkyBHjgXEJbDMlneTQ",
+    "tiktok": null,
+    "instagram": "thesmoothies.official"
   },
   {
     "id": "the-softest-tones",
