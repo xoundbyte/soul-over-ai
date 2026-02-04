@@ -845,6 +845,36 @@
     "instagram": "ai_r_way"
   },
   {
+    "id": "ai-soundtracks",
+    "name": "AI Soundtracks",
+    "dateAdded": "2026-02-04T13:35:01.754Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The artist title alludes to AI usage and the YouTube bio states: \"I use synthesized software to generate the vocals and rhythm, but the songs are all written by me.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0vUjNUtyKibIVc0h6tcjmN",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCevOh86UVZAc3Y2h4DyNYMA",
+    "tiktok": "@ai_soundtracks",
+    "instagram": null
+  },
+  {
     "id": "aiphonic",
     "name": "AIphonic",
     "dateAdded": "2025-12-08T22:37:43.000Z",
@@ -3623,6 +3653,56 @@
     "instagram": "blueberryclu6"
   },
   {
+    "id": "bob-rust",
+    "name": "Bob Rust",
+    "dateAdded": "2026-02-04T10:47:20.639Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The video description for Dancin' https://www.youtube.com/watch?v=pKvOmb3l9sI is flagged by YouTube as \"Altered or synthetic content.\"",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0d6Jwsa8ClHUgneTk0rntf",
+    "apple": "1854653602",
+    "amazon": null,
+    "youtube": "UCbDa3ItJpaBs_nJpLwLtFWA",
+    "tiktok": "@bobrustmusic",
+    "instagram": "bobrustmusic"
+  },
+  {
+    "id": "bohemiosincausa",
+    "name": "BOHEMIOSINCAUSA",
+    "dateAdded": "2026-02-04T13:31:19.509Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0N2hl8puDxKjQQDyW2eBPz",
+    "apple": "1842710824",
+    "amazon": null,
+    "youtube": "UCREBPiKbwgAMDBZxSdSNO7g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "bon-chic",
     "name": "Bon Chic",
     "dateAdded": "2026-01-20T21:49:07.715Z",
@@ -4793,6 +4873,31 @@
     "apple": "1868227324",
     "amazon": "B0GH6F9ZRP",
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "cleiris",
+    "name": "CLEIRIS",
+    "dateAdded": "2026-02-04T13:30:14.081Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "56Kwrlq7ocxAvv0vdEbFet",
+    "apple": null,
+    "amazon": "B0GHWT9CW1",
+    "youtube": "UCeUsWO3hjljHlqY34v-mz6w",
     "tiktok": null,
     "instagram": null
   },
@@ -6242,6 +6347,31 @@
     "instagram": null
   },
   {
+    "id": "dear-god-its-me",
+    "name": "Dear God It's Me",
+    "dateAdded": "2026-02-04T13:29:17.117Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The comments on their Carry Me Home video https://www.youtube.com/watch?v=ptnKHbd8TMA, allude to AI usage.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "67RevHQrrvrHzFRPAQgOyC",
+    "apple": "1854311269",
+    "amazon": null,
+    "youtube": "UCQKIX3pv9FafW2tRiYybUqA",
+    "tiktok": "@deargoditsmemusic",
+    "instagram": null
+  },
+  {
     "id": "death-culture",
     "name": "Death Culture",
     "dateAdded": "2026-01-03T14:03:41.000Z",
@@ -6319,12 +6449,19 @@
     "id": "decayed-souls",
     "name": "Decayed Souls",
     "dateAdded": "2025-12-18T10:08:03.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
+    "dateUpdated": "2026-02-04T10:44:09.654Z",
+    "disclosure": "partial",
+    "disclosureNotes": "The TikTok bio states: \"I‘m Zane who loves to create music! Booktok, gamer and more! Lyrics are real, sing/hum/drum and let AI build it.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
     "markers": [
-      "anonymous"
+      "anonymous",
+      "ai-visuals",
+      "2024-onwards"
     ],
     "markerNotes": "Has duplicate artist profiles on Spotify. AI cover art.",
     "genres": [],
@@ -9170,6 +9307,32 @@
     "apple": "1750281554",
     "amazon": "B0D5YXXW2Z",
     "youtube": "UCtUJ9-HQ7IFQqzKtOVA-tyQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "free-thinking-american",
+    "name": "Free_Thinking_American",
+    "dateAdded": "2026-02-04T10:50:05.795Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "anonymous",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1RMfWGIWHfxDzAHdzV5DBR",
+    "apple": "1853475831",
+    "amazon": null,
+    "youtube": "UC5OjA86ceTA0GpCGCCK7KFA",
     "tiktok": null,
     "instagram": null
   },
@@ -18108,6 +18271,31 @@
     "instagram": "nukeholeband"
   },
   {
+    "id": "numb-theory",
+    "name": "Numb Theory",
+    "dateAdded": "2026-02-04T10:52:03.790Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"We are a new kind of band, blending artificial intelligence with human creativity to push the boundaries of heavy music. Every track you hear is AI-assisted, but nothing is automatic, real work, direction, and hours of editing go into shaping each song, lyric, and visual.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6EW6th7nNnqrZKwg4j7X00",
+    "apple": null,
+    "amazon": "B0FJBVLY75",
+    "youtube": "UCaTQjAC9vQJHNKZxVUJZA7g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "nxtngen",
     "name": "NXTNGen",
     "dateAdded": "2026-01-01T16:02:32.000Z",
@@ -21224,6 +21412,32 @@
     "instagram": "runtimestudios"
   },
   {
+    "id": "rust-assembly",
+    "name": "Rust Assembly",
+    "dateAdded": "2026-02-04T10:56:14.345Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3hQQymTzwZPzi1cW1eHhUJ",
+    "apple": "1843973609",
+    "amazon": "B0FTZ71CQT",
+    "youtube": "UCtC4tju6ucOmfi6cuY8Re6Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "ryker-ashford",
     "name": "Ryker Ashford",
     "dateAdded": "2026-02-01T22:39:50.256Z",
@@ -22292,6 +22506,32 @@
     "youtube": "UCVuidXFVWvFgZXFHsS5Tp6A",
     "tiktok": null,
     "instagram": "officialshininglightmusic"
+  },
+  {
+    "id": "shiranai-exe",
+    "name": "Shiranai.exe",
+    "dateAdded": "2026-02-04T10:55:09.955Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0pAjW7Vtxmn7zVoEBvmZ9V",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UClwxLVrCWxuK0C6_Cx3Xw2A",
+    "tiktok": null,
+    "instagram": "shiranai.exe"
   },
   {
     "id": "shonjii",
@@ -26330,6 +26570,31 @@
     "youtube": "UCA1z2cDDl_WkH2YrhKKkEng",
     "tiktok": "@trouble_ment",
     "instagram": "lizzy_trouble"
+  },
+  {
+    "id": "true-roots-blues",
+    "name": "True Roots Blues",
+    "dateAdded": "2026-02-04T13:32:22.415Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"Rather than just looking back, T.R.B. embraces AI-powered creativity to sculpt a sound that is both authentic and cinematic.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "high-output",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "19CiSTL0SVziGSG0yLYeGp",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCOE1BsojEdzxciyJNKzg8yA",
+    "tiktok": "@truerootsblues",
+    "instagram": null
   },
   {
     "id": "truth-s3rum",
