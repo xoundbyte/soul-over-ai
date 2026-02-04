@@ -1,0 +1,30 @@
+{
+  "id": "ai-soundtracks",
+  "name": "AI Soundtracks",
+  "dateAdded": "2026-02-04T13:35:01.754Z",
+  "dateUpdated": null,
+  "disclosure": "partial",
+  "disclosureNotes": "The artist title alludes to AI usage and the YouTube bio states: \"I use synthesized software to generate the vocals and rhythm, but the songs are all written by me.\"",
+  "disclosureTypes": [
+    "instrumentation",
+    "mastering",
+    "mixing",
+    "vocals"
+  ],
+  "markers": [
+    "ai-visuals",
+    "anonymous",
+    "inconsistent-style"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "0vUjNUtyKibIVc0h6tcjmN",
+  "apple": null,
+  "amazon": null,
+  "youtube": "UCevOh86UVZAc3Y2h4DyNYMA",
+  "tiktok": "@ai_soundtracks",
+  "instagram": null
+}
