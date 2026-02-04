@@ -4323,6 +4323,32 @@
     "instagram": null
   },
   {
+    "id": "cara-bloom",
+    "name": "Cara Bloom",
+    "dateAdded": "2026-02-04T22:25:18.832Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3I1n2OAdW7SQf7F3e8LAA9",
+    "apple": "1868401169",
+    "amazon": null,
+    "youtube": "UCsliN4_O03_ACtb53zQhoYw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "cayden-cruz",
     "name": "Cayden Cruz",
     "dateAdded": "2025-12-23T16:51:47.000Z",
@@ -6840,6 +6866,31 @@
     "instagram": null
   },
   {
+    "id": "dirty-charlie",
+    "name": "Dirty Charlie",
+    "dateAdded": "2026-02-04T21:06:10.674Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The video for Unapologetic Soul https://www.youtube.com/watch?v=bfsFn-Wqxfw uses the hashtag #aimusic in the description.",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "74OkAT0lDZ0Hw0hp70md6q",
+    "apple": "1859330719",
+    "amazon": "B005S4A3TG",
+    "youtube": "UC6GbyJ0aMoqvcrGoncDqd7g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "disclaimer-without-remarks",
     "name": "disclaimer without remarks",
     "dateAdded": "2026-01-27T15:29:10.244Z",
@@ -7522,6 +7573,31 @@
     "apple": null,
     "amazon": "B0BBSTRW49",
     "youtube": "UC5wZPVXPbVMYsEzi7cBVCsg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "ean-grimm",
+    "name": "Ean Grimm",
+    "dateAdded": "2026-02-04T21:08:07.872Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1CpsGlYxA696bgBGhWlo2j",
+    "apple": "1451782319",
+    "amazon": "B07NCS925W",
+    "youtube": "UCJolBeKYuoaIJDPTFNqaEPQ",
     "tiktok": null,
     "instagram": null
   },
@@ -10556,6 +10632,32 @@
     "youtube": "UC7ckKaPxBbvtlUSRq4rb_zQ",
     "tiktok": "@halleluyahvoiceof",
     "instagram": "halleluyahvoiceofzion"
+  },
+  {
+    "id": "hallucinophonics",
+    "name": "Hallucinophonics",
+    "dateAdded": "2026-02-04T22:33:35.518Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The band came into existence in 2025, and has released multiple albums, EPs and singles. During this time they have produced 23 (at time of writing) music videos which all appear to be AI-generated with descriptions that also appear to be AI-generated.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1Xn2Xs80B7ZpGG633ai071",
+    "apple": "1818492774",
+    "amazon": null,
+    "youtube": "UCG4DkeyoeoNc8wSjgB5gE-A",
+    "tiktok": null,
+    "instagram": "officialhallucinophonics"
   },
   {
     "id": "halonixx",
@@ -20300,6 +20402,31 @@
     "instagram": null
   },
   {
+    "id": "ravnskjold",
+    "name": "Ravnskjold",
+    "dateAdded": "2026-02-04T21:10:36.835Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0B8wNPtjpy8HNoaCMoq0me",
+    "apple": "1587173994",
+    "amazon": "B09GYRLG47",
+    "youtube": "UCv056pQTT6kr9qUWl4oEeMQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "reaper-vx",
     "name": "Reaper VX",
     "dateAdded": "2026-01-09T13:33:01.349Z",
@@ -22140,11 +22267,12 @@
     "id": "seraphina-rossi",
     "name": "Seraphina Rossi",
     "dateAdded": "2026-01-07T10:32:13.809Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-04T21:02:39.019Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
+      "anonymous",
       "ai-visuals"
     ],
     "markerNotes": "SubmitHub flags the songs as showing strong AI-generated characteristics.",
