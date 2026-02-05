@@ -93,6 +93,32 @@
     "instagram": null
   },
   {
+    "id": "404-breakcore",
+    "name": "404 Breakcore",
+    "dateAdded": "2026-02-05T09:50:39.346Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The description for the song 'i sing unto thee' https://www.youtube.com/watch?v=53O2QuqYFzk states: \"Please note the art and music are made with the help of AI.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7bE3SluIg1wlFO80i0cmRl",
+    "apple": "1858624828",
+    "amazon": null,
+    "youtube": "UCmP7Zo4xw3IjbDl1L3CFz8g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "5-days-left",
     "name": "5 Days Left",
     "dateAdded": "2026-01-17T12:17:09.827Z",
@@ -2024,6 +2050,33 @@
     "youtube": "UCFyQRUJrzy3lznxudFrX_fg",
     "tiktok": "@artificial.indivd",
     "instagram": "artificialindividual90"
+  },
+  {
+    "id": "artificial-soul",
+    "name": "Artificial Soul",
+    "dateAdded": "2026-02-05T09:58:49.023Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Spotify bio states: \"This channel is my space to let the inner poet speak through sound, blending human emotion with the imagination of AI.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4xKvwG0r26YvoddWvisGb9",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UC0GQKegv90KuqvapFghjpKw",
+    "tiktok": "@artificial.soul.official",
+    "instagram": "artificial_soul_official"
   },
   {
     "id": "artimus-ion",
@@ -6575,6 +6628,33 @@
     "instagram": "demonflyingfox"
   },
   {
+    "id": "denim-highway",
+    "name": "Denim Highway",
+    "dateAdded": "2026-02-05T09:53:01.547Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "high-output",
+      "ai-visuals",
+      "inconsistent-style",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3A8uae2T4dUJBhcIOftgTA",
+    "apple": "1817881391",
+    "amazon": null,
+    "youtube": "UCvGQ9k1t3HkX5ek5EiMy4cQ",
+    "tiktok": null,
+    "instagram": "denimhighwaymusic"
+  },
+  {
     "id": "departir",
     "name": "DEPARTIR",
     "dateAdded": "2026-01-02T11:18:41.000Z",
@@ -7642,6 +7722,31 @@
     "apple": "1823526093",
     "amazon": null,
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "echo-soul-records",
+    "name": "Echo Soul Records",
+    "dateAdded": "2026-02-05T09:54:01.993Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"We create and share original romantic ballads, emotional lyric videos, and AI-enhanced love songs that speak straight to the heart.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "2024-onwards"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4KEYaHJAo7EiU7rDaxrf8l",
+    "apple": "1840635353",
+    "amazon": null,
+    "youtube": "UC90s5SYXxiP4WI0YpCpNZng",
     "tiktok": null,
     "instagram": null
   },
@@ -14698,6 +14803,31 @@
     "instagram": null
   },
   {
+    "id": "livinfortheplanet",
+    "name": "LivinForThePlanet",
+    "dateAdded": "2026-02-05T10:00:35.196Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Instagram bio states: \"Science of the Soul — Co-Created with AI.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "high-output",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3q5Mx94zNB83CeaQAKnJ1v",
+    "apple": "1834595778",
+    "amazon": null,
+    "youtube": "UCaVQ5tX0BwBBHpDYktA_JLg",
+    "tiktok": "@livinfortheplanet",
+    "instagram": "livinfortheplanet"
+  },
+  {
     "id": "lladywolf",
     "name": "lladywolf",
     "dateAdded": "2026-01-03T23:57:15.000Z",
@@ -16339,6 +16469,32 @@
     "apple": "1841592866",
     "amazon": null,
     "youtube": "UCG4lNLg_XKr0Du1m-Dk4b-Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "mic-drop",
+    "name": "Mic Drop",
+    "dateAdded": "2026-02-05T09:48:17.621Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output",
+      "inconsistent-style",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3pOfRs5PLBNF87SZnkQaI6",
+    "apple": "1563879386",
+    "amazon": "B092Z6NWLF",
+    "youtube": "UCyQ_NMPZpJcjzPn_t-rMGIQ",
     "tiktok": null,
     "instagram": null
   },
@@ -27120,6 +27276,36 @@
     "instagram": "unfoundrecords"
   },
   {
+    "id": "unlimited-motivation",
+    "name": "Unlimited Motivation",
+    "dateAdded": "2026-02-05T10:07:07.193Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The Spotify bio states: \"I turn comments into music using AI.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "55mo1HrZqinkTRV0gqUDvL",
+    "apple": "1813474056",
+    "amazon": null,
+    "youtube": "UCWAeVZCNvJ6ApLh-f90NZoQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "until-nothing",
     "name": "Until Nothing",
     "dateAdded": "2026-01-15T09:53:21.255Z",
@@ -27672,6 +27858,32 @@
     "youtube": "UCX--empFSUT95M4hPPVOzzQ",
     "tiktok": null,
     "instagram": "velvet.funk"
+  },
+  {
+    "id": "velvet-rae",
+    "name": "Velvet Rae",
+    "dateAdded": "2026-02-05T10:04:18.480Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "This album https://www.deezer.com/us/album/873116762 has been as AI by Deezer.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4QVQb2hkAnexsROnMcB5qS",
+    "apple": "1827679910",
+    "amazon": "B0F4494YPV",
+    "youtube": "UCnjoj3vGOAeXPBSrS9s9jgQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "velvet-rebellion",
@@ -29539,6 +29751,38 @@
     "apple": "1796109054",
     "amazon": null,
     "youtube": "UCTEuhhiwbVIqC7k_doaEWfA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "zunraid",
+    "name": "ZUNRAID",
+    "dateAdded": "2026-02-05T10:05:48.816Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"I experiment with AI music. That's why I have songs of different genres and different vocals on my channel.I want to explore the limits and possibilities of AI in music creation. I use SunoAi v4.5 , ChatGPT. Lately I've been writing lyrics myself.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7ACR6q1laDn6SB6Geyrucp",
+    "apple": "1791219353",
+    "amazon": "B0DTH2Q2RF",
+    "youtube": "UCs8yemoRSmfBPHwF4D__q3A",
     "tiktok": null,
     "instagram": null
   }
