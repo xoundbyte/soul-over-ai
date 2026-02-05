@@ -1,0 +1,26 @@
+{
+  "id": "404-breakcore",
+  "name": "404 Breakcore",
+  "dateAdded": "2026-02-05T09:50:39.346Z",
+  "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureNotes": "The description for the song 'i sing unto thee' https://www.youtube.com/watch?v=53O2QuqYFzk states: \"Please note the art and music are made with the help of AI.\"",
+  "disclosureTypes": [],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "7bE3SluIg1wlFO80i0cmRl",
+  "apple": "1858624828",
+  "amazon": null,
+  "youtube": "UCmP7Zo4xw3IjbDl1L3CFz8g",
+  "tiktok": null,
+  "instagram": null
+}
