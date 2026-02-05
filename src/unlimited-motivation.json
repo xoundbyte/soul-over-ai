@@ -1,0 +1,30 @@
+{
+  "id": "unlimited-motivation",
+  "name": "Unlimited Motivation",
+  "dateAdded": "2026-02-05T10:07:07.193Z",
+  "dateUpdated": null,
+  "disclosure": "partial",
+  "disclosureNotes": "The Spotify bio states: \"I turn comments into music using AI.\"",
+  "disclosureTypes": [
+    "instrumentation",
+    "mastering",
+    "mixing",
+    "vocals"
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "high-output"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "55mo1HrZqinkTRV0gqUDvL",
+  "apple": "1813474056",
+  "amazon": null,
+  "youtube": "UCWAeVZCNvJ6ApLh-f90NZoQ",
+  "tiktok": null,
+  "instagram": null
+}
