@@ -576,6 +576,32 @@
     "instagram": null
   },
   {
+    "id": "afro-carpathic",
+    "name": "Afro-Carpathic",
+    "dateAdded": "2026-02-05T14:53:06.955Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The description on this artist's video https://www.youtube.com/watch?v=ceys2sLoDC0 states: \"This piece contains elements generated using artificial intelligence, artistically integrated into an original creation.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5DZKNZhV1fwVz5UcmzD83A",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCwLfIkZ2YMOqkli2AEZ0MJw",
+    "tiktok": null,
+    "instagram": "afrocarpathic"
+  },
+  {
     "id": "after-indigo",
     "name": "After Indigo",
     "dateAdded": "2025-12-28T23:48:29.000Z",
@@ -1929,6 +1955,32 @@
     "youtube": "UCHiLsRo9aM95w5ABze9vdLw",
     "tiktok": "@ariabyte.official",
     "instagram": "ariabyte.official"
+  },
+  {
+    "id": "aria-flux",
+    "name": "Aria Flux",
+    "dateAdded": "2026-02-05T14:40:51.057Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "66uRbhmisjPurkWAYwMLkF",
+    "apple": "1746459032",
+    "amazon": "B0D3Z6KB8H",
+    "youtube": "UCoLLXcAvelP0pYMuJfjTbtg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "aria-sai",
@@ -6091,6 +6143,32 @@
     "instagram": null
   },
   {
+    "id": "dark-r-and-b-confessions",
+    "name": "DARK R&B CONFESSIONS",
+    "dateAdded": "2026-02-05T14:34:26.651Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0TK8ypVt5imlKODySz7x6J",
+    "apple": null,
+    "amazon": "B0GCPNMM6M",
+    "youtube": "UCJW7Tkh0THiehAks9axUkoA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "dark-sea-ambience",
     "name": "Dark Sea Ambience",
     "dateAdded": "2025-11-27T16:46:08.000Z",
@@ -10210,6 +10288,32 @@
     "instagram": null
   },
   {
+    "id": "gnx75",
+    "name": "GNX75",
+    "dateAdded": "2026-02-05T14:18:48.018Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The artist appears to have a profile on muso.ai https://credits.muso.ai/profile/4a848a61-99be-4144-bede-fc2e33470550",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2dn1t1ZO6IcJ7oBBGJNfa1",
+    "apple": "1841025661",
+    "amazon": "B0FR5GTV58",
+    "youtube": "UCGA1cSRv4WOcvcchaQss9-g",
+    "tiktok": "@stroctus75",
+    "instagram": null
+  },
+  {
     "id": "gobta-d",
     "name": "GOBTA D",
     "dateAdded": "2026-01-03T12:47:43.000Z",
@@ -10592,6 +10696,36 @@
     "youtube": "UC_4IKgpmSQ079q6BmBRqCVQ",
     "tiktok": "@grimdarktavern",
     "instagram": "grimdarktavern"
+  },
+  {
+    "id": "grimfel",
+    "name": "Grimfel",
+    "dateAdded": "2026-02-05T14:28:13.758Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "In the video for Beautiful Mess https://www.youtube.com/watch?v=N74CR3Wg1ro, the description states: “Vocal processing: Kits (AI assisted), Antares Auto-Tune, Metamorph, Melodyne. Production: Ableton Live, AI for modulations, loops and samples.”",
+    "disclosureTypes": [
+      "vocals",
+      "mixing"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The X account https://x.com/GrimfelOfficial posts frequently in support of AI in art, for example \"The picture looks great even if its AI. Who pays $500 for art anyway?\" https://x.com/GrimfelOfficial/status/1701582025822548156 and \n“I have to laugh that goths of all people are crying the most about AI in music” https://x.com/GrimfelOfficial/status/2015998361371820438.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2oSVjQgC836Zsp7byp41BA",
+    "apple": "1730574004",
+    "amazon": "B0CVJRJSH5",
+    "youtube": "UCooxezuwxmRz90ubjU4TseA",
+    "tiktok": "@grimfelmusic",
+    "instagram": "grimfelofficial"
   },
   {
     "id": "groove-monkey",
@@ -13161,6 +13295,32 @@
     "instagram": null
   },
   {
+    "id": "jude-black",
+    "name": "Jude Black",
+    "dateAdded": "2026-02-05T14:31:03.046Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "Deezer's AI-detection software flags this artist's music as containing AI-generated content.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4koXG5mmZVpbeUUv2BeuIE",
+    "apple": "1856885597",
+    "amazon": null,
+    "youtube": "UCYc0uYF_dOy59OjpsjAJrFQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "jude-haden",
     "name": "Jude Haden",
     "dateAdded": "2026-01-19T11:15:14.105Z",
@@ -14476,6 +14636,30 @@
     "instagram": null
   },
   {
+    "id": "larek-james",
+    "name": "Larek James",
+    "dateAdded": "2026-02-05T14:55:49.485Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0JROCTt8nQa3AD2P0vlX5r",
+    "apple": "1859328335",
+    "amazon": null,
+    "youtube": "UCzbWy-BPDYxmZq6Q5GDoRnw",
+    "tiktok": "@larek.james",
+    "instagram": "larekjamesmusic"
+  },
+  {
     "id": "last-ashes",
     "name": "Last Ashes",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -14565,6 +14749,31 @@
     "youtube": "UCQkwuZ9IYVNagcb_Bic9zJw",
     "tiktok": "@lenzspot",
     "instagram": "lenzspot"
+  },
+  {
+    "id": "leon-lee-king",
+    "name": "Leon Lee King",
+    "dateAdded": "2026-02-05T14:35:24.290Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6RcAjGSc8Ds1Pczaka30qy",
+    "apple": "1862760064",
+    "amazon": null,
+    "youtube": "UCLLFp1xP4RwIZ8YUlelcxDg",
+    "tiktok": null,
+    "instagram": "leonleeking"
   },
   {
     "id": "let-babylon-burn",
@@ -16015,6 +16224,32 @@
     "apple": "1857063975",
     "amazon": "B001HRTYGQ",
     "youtube": "UCdro7o5W5GpKG0LEEE6DDyQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "meavee",
+    "name": "MeaVee",
+    "dateAdded": "2026-02-05T14:38:15.666Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2c0PZeqVWzfVMlPeIWlcVL",
+    "apple": "1839232217",
+    "amazon": null,
+    "youtube": "UCxEY95_uXjDuCDWAI586Eag",
     "tiktok": null,
     "instagram": null
   },
@@ -18194,6 +18429,32 @@
     "youtube": "UCBc34-IgZ7RP4VXqb0jwP_Q",
     "tiktok": null,
     "instagram": "niniel.music"
+  },
+  {
+    "id": "nirmata-blood",
+    "name": "NIRMATA BLOOD",
+    "dateAdded": "2026-02-05T14:49:06.614Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4NyC2tqWKkiGhiSm23eWYG",
+    "apple": "1795255536",
+    "amazon": "B0DWL63Z4N",
+    "youtube": "UCIUBm5XABXNw1e7u9TPyxFA",
+    "tiktok": "@nirmvtv.blood",
+    "instagram": "nirmatablood"
   },
   {
     "id": "no-soul-society",
@@ -20655,6 +20916,33 @@
     "instagram": null
   },
   {
+    "id": "red-grizz",
+    "name": "Red Grizz",
+    "dateAdded": "2026-02-05T14:50:34.370Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The TikTok profile states: \"Making awesome AI music and bringing it to you!\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1NKOPriipcFcbwQpeNpjrw",
+    "apple": "1869215891",
+    "amazon": "B0GGYZJJP7",
+    "youtube": "UCWHbJYMaXQTXQWRQOVG2g7g",
+    "tiktok": "@redgrizzmusic",
+    "instagram": null
+  },
+  {
     "id": "red-village",
     "name": "Red Village",
     "dateAdded": "2025-12-22T21:54:55.000Z",
@@ -22136,6 +22424,58 @@
     "apple": "1783097616",
     "amazon": "B0DPJ5H498",
     "youtube": "UCyTgC5Z2DLI1ppRWdYjmiaw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "santino-ray",
+    "name": "Santino Ray",
+    "dateAdded": "2026-02-05T14:32:42.572Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6zxb6jNn1Su1E2AVcOMNfN",
+    "apple": "1854661828",
+    "amazon": null,
+    "youtube": "UCdRTm_oJFG9AUkoo6GTw5Lw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "sapepeka",
+    "name": "SAPEPEKA",
+    "dateAdded": "2026-02-05T14:11:30.759Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5nWDVqv1uE3plJhXiS6a7r",
+    "apple": null,
+    "amazon": "B0D9ZQ78KK",
+    "youtube": "UCwFIB7QZaraHlaXFCpO3mmQ",
     "tiktok": null,
     "instagram": null
   },
@@ -26909,6 +27249,32 @@
     "instagram": "total.metal.destruction"
   },
   {
+    "id": "toxic-chemistry",
+    "name": "Toxic Chemistry",
+    "dateAdded": "2026-02-05T14:10:36.699Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "464z5C1gdBKZagXRcmBbHK",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCHN35rYhCO-KSvod5x0hvbQ",
+    "tiktok": null,
+    "instagram": "officialtoxicchemistry"
+  },
+  {
     "id": "tripstone-heathen",
     "name": "Tripstone Heathen",
     "dateAdded": "2026-01-14T23:23:33.235Z",
@@ -27745,13 +28111,40 @@
     "instagram": "veins.ofgold"
   },
   {
+    "id": "velcheva-vibe",
+    "name": "VELCHEVA VIBE",
+    "dateAdded": "2026-02-05T14:36:19.894Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2YS32rdok3MAzXbgIlZzzl",
+    "apple": "1861732439",
+    "amazon": null,
+    "youtube": "UCyDntyiDcta8FUtjhP2s4YQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "velora",
     "name": "Velora",
     "dateAdded": "2026-01-10T11:07:40.829Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-05T14:58:08.340Z",
     "disclosure": "partial",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
+    "disclosureNotes": "The YouTube bio states: \"I work from my own MIDI songs (full arrangements of guitars, bass, keys, drums), build everything in a DAW, program the instruments and use orchestral libraries for the symphonic parts. Vocals are written and tuned with Melodyne, then processed with AI, always crafted with my intention and emotion. Finally, I mix and master everything myself.\"",
+    "disclosureTypes": [
+      "vocals"
+    ],
     "markers": [
       "ai-visuals",
       "anonymous"
@@ -27766,7 +28159,7 @@
     "amazon": "B0FSY5GKRB",
     "youtube": "UC1Q95qs-ooisRjit2oaCeaA",
     "tiktok": null,
-    "instagram": null
+    "instagram": "velora.music"
   },
   {
     "id": "velour",
@@ -28351,6 +28744,31 @@
     "apple": "1801106088",
     "amazon": "B0DZX94SSZ",
     "youtube": "UChRw_spujGS2HA05jHuCFrA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "voltekas",
+    "name": "VØLTEKAS",
+    "dateAdded": "2026-02-05T14:44:33.959Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The account has pivoted to music within the past year (2025). There also appears to be large shifts in the genre of the music produced, for example: https://www.youtube.com/watch?v=xuEDlmymLjQ and https://www.youtube.com/watch?v=3WYP6GTboyc.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2YwJK4ncNJvyhum41gPeOh",
+    "apple": "1849320178",
+    "amazon": "B0FY67XYN1",
+    "youtube": "UCCSRRIl8KVRybWpGaNNU2Vg",
     "tiktok": null,
     "instagram": null
   },
