@@ -93,6 +93,33 @@
     "instagram": null
   },
   {
+    "id": "326-yasube",
+    "name": "326 YASUBE-",
+    "dateAdded": "2026-02-06T22:50:17.317Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Instagram bio states: \"k-pop k-Phonk AI Artist.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "53pnP2h9rxepCTy1OG14P7",
+    "apple": "1814350134",
+    "amazon": "B0F8H4PPVR",
+    "youtube": "UCHrCbrMLpRzCYfYoBXkwfvg",
+    "tiktok": "@326yasube326",
+    "instagram": "326yasube326"
+  },
+  {
     "id": "404-breakcore",
     "name": "404 Breakcore",
     "dateAdded": "2026-02-05T09:50:39.346Z",
@@ -969,6 +996,33 @@
     "amazon": "B0DJFRMBFX",
     "youtube": "UCENgm_VduV3UxaSfSEGtGgQ",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "alarm-clock-hero",
+    "name": "Alarm Clock Hero",
+    "dateAdded": "2026-02-07T00:00:38.472Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The TikTok bio states \"Ai Assisted Creative music\" whilst the YouTube bio states: \"I’m still learning how to shape music and narrative, experimenting with AI to help these worlds wake up.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style",
+      "high-output"
+    ],
+    "markerNotes": "The artist has also released 3 videos in 2 weeks.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3b4epb94BqwtfRvKLgHI4B",
+    "apple": "1791097242",
+    "amazon": null,
+    "youtube": "UCatap3-5i6DmLhOvi6ew8Vg",
+    "tiktok": "@alarmclockhero",
     "instagram": null
   },
   {
@@ -6856,6 +6910,32 @@
     "youtube": "UCEvWjJwHzKiMAT8t8mmySNg",
     "tiktok": "@dethlordproductions",
     "instagram": "dethlordproductions"
+  },
+  {
+    "id": "dethrone-the-crown",
+    "name": "Dethrone the crown",
+    "dateAdded": "2026-02-07T00:04:10.132Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "The TikTok bio states: \"AI Band.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "003OkIwHU9nsCZKIm4xMFq",
+    "apple": "1869584450",
+    "amazon": "B0GH8NMVR6",
+    "youtube": "UC53Uo7JDy5K9aCEZWRo7FoA",
+    "tiktok": "@dethrone.the.crown",
+    "instagram": null
   },
   {
     "id": "deuceai",
@@ -14931,31 +15011,6 @@
     "instagram": "lenzspot"
   },
   {
-    "id": "leon-lee-king",
-    "name": "Leon Lee King",
-    "dateAdded": "2026-02-05T14:35:24.290Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
-    "markers": [
-      "2024-onwards",
-      "ai-visuals",
-      "anonymous"
-    ],
-    "markerNotes": null,
-    "genres": [],
-    "popularity": null,
-    "followers": null,
-    "shScore": null,
-    "spotify": "6RcAjGSc8Ds1Pczaka30qy",
-    "apple": "1862760064",
-    "amazon": null,
-    "youtube": "UCLLFp1xP4RwIZ8YUlelcxDg",
-    "tiktok": null,
-    "instagram": "leonleeking"
-  },
-  {
     "id": "let-babylon-burn",
     "name": "Let Babylon Burn",
     "dateAdded": "2026-01-09T12:57:07.365Z",
@@ -19057,12 +19112,17 @@
     "id": "nox-resonantia",
     "name": "Nox Resonantia",
     "dateAdded": "2026-01-11T19:50:39.882Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-06T22:47:44.293Z",
     "disclosure": "partial",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
+    "disclosureNotes": "The YouTube bio states: \"This metal band was born in Türkiye in 2025 with the support of AI. The melancholic rhythms of Anatolia merged with the perfection of AI. Lyrics, creative direction, mood, structure and final releases are manually curated and produced by the channel owner. AI-based tools are used as part of the production workflow, similar to digital instruments or software, while all artistic decisions remain human-directed.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "vocals"
+    ],
     "markers": [
-      "ai-visuals"
+      "ai-visuals",
+      "anonymous"
     ],
     "markerNotes": null,
     "genres": [],
@@ -22001,6 +22061,32 @@
     "amazon": "B0FPRPFSFF",
     "youtube": "UC_7T1JcpTBG89CsBlqXeUiA",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "rock-saami",
+    "name": "ROCK SAAMI",
+    "dateAdded": "2026-02-07T00:02:55.833Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"As Sri Lanka’s first AI artist his presence challenges old definitions of what it means to be “real” in rock.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous",
+      "ai-visuals",
+      "2024-onwards",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3ljIzxnLXyWxjbiGNp5BQY",
+    "apple": null,
+    "amazon": "B0FVRCGH1V",
+    "youtube": "UCAd1_DwT2iKc8s7rH6Af9lA",
+    "tiktok": "@rocksaami",
     "instagram": null
   },
   {
@@ -28509,14 +28595,14 @@
     "id": "veilr",
     "name": "Veilr",
     "dateAdded": "2026-01-14T17:08:05.373Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
+    "dateUpdated": "2026-02-06T22:48:55.696Z",
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Linktree https://linktr.ee/veilrverse description states: \"That era shaped how I build mood and story, and this AI-driven work brings back that same sense of possibility. Platforms: Photoshop, Premiere, After Effects, Reaper, GPT, Grok, Midjourney, Suno.\"",
     "disclosureTypes": [],
     "markers": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "2024-onwards"
     ],
     "markerNotes": null,
     "genres": [],
