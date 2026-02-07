@@ -6368,13 +6368,14 @@
     "id": "david-sven",
     "name": "David Sven",
     "dateAdded": "2026-01-02T12:18:25.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
+    "dateUpdated": "2026-02-07T14:49:30.550Z",
+    "disclosure": "partial",
+    "disclosureNotes": "From that artist's website https://www.davidsven.com/about-project: \"The voice you hear and the songs you find here were brought to life using modern creative tools — including AI-assisted production — always guided by a human hand and heart. Every lyric is written with intention. Every sound is chosen with care. David may not be a person you can shake hands with. But the feelings in his music are real — and they’re meant for you.\"",
     "disclosureTypes": [],
     "markers": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "2024-onwards"
     ],
     "markerNotes": null,
     "genres": [],
@@ -22046,6 +22047,31 @@
     "instagram": "roadkillpickers"
   },
   {
+    "id": "roark",
+    "name": "Roark",
+    "dateAdded": "2026-02-07T14:50:54.082Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Twitter bio states: \"Digital Musician.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4NNikdyBH8vm8UT1eIBMWZ",
+    "apple": "1783374859",
+    "amazon": "B000QKUJ78",
+    "youtube": "UCYCc6DepfsmkP6VYshSLdeA",
+    "tiktok": "@roarkmusic",
+    "instagram": "roarkmusic_"
+  },
+  {
     "id": "rock-and-funk",
     "name": "Rock and Funk",
     "dateAdded": "2025-12-27T20:12:54.000Z",
@@ -25536,6 +25562,33 @@
     "youtube": "UCWdYoELTuoqymXgBAdbmGEA",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "sunny-ray",
+    "name": "Sunny Ray",
+    "dateAdded": "2026-02-07T17:15:25.652Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "From their Spotify description: \"🌞 Sunny Ray is where tradition meets technology — blending the heart of folk, the grit of country, the groove of soul, and the spirit of gospel into something completely new. Every song, whether it’s a reimagined classic or an original creation, is brought to life with the help of AI and a whole lot of feeling. Music is subjective. Whether it's a person or a program, what matters is what it brings out in you. \"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6MAu0Z9K1Si5WxLMPkx1Rw",
+    "apple": "1783589428",
+    "amazon": "B00IDDPANI",
+    "youtube": "UC9hCndikNn1Kn3IN1ei-ecw",
+    "tiktok": "@sunnyray777",
+    "instagram": "sunny_ray333"
   },
   {
     "id": "sunremo",
