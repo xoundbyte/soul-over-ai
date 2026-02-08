@@ -3368,6 +3368,32 @@
     "instagram": "bent_ardi"
   },
   {
+    "id": "berachah",
+    "name": "Berachah",
+    "dateAdded": "2026-02-08T00:30:52.028Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The Youtube channel description states: \"This channel exists to give people good quality lyric videos, and amazing Biblical AI music for all to enjoy.\" On Youtube \"Psalm 20 // Metal Cover\" description states: \"[...] The song was generated using Suno AI, the lyrics were written by AI, and then I edited them quite a bit. [...]\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5m4xI2Y3pbaVH2BUwQv5ub",
+    "apple": "1845604677",
+    "amazon": "B07S3DPX6K",
+    "youtube": "UClrCpdu1CMEhME-7XSmhCOA",
+    "tiktok": "@thelordspatriots",
+    "instagram": null
+  },
+  {
     "id": "berserk-fall",
     "name": "Berserk Fall",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -22147,6 +22173,36 @@
     "youtube": "UCAd1_DwT2iKc8s7rH6Af9lA",
     "tiktok": "@rocksaami",
     "instagram": null
+  },
+  {
+    "id": "rockaholic-productions",
+    "name": "Rockaholic Productions",
+    "dateAdded": "2026-02-07T20:39:01.097Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"Every song I'll release is produced with a \"little help\" from AI while putting my own lyrics and melodies into the mix.\"",
+    "disclosureTypes": [
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6BTVID6m0GRajoiXlQcaXc",
+    "apple": "1753181210",
+    "amazon": "B0D7PJPR8S",
+    "youtube": "UCmwGqfn2QqhdCgtxeMas3Nw",
+    "tiktok": "@rockaholic_productions",
+    "instagram": "rockaholic_productions"
   },
   {
     "id": "rocking-rebel",
