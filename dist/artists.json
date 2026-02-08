@@ -11432,27 +11432,6 @@
     "instagram": "vantablack_1988"
   },
   {
-    "id": "henri-werner",
-    "name": "Henri Werner",
-    "dateAdded": "2025-12-18T14:48:46.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
-    "markers": [],
-    "markerNotes": null,
-    "genres": [],
-    "popularity": null,
-    "followers": null,
-    "shScore": null,
-    "spotify": "0nuGLpGw9XwyMLIKZxeRzE",
-    "apple": "1407391287",
-    "amazon": "B07F8FSHK4",
-    "youtube": "UCzt3FlPgTHzuNbHw_YBDZEg",
-    "tiktok": "@henri_werner_sound",
-    "instagram": "henri_werner_sound"
-  },
-  {
     "id": "henry-flower",
     "name": "Henry Flower",
     "dateAdded": "2025-12-12T09:30:05.000Z",
@@ -15069,6 +15048,34 @@
     "instagram": "lenzspot"
   },
   {
+    "id": "les-rock-n-rollos",
+    "name": "Les Rock'n'Rollos",
+    "dateAdded": "2026-02-08T19:04:14.851Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The Spotify bio states: \"A human composer writes the lyrics, music, and arrangements, while the vocals are performed by an AI voice, created to bring this modern Breton energy to life.\"",
+    "disclosureTypes": [
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5zx9WIVEZN7Mo5m2G6DSzO",
+    "apple": "1870173378",
+    "amazon": "B0GHMZWZ6L",
+    "youtube": "UCeHC-3bkYnMEsTlyOyzpZAQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "let-babylon-burn",
     "name": "Let Babylon Burn",
     "dateAdded": "2026-01-09T12:57:07.365Z",
@@ -15624,6 +15631,61 @@
     "youtube": "UCP7EFO3gIyFZYRsOP__Pwcw",
     "tiktok": null,
     "instagram": "loreenikolemusic"
+  },
+  {
+    "id": "lostviking75",
+    "name": "LostViking75",
+    "dateAdded": "2026-02-08T18:52:37.800Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "On some YouTube videos, the #aimusic hashtag is used and some videos are self-labelled as AI-generated on TikTok.",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3hejWfbLzYlAUCMuZepOTU",
+    "apple": "1849105266",
+    "amazon": null,
+    "youtube": "UCmbBchwwm1ETbLI2iVICwAw",
+    "tiktok": "@lostviking75",
+    "instagram": "lostviking75"
+  },
+  {
+    "id": "lullabies-from-the-crypts",
+    "name": "Lullabies From The Crypts",
+    "dateAdded": "2026-02-08T18:42:37.730Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3yo8Jwd60i1fjD1mtZ0nS4",
+    "apple": "1868618486",
+    "amazon": "B0GGHYD91X",
+    "youtube": "UCe0RZv1zAXwIhIzx1yDw9Nw",
+    "tiktok": "@lullabiesfromthecrypts",
+    "instagram": null
   },
   {
     "id": "lumie",
@@ -18597,6 +18659,33 @@
     "amazon": null,
     "youtube": "UCW7R98YrINCx0wwyzRSPT4A",
     "tiktok": "@ngtroots",
+    "instagram": null
+  },
+  {
+    "id": "nick-brown",
+    "name": "Nick Brown",
+    "dateAdded": "2026-02-08T19:55:42.643Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "59X4KrAMn6WXZJlXjumTXx",
+    "apple": "1799033792",
+    "amazon": null,
+    "youtube": "UC2_WlRJF2j4l9V2Eo0qNxPw",
+    "tiktok": "@nickbrown5702",
     "instagram": null
   },
   {
@@ -21671,6 +21760,32 @@
     "instagram": null
   },
   {
+    "id": "retro-soundscapes",
+    "name": "Retro Soundscapes",
+    "dateAdded": "2026-02-08T19:42:15.991Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "No song credits, no vocalist attribution, or details about production.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "20PyEKhILLngnqdZFQg5Ak",
+    "apple": "1816361195",
+    "amazon": "B0F9T4K4N4",
+    "youtube": "UCitJC-gG7w7GMzXmlS61W2Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "retrosync",
     "name": "Retrosync",
     "dateAdded": "2026-01-11T20:01:11.670Z",
@@ -23182,6 +23297,32 @@
     "instagram": null
   },
   {
+    "id": "seek-first-worship",
+    "name": "Seek First Worship",
+    "dateAdded": "2026-02-08T19:50:25.565Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"Since I’m just one person, I do use digital tools to help with vocals and production.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2myyS6fLH4g4Ujz7huW3GI",
+    "apple": "1859149557",
+    "amazon": null,
+    "youtube": "UCt8ucV_27tRPWkonyT6T5Cg",
+    "tiktok": "@seekfirstworship",
+    "instagram": "p"
+  },
+  {
     "id": "seen-it-forever",
     "name": "seen it forever",
     "dateAdded": "2025-12-25T15:27:50.000Z",
@@ -24671,6 +24812,30 @@
     "amazon": "B0F2GYZ87P",
     "youtube": "UCGIFgMN67R9YrRDx32ilLNA",
     "tiktok": "@solarshardx",
+    "instagram": null
+  },
+  {
+    "id": "sole",
+    "name": "Solé",
+    "dateAdded": "2026-02-08T20:16:15.130Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The artist has several 6+ year old songs on their YouTube account, mainly featuring a woman rapping. Jump to around 5 months ago, and they started releasing songs mostly in a pop genre, but very notable jumps from genres in some songs like in \"unbound\", or even in different languages like in \"Mon Style\", or \"Ma copine à moi\". \"Le Chat et la Souris\" also has a male rapper rapping in French.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5Iiffmdr7S2pE8OHVGN1ep",
+    "apple": "1836583884",
+    "amazon": "B00199NVF2",
+    "youtube": "UCK6Wf-KvBpKeA6jQnAwfCuQ",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -30096,6 +30261,33 @@
     "apple": "480917709",
     "amazon": "B0DPN6HX7K",
     "youtube": "UCT3BJIH6Q5fFa7pWRUYx6oQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "witch-ink",
+    "name": "Witch Ink",
+    "dateAdded": "2026-02-08T19:44:52.658Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7Jm2NlnF4dceNY1j8KfUU2",
+    "apple": "1813653646",
+    "amazon": "B0F88XNL5L",
+    "youtube": "UCg9Z_F2xld37fsnr9gXPdCw",
     "tiktok": null,
     "instagram": null
   },
