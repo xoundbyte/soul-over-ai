@@ -1,0 +1,28 @@
+{
+  "id": "meraki-moon",
+  "name": "Meraki Moon",
+  "dateAdded": "2026-02-08T21:33:01.242Z",
+  "dateUpdated": null,
+  "disclosure": "partial",
+  "disclosureNotes": "The YouTube bio states: \"LYRICIST | SONGWRITER | PRODUCER | VOCAL DESIGNER (ai assisted).\"",
+  "disclosureTypes": [
+    "vocals"
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "7lzsUJl6NQj49mTsLfW15T",
+  "apple": "1824800898",
+  "amazon": "B0FGW54TRQ",
+  "youtube": "UCwjrk3v27S_usTIRd8_ZF8g",
+  "tiktok": "@meraki_m.oon",
+  "instagram": "m.eraki_m.oon"
+}
