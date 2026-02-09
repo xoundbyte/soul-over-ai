@@ -6172,6 +6172,32 @@
     "instagram": null
   },
   {
+    "id": "danty-lwanga",
+    "name": "Danty_Lwanga",
+    "dateAdded": "2026-02-09T10:54:22.186Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "high-output",
+      "ai-visuals",
+      "inconsistent-style"
+    ],
+    "markerNotes": "There appears to be no performer consistency with uncredited male vocals https://www.youtube.com/watch?v=N-dWkO8_epI and female https://www.youtube.com/watch?v=hylRPkKgP_0.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2fcukpuihcb8bhADyYaGqy",
+    "apple": "1830084668",
+    "amazon": "B0FKM18Q37",
+    "youtube": "UCEL5e8NVnEykO-ddAbtuj7g",
+    "tiktok": "@danty_lwanga",
+    "instagram": "danty_lwanga"
+  },
+  {
     "id": "daphne-rae-meyers",
     "name": "Daphne Rae Meyers",
     "dateAdded": "2026-02-01T23:07:29.892Z",
@@ -11229,6 +11255,32 @@
     "instagram": null
   },
   {
+    "id": "gym-bro-alpha",
+    "name": "Gym Bro Alpha",
+    "dateAdded": "2026-02-09T11:49:23.235Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3qoLOBjjwX3gyZUBNVREhq",
+    "apple": "1871731318",
+    "amazon": null,
+    "youtube": "UCcAcLzR0rv5og-4Zsgtr-5A",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "halleluyah-voice-of-zion",
     "name": "HalleluYah Voice Of Zion",
     "dateAdded": "2026-01-30T21:19:35.183Z",
@@ -14836,6 +14888,31 @@
     "youtube": "UC0B4nGuC_Z3O7vWNEZJUbGA",
     "tiktok": "@krahbicht",
     "instagram": "krahbicht"
+  },
+  {
+    "id": "krim2gwer",
+    "name": "Krim2Gwer",
+    "dateAdded": "2026-02-09T11:39:18.225Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": "Flagged as AI by Deezer https://www.deezer.com/us/album/890605362.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6i2yglGFxhmuoFm2Z9OxNR",
+    "apple": "1866387192",
+    "amazon": "B0GDZ143MD",
+    "youtube": "UCT6ge8rTS-kKEI_vqXIYikg",
+    "tiktok": null,
+    "instagram": "krim2gwer"
   },
   {
     "id": "krimsonthefox",
@@ -20466,6 +20543,32 @@
     "instagram": "littleboypawfu"
   },
   {
+    "id": "penn",
+    "name": "Penn",
+    "dateAdded": "2026-02-09T09:41:21.772Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5hr0N82ZyJl3RqQXUt0TMR",
+    "apple": "1821274807",
+    "amazon": "B0DYZ6MHSY",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "peron",
     "name": "peron",
     "dateAdded": "2026-01-18T12:29:58.163Z",
@@ -23073,6 +23176,32 @@
     "apple": "1843973609",
     "amazon": "B0FTZ71CQT",
     "youtube": "UCtC4tju6ucOmfi6cuY8Re6Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "ryder-knox",
+    "name": "Ryder Knox",
+    "dateAdded": "2026-02-09T10:57:23.832Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "Flagged as AI-generated on Deezer. https://www.deezer.com/en/album/885524382",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0t8C3BIAM6tIMyHLQZSmal",
+    "apple": "1867274393",
+    "amazon": "B0DHLPG5NV",
+    "youtube": "UCBppOC29cB7IKXSJg2o-acg",
     "tiktok": null,
     "instagram": null
   },
