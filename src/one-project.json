@@ -2,14 +2,13 @@
   "id": "one-project",
   "name": "ONE PROJECT",
   "dateAdded": "2026-02-03T18:28:57.387Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-02-12T08:28:49.234Z",
   "disclosure": "partial",
   "disclosureNotes": "Many of their videos have credited vocals to the entity \"JUN (Ai).\"",
   "disclosureTypes": [
     "vocals"
   ],
   "markers": [
-    "2024-onwards",
     "ai-visuals",
     "anonymous",
     "high-output",
