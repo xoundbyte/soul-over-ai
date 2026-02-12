@@ -2,9 +2,9 @@
   "id": "dannyho",
   "name": "DannyHO",
   "dateAdded": "2026-01-16T13:41:32.889Z",
-  "dateUpdated": null,
-  "disclosure": "none",
-  "disclosureNotes": null,
+  "dateUpdated": "2026-02-12T20:07:55.236Z",
+  "disclosure": "confirmed",
+  "disclosureNotes": "The YouTube bio states: \"Yes, I use AI - the same way a producer uses synths, drum machines, or new studio tools.\"",
   "disclosureTypes": [],
   "markers": [
     "ai-visuals",
@@ -12,7 +12,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The artist has over 2000 song releases in the past 2 years.",
+  "markerNotes": null,
   "genres": [],
   "popularity": null,
   "followers": null,
