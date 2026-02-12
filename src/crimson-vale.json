@@ -2,11 +2,16 @@
   "id": "crimson-vale",
   "name": "Crimson Vale",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-02-11T13:16:21.201Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
-  "markers": [],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
   "markerNotes": null,
   "genres": [],
   "popularity": null,
@@ -15,7 +20,7 @@
   "spotify": "5GhrfzEjXYGDqEnnM1IahS",
   "apple": "1842705089",
   "amazon": null,
-  "youtube": null,
+  "youtube": "UCqfL_JvXfyM3QdBBp8eEf6g",
   "tiktok": null,
   "instagram": null
 }
