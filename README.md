@@ -25,7 +25,6 @@ To maintain quality, we may decline submissions that are incomplete or lack suff
 This project collects AI artist data submitted by the community via [souloverai.com](https://souloverai.com).
 Each submission triggers a manual review process before being added to the list.
 While the community provides the raw data, the ongoing curation, validation, and maintenance of the dataset are managed independently.
-<p><a href="https://ko-fi.com/souloverai" target="_blank"><img src="https://raw.githubusercontent.com/xoundbyte/soul-over-ai/refs/heads/main/.github/images/support.png" width="180" alt="Support this project"></a></p>
 
 ## Disclaimer
 > [!CAUTION]
