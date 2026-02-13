@@ -4546,14 +4546,18 @@
     "id": "cain-walker",
     "name": "Cain Walker",
     "dateAdded": "2025-12-23T17:02:38.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-13T11:14:37.924Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
-      "ai-visuals"
+      "ai-visuals",
+      "2024-onwards",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
     ],
-    "markerNotes": null,
+    "markerNotes": "The YouTube comments on this video https://www.youtube.com/watch?v=CM3AT2sPwDs suggest AI is used.",
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -7072,6 +7076,34 @@
     "apple": "1828543718",
     "amazon": "B0BFB894CZ",
     "youtube": "UCUxsnm-6flBW9Nl42o8snkQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "deshawn-williams",
+    "name": "DeShawn Williams",
+    "dateAdded": "2026-02-13T11:06:13.165Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"Welcome to AIDROLICS , the AI-driven powerhouse where I drop nothing but heat. The voice might be AI, but the bars, the grind, the ideas, and the pain behind every track are straight from me.\"",
+    "disclosureTypes": [
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4tAbcBoGVhDWUfPqRFnTqr",
+    "apple": "1810302027",
+    "amazon": "B07LH7MMR1",
+    "youtube": "UCltMtrMDMZ6ry_JmkeVu4Zg",
     "tiktok": null,
     "instagram": null
   },
@@ -19997,30 +20029,6 @@
     "youtube": "UCZ-Py5bw1n7fSsM7c2HUKHQ",
     "tiktok": "@nyqkiniqole",
     "instagram": "popular"
-  },
-  {
-    "id": "nyxara",
-    "name": "Nyxara",
-    "dateAdded": "2026-01-10T21:05:04.289Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
-    "markers": [
-      "ai-visuals",
-      "anonymous"
-    ],
-    "markerNotes": null,
-    "genres": [],
-    "popularity": null,
-    "followers": null,
-    "shScore": null,
-    "spotify": "4yKyRtgvw7Wyvearn56oxA",
-    "apple": "1808420808",
-    "amazon": "B0C8WMNSN7",
-    "youtube": "UCp7VEPoakWYsfbqcRl1NSCg",
-    "tiktok": "@nyxaranyx",
-    "instagram": "nyxaranyx"
   },
   {
     "id": "nyxen",
