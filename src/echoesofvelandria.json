@@ -2,22 +2,27 @@
   "id": "echoesofvelandria",
   "name": "EchoesOfVelandria",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": "2026-01-15T20:01:14.758Z",
-  "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"for every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music.\"",
-  "disclosureTypes": [],
-  "markers": [
-    "ai-visuals",
-    "high-output"
+  "dateUpdated": "2026-02-13T21:59:39.799Z",
+  "disclosure": "partial",
+  "disclosureNotes": "The YouTube bio states: \"For every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music, bringing these initial visions to life. Each track then undergoes further refinement and mastering to achieve its final form.\"",
+  "disclosureTypes": [
+    "instrumentation",
+    "mixing",
+    "vocals"
   ],
-  "markerNotes": null,
+  "markers": [
+    "high-output",
+    "ai-visuals",
+    "2024-onwards"
+  ],
+  "markerNotes": "The Deezer profile https://www.deezer.com/en/artist/291085711 flags several albums as containing AI-generated content.",
   "genres": [],
   "popularity": null,
   "followers": null,
   "shScore": null,
   "spotify": "7vfaikWkQ79OwYJlKJoK7S",
   "apple": "1781097096",
-  "amazon": null,
+  "amazon": "B0DNRTMJNZ",
   "youtube": "UCxqgYlJdwcsEWX1Nc86ar1A",
   "tiktok": null,
   "instagram": null
