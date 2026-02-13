@@ -2,14 +2,18 @@
   "id": "cain-walker",
   "name": "Cain Walker",
   "dateAdded": "2025-12-23T17:02:38.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-02-13T11:14:37.924Z",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
   "markers": [
-    "ai-visuals"
+    "ai-visuals",
+    "2024-onwards",
+    "anonymous",
+    "high-output",
+    "inconsistent-style"
   ],
-  "markerNotes": null,
+  "markerNotes": "The YouTube comments on this video https://www.youtube.com/watch?v=CM3AT2sPwDs suggest AI is used.",
   "genres": [],
   "popularity": null,
   "followers": null,
