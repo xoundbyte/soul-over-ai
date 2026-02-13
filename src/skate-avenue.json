@@ -1,0 +1,28 @@
+{
+  "id": "skate-avenue",
+  "name": "Skate Avenue",
+  "dateAdded": "2026-02-13T20:52:44.273Z",
+  "dateUpdated": null,
+  "disclosure": "partial",
+  "disclosureNotes": "The YouTube bio states: \"Not all tracks are AI-generated. The music here is a mix of human-made and AI-enhanced elements. All vocals originate from real human recordings, which are then transformed using AI tools to achieve the desired style and vibe.\"",
+  "disclosureTypes": [
+    "instrumentation",
+    "vocals"
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "high-output"
+  ],
+  "markerNotes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "26UC3rF7JHAKJhYz1peqqI",
+  "apple": "1852255293",
+  "amazon": null,
+  "youtube": "UC6vzgXHaLVTo92sLpJLRiKA",
+  "tiktok": "@skateavenueph",
+  "instagram": null
+}
