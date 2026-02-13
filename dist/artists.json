@@ -2710,6 +2710,32 @@
     "instagram": null
   },
   {
+    "id": "aural-flame",
+    "name": "Aural Flame",
+    "dateAdded": "2026-02-12T23:47:54.045Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"Our creative process blends human artistry and storytelling with modern digital and AI-assisted tools, used as instruments to expand imagination — not replace it. Every song, lyric, and visual direction is crafted with intention, emotion, and respect for music as art.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "2024-onwards",
+      "high-output",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6CLg2lwbXLvDO67u5C8q0j",
+    "apple": "1861611054",
+    "amazon": "B0G78P8HCP",
+    "youtube": "UC_EW239yncp2_4kT9QixdxA",
+    "tiktok": "@auralflamemusic",
+    "instagram": "auralflame"
+  },
+  {
     "id": "aurenza",
     "name": "AURENZA",
     "dateAdded": "2025-12-07T21:46:26.000Z",
@@ -4927,15 +4953,17 @@
     "id": "chill77",
     "name": "Chill77",
     "dateAdded": "2026-01-02T13:49:18.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-12T20:49:54.294Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "2024-onwards",
+      "inconsistent-style"
     ],
-    "markerNotes": "Lack of public presence, suspicious release patterns, vocal artifacts consistent with AI generation, and AI-generated visuals. The rapid growth in listeners over a short period suggests possible bots or paid followers.",
+    "markerNotes": "The rapid growth in listeners over a short period suggests possible bots or paid followers. Associated with music label Unjaps (known for publishing artists involved with AI-generated music).",
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -6161,9 +6189,9 @@
     "id": "dannyho",
     "name": "DannyHO",
     "dateAdded": "2026-01-16T13:41:32.889Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
+    "dateUpdated": "2026-02-12T20:07:55.236Z",
+    "disclosure": "confirmed",
+    "disclosureNotes": "The YouTube bio states: \"Yes, I use AI - the same way a producer uses synths, drum machines, or new studio tools.\"",
     "disclosureTypes": [],
     "markers": [
       "ai-visuals",
@@ -6171,7 +6199,7 @@
       "high-output",
       "inconsistent-style"
     ],
-    "markerNotes": "The artist has over 2000 song releases in the past 2 years.",
+    "markerNotes": null,
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -11839,6 +11867,29 @@
     "instagram": null
   },
   {
+    "id": "hillbilly-hellfire",
+    "name": "Hillbilly Hellfire",
+    "dateAdded": "2026-02-13T00:01:37.821Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "This YouTube video description https://youtu.be/fxwjdOxNt9Q states: \"Song Created by Suno AI.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3kk0B1DWl74KpVhQjxW6Z7",
+    "apple": "1754041865",
+    "amazon": null,
+    "youtube": "UCry6ZzPoclJmGZyJCTG0nZA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "histrocore",
     "name": "Histrocore",
     "dateAdded": "2025-12-11T10:12:10.000Z",
@@ -14655,15 +14706,21 @@
     "id": "king-willonius",
     "name": "King Willonius",
     "dateAdded": "2025-12-29T22:03:52.000Z",
-    "dateUpdated": null,
-    "disclosure": "none",
-    "disclosureNotes": null,
-    "disclosureTypes": [],
+    "dateUpdated": "2026-02-12T23:58:59.809Z",
+    "disclosure": "partial",
+    "disclosureNotes": "An article from Time https://time.com/collections/time100-ai-2024/7012740/king-willonius/ states: \"Hatcher plugged comedic lyrics about Drake into the AI program Udio, creating more than a hundred different versions in various genres, including gospel, yacht rock and K-pop. “I’ve done traditional music recording, but this process is the most fun I’ve ever had,” he says.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
     "markers": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
-    "markerNotes": "The Instagram description reads \"AI architect,\" accompanied by AI-generated album cover art.",
+    "markerNotes": "The artist's homepage https://www.kingwillonius.com/ shows that the creator uses AI-generation in their content and is open about their usage.",
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -24926,6 +24983,33 @@
     "instagram": "sisowave"
   },
   {
+    "id": "sithani",
+    "name": "Sithani",
+    "dateAdded": "2026-02-12T23:53:37.904Z",
+    "dateUpdated": null,
+    "disclosure": "confirmed",
+    "disclosureNotes": "The description on this video https://www.youtube.com/watch?v=HHlvKKbCiTY states: \"Shots in this video and some audio parts were created using Al-based tools.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7Gy8IoTotLiDvjAwBqSyQz",
+    "apple": "827401487",
+    "amazon": "B00TRQ69KI",
+    "youtube": "UC2rDJJnfo44j-07ZLZIVz7A",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "six-gun-siren",
     "name": "Six Gun Siren",
     "dateAdded": "2026-01-20T21:22:40.536Z",
@@ -25022,6 +25106,33 @@
     "apple": "1838348341",
     "amazon": "B0FQ4T2CZC",
     "youtube": "UCc1en-GV2hMAWCmk-WE0-9A",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "skorp-club",
+    "name": "SKorp Club",
+    "dateAdded": "2026-02-12T20:05:40.036Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "The YouTube bio states: \"What you hear and see is born from real human experience – and created with the power of artificial intelligence (AI).\" (translated)",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3r6vgJGPRcnSSEpss9KU0Q",
+    "apple": "1820944549",
+    "amazon": null,
+    "youtube": "UCRGUUoZVYENSz245NvSIorA",
     "tiktok": null,
     "instagram": null
   },
@@ -26728,6 +26839,31 @@
     "youtube": "UCPpsPchGZaGzhavVS-DzrCw",
     "tiktok": null,
     "instagram": "sibi42_"
+  },
+  {
+    "id": "susumu",
+    "name": "susumu.",
+    "dateAdded": "2026-02-12T23:51:05.536Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "The YouTube bio states: \"I'm creating songs with AI.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "2024-onwards",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1MNhL3vOZZu1179Z031OF5",
+    "apple": "1767718175",
+    "amazon": null,
+    "youtube": "UCOXEBcEnuJUl7YGouVPCcHg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "swing-stroller",
