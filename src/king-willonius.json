@@ -2,15 +2,21 @@
   "id": "king-willonius",
   "name": "King Willonius",
   "dateAdded": "2025-12-29T22:03:52.000Z",
-  "dateUpdated": null,
-  "disclosure": "none",
-  "disclosureNotes": null,
-  "disclosureTypes": [],
+  "dateUpdated": "2026-02-12T23:58:59.809Z",
+  "disclosure": "partial",
+  "disclosureNotes": "An article from Time https://time.com/collections/time100-ai-2024/7012740/king-willonius/ states: \"Hatcher plugged comedic lyrics about Drake into the AI program Udio, creating more than a hundred different versions in various genres, including gospel, yacht rock and K-pop. “I’ve done traditional music recording, but this process is the most fun I’ve ever had,” he says.\"",
+  "disclosureTypes": [
+    "instrumentation",
+    "mastering",
+    "mixing",
+    "vocals"
+  ],
   "markers": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
-  "markerNotes": "The Instagram description reads \"AI architect,\" accompanied by AI-generated album cover art.",
+  "markerNotes": "The artist's homepage https://www.kingwillonius.com/ shows that the creator uses AI-generation in their content and is open about their usage.",
   "genres": [],
   "popularity": null,
   "followers": null,
