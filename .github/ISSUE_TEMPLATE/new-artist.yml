@@ -1,22 +1,18 @@
 name: New Artist
 description: Submit a new artist to the index
-title: "New Artist: "
+title: "https://open.spotify.com/artist/..."
 labels: ["add-artist"]
 body:
-  - type: input
-    id: spotify_url
+  - type: markdown
     attributes:
-      label: Spotify URL
-      description: The Spotify artist URL
-      placeholder: https://open.spotify.com/artist/...
-    validations:
-      required: true
+      value: "**Replace the issue title above with the Spotify artist URL.**"
 
   - type: dropdown
     id: disclosed
     attributes:
       label: Has the artist disclosed AI usage?
       options:
+        - ""
         - "Yes"
         - "No"
     validations:
@@ -40,6 +36,7 @@ body:
     attributes:
       label: Notes 1
       description: Context or comments for URL 1. Please paste in the direct quotes if possible.
+      render: text
     validations:
       required: true
 
@@ -56,6 +53,7 @@ body:
     attributes:
       label: Notes 2
       description: Context or comments for URL 2. Please paste in the direct quotes if possible.
+      render: text
     validations:
       required: false
 
@@ -72,6 +70,7 @@ body:
     attributes:
       label: Notes 3
       description: Context or comments for URL 3. Please paste in the direct quotes if possible.
+      render: text
     validations:
       required: false
 
@@ -88,6 +87,7 @@ body:
     attributes:
       label: Notes 4
       description: Context or comments for URL 4. Please paste in the direct quotes if possible.
+      render: text
     validations:
       required: false
 
@@ -118,5 +118,6 @@ body:
     attributes:
       label: Additional Notes
       description: Any other relevant information about this artist that supports your submission.
+      render: text
     validations:
       required: false
