@@ -1,0 +1,122 @@
+name: New Artist
+description: Submit a new artist to the index
+title: "New Artist: "
+labels: ["add-artist"]
+body:
+  - type: input
+    id: spotify_url
+    attributes:
+      label: Spotify URL
+      description: The Spotify artist URL
+      placeholder: https://open.spotify.com/artist/...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: disclosed
+    attributes:
+      label: Has the artist disclosed AI usage?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "## Evidence URLs"
+
+  - type: input
+    id: url_1
+    attributes:
+      label: URL 1
+      description: Link to evidence (spotify profile, instagram, album on deezer, article, social media post, etc.)
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes_1
+    attributes:
+      label: Notes 1
+      description: Context or comments for URL 1. Please paste in the direct quotes if possible.
+    validations:
+      required: true
+
+  - type: input
+    id: url_2
+    attributes:
+      label: URL 2
+      placeholder: https://...
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes_2
+    attributes:
+      label: Notes 2
+      description: Context or comments for URL 2. Please paste in the direct quotes if possible.
+    validations:
+      required: false
+
+  - type: input
+    id: url_3
+    attributes:
+      label: URL 3
+      placeholder: https://...
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes_3
+    attributes:
+      label: Notes 3
+      description: Context or comments for URL 3. Please paste in the direct quotes if possible.
+    validations:
+      required: false
+
+  - type: input
+    id: url_4
+    attributes:
+      label: URL 4
+      placeholder: https://...
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes_4
+    attributes:
+      label: Notes 4
+      description: Context or comments for URL 4. Please paste in the direct quotes if possible.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Markers
+        - **2024-onwards** — Artist emerged in 2024 or later
+        - **ai-visuals** — Uses AI-generated visual content (album art, videos, imagery)
+        - **anonymous** — No clear public identity
+        - **high-output** — Unusually high volume of releases in short timeframes
+        - **inconsistent-style** — Inconsistent styles, vocals etc across catalog
+
+  - type: checkboxes
+    id: markers
+    attributes:
+      label: Select applicable markers
+      description: Optional markers suggesting AI-generated content
+      options:
+        - label: 2024-onwards
+        - label: ai-visuals
+        - label: anonymous
+        - label: high-output
+        - label: inconsistent-style
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Additional Notes
+      description: Any other relevant information about this artist that supports your submission.
+    validations:
+      required: false
