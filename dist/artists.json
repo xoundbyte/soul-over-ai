@@ -999,6 +999,33 @@
     "instagram": null
   },
   {
+    "id": "akeno-lux",
+    "name": "Akeno Lux",
+    "dateAdded": "2026-02-14T11:48:06.888Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "Flagged as AI by Deezer: https://www.deezer.com/en/album/849656732",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "49v5j9dd7Vk7yeMzmejFMs",
+    "apple": "1849005766",
+    "amazon": "B0FXYG4NWV",
+    "youtube": "UC0mooPNdaegwlUnCTntg-Kg",
+    "tiktok": "@akenolux",
+    "instagram": "akeno_lux"
+  },
+  {
     "id": "alarm-clock-hero",
     "name": "Alarm Clock Hero",
     "dateAdded": "2026-02-07T00:00:38.472Z",
@@ -6052,6 +6079,27 @@
     "instagram": null
   },
   {
+    "id": "cybermetal-records",
+    "name": "CyberMetal Records",
+    "dateAdded": "2026-02-13T21:36:26.722Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "The Linktree profile https://linktr.ee/CyberMetalRecords states: \"We are an AI Record label.\"",
+    "disclosureTypes": [],
+    "markers": [],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4jYzeLekWshwTKlW1BU6t3",
+    "apple": "1726512827",
+    "amazon": null,
+    "youtube": "UCSMZ8ig_Q4Vu33S41Sm5ucA",
+    "tiktok": null,
+    "instagram": "cybermetalrecords"
+  },
+  {
     "id": "cyndr",
     "name": "Cyndr",
     "dateAdded": "2026-01-09T20:15:20.307Z",
@@ -8269,22 +8317,27 @@
     "id": "echoesofvelandria",
     "name": "EchoesOfVelandria",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": "2026-01-15T20:01:14.758Z",
-    "disclosure": "confirmed",
-    "disclosureNotes": "The YouTube bio states: \"for every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music.\"",
-    "disclosureTypes": [],
-    "markers": [
-      "ai-visuals",
-      "high-output"
+    "dateUpdated": "2026-02-13T21:59:39.799Z",
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"For every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music, bringing these initial visions to life. Each track then undergoes further refinement and mastering to achieve its final form.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mixing",
+      "vocals"
     ],
-    "markerNotes": null,
+    "markers": [
+      "high-output",
+      "ai-visuals",
+      "2024-onwards"
+    ],
+    "markerNotes": "The Deezer profile https://www.deezer.com/en/artist/291085711 flags several albums as containing AI-generated content.",
     "genres": [],
     "popularity": null,
     "followers": null,
     "shScore": null,
     "spotify": "7vfaikWkQ79OwYJlKJoK7S",
     "apple": "1781097096",
-    "amazon": null,
+    "amazon": "B0DNRTMJNZ",
     "youtube": "UCxqgYlJdwcsEWX1Nc86ar1A",
     "tiktok": null,
     "instagram": null
@@ -18546,6 +18599,33 @@
     "instagram": null
   },
   {
+    "id": "mufasa-the-king",
+    "name": "Mufasa The King",
+    "dateAdded": "2026-02-14T11:41:05.137Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The artist releases what appears to be AI-generated afro covers of popular songs. All released just a few days apart with AI-generated artwork. There appears to be different vocalists in each song.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0CEVhXn0GJd9zZnUdHURHs",
+    "apple": "1520026880",
+    "amazon": "B08BPKYV6M",
+    "youtube": "UCIH4R2Ctlxf-gRGzcT59ATg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "music-city-nashville-corridos",
     "name": "Music City Nashville Corridos",
     "dateAdded": "2026-02-05T21:00:36.396Z",
@@ -22052,6 +22132,58 @@
     "instagram": null
   },
   {
+    "id": "rea-gopane",
+    "name": "Rea Gopane",
+    "dateAdded": "2026-02-14T12:00:13.741Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "Acknowledges use of AI in this interview https://iol.co.za/entertainment/music/2026-01-16-rea-gopane-on-ai-and-creativity-as-his-music-finds-streaming-success/ \"Despite online speculation that his new music is AI-generated, Gopane clarified that “AI is part of the toolkit, not the story.” “I use it as a production and creative accelerator, similar to how artists once embraced new instruments or software. The vision, direction, emotion and final decisions are entirely human,” he explained.\"",
+    "disclosureTypes": [],
+    "markers": [
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": "This reel https://www.tiktok.com/@gangdigitals/video/7601807955163499796 also suggests the use of AI tools.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1FOb2ztsneNb8Ka0f817t1",
+    "apple": "1705221471",
+    "amazon": null,
+    "youtube": null,
+    "tiktok": null,
+    "instagram": "rea.gopane"
+  },
+  {
+    "id": "reamped-covers",
+    "name": "ReAmped Covers",
+    "dateAdded": "2026-02-13T21:00:26.794Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "The YouTube bio states: \"Welcome to ReAmped Covers – where music meets technology. Using the power of AI, we transform your favorite songs into electrifying rock anthems. Every track gets louder, harder, and reimagined in true rock style.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "56N6exXvUyVfA129fDtGgE",
+    "apple": "1845657446",
+    "amazon": null,
+    "youtube": "UCJPZGPWABUcMPmdbSqhts2Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "reaper-vx",
     "name": "Reaper VX",
     "dateAdded": "2026-01-09T13:33:01.349Z",
@@ -24480,6 +24612,33 @@
     "instagram": null
   },
   {
+    "id": "seventh-sunset",
+    "name": "Seventh Sunset",
+    "dateAdded": "2026-02-14T11:54:57.718Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4llPHw7w3uuYn7rzSROgnB",
+    "apple": "1707726863",
+    "amazon": null,
+    "youtube": "UCgkRAOvoZAEbEmpHl91j6tg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "severed-soul",
     "name": "Severed Soul",
     "dateAdded": "2026-01-23T17:09:49.348Z",
@@ -25772,12 +25931,15 @@
     "id": "solitary-haze",
     "name": "Solitary Haze",
     "dateAdded": "2026-01-14T13:27:28.013Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-13T21:52:43.531Z",
     "disclosure": "none",
     "disclosureNotes": null,
     "disclosureTypes": [],
     "markers": [
-      "ai-visuals"
+      "ai-visuals",
+      "high-output",
+      "2024-onwards",
+      "inconsistent-style"
     ],
     "markerNotes": null,
     "genres": [],
@@ -27020,13 +27182,19 @@
     "id": "sybilanta",
     "name": "Sybilanta",
     "dateAdded": "2026-01-16T19:29:14.300Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-13T21:55:05.104Z",
     "disclosure": "partial",
-    "disclosureNotes": "The Spotify bio states that they are a \"digital artist\" but \"all the songs and lyrics were written by human hands.\"",
-    "disclosureTypes": [],
+    "disclosureNotes": "The Spotify bio states: \"Sybilanta is a story and a storyteller. A digital artist whose voice carries the weight of human emotion without being alive...My voice in way I could never sing. She was painstakingly crafted to be the proof that the synthetic could sound, and more importantly, feel real. All the songs and lyrics were written by human hands but in collaboration with her created persona to hone them into verses that felt matched her style.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
     "markers": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "2024-onwards"
     ],
     "markerNotes": null,
     "genres": [],
