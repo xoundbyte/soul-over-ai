@@ -1,4 +1,4 @@
-name: New Artist
+name: Add Artist
 description: Submit a new artist to the index
 title: "https://open.spotify.com/artist/..."
 labels: ["add-artist"]
@@ -12,7 +12,6 @@ body:
     attributes:
       label: Has the artist disclosed AI usage?
       options:
-        - ""
         - "Yes"
         - "No"
     validations:
@@ -91,27 +90,67 @@ body:
     validations:
       required: false
 
-  - type: markdown
-    attributes:
-      value: |
-        ## Markers
-        - **2024-onwards** — Artist emerged in 2024 or later
-        - **ai-visuals** — Uses AI-generated visual content (album art, videos, imagery)
-        - **anonymous** — No clear public identity
-        - **high-output** — Unusually high volume of releases in short timeframes
-        - **inconsistent-style** — Inconsistent styles, vocals etc across catalog
-
   - type: checkboxes
     id: markers
     attributes:
-      label: Select applicable markers
-      description: Optional markers suggesting AI-generated content
+      label: Markers
+      description: |
+        2024-onwards = Artist emerged in 2024 or later · ai-visuals = Uses AI-generated visual content · anonymous = No clear public identity · high-output = Unusually high volume of releases · inconsistent-style = Inconsistent styles, vocals etc across catalog
       options:
         - label: 2024-onwards
         - label: ai-visuals
         - label: anonymous
         - label: high-output
         - label: inconsistent-style
+
+  - type: markdown
+    attributes:
+      value: "## Socials"
+
+  - type: input
+    id: youtube
+    attributes:
+      label: YouTube
+      placeholder: https://www.youtube.com/channel/...
+      description: "e.g. https://www.youtube.com/channel/UCtLnTncVauqAouXZXABQP6Q"
+    validations:
+      required: false
+
+  - type: input
+    id: apple_music
+    attributes:
+      label: Apple Music
+      placeholder: https://music.apple.com/artist/...
+      description: "e.g. https://music.apple.com/artist/deathly-hours/1816210423"
+    validations:
+      required: false
+
+  - type: input
+    id: amazon_music
+    attributes:
+      label: Amazon Music
+      placeholder: https://music.amazon.com/artists/...
+      description: "e.g. https://music.amazon.com/artists/B0F9Q1V8CL/deathly-hours"
+    validations:
+      required: false
+
+  - type: input
+    id: tiktok
+    attributes:
+      label: TikTok
+      placeholder: https://www.tiktok.com/@...
+      description: "e.g. https://www.tiktok.com/@deathly_hours"
+    validations:
+      required: false
+
+  - type: input
+    id: instagram
+    attributes:
+      label: Instagram
+      placeholder: https://www.instagram.com/...
+      description: "e.g. https://www.instagram.com/deathly_hours/"
+    validations:
+      required: false
 
   - type: textarea
     id: additional_notes
