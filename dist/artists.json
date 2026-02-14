@@ -553,6 +553,32 @@
     "instagram": null
   },
   {
+    "id": "aesir-aria",
+    "name": "Aesir Aria",
+    "dateAdded": "2026-02-14T20:31:53.837Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "The credits on this video https://www.youtube.com/watch?v=6s9Ri6HYKUs&list=OLAK5uy_nQ8IrBxGAn5yDzy9Tbx4IWTesZ8hD24nE name 'Chrisdayan Aji Arif' who appears to be linked to other AI-related projects.",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3Gnfu7cSBtnQWlbchgjrIc",
+    "apple": "1868939133",
+    "amazon": "B0GGSG1BYV",
+    "youtube": "UCbmmft2frXZjDX-V_kZjVAg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "aetherealdream",
     "name": "AetherealDream",
     "dateAdded": "2026-01-12T13:27:43.019Z",
@@ -1024,6 +1050,36 @@
     "youtube": "UC0mooPNdaegwlUnCTntg-Kg",
     "tiktok": "@akenolux",
     "instagram": "akeno_lux"
+  },
+  {
+    "id": "akuma-dollz",
+    "name": "Akuma Dollz",
+    "dateAdded": "2026-02-14T20:43:02.706Z",
+    "dateUpdated": null,
+    "disclosure": "partial",
+    "disclosureNotes": "Spotify bio states: \"The Akuma DollZ are not a real band — they are fictional characters I created as the visual and creative spirit of this project. The music itself still starts entirely with me: I write the lyrics, compose the melodies, record guitar ideas, and build a full arrangement using virtual instruments. These demos are strict, detailed blueprints that define the structure, harmonies, riffs, vocal parts, and transitions.\"",
+    "disclosureTypes": [
+      "instrumentation",
+      "mastering",
+      "mixing",
+      "vocals"
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2as2Ip5xk4e5jZYWfugntg",
+    "apple": "1860520373",
+    "amazon": "B0G6F47BW6",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": "akumadollz"
   },
   {
     "id": "alarm-clock-hero",
@@ -4450,30 +4506,6 @@
     "youtube": "UCVE9UMO6H8b6GQJ_Aa1CvKg",
     "tiktok": "@brokenavenue4",
     "instagram": null
-  },
-  {
-    "id": "broken-ember",
-    "name": "Broken Ember",
-    "dateAdded": "2026-02-03T18:30:46.643Z",
-    "dateUpdated": null,
-    "disclosure": "confirmed",
-    "disclosureNotes": "The Spotify bio states: \"Broken Ember is a fully self-produced fictional art project; all music, lyrics and depicted characters originate from the creative concept of Fabian Dargatz.\"",
-    "disclosureTypes": [],
-    "markers": [
-      "2024-onwards",
-      "ai-visuals"
-    ],
-    "markerNotes": null,
-    "genres": [],
-    "popularity": null,
-    "followers": null,
-    "shScore": null,
-    "spotify": "6TP59FaQW5hfyhsufpyDcr",
-    "apple": null,
-    "amazon": null,
-    "youtube": "UC3mof_N_zvRPIxsFXQb8tZA",
-    "tiktok": null,
-    "instagram": "brokenembermusic"
   },
   {
     "id": "broken-oracle",
@@ -15162,6 +15194,33 @@
     "youtube": "UCsctNjMeoNUN7ON4W5pqw-w",
     "tiktok": "@klosure01",
     "instagram": "klozureband"
+  },
+  {
+    "id": "kod-poezii",
+    "name": "Kod Poezii",
+    "dateAdded": "2026-02-14T20:21:00.614Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": "The artist alludes to AI-usage in their YouTube bio: \"🎶 Modern technologies to breathe new life into poetry - famous and emerging authors. 🎶\"",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3nlRiM6ApPQREK8HJB6sjp",
+    "apple": null,
+    "amazon": "B0F7FMVF1P",
+    "youtube": "UC-iLEVoDZxUCGMQphDQePZw",
+    "tiktok": "@kod_poezii",
+    "instagram": "kodpoezii"
   },
   {
     "id": "kotr-knights-of-the-revival",
@@ -27967,6 +28026,33 @@
     "instagram": "theblackestredmusic"
   },
   {
+    "id": "the-burning-curse",
+    "name": "The Burning Curse",
+    "dateAdded": "2026-02-14T20:13:23.300Z",
+    "dateUpdated": null,
+    "disclosure": "full",
+    "disclosureNotes": "YouTube bio: \"🤘🏻vocals and beats by Ai🤘🏻\"",
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "markerNotes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6wiCz0jMZy8p8r0FMQLTWI",
+    "apple": "1861568308",
+    "amazon": null,
+    "youtube": "UCRKhLnhxV_HIQrX_1eFzB7w",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "the-cheeky-celt",
     "name": "The Cheeky Celt",
     "dateAdded": "2026-01-07T23:33:50.981Z",
@@ -30623,6 +30709,32 @@
     "youtube": "UCmga7AegiORoj6i2073HZLg",
     "tiktok": null,
     "instagram": "vengeful_music_official"
+  },
+  {
+    "id": "vermouth-iv",
+    "name": "Vermouth IV",
+    "dateAdded": "2026-02-14T20:28:40.959Z",
+    "dateUpdated": null,
+    "disclosure": "none",
+    "disclosureNotes": null,
+    "disclosureTypes": [],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "markerNotes": "Extremely high output (releases new cover songs every few days).",
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "53HbEuL3qejJsJHEKYfZE1",
+    "apple": "1836573371",
+    "amazon": "B0FP9B68KT",
+    "youtube": "UC3sXxiolJ3iRf17Odyplhxw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "veyna-ashford",
