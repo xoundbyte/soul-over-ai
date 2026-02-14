@@ -17,6 +17,18 @@ body:
     validations:
       required: true
 
+  - type: checkboxes
+    id: disclosure_types
+    attributes:
+      label: Where is AI used?
+      description: Leave blank if unclear or if you are unsure
+      options:
+        - label: Instrumentation
+        - label: Lyrics
+        - label: Mastering
+        - label: Mixing and/or Production
+        - label: Vocals
+
   - type: markdown
     attributes:
       value: "## Evidence URLs"
@@ -73,23 +85,6 @@ body:
     validations:
       required: false
 
-  - type: input
-    id: url_4
-    attributes:
-      label: URL 4
-      placeholder: https://...
-    validations:
-      required: false
-
-  - type: textarea
-    id: notes_4
-    attributes:
-      label: Notes 4
-      description: Context or comments for URL 4. Please paste in the direct quotes if possible.
-      render: text
-    validations:
-      required: false
-
   - type: checkboxes
     id: markers
     attributes:
@@ -112,7 +107,6 @@ body:
     attributes:
       label: YouTube
       placeholder: https://www.youtube.com/channel/...
-      description: "e.g. https://www.youtube.com/channel/UCtLnTncVauqAouXZXABQP6Q"
     validations:
       required: false
 
@@ -121,7 +115,6 @@ body:
     attributes:
       label: Apple Music
       placeholder: https://music.apple.com/artist/...
-      description: "e.g. https://music.apple.com/artist/deathly-hours/1816210423"
     validations:
       required: false
 
@@ -130,7 +123,6 @@ body:
     attributes:
       label: Amazon Music
       placeholder: https://music.amazon.com/artists/...
-      description: "e.g. https://music.amazon.com/artists/B0F9Q1V8CL/deathly-hours"
     validations:
       required: false
 
@@ -139,7 +131,6 @@ body:
     attributes:
       label: TikTok
       placeholder: https://www.tiktok.com/@...
-      description: "e.g. https://www.tiktok.com/@deathly_hours"
     validations:
       required: false
 
@@ -148,7 +139,6 @@ body:
     attributes:
       label: Instagram
       placeholder: https://www.instagram.com/...
-      description: "e.g. https://www.instagram.com/deathly_hours/"
     validations:
       required: false
 
