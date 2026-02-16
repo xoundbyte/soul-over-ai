@@ -1,0 +1,33 @@
+{
+  "id": "nora-macrowe",
+  "name": "Nora MacRowe",
+  "dateAdded": "2026-02-16T21:05:24.536Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3319,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This album flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/us/album/914826361"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "1dWDvjr2lP4xnWBqcGhTUG",
+  "apple": null,
+  "amazon": null,
+  "youtube": "UC-YFcZ1BjRVXbT2HJ863xGA",
+  "tiktok": null,
+  "instagram": "noramacrowe"
+}
