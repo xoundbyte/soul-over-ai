@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2638,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify and YouTube profiles state: \"AI MUSIC MATRIX is a project that combines the latest AI technology with music production\" and  \"Utilizing the generative AIs: suno ai, Claude, and ChatGPT.\" (translated into English)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "2024-onwards"
   ],
-  "markerNotes": "The artist has released over 160 albums since mid-2024.",
+  "notes": "The Spotify and YouTube profiles state: \"AI MUSIC MATRIX is a project that combines the latest AI technology with music production\" and  \"Utilizing the generative AIs: suno ai, Claude, and ChatGPT.\" (translated into English) The artist has released over 160 albums since mid-2024.",
   "genres": [],
   "popularity": null,
   "followers": null,

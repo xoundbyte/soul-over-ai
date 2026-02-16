@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "They openly admit to being AI-generated in their Spotify bio and previously released music under the name \"Melia.\" Between June 2025 and January 2026, they uploaded over 1,000 tracks to Spotify.",
+  "notes": "They openly admit to being AI-generated in their Spotify bio and previously released music under the name \"Melia.\" Between June 2025 and January 2026, they uploaded over 1,000 tracks to Spotify.",
   "genres": [],
   "popularity": null,
   "followers": null,

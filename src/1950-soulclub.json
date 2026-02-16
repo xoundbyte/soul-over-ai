@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "On the artist's Spotify page, the \"Discovered On\" section features playlists consisting entirely of AI cover songs.",
+  "notes": "On the artist's Spotify page, the \"Discovered On\" section features playlists consisting entirely of AI cover songs.",
   "genres": [],
   "popularity": null,
   "followers": null,

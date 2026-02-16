@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Not to be confused with another band from the early 00s by the same name.",
+  "notes": "Not to be confused with another band from the early 00s by the same name.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The artist has a profile under the username @jlpenman on the Suno website.",
+  "notes": "The artist has a profile under the username @jlpenman on the Suno website.",
   "genres": [],
   "popularity": null,
   "followers": null,

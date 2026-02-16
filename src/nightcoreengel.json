@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Since 2024, they have been combining traditional Nightcore techniques with artificial intelligence and modern music processing.\" (translated into English)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Since 2024, they have been combining traditional Nightcore techniques with artificial intelligence and modern music processing.\" (translated into English)",
   "genres": [],
   "popularity": null,
   "followers": null,

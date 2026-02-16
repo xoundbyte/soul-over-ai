@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "Spotify profile states that Rikki is a \"virtual female voice.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Spotify profile states that Rikki is a \"virtual female voice.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

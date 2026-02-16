@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"AI with a heart\" and uses the hashtags #AIForHumanity and #AIForSocialGood.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"AI with a heart\" and uses the hashtags #AIForHumanity and #AIForSocialGood.",
   "genres": [],
   "popularity": null,
   "followers": null,

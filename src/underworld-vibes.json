@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"I write poems and a bunch of ideas and turn them into songs with the amazing power of AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"I write poems and a bunch of ideas and turn them into songs with the amazing power of AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The creator acknowledges it's AI-generated in some of their Instagram comments.",
+  "notes": "The creator acknowledges it's AI-generated in some of their Instagram comments.",
   "genres": [],
   "popularity": null,
   "followers": null,

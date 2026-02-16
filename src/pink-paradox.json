@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The TikTok bio states: \"Virtual all-girl metal band from Barcelona.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The TikTok bio states: \"Virtual all-girl metal band from Barcelona.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "Near-daily music releases, each accompanied by unique artwork. The YouTube channel, created in 2016, has published 535 of its 544 tracks within the last two years (at the time of writing).",
+  "notes": "Near-daily music releases, each accompanied by unique artwork. The YouTube channel, created in 2016, has published 535 of its 544 tracks within the last two years (at the time of writing).",
   "genres": [],
   "popularity": null,
   "followers": null,

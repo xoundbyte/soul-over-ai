@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "Spotify bio explicitly confirms AI use, stating the project is an AI influencer that creates music and content for Formula 1 fans.",
+  "notes": "Spotify bio explicitly confirms AI use, stating the project is an AI influencer that creates music and content for Formula 1 fans.",
   "genres": [],
   "popularity": null,
   "followers": null,

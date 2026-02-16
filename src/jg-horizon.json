@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states that they \"use AI tools mainly for creating the instrumental and vocal tuning.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states that they \"use AI tools mainly for creating the instrumental and vocal tuning.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

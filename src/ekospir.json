@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "SubmitHub analysis indicates the music exhibits typical AI generation patterns but with some uncertainty.",
+  "notes": "SubmitHub analysis indicates the music exhibits typical AI generation patterns but with some uncertainty.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "YouTube comments along with those on the artist's website indicate confirmation that the project is a blend of AI and human work.",
+  "notes": "YouTube comments along with those on the artist's website indicate confirmation that the project is a blend of AI and human work.",
   "genres": [],
   "popularity": null,
   "followers": null,

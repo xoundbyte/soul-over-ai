@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Some of the artist's YouTube videos state in the description: \"Created with AI and human collaboration.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Some of the artist's YouTube videos state in the description: \"Created with AI and human collaboration.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

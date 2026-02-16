@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2892,
   "disclosure": "confirmed",
-  "disclosureNotes": "Some of their older videos https://www.youtube.com/watch?v=f606zWRiuAo state in the description: \"Created with the assistance of AI technology.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": "The first YouTube upload was on Dec 2024, and there are over 40 playlists of original music lasting more than an hour in 2025 alone. Completely anonymous, no credits available for performance, writing or production available according to Spotify. Inconsistent vocals with different male and female vocalists present across the songs.",
+  "notes": "Some of their older videos https://www.youtube.com/watch?v=f606zWRiuAo state in the description: \"Created with the assistance of AI technology.\" The first YouTube upload was on Dec 2024, and there are over 40 playlists of original music lasting more than an hour in 2025 alone. Completely anonymous, no credits available for performance, writing or production available according to Spotify. Inconsistent vocals with different male and female vocalists present across the songs.",
   "genres": [],
   "popularity": null,
   "followers": null,

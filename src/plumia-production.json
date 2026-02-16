@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"J'écris des paroles et leurs donne vies\" (I write lyrics and bring them to life).",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"J'écris des paroles et leurs donne vies\" (I write lyrics and bring them to life).",
   "genres": [],
   "popularity": null,
   "followers": null,

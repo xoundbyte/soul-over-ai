@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"While the instruments and vocals are AI-generated, every lyric is written by me.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"While the instruments and vocals are AI-generated, every lyric is written by me.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

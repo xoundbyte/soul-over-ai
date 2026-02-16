@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3351,
   "disclosure": "partial",
-  "disclosureNotes": "Spotify bio states: \"We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\" Linked to an artist called DJ Loke who is associated with many other AI artists.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "Spotify bio states: \"We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\" Linked to an artist called DJ Loke who is associated with many other AI artists.",
   "genres": [],
   "popularity": null,
   "followers": null,

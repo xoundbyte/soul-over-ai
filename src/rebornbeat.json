@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"With AI as my creative instrument, I blend imagination and feeling, turning ideas into sound.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"With AI as my creative instrument, I blend imagination and feeling, turning ideas into sound.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

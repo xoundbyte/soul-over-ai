@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": "Very high release frequency.",
+  "notes": "Very high release frequency.",
   "genres": [],
   "popularity": null,
   "followers": null,

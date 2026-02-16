@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"scrivendo i testi e producendo la musica con l'IA\" (writing the lyrics and producing the music with AI).",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"scrivendo i testi e producendo la musica con l'IA\" (writing the lyrics and producing the music with AI).",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Acknowledged use of AI on a Facebook post in an AI Music Creators group.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Acknowledged use of AI on a Facebook post in an AI Music Creators group.",
   "genres": [],
   "popularity": null,
   "followers": null,

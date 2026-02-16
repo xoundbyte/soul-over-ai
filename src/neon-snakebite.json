@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2691,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The artist's music is listed on Suno: https://suno.com/playlist/f2683972-4a65-41f8-ba46-71d73270dc0a. It appears to be from a user named 'Ramchek'.",
+  "notes": "The artist's music is listed on Suno: https://suno.com/playlist/f2683972-4a65-41f8-ba46-71d73270dc0a. It appears to be from a user named 'Ramchek'.",
   "genres": [],
   "popularity": null,
   "followers": null,

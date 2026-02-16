@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The description on their YouTube channel states they are \"supercharged by AI-assisted music innovation.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The description on their YouTube channel states they are \"supercharged by AI-assisted music innovation.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3151,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"All content on this channel, including music and artwork, is create by AI generate with remixing mastering and editing by Metal Universe.\"",
   "disclosureTypes": [
     "vocals",
     "lyrics",
@@ -18,7 +17,7 @@
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"All content on this channel, including music and artwork, is create by AI generate with remixing mastering and editing by Metal Universe.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

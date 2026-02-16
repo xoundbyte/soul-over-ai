@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2751,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Combining a love of painting with words and the cutting-edge collaboration of AI, Valkorai gives voice and melody to original lyrics.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Combining a love of painting with words and the cutting-edge collaboration of AI, Valkorai gives voice and melody to original lyrics.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

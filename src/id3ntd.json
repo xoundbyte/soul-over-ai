@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3293,
   "disclosure": "partial",
-  "disclosureNotes": "YouTube bio states: \"Most of the tracks are AI-generated and then refined, arranged, and mastered to achieve their final form. The lyrics and concepts are written by me, blending alternative rock, dark ambience, and synthetic storytelling.\"",
   "disclosureTypes": [
     "instrumentation",
     "lyrics",
@@ -20,7 +19,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "YouTube bio states: \"Most of the tracks are AI-generated and then refined, arranged, and mastered to achieve their final form. The lyrics and concepts are written by me, blending alternative rock, dark ambience, and synthetic storytelling.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

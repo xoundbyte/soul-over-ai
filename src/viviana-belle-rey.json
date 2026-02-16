@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "YouTube bio states: \"Made with heart, harmony, and a touch of Suno AI magic.\" Recent albums are published on the label 'Records DK' which features other AI artists.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "YouTube bio states: \"Made with heart, harmony, and a touch of Suno AI magic.\" Recent albums are published on the label 'Records DK' which features other AI artists.",
   "genres": [],
   "popularity": null,
   "followers": null,

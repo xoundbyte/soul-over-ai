@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2692,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "inconsistent-style"
   ],
-  "markerNotes": "The production quality of the music appears to vary between songs, and the same applies to the vocals.",
+  "notes": "The production quality of the music appears to vary between songs, and the same applies to the vocals.",
   "genres": [],
   "popularity": null,
   "followers": null,

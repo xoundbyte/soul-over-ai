@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"All my lyrics are written by human, and songs symphoniezed by AI-instruments.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"All my lyrics are written by human, and songs symphoniezed by AI-instruments.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

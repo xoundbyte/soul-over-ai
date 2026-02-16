@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "inconsistent-style"
   ],
-  "markerNotes": "It appears this artist is adding AI-generated vocals, as pre-2023 tracks had no vocals.",
+  "notes": "It appears this artist is adding AI-generated vocals, as pre-2023 tracks had no vocals.",
   "genres": [],
   "popularity": null,
   "followers": null,

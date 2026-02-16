@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Einarsson is an AI-based artist who writes lyrics and creates music using artificial intelligence.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Einarsson is an AI-based artist who writes lyrics and creates music using artificial intelligence.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

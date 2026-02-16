@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2938,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "This album https://www.deezer.com/us/album/873116762 has been as AI by Deezer.",
+  "notes": "This album https://www.deezer.com/us/album/873116762 has been as AI by Deezer.",
   "genres": [],
   "popularity": null,
   "followers": null,

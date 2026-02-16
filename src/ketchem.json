@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The label name, \"10227924 Records DK,\" is a default placeholder assigned by DistroKid when no label is specified. It is frequently linked to AI-generated, rapidly-produced, or low-quality spam releases.",
+  "notes": "The label name, \"10227924 Records DK,\" is a default placeholder assigned by DistroKid when no label is specified. It is frequently linked to AI-generated, rapidly-produced, or low-quality spam releases.",
   "genres": [],
   "popularity": null,
   "followers": null,

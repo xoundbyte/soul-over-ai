@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "The artist's back catalog consists exclusively of releases from 2025 as of the time of writing, accompanied by AI-generated visuals.",
+  "notes": "The artist's back catalog consists exclusively of releases from 2025 as of the time of writing, accompanied by AI-generated visuals.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2824,
   "disclosure": "partial",
-  "disclosureNotes": "Many of their videos have credited vocals to the entity \"JUN (Ai).\"",
   "disclosureTypes": [
     "vocals"
   ],
@@ -17,7 +16,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "Many of their videos have credited vocals to the entity \"JUN (Ai).\"",
   "genres": [],
   "popularity": null,
   "followers": null,

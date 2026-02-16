@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"We write all our music and lyrics ourselves, using AI as a modern studio assistant.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"We write all our music and lyrics ourselves, using AI as a modern studio assistant.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2627,
   "disclosure": "partial",
-  "disclosureNotes": "The TikTok profile states \"Ai-Assisted.\"",
   "disclosureTypes": [
     "vocals",
     "instrumentation"
@@ -16,7 +15,7 @@
     "ai-visuals",
     "inconsistent-style"
   ],
-  "markerNotes": "Their TikTok profile content appears to rely heavily on AI-generated prompts.",
+  "notes": "The TikTok profile states \"Ai-Assisted.\" Their TikTok profile content appears to rely heavily on AI-generated prompts.",
   "genres": [],
   "popularity": null,
   "followers": null,

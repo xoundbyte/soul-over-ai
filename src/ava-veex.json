@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The sound resembles Luna Veex, another artist suspected to be AI-generated. Both have similar Spotify bio descriptions, and the YouTube channel is linked to the Luna Veex TikTok account.",
+  "notes": "The sound resembles Luna Veex, another artist suspected to be AI-generated. Both have similar Spotify bio descriptions, and the YouTube channel is linked to the Luna Veex TikTok account.",
   "genres": [],
   "popularity": null,
   "followers": null,

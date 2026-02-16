@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"a genre-bending artist blending AI innovation with raw emotion\" and \"created with passion + AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"a genre-bending artist blending AI innovation with raw emotion\" and \"created with passion + AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"Promt-meta-artist. eccxo Music, uses the capabilities of artificial intelligence specialized in music generation (e.g. Suno AI, Udio AI and others).\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Promt-meta-artist. eccxo Music, uses the capabilities of artificial intelligence specialized in music generation (e.g. Suno AI, Udio AI and others).\"",
   "genres": [],
   "popularity": null,
   "followers": null,

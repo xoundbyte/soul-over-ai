@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3420,
   "disclosure": "full",
-  "disclosureNotes": "The YouTube bio states: \"What you hear and see is born from real human experience – and created with the power of artificial intelligence (AI).\" (translated)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"What you hear and see is born from real human experience – and created with the power of artificial intelligence (AI).\" (translated)",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The artist is featured often alongside another AI band called 'Silas Grime'.",
+  "notes": "The artist is featured often alongside another AI band called 'Silas Grime'.",
   "genres": [],
   "popularity": null,
   "followers": null,

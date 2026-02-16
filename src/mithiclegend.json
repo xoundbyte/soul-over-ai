@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"I use Ableton, vocaloid, various AI, and/or my own instruments in a mix to create sounds that I enjoy!\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"I use Ableton, vocaloid, various AI, and/or my own instruments in a mix to create sounds that I enjoy!\"",
   "genres": [],
   "popularity": null,
   "followers": null,

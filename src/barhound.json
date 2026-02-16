@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2866,
   "disclosure": "partial",
-  "disclosureNotes": "On the video 'My Neighbor Joined The Cult' https://www.youtube.com/watch?v=xo2OGCG9laI, the description states: \"AI Disclosure: Some elements of this track were enhanced using AI. Vocals and instruments are AI-assisted. My natural voice is smoother, and I primarily play acoustic rhythm and percussive guitar. The final mix includes AI-generated enhancements and additional instrumentation. Lyrics are written by me. I occasionally use ChatGPT for editing, proofing or rhyming help.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -19,7 +18,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "On the video 'My Neighbor Joined The Cult' https://www.youtube.com/watch?v=xo2OGCG9laI, the description states: \"AI Disclosure: Some elements of this track were enhanced using AI. Vocals and instruments are AI-assisted. My natural voice is smoother, and I primarily play acoustic rhythm and percussive guitar. The final mix includes AI-generated enhancements and additional instrumentation. Lyrics are written by me. I occasionally use ChatGPT for editing, proofing or rhyming help.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

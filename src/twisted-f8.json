@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "The YouTube bio states that they use \"new AI-assisted technology to help build the instrumental layers behind the band's vision.\"",
+  "notes": "The YouTube bio states that they use \"new AI-assisted technology to help build the instrumental layers behind the band's vision.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

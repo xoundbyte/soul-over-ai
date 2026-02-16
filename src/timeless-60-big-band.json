@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Brazilian/Portuguese AI-generated Christian music. Masquerades as a vintage nostalgic 60s big band. AI cover art and songs.",
+  "notes": "Brazilian/Portuguese AI-generated Christian music. Masquerades as a vintage nostalgic 60s big band. AI cover art and songs.",
   "genres": [],
   "popularity": null,
   "followers": null,

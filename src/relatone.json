@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "Relatone has self-disclosed AI usage for vocals and the music itself, but has stated that they write the lyrics.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Relatone has self-disclosed AI usage for vocals and the music itself, but has stated that they write the lyrics.",
   "genres": [],
   "popularity": null,
   "followers": null,

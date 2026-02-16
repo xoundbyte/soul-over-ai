@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "YouTube channel bio states: \"All music and illustrations on this channel are original works created using AI technology.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "YouTube channel bio states: \"All music and illustrations on this channel are original works created using AI technology.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

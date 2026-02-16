@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The Youtube bio states: \"Concepts and lyrics by Mela Mirage. Audio provided by Suno.com. Mixing and mastering by Mela Mirage/Suno.com.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Youtube bio states: \"Concepts and lyrics by Mela Mirage. Audio provided by Suno.com. Mixing and mastering by Mela Mirage/Suno.com.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

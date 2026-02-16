@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "inconsistent-style"
   ],
-  "markerNotes": "Album portraits appear AI-generated, vocals sound unnatural, and there is little to no social interaction or public presence.",
+  "notes": "Album portraits appear AI-generated, vocals sound unnatural, and there is little to no social interaction or public presence.",
   "genres": [],
   "popularity": null,
   "followers": null,

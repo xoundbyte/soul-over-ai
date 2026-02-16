@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Occasionally use AI to create music.\" However, the high output  suggests that the majority of the songs on this channel are AI-generated.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Occasionally use AI to create music.\" However, the high output  suggests that the majority of the songs on this channel are AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

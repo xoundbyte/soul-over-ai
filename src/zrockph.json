@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3490,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Music are created with AI tools, real voice and standard music instruments. Any revenue generated will go to the rightful owners. All Track is for Entertainment and Creative exploration of Ai-Assisted music production.\"",
   "disclosureTypes": [
     "instrumentation",
     "vocals"
@@ -17,7 +16,7 @@
     "high-output",
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Music are created with AI tools, real voice and standard music instruments. Any revenue generated will go to the rightful owners. All Track is for Entertainment and Creative exploration of Ai-Assisted music production.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "The YouTube bio states: \"The lyrics were written and composed by AI.\"",
+  "notes": "The YouTube bio states: \"The lyrics were written and composed by AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

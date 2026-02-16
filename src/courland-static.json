@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"One person writing everything, teaming up with AI to turn Baltic gloom, concrete and late-night thoughts into loud, melodic chaos.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"One person writing everything, teaming up with AI to turn Baltic gloom, concrete and late-night thoughts into loud, melodic chaos.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "There is little to no engagement on social media: comments are disabled, no accounts are followed, and posts feel generic and impersonal, lacking any clear human voice or interaction.",
+  "notes": "There is little to no engagement on social media: comments are disabled, no accounts are followed, and posts feel generic and impersonal, lacking any clear human voice or interaction.",
   "genres": [],
   "popularity": null,
   "followers": null,

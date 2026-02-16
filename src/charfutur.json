@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Three albums released on Spotify in 2025 with no prior releases. No information found through Google searches or Discogs references.",
+  "notes": "Three albums released on Spotify in 2025 with no prior releases. No information found through Google searches or Discogs references.",
   "genres": [],
   "popularity": null,
   "followers": null,

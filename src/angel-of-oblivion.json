@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Angel of Oblivion is a progressive metal band blending intricate instrumental compositions with the precision of AI-driven creativity.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Angel of Oblivion is a progressive metal band blending intricate instrumental compositions with the precision of AI-driven creativity.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

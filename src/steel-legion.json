@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2825,
   "disclosure": "partial",
-  "disclosureNotes": "Spotify description: \"All lyrics are written by Uwe Hunsicker, who also directs the artistic vision and sound design. The music is created in collaboration with Suno AI, under his creative supervision – combining human storytelling with cutting-edge technology.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "2024-onwards",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "Spotify description: \"All lyrics are written by Uwe Hunsicker, who also directs the artistic vision and sound design. The music is created in collaboration with Suno AI, under his creative supervision – combining human storytelling with cutting-edge technology.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3499,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The YouTube comments on this video https://www.youtube.com/watch?v=CM3AT2sPwDs suggest AI is used.",
+  "notes": "The YouTube comments on this video https://www.youtube.com/watch?v=CM3AT2sPwDs suggest AI is used.",
   "genres": [],
   "popularity": null,
   "followers": null,

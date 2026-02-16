@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3274,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The credits on this video https://www.youtube.com/watch?v=6s9Ri6HYKUs&list=OLAK5uy_nQ8IrBxGAn5yDzy9Tbx4IWTesZ8hD24nE name 'Chrisdayan Aji Arif' who appears to be linked to other AI-related projects.",
+  "notes": "The credits on this video https://www.youtube.com/watch?v=6s9Ri6HYKUs&list=OLAK5uy_nQ8IrBxGAn5yDzy9Tbx4IWTesZ8hD24nE name 'Chrisdayan Aji Arif' who appears to be linked to other AI-related projects.",
   "genres": [],
   "popularity": null,
   "followers": null,

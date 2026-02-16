@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Kiirelia is a virtual J-Rock artist, an artificial voice that exists through music, memory, and story.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Kiirelia is a virtual J-Rock artist, an artificial voice that exists through music, memory, and story.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

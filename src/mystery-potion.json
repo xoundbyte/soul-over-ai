@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3059,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Mystery Potion is an innovative A.I. project that fuses technology and artistry to produce a vast array of musical styles.\". On the Instagram bio, they state: \"Makin' moves, breakin' rules, with A.I.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Mystery Potion is an innovative A.I. project that fuses technology and artistry to produce a vast array of musical styles.\". On the Instagram bio, they state: \"Makin' moves, breakin' rules, with A.I.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

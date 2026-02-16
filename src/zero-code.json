@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "AI-generated YouTube videos with no discernible information about band members.",
+  "notes": "AI-generated YouTube videos with no discernible information about band members.",
   "genres": [],
   "popularity": null,
   "followers": null,

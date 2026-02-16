@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "Images of artist look AI-generated. Four full-length albums published between 2024-25. No evidence of live shows, both past or future.",
+  "notes": "Images of artist look AI-generated. Four full-length albums published between 2024-25. No evidence of live shows, both past or future.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "Uses AI-generated voices to emulate cartoon characters while performing original lyrics. Cover artwork also appears to be AI-generated.",
+  "notes": "Uses AI-generated voices to emulate cartoon characters while performing original lyrics. Cover artwork also appears to be AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

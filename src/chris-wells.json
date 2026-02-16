@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 2545,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "The artist appears to have a profile on Muso.ai: https://credits.muso.ai/profile/fb088ad5-ad3d-4e42-af37-21dbb9991f48",
+  "notes": "The artist appears to have a profile on Muso.ai: https://credits.muso.ai/profile/fb088ad5-ad3d-4e42-af37-21dbb9991f48",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "Questionable human presence, with predominantly AI-generated visuals in inconsistent styles. Vocal characteristics vary across songs, suggesting synthetic generation. All releases are AI covers from 2025. In a TikTok comment, the artist states they write the lyrics but use AI for all other aspects.",
+  "notes": "Questionable human presence, with predominantly AI-generated visuals in inconsistent styles. Vocal characteristics vary across songs, suggesting synthetic generation. All releases are AI covers from 2025. In a TikTok comment, the artist states they write the lyrics but use AI for all other aspects.",
   "genres": [],
   "popularity": null,
   "followers": null,

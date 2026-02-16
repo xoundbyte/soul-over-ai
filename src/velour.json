@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": "Generic cover art. Audio artifacts.",
+  "notes": "Generic cover art. Audio artifacts.",
   "genres": [],
   "popularity": null,
   "followers": null,

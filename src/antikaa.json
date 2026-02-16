@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"Lyricist meets AI generated music.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"Lyricist meets AI generated music.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

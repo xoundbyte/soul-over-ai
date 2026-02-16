@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "AI-generated artwork, with the Spotify and Facebook bios acknowledging the use of AI. The project also shows an unusually high release output.",
+  "notes": "AI-generated artwork, with the Spotify and Facebook bios acknowledging the use of AI. The project also shows an unusually high release output.",
   "genres": [],
   "popularity": null,
   "followers": null,

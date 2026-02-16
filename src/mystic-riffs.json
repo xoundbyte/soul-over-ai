@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "The Spotify bio acknowledges the project as \"an AI-driven metal band specializing in experimental music created by artificial intelligence technology\".",
+  "notes": "The Spotify bio acknowledges the project as \"an AI-driven metal band specializing in experimental music created by artificial intelligence technology\".",
   "genres": [],
   "popularity": null,
   "followers": null,

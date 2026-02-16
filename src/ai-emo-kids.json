@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"AI Band making fun, nostalgic music for aging emo kids.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"AI Band making fun, nostalgic music for aging emo kids.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

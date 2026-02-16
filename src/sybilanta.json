@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3361,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"Sybilanta is a story and a storyteller. A digital artist whose voice carries the weight of human emotion without being alive...My voice in way I could never sing. She was painstakingly crafted to be the proof that the synthetic could sound, and more importantly, feel real. All the songs and lyrics were written by human hands but in collaboration with her created persona to hone them into verses that felt matched her style.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -19,7 +18,7 @@
     "high-output",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Sybilanta is a story and a storyteller. A digital artist whose voice carries the weight of human emotion without being alive...My voice in way I could never sing. She was painstakingly crafted to be the proof that the synthetic could sound, and more importantly, feel real. All the songs and lyrics were written by human hands but in collaboration with her created persona to hone them into verses that felt matched her style.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

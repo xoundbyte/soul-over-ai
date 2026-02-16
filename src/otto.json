@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states \"We are distributing original songs created by AI.\" (translated from Japanese)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states \"We are distributing original songs created by AI.\" (translated from Japanese)",
   "genres": [],
   "popularity": null,
   "followers": null,

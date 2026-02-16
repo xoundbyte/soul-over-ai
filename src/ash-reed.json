@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3522,
   "disclosure": "confirmed",
-  "disclosureNotes": "According to their TikTok: \"AI Artist | Dreamer.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "2024-onwards",
     "high-output"
   ],
-  "markerNotes": "They released 16 albums in 2025, nothing before that on Spotify.",
+  "notes": "According to their TikTok: \"AI Artist | Dreamer.\" They released 16 albums in 2025, nothing before that on Spotify.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"AI Artist | Screenwriter | Gamer\" and \"After more than a decade of writing screenplays, despite taking down the Hollywood Con Queen, I was unable to ever get representation. So I embraced AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"AI Artist | Screenwriter | Gamer\" and \"After more than a decade of writing screenplays, despite taking down the Hollywood Con Queen, I was unable to ever get representation. So I embraced AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

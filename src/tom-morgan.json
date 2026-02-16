@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2665,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": "There is a thread on Reddit where users suspect the artist is AI generated: https://www.reddit.com/r/CountryMusicStuff/comments/1kb0x44/tom_morgan_sounds_like_ai/",
+  "notes": "There is a thread on Reddit where users suspect the artist is AI generated: https://www.reddit.com/r/CountryMusicStuff/comments/1kb0x44/tom_morgan_sounds_like_ai/",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2721,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Artificial singer.\" (translated)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "This Reddit thread (https://www.reddit.com/r/ADO/comments/1nnetl7/found_a_cool_new_artist/) discusses the artist, with many users suspecting the usage of AI.",
+  "notes": "The YouTube bio states: \"Artificial singer.\" (translated) This Reddit thread (https://www.reddit.com/r/ADO/comments/1nnetl7/found_a_cool_new_artist/) discusses the artist, with many users suspecting the usage of AI.",
   "genres": [],
   "popularity": null,
   "followers": null,

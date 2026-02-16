@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3161,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Linktree https://linktr.ee/veilrverse description states: \"That era shaped how I build mood and story, and this AI-driven work brings back that same sense of possibility. Platforms: Photoshop, Premiere, After Effects, Reaper, GPT, Grok, Midjourney, Suno.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The Linktree https://linktr.ee/veilrverse description states: \"That era shaped how I build mood and story, and this AI-driven work brings back that same sense of possibility. Platforms: Photoshop, Premiere, After Effects, Reaper, GPT, Grok, Midjourney, Suno.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

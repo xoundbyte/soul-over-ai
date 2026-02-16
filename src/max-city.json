@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "At time of writing, all music releases occurred in 2025, with single and album covers lacking consistent art or branding. The bio appears generic and non-specific.",
+  "notes": "At time of writing, all music releases occurred in 2025, with single and album covers lacking consistent art or branding. The bio appears generic and non-specific.",
   "genres": [],
   "popularity": null,
   "followers": null,

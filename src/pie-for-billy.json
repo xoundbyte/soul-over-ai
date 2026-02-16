@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": "Acknowledges the use of AI assistance. Instagram account alludes to the use of AI for parts of their music (unconfirmed if used for all parts of their music).",
+  "notes": "Acknowledges the use of AI assistance. Instagram account alludes to the use of AI for parts of their music (unconfirmed if used for all parts of their music).",
   "genres": [],
   "popularity": null,
   "followers": null,

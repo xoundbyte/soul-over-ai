@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 2698,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Human lyrics, turned to songs with AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Human lyrics, turned to songs with AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

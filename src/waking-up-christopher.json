@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"I pen every lyric and create original melodies while AI crafts soundscapes.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"I pen every lyric and create original melodies while AI crafts soundscapes.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

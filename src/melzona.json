@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Among a wave of AI artists, she stands out as one of the few to reach the biggest Apple Music, Amazon Music, and YouTube Music playlists, proving that artificial intelligence can craft emotion, rhythm, and identity.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Among a wave of AI artists, she stands out as one of the few to reach the biggest Apple Music, Amazon Music, and YouTube Music playlists, proving that artificial intelligence can craft emotion, rhythm, and identity.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

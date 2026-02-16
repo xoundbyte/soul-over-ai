@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The artist lists Sophie Powers as a featured artist but the vocals do not match.",
+  "notes": "The artist lists Sophie Powers as a featured artist but the vocals do not match.",
   "genres": [],
   "popularity": null,
   "followers": null,

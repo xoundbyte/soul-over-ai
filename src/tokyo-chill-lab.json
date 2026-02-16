@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The YouTube bio states that all tracks and visuals are \"original creations produced using AI\". Albums are released roughly every two weeks, with no identifiable information about the artist beyond Spotify and YouTube.",
+  "notes": "The YouTube bio states that all tracks and visuals are \"original creations produced using AI\". Albums are released roughly every two weeks, with no identifiable information about the artist beyond Spotify and YouTube.",
   "genres": [],
   "popularity": null,
   "followers": null,

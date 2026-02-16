@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": "AI generated art; high frequency of releases; very obvious AI vocals.",
+  "notes": "AI generated art; high frequency of releases; very obvious AI vocals.",
   "genres": [],
   "popularity": null,
   "followers": null,

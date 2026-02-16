@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2860,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"These songs are written by me, tracked into Logic, and vocals added in with AI.\"",
   "disclosureTypes": [
     "vocals"
   ],
@@ -15,7 +14,7 @@
     "ai-visuals",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"These songs are written by me, tracked into Logic, and vocals added in with AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

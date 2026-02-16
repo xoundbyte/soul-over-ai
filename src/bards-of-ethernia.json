@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 2630,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"All songs and visuals are created with the help of AI, blending imagination and technology into one story.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"All songs and visuals are created with the help of AI, blending imagination and technology into one story.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The Spotify and YouTube pages state that \"the band primarily consists of five fictional members\" and their \"music is created utilizing various methods of production, from digital DAWs, recording & AI implementation.\"",
+  "notes": "The Spotify and YouTube pages state that \"the band primarily consists of five fictional members\" and their \"music is created utilizing various methods of production, from digital DAWs, recording & AI implementation.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

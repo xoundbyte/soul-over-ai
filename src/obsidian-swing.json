@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Imaginations manifested in reality by Artificial Intelligence.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Imaginations manifested in reality by Artificial Intelligence.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

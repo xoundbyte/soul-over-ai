@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "inconsistent-style"
   ],
-  "markerNotes": "Self-declared as AI.",
+  "notes": "Self-declared as AI.",
   "genres": [],
   "popularity": null,
   "followers": null,

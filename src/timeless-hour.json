@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Numerous different vocalists, and consistently low audio quality. SubmitHub analysis flags strong characteristics associated with AI-generated music.",
+  "notes": "Numerous different vocalists, and consistently low audio quality. SubmitHub analysis flags strong characteristics associated with AI-generated music.",
   "genres": [],
   "popularity": null,
   "followers": null,

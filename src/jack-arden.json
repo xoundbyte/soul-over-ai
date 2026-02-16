@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2761,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"This is Ai music, but with my lyrics and my heart. Available on all streaming platforms.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -19,7 +18,7 @@
     "anonymous",
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"This is Ai music, but with my lyrics and my heart. Available on all streaming platforms.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

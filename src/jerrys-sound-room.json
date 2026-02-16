@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "This artist is suspected to be a recreation of the voice of Jerry Garcia, vocalist of the Grateful Dead, who has been dead since 1995.",
+  "notes": "This artist is suspected to be a recreation of the voice of Jerry Garcia, vocalist of the Grateful Dead, who has been dead since 1995.",
   "genres": [],
   "popularity": null,
   "followers": null,

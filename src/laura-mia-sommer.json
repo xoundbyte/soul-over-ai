@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3273,
   "disclosure": "full",
-  "disclosureNotes": "The YouTube bio states: \"Transparency Note: Laura Mia Sommer is an innovative music project where visual content and music production are created using AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Transparency Note: Laura Mia Sommer is an innovative music project where visual content and music production are created using AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Minimal public presence, with little verifiable information about the persona available online. Discussions on Reddit reference the project as AI-generated.",
+  "notes": "Minimal public presence, with little verifiable information about the persona available online. Discussions on Reddit reference the project as AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

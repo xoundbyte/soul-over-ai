@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2526,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "inconsistent-style",
     "anonymous"
   ],
-  "markerNotes": "The Spotify bio alludes to AI usage by stating: \"Music transcends the means of its creation. It's not about technique, but the emotion it stirs in you and those who listen. If it moves your spirit, it is authentic.\" The Instagram profile linked on Spotify points to WMLS Music, which features other AI artists.",
+  "notes": "The Spotify bio alludes to AI usage by stating: \"Music transcends the means of its creation. It's not about technique, but the emotion it stirs in you and those who listen. If it moves your spirit, it is authentic.\" The Instagram profile linked on Spotify points to WMLS Music, which features other AI artists.",
   "genres": [],
   "popularity": null,
   "followers": null,

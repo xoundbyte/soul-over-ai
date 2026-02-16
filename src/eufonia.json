@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The artists claim that there is a human duo behind it, but admitted in response to a Instagram comment that they use AI tools.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The artists claim that there is a human duo behind it, but admitted in response to a Instagram comment that they use AI tools.",
   "genres": [],
   "popularity": null,
   "followers": null,

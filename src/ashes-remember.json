@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": "AI cover art. Fake, low-effort social media.",
+  "notes": "AI cover art. Fake, low-effort social media.",
   "genres": [],
   "popularity": null,
   "followers": null,

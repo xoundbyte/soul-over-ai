@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3318,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Virtual artist • Live guitars • AI-enhanced vocals Punk-pop from the void.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Virtual artist • Live guitars • AI-enhanced vocals Punk-pop from the void.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

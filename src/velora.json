@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3051,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"I work from my own MIDI songs (full arrangements of guitars, bass, keys, drums), build everything in a DAW, program the instruments and use orchestral libraries for the symphonic parts. Vocals are written and tuned with Melodyne, then processed with AI, always crafted with my intention and emotion. Finally, I mix and master everything myself.\"",
   "disclosureTypes": [
     "vocals"
   ],
@@ -15,7 +14,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"I work from my own MIDI songs (full arrangements of guitars, bass, keys, drums), build everything in a DAW, program the instruments and use orchestral libraries for the symphonic parts. Vocals are written and tuned with Melodyne, then processed with AI, always crafted with my intention and emotion. Finally, I mix and master everything myself.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

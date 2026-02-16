@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": "The YouTube bio openly acknowledges AI usage. There are no releases prior to 2025, and no articles, website, tours, or record label information available via Google. The artist is also not listed on Discogs.",
+  "notes": "The YouTube bio openly acknowledges AI usage. There are no releases prior to 2025, and no articles, website, tours, or record label information available via Google. The artist is also not listed on Discogs.",
   "genres": [],
   "popularity": null,
   "followers": null,

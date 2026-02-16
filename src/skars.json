@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "High single release volume on Spotify, with AI-generated cover art and no available bio. The music features generic or recycled stylistic elements and riffs.",
+  "notes": "High single release volume on Spotify, with AI-generated cover art and no available bio. The music features generic or recycled stylistic elements and riffs.",
   "genres": [],
   "popularity": null,
   "followers": null,

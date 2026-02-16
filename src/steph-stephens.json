@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"Canadian pop punk musician exploring how AI compliments my creative process.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"Canadian pop punk musician exploring how AI compliments my creative process.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

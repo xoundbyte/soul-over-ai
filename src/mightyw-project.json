@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Their YouTube bio states: \"This in an experiment how to utilize AI in music, everything is made with AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Their YouTube bio states: \"This in an experiment how to utilize AI in music, everything is made with AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

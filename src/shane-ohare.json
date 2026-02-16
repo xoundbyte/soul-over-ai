@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3296,
   "disclosure": "partial",
-  "disclosureNotes": "TikTok bio states: “I DO USE AI TO HELP WITH VOCALS.”",
   "disclosureTypes": [
     "vocals"
   ],
@@ -14,7 +13,7 @@
   "markers": [
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "TikTok bio states: “I DO USE AI TO HELP WITH VOCALS.”",
   "genres": [],
   "popularity": null,
   "followers": null,

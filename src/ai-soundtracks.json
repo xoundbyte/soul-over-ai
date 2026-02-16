@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2886,
   "disclosure": "partial",
-  "disclosureNotes": "The artist title alludes to AI usage and the YouTube bio states: \"I use synthesized software to generate the vocals and rhythm, but the songs are all written by me.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -19,7 +18,7 @@
     "anonymous",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The artist title alludes to AI usage and the YouTube bio states: \"I use synthesized software to generate the vocals and rhythm, but the songs are all written by me.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

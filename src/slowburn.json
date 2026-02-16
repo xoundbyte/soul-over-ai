@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "High release volume paired with a sound characteristic of AI-generated music. Claims that lyrics are \"original\".",
+  "notes": "High release volume paired with a sound characteristic of AI-generated music. Claims that lyrics are \"original\".",
   "genres": [],
   "popularity": null,
   "followers": null,

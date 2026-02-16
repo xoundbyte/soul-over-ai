@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3179,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "ai-visuals",
     "inconsistent-style"
   ],
-  "markerNotes": "There appears to be no performer consistency with uncredited male vocals https://www.youtube.com/watch?v=N-dWkO8_epI and female https://www.youtube.com/watch?v=hylRPkKgP_0.",
+  "notes": "There appears to be no performer consistency with uncredited male vocals https://www.youtube.com/watch?v=N-dWkO8_epI and female https://www.youtube.com/watch?v=hylRPkKgP_0.",
   "genres": [],
   "popularity": null,
   "followers": null,

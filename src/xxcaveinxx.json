@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "Exceptionally high output for a very new project, accompanied by a surprisingly large listener base.",
+  "notes": "Exceptionally high output for a very new project, accompanied by a surprisingly large listener base.",
   "genres": [],
   "popularity": null,
   "followers": null,

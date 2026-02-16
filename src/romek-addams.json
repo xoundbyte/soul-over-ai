@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"Official Instagram For AI Music Producer Romek Addams. Main creator for Vibe Music AI Records.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"Official Instagram For AI Music Producer Romek Addams. Main creator for Vibe Music AI Records.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "No discernible social media presence, with the project founded in 2025 and multiple albums released within the same year. SubmitHub detects strong AI characteristics in their music.",
+  "notes": "No discernible social media presence, with the project founded in 2025 and multiple albums released within the same year. SubmitHub detects strong AI characteristics in their music.",
   "genres": [],
   "popularity": null,
   "followers": null,

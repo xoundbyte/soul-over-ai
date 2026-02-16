@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3220,
   "disclosure": "confirmed",
-  "disclosureNotes": "The description on this song https://youtube.com/watch?v=_yFDhsBfexU states: \"AI tools were used in the creation of this song.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The description on this song https://youtube.com/watch?v=_yFDhsBfexU states: \"AI tools were used in the creation of this song.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

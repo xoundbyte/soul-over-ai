@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3497,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Not all tracks are AI-generated. The music here is a mix of human-made and AI-enhanced elements. All vocals originate from real human recordings, which are then transformed using AI tools to achieve the desired style and vibe.\"",
   "disclosureTypes": [
     "instrumentation",
     "vocals"
@@ -17,7 +16,7 @@
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Not all tracks are AI-generated. The music here is a mix of human-made and AI-enhanced elements. All vocals originate from real human recordings, which are then transformed using AI tools to achieve the desired style and vibe.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

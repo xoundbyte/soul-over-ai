@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3136,
   "disclosure": "partial",
-  "disclosureNotes": "The description on this video https://www.youtube.com/watch?v=RbfFzJA27e4 states: \"Music and visuals were partly shaped using generative AI, with final editing and mastering done by hand.\"",
   "disclosureTypes": [
     "instrumentation"
   ],
@@ -17,7 +16,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The description on this video https://www.youtube.com/watch?v=RbfFzJA27e4 states: \"Music and visuals were partly shaped using generative AI, with final editing and mastering done by hand.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

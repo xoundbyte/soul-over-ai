@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Extensive use of AI-generated visuals and tagging of real artists on songs. SubmitHub detects strong AI characteristics in the music.",
+  "notes": "Extensive use of AI-generated visuals and tagging of real artists on songs. SubmitHub detects strong AI characteristics in the music.",
   "genres": [],
   "popularity": null,
   "followers": null,

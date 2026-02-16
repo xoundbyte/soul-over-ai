@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "41 tracks released between November 2025 and January 2026, with the project also appearing on the SunoAI subreddit, suggesting use of AI music generation tools.",
+  "notes": "41 tracks released between November 2025 and January 2026, with the project also appearing on the SunoAI subreddit, suggesting use of AI music generation tools.",
   "genres": [],
   "popularity": null,
   "followers": null,

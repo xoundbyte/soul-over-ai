@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Self-acknowledges use of AI on their YouTube channel - \"The music on this channel is created using generative AI, with manual adjustments such as effects, arrangement tweaks, and occasional programming. All tracks are hand-mastered.\"",
+  "notes": "Self-acknowledges use of AI on their YouTube channel - \"The music on this channel is created using generative AI, with manual adjustments such as effects, arrangement tweaks, and occasional programming. All tracks are hand-mastered.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

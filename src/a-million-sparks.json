@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2821,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"A creative engine that blends modern AI tools with old-school showmanship.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"A creative engine that blends modern AI tools with old-school showmanship.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

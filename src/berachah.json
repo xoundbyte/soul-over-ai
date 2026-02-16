@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3211,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Youtube channel description states: \"This channel exists to give people good quality lyric videos, and amazing Biblical AI music for all to enjoy.\" On Youtube \"Psalm 20 // Metal Cover\" description states: \"[...] The song was generated using Suno AI, the lyrics were written by AI, and then I edited them quite a bit. [...]\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Youtube channel description states: \"This channel exists to give people good quality lyric videos, and amazing Biblical AI music for all to enjoy.\" On Youtube \"Psalm 20 // Metal Cover\" description states: \"[...] The song was generated using Suno AI, the lyrics were written by AI, and then I edited them quite a bit. [...]\"",
   "genres": [],
   "popularity": null,
   "followers": null,

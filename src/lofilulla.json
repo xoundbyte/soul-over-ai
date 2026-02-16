@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Experience the magic of AI -where virtual artists bring every song to life with passion and precision.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Experience the magic of AI -where virtual artists bring every song to life with passion and precision.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

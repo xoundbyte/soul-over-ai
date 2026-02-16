@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states \"AI tools were used to enhance the music and vocal quality, ensuring a polished and professional sound.\" However, song credits lists Suliko Kheladze (also listed on AI artists ElenAmor, Imani Shiloh, Aisha Sparkle) which raise suspicions over full AI-generation.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states \"AI tools were used to enhance the music and vocal quality, ensuring a polished and professional sound.\" However, song credits lists Suliko Kheladze (also listed on AI artists ElenAmor, Imani Shiloh, Aisha Sparkle) which raise suspicions over full AI-generation.",
   "genres": [],
   "popularity": null,
   "followers": null,

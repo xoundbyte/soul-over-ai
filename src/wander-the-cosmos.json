@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "AI generated cover art. No song credits listed or any information about the person behind the project.",
+  "notes": "AI generated cover art. No song credits listed or any information about the person behind the project.",
   "genres": [],
   "popularity": null,
   "followers": null,

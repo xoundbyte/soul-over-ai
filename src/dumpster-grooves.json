@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states that \"each song is born from human hands - written, arranged, and produced with care by Dumpster Grooves - then gently shaped with AI to echo the warmth and soul of lost eras.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states that \"each song is born from human hands - written, arranged, and produced with care by Dumpster Grooves - then gently shaped with AI to echo the warmth and soul of lost eras.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

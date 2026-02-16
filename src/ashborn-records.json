@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "The YouTube bio self-acknowledges AI use, describing the content as \"Original AI Gothic-Metal tracks.\"",
+  "notes": "The YouTube bio self-acknowledges AI use, describing the content as \"Original AI Gothic-Metal tracks.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

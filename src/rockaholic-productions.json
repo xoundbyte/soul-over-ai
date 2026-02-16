@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3142,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Every song I'll release is produced with a \"little help\" from AI while putting my own lyrics and melodies into the mix.\"",
   "disclosureTypes": [
     "mastering",
     "mixing",
@@ -19,7 +18,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Every song I'll release is produced with a \"little help\" from AI while putting my own lyrics and melodies into the mix.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

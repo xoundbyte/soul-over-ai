@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "Featured on AI Spotify playlists, with AI-generated visuals and a high volume of releases.",
+  "notes": "Featured on AI Spotify playlists, with AI-generated visuals and a high volume of releases.",
   "genres": [],
   "popularity": null,
   "followers": null,

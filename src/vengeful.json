@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"VENGEFUL - that's the name under which I now release completely AI-produced music. What you hear is created through artificial intelligence in combination with my vision, my lyrics, and my energy.\" (translated from German)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"VENGEFUL - that's the name under which I now release completely AI-produced music. What you hear is created through artificial intelligence in combination with my vision, my lyrics, and my energy.\" (translated from German)",
   "genres": [],
   "popularity": null,
   "followers": null,

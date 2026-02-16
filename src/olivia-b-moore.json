@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "Both the Spotify and Instagram bios acknowledge the use of AI-generated content.",
+  "notes": "Both the Spotify and Instagram bios acknowledge the use of AI-generated content.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 2642,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Created with AI Assistance.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "2024-onwards",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Created with AI Assistance.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

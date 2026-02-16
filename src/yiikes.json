@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist's TikTok profile contains \"ai\" in the username, and the posts allude to AI usage.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The artist's TikTok profile contains \"ai\" in the username, and the posts allude to AI usage.",
   "genres": [],
   "popularity": null,
   "followers": null,

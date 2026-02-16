@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio notes that: \"Facing challenges like limited income and resources, he embraces innovative tools-including AI-to bring his music to life. While technology assists in the production process, every lyric is handcrafted and personally written by the artist himself.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio notes that: \"Facing challenges like limited income and resources, he embraces innovative tools-including AI-to bring his music to life. While technology assists in the production process, every lyric is handcrafted and personally written by the artist himself.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3414,
   "disclosure": "partial",
-  "disclosureNotes": "Per the YouTube page: \"Music & Vocals: Original composition, created using AI (Suno Pro) based on my own lyrics.\" (translated). Per the official website https://echoes-of-skollborn.de/elementor-2644/ \"Words and melodies that originally existed only in my head were brought to life by AI.\" (translated)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "Per the YouTube page: \"Music & Vocals: Original composition, created using AI (Suno Pro) based on my own lyrics.\" (translated). Per the official website https://echoes-of-skollborn.de/elementor-2644/ \"Words and melodies that originally existed only in my head were brought to life by AI.\" (translated)",
   "genres": [],
   "popularity": null,
   "followers": null,

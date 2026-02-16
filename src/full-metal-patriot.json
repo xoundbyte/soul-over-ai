@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"This channel delivers high-impact visuals, AI-powered storytelling, original music, and relentless commentary.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"This channel delivers high-impact visuals, AI-powered storytelling, original music, and relentless commentary.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

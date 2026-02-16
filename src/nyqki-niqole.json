@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2736,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The artist alludes to AI usage without explicitly saying it: \"My pen writes the truth. My faith fuels the message. And technology simply carries my voice farther than I ever could alone.\"",
+  "notes": "The artist alludes to AI usage without explicitly saying it: \"My pen writes the truth. My faith fuels the message. And technology simply carries my voice farther than I ever could alone.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3277,
   "disclosure": "partial",
-  "disclosureNotes": "The artist's homepage https://selfcareclub.org/pages/meet-the-visionary-behind-self-care-club-llc states: \"While singing was never her primary gift, she embraced AI technology as a tool to bring her affirmations, emotions, and healing intentions to life.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -20,7 +19,7 @@
     "ai-visuals",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The artist's homepage https://selfcareclub.org/pages/meet-the-visionary-behind-self-care-club-llc states: \"While singing was never her primary gift, she embraced AI technology as a tool to bring her affirmations, emotions, and healing intentions to life.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3326,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Metal Sanctuary is an experimental AI-powered music project that fuses the heavy, brooding elements of doom metal with the soaring intensity of power metal, all while showcasing the intricate, virtuosic mastery of guitar work. By utilizing advanced artificial intelligence, the project explores new sonic landscapes, pushing the boundaries of traditional metal music and blending technical skill with emotional depth.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "2024-onwards",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Metal Sanctuary is an experimental AI-powered music project that fuses the heavy, brooding elements of doom metal with the soaring intensity of power metal, all while showcasing the intricate, virtuosic mastery of guitar work. By utilizing advanced artificial intelligence, the project explores new sonic landscapes, pushing the boundaries of traditional metal music and blending technical skill with emotional depth.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

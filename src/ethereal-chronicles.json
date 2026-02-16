@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "YouTube bio states that lyrics are human-written, but everything else is AI-generated.",
+  "notes": "YouTube bio states that lyrics are human-written, but everything else is AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

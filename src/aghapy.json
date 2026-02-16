@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2529,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"At Aghapy, we bring the Bible to life through breathtaking cinematic visuals, AI-enhanced storytelling, and deep spiritual insights.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"At Aghapy, we bring the Bible to life through breathtaking cinematic visuals, AI-enhanced storytelling, and deep spiritual insights.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

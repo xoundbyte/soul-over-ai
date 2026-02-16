@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "inconsistent-style"
   ],
-  "markerNotes": "Describes itself as \"primarily an AI music project\" on Spotify bio.",
+  "notes": "Describes itself as \"primarily an AI music project\" on Spotify bio.",
   "genres": [],
   "popularity": null,
   "followers": null,

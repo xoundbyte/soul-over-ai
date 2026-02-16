@@ -16,11 +16,10 @@ const existingArtist = JSON.parse(readFileSync(`src/${data.id}.json`, 'utf8'));
 // Fields that can be updated (excluding id which is mandatory)
 const updateableFields = [
   'disclosure',
-  'disclosureNotes',
   'disclosureTypes',
   'urls',
   'markers',
-  'markerNotes',
+  'notes',
   'apple',
   'amazon',
   'youtube',
@@ -32,7 +31,7 @@ const updateableFields = [
 const changedData = { id: data.id };
 
 // Fields where empty strings should be converted to null
-const nullableFields = ['disclosureNotes', 'markerNotes', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
+const nullableFields = ['notes', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
 
 const arrayFields = ['disclosureTypes', 'urls', 'markers'];
 

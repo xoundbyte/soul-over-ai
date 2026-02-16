@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The YouTube bio states the project \"combines traditional songwriting with the power of artificial intelligence,\" and the artist name itself alludes to AI usage.",
+  "notes": "The YouTube bio states the project \"combines traditional songwriting with the power of artificial intelligence,\" and the artist name itself alludes to AI usage.",
   "genres": [],
   "popularity": null,
   "followers": null,

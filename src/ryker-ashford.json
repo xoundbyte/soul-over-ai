@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2733,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"While I collaborate with AI to craft the music, every word and emotion is authentically my own.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -20,7 +19,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"While I collaborate with AI to craft the music, every word and emotion is authentically my own.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

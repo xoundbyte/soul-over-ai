@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2966,
   "disclosure": "confirmed",
-  "disclosureNotes": "The video for Unapologetic Soul https://www.youtube.com/watch?v=bfsFn-Wqxfw uses the hashtag #aimusic in the description.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The video for Unapologetic Soul https://www.youtube.com/watch?v=bfsFn-Wqxfw uses the hashtag #aimusic in the description.",
   "genres": [],
   "popularity": null,
   "followers": null,

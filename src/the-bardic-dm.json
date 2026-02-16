@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states that they produce \"custom AI-generated songs inspired by classic campaign fails.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states that they produce \"custom AI-generated songs inspired by classic campaign fails.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

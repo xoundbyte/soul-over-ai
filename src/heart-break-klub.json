@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "The YouTube description explicitly positions the channel as AI-focused, stating it produces AI-generated music covers, reimagines popular songs using advanced AI, and releases new tracks daily.",
+  "notes": "The YouTube description explicitly positions the channel as AI-focused, stating it produces AI-generated music covers, reimagines popular songs using advanced AI, and releases new tracks daily.",
   "genres": [],
   "popularity": null,
   "followers": null,

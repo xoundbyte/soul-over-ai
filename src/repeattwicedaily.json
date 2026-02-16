@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2832,
   "disclosure": "partial",
-  "disclosureNotes": "On the track 'Bound by a Dream' https://www.youtube.com/watch?v=6xT9K2Rx80Y, the description states: \"Lyrics by me, vocals made with SunoAi.\"",
   "disclosureTypes": [
     "vocals"
   ],
@@ -16,7 +15,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "On the track 'Bound by a Dream' https://www.youtube.com/watch?v=6xT9K2Rx80Y, the description states: \"Lyrics by me, vocals made with SunoAi.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

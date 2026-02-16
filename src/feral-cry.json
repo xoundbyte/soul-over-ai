@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"AI Heavy Metal Music at it's best.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"AI Heavy Metal Music at it's best.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

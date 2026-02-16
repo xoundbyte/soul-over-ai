@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "Their Spotify bio states: \"Every lyric is 100% authentically my own, but the vocals are A.I powered.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "Their Spotify bio states: \"Every lyric is 100% authentically my own, but the vocals are A.I powered.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

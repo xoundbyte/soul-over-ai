@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3025,
   "disclosure": "confirmed",
-  "disclosureNotes": "The TikTok profile states: \"Making awesome AI music and bringing it to you!\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The TikTok profile states: \"Making awesome AI music and bringing it to you!\"",
   "genres": [],
   "popularity": null,
   "followers": null,

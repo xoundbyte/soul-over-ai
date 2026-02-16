@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3460,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "2024-onwards",
     "inconsistent-style"
   ],
-  "markerNotes": "The rapid growth in listeners over a short period suggests possible bots or paid followers. Associated with music label Unjaps (known for publishing artists involved with AI-generated music).",
+  "notes": "The rapid growth in listeners over a short period suggests possible bots or paid followers. Associated with music label Unjaps (known for publishing artists involved with AI-generated music).",
   "genres": [],
   "popularity": null,
   "followers": null,

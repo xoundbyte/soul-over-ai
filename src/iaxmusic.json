@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist's TikTok posts uses hashtags such as #aicover and #ai.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The artist's TikTok posts uses hashtags such as #aicover and #ai.",
   "genres": [],
   "popularity": null,
   "followers": null,

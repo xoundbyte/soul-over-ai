@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The Spotify bio states: \"Each track is crafted using AI-assisted tools as part of a creative vision\" whilst the Instagram bio describes the project as \"AI-forged.\"",
+  "notes": "The Spotify bio states: \"Each track is crafted using AI-assisted tools as part of a creative vision\" whilst the Instagram bio describes the project as \"AI-forged.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2667,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio implies Suno usage: \"The Weird Side of Music Child of the Sunoverse.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio implies Suno usage: \"The Weird Side of Music Child of the Sunoverse.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

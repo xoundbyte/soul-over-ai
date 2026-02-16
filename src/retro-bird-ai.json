@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "Openly acknowledges usage of AI-generated content.",
+  "notes": "Openly acknowledges usage of AI-generated content.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Their YouTube description states that the artist is a \"music band created by artificial intelligence.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Their YouTube description states that the artist is a \"music band created by artificial intelligence.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

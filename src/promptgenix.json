@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Prompt is in the 'band' name, and they have acknowledged the use of AI on Reddit.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Prompt is in the 'band' name, and they have acknowledged the use of AI on Reddit.",
   "genres": [],
   "popularity": null,
   "followers": null,

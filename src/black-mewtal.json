@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": "Cat-themed metalcore.",
+  "notes": "Cat-themed metalcore.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The YouTube bio acknowledges the use of AI-generated content, and the name itself is suggestive of an AI-based project.",
+  "notes": "The YouTube bio acknowledges the use of AI-generated content, and the name itself is suggestive of an AI-based project.",
   "genres": [],
   "popularity": null,
   "followers": null,

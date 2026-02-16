@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "AI-generated album artwork, featured in AI cover playlists. The Spotify bio states, \"Some parts are crafted using artificial intelligence as a tool,\" while the YouTube bio notes, \"Modern creative tools have been used thoughtfully in the creative process.\"",
+  "notes": "AI-generated album artwork, featured in AI cover playlists. The Spotify bio states, \"Some parts are crafted using artificial intelligence as a tool,\" while the YouTube bio notes, \"Modern creative tools have been used thoughtfully in the creative process.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

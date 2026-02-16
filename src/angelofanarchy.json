@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2703,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"I take my human lyrics, self-composed melodies, and sometimes my “still-a-work-in-progress” voice, and use AI music tools to shape them into full-production songs.\"",
   "disclosureTypes": [
     "mastering",
     "mixing"
@@ -15,7 +14,7 @@
   "markers": [
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"I take my human lyrics, self-composed melodies, and sometimes my “still-a-work-in-progress” voice, and use AI music tools to shape them into full-production songs.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

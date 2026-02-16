@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "Generic AI sound and confirmed using SubmitHub's AI checker. All releases in 2025 so far and claims to release a track every Friday.",
+  "notes": "Generic AI sound and confirmed using SubmitHub's AI checker. All releases in 2025 so far and claims to release a track every Friday.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio describes themselves as a \"virtual artist\" and utilises hashtags such as #AIMusic and #VirtualArtist.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio describes themselves as a \"virtual artist\" and utilises hashtags such as #AIMusic and #VirtualArtist.",
   "genres": [],
   "popularity": null,
   "followers": null,

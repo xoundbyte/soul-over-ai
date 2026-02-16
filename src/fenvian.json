@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3225,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "2024-onwards"
   ],
-  "markerNotes": "The credits on this YouTube video https://www.youtube.com/watch?v=QT7-VO4RxdU points to an entity called LinkTivate Media which is involved in \"digital arts.\"",
+  "notes": "The credits on this YouTube video https://www.youtube.com/watch?v=QT7-VO4RxdU points to an entity called LinkTivate Media which is involved in \"digital arts.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

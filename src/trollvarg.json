@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The audio sounds synthetic, with sudden releases of singles and an album appearing without prior history. All visuals appear AI-generated, with no identifiable human presence.",
+  "notes": "The audio sounds synthetic, with sudden releases of singles and an album appearing without prior history. All visuals appear AI-generated, with no identifiable human presence.",
   "genres": [],
   "popularity": null,
   "followers": null,

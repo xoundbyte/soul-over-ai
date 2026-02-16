@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "Artist has high output volume of individual tracks, uses AI visuals for their album art, and has openly come out in support of using AI. While their history suggests they aren't exclusively using AI, it's reasonable to assume they are using it in their creation process at this point.",
+  "notes": "Artist has high output volume of individual tracks, uses AI visuals for their album art, and has openly come out in support of using AI. While their history suggests they aren't exclusively using AI, it's reasonable to assume they are using it in their creation process at this point.",
   "genres": [],
   "popularity": null,
   "followers": null,

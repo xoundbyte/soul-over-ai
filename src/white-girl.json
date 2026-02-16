@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3009,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "ai-visuals",
     "2024-onwards"
   ],
-  "markerNotes": "Since inception, the channel posts hour-long compilations every few days.",
+  "notes": "Since inception, the channel posts hour-long compilations every few days.",
   "genres": [],
   "popularity": null,
   "followers": null,

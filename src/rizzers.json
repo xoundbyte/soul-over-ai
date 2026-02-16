@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": "The credits for all songs list just one person: Shai Reuven. The bio lists 5 band members, but no information is available online for any of them.",
+  "notes": "The credits for all songs list just one person: Shai Reuven. The bio lists 5 band members, but no information is available online for any of them.",
   "genres": [],
   "popularity": null,
   "followers": null,

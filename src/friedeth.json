@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "No media presence, an unusually high number of releases in a short period, and vocals that display generative AI characteristics.",
+  "notes": "No media presence, an unusually high number of releases in a short period, and vocals that display generative AI characteristics.",
   "genres": [],
   "popularity": null,
   "followers": null,
