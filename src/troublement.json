@@ -3,9 +3,12 @@
   "name": "TroubleMent",
   "dateAdded": "2026-01-02T16:34:12.000Z",
   "dateUpdated": "2026-01-27T23:14:44.351Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

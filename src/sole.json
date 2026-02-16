@@ -3,9 +3,12 @@
   "name": "Solé",
   "dateAdded": "2026-02-08T20:16:15.130Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3133,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "inconsistent-style"

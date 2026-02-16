@@ -3,9 +3,12 @@
   "name": "Dirty Charlie",
   "dateAdded": "2026-02-04T21:06:10.674Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2966,
   "disclosure": "confirmed",
   "disclosureNotes": "The video for Unapologetic Soul https://www.youtube.com/watch?v=bfsFn-Wqxfw uses the hashtag #aimusic in the description.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

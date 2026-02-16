@@ -3,9 +3,12 @@
   "name": "eccxo Music",
   "dateAdded": "2026-01-25T12:42:33.669Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"Promt-meta-artist. eccxo Music, uses the capabilities of artificial intelligence specialized in music generation (e.g. Suno AI, Udio AI and others).\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

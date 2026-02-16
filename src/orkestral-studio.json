@@ -3,9 +3,12 @@
   "name": "Orkestral Studio",
   "dateAdded": "2025-12-22T13:51:48.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

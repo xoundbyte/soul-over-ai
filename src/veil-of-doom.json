@@ -3,9 +3,12 @@
   "name": "Veil of Doom",
   "dateAdded": "2026-02-01T11:27:53.598Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2547,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

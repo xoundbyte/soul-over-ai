@@ -3,9 +3,12 @@
   "name": "j . prodigy",
   "dateAdded": "2026-01-14T10:25:07.673Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

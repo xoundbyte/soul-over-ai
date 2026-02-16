@@ -3,9 +3,12 @@
   "name": "COLTER RAYNE",
   "dateAdded": "2026-01-23T10:42:01.126Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Powered by AI but driven by heart.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

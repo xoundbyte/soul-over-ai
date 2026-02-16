@@ -3,9 +3,12 @@
   "name": "Phantom Swing",
   "dateAdded": "2026-01-26T09:16:36.927Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

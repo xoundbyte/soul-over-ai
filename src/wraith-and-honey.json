@@ -3,9 +3,12 @@
   "name": "Wraith & Honey",
   "dateAdded": "2026-02-08T20:24:29.479Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3134,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

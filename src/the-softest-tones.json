@@ -3,9 +3,12 @@
   "name": "The Softest Tones",
   "dateAdded": "2026-01-21T17:09:38.469Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

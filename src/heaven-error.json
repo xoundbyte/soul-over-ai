@@ -3,9 +3,12 @@
   "name": "Heaven//Error",
   "dateAdded": "2026-01-11T21:47:24.579Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

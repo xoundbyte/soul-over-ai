@@ -3,9 +3,12 @@
   "name": "Eye Empire",
   "dateAdded": "2025-12-19T11:26:31.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output"
   ],

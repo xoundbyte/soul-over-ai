@@ -3,9 +3,12 @@
   "name": "Back of House",
   "dateAdded": "2026-02-01T11:16:47.757Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2543,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

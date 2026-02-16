@@ -3,9 +3,12 @@
   "name": "Sodikken",
   "dateAdded": "2026-01-02T14:57:02.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

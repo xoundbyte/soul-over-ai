@@ -26,6 +26,17 @@
       "format": "date-time",
       "description": "Date this entry was last updated (ISO 8601 UTC format), or null if never updated"
     },
+    "removed": {
+      "type": "boolean",
+      "description": "Whether this artist has been removed from the database"
+    },
+    "issue": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "GitHub issue number, or null if not available"
+    },
     "disclosure": {
       "type": "string",
       "enum": ["confirmed", "full", "partial", "none"],
@@ -52,6 +63,23 @@
         ]
       },
       "uniqueItems": true
+    },
+    "urls": {
+      "type": "array",
+      "description": "URLs with supporting evidence or references",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
+        },
+        "required": ["url", "notes"],
+        "additionalProperties": false
+      }
     },
     "markers": {
       "type": "array",
@@ -162,9 +190,12 @@
     "name",
     "dateAdded",
     "dateUpdated",
+    "removed",
+    "issue",
     "disclosure",
     "disclosureNotes",
     "disclosureTypes",
+    "urls",
     "markers",
     "markerNotes",
     "genres",

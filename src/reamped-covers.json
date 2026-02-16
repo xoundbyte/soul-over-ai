@@ -3,12 +3,15 @@
   "name": "ReAmped Covers",
   "dateAdded": "2026-02-13T21:00:26.794Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3496,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Welcome to ReAmped Covers – where music meets technology. Using the power of AI, we transform your favorite songs into electrifying rock anthems. Every track gets louder, harder, and reimagined in true rock style.\"",
   "disclosureTypes": [
     "instrumentation",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

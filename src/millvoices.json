@@ -3,9 +3,12 @@
   "name": "Millvoices",
   "dateAdded": "2026-02-01T22:32:38.995Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2667,
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio implies Suno usage: \"The Weird Side of Music Child of the Sunoverse.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

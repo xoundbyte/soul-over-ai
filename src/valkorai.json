@@ -3,9 +3,12 @@
   "name": "Valkorai",
   "dateAdded": "2026-02-03T11:21:09.901Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2751,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Combining a love of painting with words and the cutting-edge collaboration of AI, Valkorai gives voice and melody to original lyrics.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

@@ -3,9 +3,12 @@
   "name": "Ravnskjold",
   "dateAdded": "2026-02-04T21:10:36.835Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2942,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

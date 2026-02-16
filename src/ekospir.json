@@ -3,9 +3,12 @@
   "name": "EKOSPIR",
   "dateAdded": "2026-01-03T14:14:56.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

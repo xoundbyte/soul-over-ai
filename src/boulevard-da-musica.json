@@ -3,9 +3,12 @@
   "name": "Boulevard da Musica",
   "dateAdded": "2026-01-03T08:54:34.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

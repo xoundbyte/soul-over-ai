@@ -3,9 +3,12 @@
   "name": "Angelina Mormando",
   "dateAdded": "2026-01-15T20:05:01.667Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify description states that the project is \"is a virtual artist.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

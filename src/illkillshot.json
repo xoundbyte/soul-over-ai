@@ -3,9 +3,12 @@
   "name": "iLLKiLLshot",
   "dateAdded": "2026-01-31T11:47:41.206Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2683,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

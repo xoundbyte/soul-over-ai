@@ -3,9 +3,12 @@
   "name": "Ariana Lewis",
   "dateAdded": "2026-01-22T23:06:33.286Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

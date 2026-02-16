@@ -3,9 +3,12 @@
   "name": "Black Mustang Defense",
   "dateAdded": "2026-01-13T20:46:40.640Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "inconsistent-style"

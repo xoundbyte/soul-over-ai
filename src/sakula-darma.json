@@ -3,9 +3,12 @@
   "name": "Sakula Darma",
   "dateAdded": "2026-02-05T21:09:46.780Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3052,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards",

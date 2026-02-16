@@ -3,9 +3,12 @@
   "name": "Jonny Boy",
   "dateAdded": "2026-01-03T12:11:24.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "inconsistent-style"
   ],

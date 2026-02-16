@@ -3,9 +3,12 @@
   "name": "Mystic Riffs",
   "dateAdded": "2026-01-02T15:02:54.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

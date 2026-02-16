@@ -3,9 +3,12 @@
   "name": "Thodins Path",
   "dateAdded": "2025-12-12T09:32:07.000Z",
   "dateUpdated": "2026-02-10T16:58:08.438Z",
+  "removed": false,
+  "issue": 2662,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "anonymous",

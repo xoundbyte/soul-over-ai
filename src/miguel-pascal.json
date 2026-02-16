@@ -3,9 +3,12 @@
   "name": "Miguel Pascal",
   "dateAdded": "2026-01-18T12:48:05.112Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

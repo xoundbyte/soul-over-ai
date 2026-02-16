@@ -3,9 +3,12 @@
   "name": "NOVRA",
   "dateAdded": "2026-02-03T10:46:04.845Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2735,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards",

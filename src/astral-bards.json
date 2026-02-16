@@ -3,9 +3,12 @@
   "name": "Astral Bards",
   "dateAdded": "2026-01-09T13:35:57.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

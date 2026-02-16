@@ -3,9 +3,12 @@
   "name": "Rap & English",
   "dateAdded": "2026-02-05T21:36:22.272Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3075,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "inconsistent-style",
     "anonymous",

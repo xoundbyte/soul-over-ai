@@ -3,9 +3,12 @@
   "name": "Smoke-Oh",
   "dateAdded": "2026-01-12T11:27:32.620Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The artist's YouTube bio states that they combine \"human creativity with modern tools like AI to explore new sounds\".",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

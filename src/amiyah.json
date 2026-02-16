@@ -3,9 +3,12 @@
   "name": "AMiYAH",
   "dateAdded": "2026-01-02T19:25:14.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

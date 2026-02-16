@@ -3,9 +3,12 @@
   "name": "Ce A Zar",
   "dateAdded": "2026-01-25T12:44:17.013Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Voice is enhanced with AI to get richer tones, cleaner sound, and fresh creative vibes. Every song starts with something real-my voice, my ideas, and my personal expression. Instruments are AI assisted to build the rest of the track.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output"
   ],

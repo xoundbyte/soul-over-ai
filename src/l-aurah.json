@@ -3,9 +3,12 @@
   "name": "L'aurah",
   "dateAdded": "2026-01-14T09:48:35.240Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"L'Aurah is a synthetic artist. Her image and songs were created using artificial intelligence, while the lyrics, ideas, emotions, and musical style are guided by me.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

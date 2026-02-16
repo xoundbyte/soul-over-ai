@@ -3,9 +3,12 @@
   "name": "Taylor Lakes",
   "dateAdded": "2026-01-21T14:37:57.950Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

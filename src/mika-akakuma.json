@@ -3,9 +3,12 @@
   "name": "Mika Akakuma",
   "dateAdded": "2026-01-18T21:15:43.146Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

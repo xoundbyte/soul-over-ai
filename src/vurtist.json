@@ -3,9 +3,12 @@
   "name": "Vurtist",
   "dateAdded": "2026-01-16T21:14:52.292Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

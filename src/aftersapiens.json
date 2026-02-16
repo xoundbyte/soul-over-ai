@@ -3,9 +3,12 @@
   "name": "AfterSapiens",
   "dateAdded": "2025-12-29T20:06:45.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

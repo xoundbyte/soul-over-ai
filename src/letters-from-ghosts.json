@@ -3,11 +3,14 @@
   "name": "Letters From Ghosts",
   "dateAdded": "2026-01-12T22:33:02.760Z",
   "dateUpdated": "2026-02-02T23:32:24.968Z",
+  "removed": false,
+  "issue": 2860,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"These songs are written by me, tracked into Logic, and vocals added in with AI.\"",
   "disclosureTypes": [
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards"

@@ -3,9 +3,12 @@
   "name": "Sandstorm Serenade",
   "dateAdded": "2026-01-20T22:08:02.468Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

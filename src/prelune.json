@@ -3,9 +3,12 @@
   "name": "PRELUNE",
   "dateAdded": "2026-01-19T13:01:28.478Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

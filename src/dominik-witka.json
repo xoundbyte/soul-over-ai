@@ -3,9 +3,12 @@
   "name": "Dominik Witka",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-02-13T20:42:31.775Z",
+  "removed": false,
+  "issue": 3529,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"Important: Only songs with YELLOW covers are AI-Demos Others are \"traditionally\" made songs and collaborations! 🎮 Human Lyrics, AI-Demos, Collaborations and more! ⚔️🎸.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

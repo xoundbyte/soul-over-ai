@@ -3,9 +3,12 @@
   "name": "Valor Pulse",
   "dateAdded": "2026-01-21T17:07:59.754Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

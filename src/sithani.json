@@ -3,9 +3,12 @@
   "name": "Sithani",
   "dateAdded": "2026-02-12T23:53:37.904Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3336,
   "disclosure": "confirmed",
   "disclosureNotes": "The description on this video https://www.youtube.com/watch?v=HHlvKKbCiTY states: \"Shots in this video and some audio parts were created using Al-based tools.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

@@ -3,9 +3,12 @@
   "name": "IAXMUSIC",
   "dateAdded": "2026-01-24T23:28:44.440Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The artist's TikTok posts uses hashtags such as #aicover and #ai.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

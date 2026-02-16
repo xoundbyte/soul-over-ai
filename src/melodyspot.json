@@ -3,9 +3,12 @@
   "name": "MelodySpot",
   "dateAdded": "2026-02-15T14:24:56.324Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3234,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

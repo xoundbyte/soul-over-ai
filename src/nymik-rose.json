@@ -3,9 +3,12 @@
   "name": "Nymik Rose",
   "dateAdded": "2026-01-17T12:21:14.564Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

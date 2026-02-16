@@ -3,9 +3,12 @@
   "name": "Runas da Graça",
   "dateAdded": "2025-12-22T13:18:22.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

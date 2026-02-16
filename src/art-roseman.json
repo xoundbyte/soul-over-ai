@@ -3,9 +3,12 @@
   "name": "Art Roseman",
   "dateAdded": "2026-01-13T11:22:43.525Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

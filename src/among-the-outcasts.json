@@ -3,9 +3,12 @@
   "name": "Among The Outcasts",
   "dateAdded": "2025-12-18T14:45:07.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous"
   ],

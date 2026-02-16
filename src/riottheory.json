@@ -3,9 +3,12 @@
   "name": "RiotTheory",
   "dateAdded": "2026-01-16T17:21:05.628Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

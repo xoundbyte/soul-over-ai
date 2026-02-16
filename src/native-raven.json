@@ -3,9 +3,12 @@
   "name": "Native Raven",
   "dateAdded": "2026-02-08T22:03:08.864Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3157,
   "disclosure": "confirmed",
   "disclosureNotes": "The artist acknowledges the use of Suno in this Instagram post https://www.instagram.com/p/DTO9rLSDSoB/ \"I make these songs with Suno.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

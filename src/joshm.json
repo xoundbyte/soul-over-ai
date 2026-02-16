@@ -3,9 +3,12 @@
   "name": "JoshM",
   "dateAdded": "2026-01-08T16:07:35.707Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

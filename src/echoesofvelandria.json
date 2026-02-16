@@ -3,6 +3,8 @@
   "name": "EchoesOfVelandria",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-02-13T21:59:39.799Z",
+  "removed": false,
+  "issue": 3381,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"For every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music, bringing these initial visions to life. Each track then undergoes further refinement and mastering to achieve its final form.\"",
   "disclosureTypes": [
@@ -10,6 +12,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "high-output",
     "ai-visuals",

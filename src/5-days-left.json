@@ -3,9 +3,12 @@
   "name": "5 Days Left",
   "dateAdded": "2026-01-17T12:17:09.827Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

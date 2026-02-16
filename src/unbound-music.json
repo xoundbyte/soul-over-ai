@@ -3,9 +3,12 @@
   "name": "Unbound Music",
   "dateAdded": "2026-01-07T15:28:21.901Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

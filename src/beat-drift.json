@@ -3,9 +3,12 @@
   "name": "Beat Drift",
   "dateAdded": "2026-01-23T11:12:24.154Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Eurozia",
   "dateAdded": "2025-12-21T20:54:24.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

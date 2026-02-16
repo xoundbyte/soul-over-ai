@@ -3,9 +3,12 @@
   "name": "Official_Giorgo",
   "dateAdded": "2026-02-01T11:03:55.982Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2542,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output",
     "2024-onwards",

@@ -3,9 +3,12 @@
   "name": "Highway To Zion",
   "dateAdded": "2025-12-30T18:55:56.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Varianz",
   "dateAdded": "2026-01-10T11:09:15.826Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

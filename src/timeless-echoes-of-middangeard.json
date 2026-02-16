@@ -3,9 +3,12 @@
   "name": "Timeless Echoes of Middangeard",
   "dateAdded": "2026-01-25T20:52:59.851Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

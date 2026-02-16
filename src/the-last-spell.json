@@ -3,9 +3,12 @@
   "name": "The Last Spell",
   "dateAdded": "2026-01-18T12:44:49.923Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

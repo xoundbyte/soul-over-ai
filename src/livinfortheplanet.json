@@ -3,9 +3,12 @@
   "name": "LivinForThePlanet",
   "dateAdded": "2026-02-05T10:00:35.196Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2923,
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio states: \"Science of the Soul — Co-Created with AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "high-output",

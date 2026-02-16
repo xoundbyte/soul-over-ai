@@ -3,9 +3,12 @@
   "name": "J-Seren",
   "dateAdded": "2025-12-22T12:45:21.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

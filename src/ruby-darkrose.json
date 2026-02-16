@@ -3,9 +3,12 @@
   "name": "Ruby Darkrose",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-31T21:04:22.086Z",
+  "removed": false,
+  "issue": 2700,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "high-output"

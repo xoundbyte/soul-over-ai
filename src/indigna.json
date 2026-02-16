@@ -3,9 +3,12 @@
   "name": "IndignA",
   "dateAdded": "2026-01-03T18:40:41.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

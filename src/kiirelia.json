@@ -3,9 +3,12 @@
   "name": "Kiirelia",
   "dateAdded": "2026-01-19T12:59:09.346Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Kiirelia is a virtual J-Rock artist, an artificial voice that exists through music, memory, and story.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

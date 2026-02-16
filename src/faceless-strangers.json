@@ -3,9 +3,12 @@
   "name": "Faceless Strangers",
   "dateAdded": "2026-01-03T12:51:25.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

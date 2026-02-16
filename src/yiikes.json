@@ -3,9 +3,12 @@
   "name": "Yiikes",
   "dateAdded": "2026-01-14T10:19:04.452Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The artist's TikTok profile contains \"ai\" in the username, and the posts allude to AI usage.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

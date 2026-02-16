@@ -3,9 +3,12 @@
   "name": "FrostRaven",
   "dateAdded": "2026-02-05T21:44:46.519Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3077,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output",
     "anonymous",

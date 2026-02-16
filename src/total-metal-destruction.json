@@ -3,9 +3,12 @@
   "name": "Total Metal Destruction",
   "dateAdded": "2026-01-18T12:34:16.888Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio states: \"Groupe de metal IA.\" (AI metal band)",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

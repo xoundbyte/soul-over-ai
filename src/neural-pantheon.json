@@ -3,9 +3,12 @@
   "name": "Neural Pantheon",
   "dateAdded": "2025-12-30T18:52:21.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

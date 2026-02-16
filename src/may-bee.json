@@ -3,9 +3,12 @@
   "name": "MAY BEE",
   "dateAdded": "2026-01-17T12:05:50.772Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous"
   ],

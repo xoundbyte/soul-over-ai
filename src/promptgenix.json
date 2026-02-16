@@ -3,9 +3,12 @@
   "name": "promptgenix",
   "dateAdded": "2026-01-26T14:33:52.622Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Prompt is in the 'band' name, and they have acknowledged the use of AI on Reddit.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

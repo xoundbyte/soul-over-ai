@@ -3,9 +3,12 @@
   "name": "Alice's Ghosts",
   "dateAdded": "2026-01-11T16:13:24.495Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

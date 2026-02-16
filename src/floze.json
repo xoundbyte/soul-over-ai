@@ -3,9 +3,12 @@
   "name": "Floze",
   "dateAdded": "2026-01-26T22:45:07.040Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "inconsistent-style"
   ],

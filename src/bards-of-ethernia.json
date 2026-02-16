@@ -3,9 +3,12 @@
   "name": "Bards of Ethernia",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-30T20:09:04.041Z",
+  "removed": false,
+  "issue": 2630,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"All songs and visuals are created with the help of AI, blending imagination and technology into one story.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

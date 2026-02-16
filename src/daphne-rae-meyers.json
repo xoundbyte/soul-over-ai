@@ -3,9 +3,12 @@
   "name": "Daphne Rae Meyers",
   "dateAdded": "2026-02-01T23:07:29.892Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2738,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Daphne Rae Meyers doesn't use AI as a tool. Instead she collaborates with them.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

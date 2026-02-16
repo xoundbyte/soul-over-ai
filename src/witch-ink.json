@@ -3,9 +3,12 @@
   "name": "Witch Ink",
   "dateAdded": "2026-02-08T19:44:52.658Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3102,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

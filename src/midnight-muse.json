@@ -3,9 +3,12 @@
   "name": "midnight muse",
   "dateAdded": "2026-01-31T11:09:42.182Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2675,
   "disclosure": "confirmed",
   "disclosureNotes": "Their YouTube bio states: \"As an avid listener of Lo-Fi music, I often use this genre for work and study.  Out of curiosity, I tried to create tracks that I liked with AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output",
     "2024-onwards",

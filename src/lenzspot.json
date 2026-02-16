@@ -3,9 +3,12 @@
   "name": "Lenzspot",
   "dateAdded": "2026-01-19T13:05:07.657Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Powered by AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

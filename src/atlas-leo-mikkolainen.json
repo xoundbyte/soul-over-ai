@@ -3,9 +3,12 @@
   "name": "Atlas-Leo Mikkolainen",
   "dateAdded": "2026-01-26T18:17:51.039Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "inconsistent-style"

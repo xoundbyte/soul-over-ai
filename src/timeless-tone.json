@@ -3,9 +3,12 @@
   "name": "Timeless Tone",
   "dateAdded": "2026-01-25T21:06:15.326Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

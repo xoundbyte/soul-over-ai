@@ -3,9 +3,12 @@
   "name": "Street Gospel Syndicate",
   "dateAdded": "2026-01-07T13:48:02.205Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

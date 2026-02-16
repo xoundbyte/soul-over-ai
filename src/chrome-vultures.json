@@ -3,9 +3,12 @@
   "name": "Chrome Vultures",
   "dateAdded": "2026-01-12T10:54:21.488Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

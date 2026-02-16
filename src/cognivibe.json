@@ -3,9 +3,12 @@
   "name": "CogniVibe",
   "dateAdded": "2026-01-08T16:09:38.828Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Spotify profile states: \"We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

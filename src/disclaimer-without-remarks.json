@@ -3,9 +3,12 @@
   "name": "disclaimer without remarks",
   "dateAdded": "2026-01-27T15:29:10.244Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"All my lyrics are written by human, and songs symphoniezed by AI-instruments.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

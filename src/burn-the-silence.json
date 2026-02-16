@@ -3,9 +3,12 @@
   "name": "Burn the Silence",
   "dateAdded": "2026-02-03T13:30:33.763Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2782,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

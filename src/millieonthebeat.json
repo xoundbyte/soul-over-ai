@@ -3,9 +3,12 @@
   "name": "Millieonthebeat",
   "dateAdded": "2026-01-01T15:35:45.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

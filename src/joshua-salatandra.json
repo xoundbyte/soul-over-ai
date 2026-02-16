@@ -3,9 +3,12 @@
   "name": "Joshua Salatandra",
   "dateAdded": "2026-01-08T17:51:20.739Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

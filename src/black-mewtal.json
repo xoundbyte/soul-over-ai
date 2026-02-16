@@ -3,9 +3,12 @@
   "name": "Black Mewtal",
   "dateAdded": "2025-12-20T12:01:17.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous"
   ],

@@ -3,6 +3,8 @@
   "name": "Ryker Ashford",
   "dateAdded": "2026-02-01T22:39:50.256Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2733,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"While I collaborate with AI to craft the music, every word and emotion is authentically my own.\"",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

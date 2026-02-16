@@ -3,9 +3,12 @@
   "name": "Noah Thorne",
   "dateAdded": "2025-12-09T21:15:45.000Z",
   "dateUpdated": "2026-01-14T09:45:07.779Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The artist uses #AIArtist tags and similar on Instagram.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

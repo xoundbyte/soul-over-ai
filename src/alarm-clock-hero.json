@@ -3,9 +3,12 @@
   "name": "Alarm Clock Hero",
   "dateAdded": "2026-02-07T00:00:38.472Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3108,
   "disclosure": "confirmed",
   "disclosureNotes": "The TikTok bio states \"Ai Assisted Creative music\" whilst the YouTube bio states: \"I’m still learning how to shape music and narrative, experimenting with AI to help these worlds wake up.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

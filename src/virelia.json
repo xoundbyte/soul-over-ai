@@ -3,6 +3,8 @@
   "name": "Virelia",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-30T20:17:11.342Z",
+  "removed": false,
+  "issue": 2631,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Lyrics are my own - music is powered by Suno AI and the artwork is created with a combo of AI, digital painting and Photoshop.\"",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

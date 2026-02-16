@@ -3,9 +3,12 @@
   "name": "JJJS",
   "dateAdded": "2026-01-26T17:17:54.133Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

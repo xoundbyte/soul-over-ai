@@ -3,9 +3,12 @@
   "name": "Einarsson",
   "dateAdded": "2026-01-23T10:35:30.532Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Einarsson is an AI-based artist who writes lyrics and creates music using artificial intelligence.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

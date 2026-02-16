@@ -3,9 +3,12 @@
   "name": "Chill77",
   "dateAdded": "2026-01-02T13:49:18.000Z",
   "dateUpdated": "2026-02-12T20:49:54.294Z",
+  "removed": false,
+  "issue": 3460,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

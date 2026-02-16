@@ -3,9 +3,12 @@
   "name": "Nukehole",
   "dateAdded": "2026-01-17T12:15:50.221Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

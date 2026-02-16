@@ -3,9 +3,12 @@
   "name": "SKorp Club",
   "dateAdded": "2026-02-12T20:05:40.036Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3420,
   "disclosure": "full",
   "disclosureNotes": "The YouTube bio states: \"What you hear and see is born from real human experience – and created with the power of artificial intelligence (AI).\" (translated)",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

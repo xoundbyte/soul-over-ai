@@ -3,9 +3,12 @@
   "name": "Future Studios",
   "dateAdded": "2025-12-29T00:01:01.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

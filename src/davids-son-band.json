@@ -3,9 +3,12 @@
   "name": "Davids Son Band",
   "dateAdded": "2026-01-26T23:00:26.348Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

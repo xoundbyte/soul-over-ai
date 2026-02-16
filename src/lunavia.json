@@ -3,9 +3,12 @@
   "name": "Lunavia",
   "dateAdded": "2026-01-04T09:23:58.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

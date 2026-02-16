@@ -3,9 +3,12 @@
   "name": "Andrew Lewis",
   "dateAdded": "2026-01-26T18:07:08.467Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "inconsistent-style"

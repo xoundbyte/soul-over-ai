@@ -3,9 +3,12 @@
   "name": "Jacub",
   "dateAdded": "2026-01-19T13:20:20.381Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Their song 'Jag vet, du är inte min' was banned from the Swedish music charts for being an AI creation.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

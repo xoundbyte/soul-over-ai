@@ -3,9 +3,12 @@
   "name": "Angel of Oblivion",
   "dateAdded": "2026-01-20T22:06:58.541Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Angel of Oblivion is a progressive metal band blending intricate instrumental compositions with the precision of AI-driven creativity.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

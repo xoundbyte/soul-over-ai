@@ -3,9 +3,12 @@
   "name": "Quinzena",
   "dateAdded": "2026-01-17T11:48:20.119Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

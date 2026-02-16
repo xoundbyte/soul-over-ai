@@ -3,9 +3,12 @@
   "name": "Delaylah",
   "dateAdded": "2026-01-31T21:26:18.762Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2524,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

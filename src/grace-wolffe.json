@@ -3,9 +3,12 @@
   "name": "Grace Wolffe",
   "dateAdded": "2026-01-24T23:23:30.790Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

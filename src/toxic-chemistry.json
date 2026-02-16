@@ -3,9 +3,12 @@
   "name": "Toxic Chemistry",
   "dateAdded": "2026-02-05T14:10:36.699Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2944,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

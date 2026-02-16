@@ -3,9 +3,12 @@
   "name": "MythicTune",
   "dateAdded": "2026-01-12T11:09:26.036Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Their YouTube bio states: \"Music created with Suno Studio.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

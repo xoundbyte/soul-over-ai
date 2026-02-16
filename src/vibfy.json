@@ -3,9 +3,12 @@
   "name": "Vibfy",
   "dateAdded": "2026-01-26T14:43:46.266Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

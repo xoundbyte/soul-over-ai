@@ -3,9 +3,12 @@
   "name": "Slime Dot",
   "dateAdded": "2026-01-20T22:05:52.732Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Uses hashtags such as #aiartist and #aimusic on social profiles.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

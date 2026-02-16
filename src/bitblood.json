@@ -3,9 +3,12 @@
   "name": "Bitblood",
   "dateAdded": "2026-01-13T21:04:06.074Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Instagram bio states it is a music project \"fusing bits & bytes with the soul of sound - songs born from tech, driven by emotion.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

@@ -3,9 +3,12 @@
   "name": "Pawfu",
   "dateAdded": "2026-02-01T11:31:52.998Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2555,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

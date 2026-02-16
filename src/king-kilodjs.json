@@ -3,9 +3,12 @@
   "name": "KING KILODJS",
   "dateAdded": "2026-02-05T21:12:08.333Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3054,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

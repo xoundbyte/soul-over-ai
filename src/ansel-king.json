@@ -3,9 +3,12 @@
   "name": "Ansel king",
   "dateAdded": "2026-02-08T21:08:46.736Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3149,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals"

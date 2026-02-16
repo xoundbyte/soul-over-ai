@@ -3,9 +3,12 @@
   "name": "SAPEPEKA",
   "dateAdded": "2026-02-05T14:11:30.759Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2965,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

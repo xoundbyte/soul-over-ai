@@ -3,9 +3,12 @@
   "name": "The King's Blues Club",
   "dateAdded": "2026-01-08T21:03:18.278Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "The Relic Hunters",
   "dateAdded": "2026-02-15T14:51:12.088Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3259,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "anonymous",

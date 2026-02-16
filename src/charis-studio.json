@@ -3,9 +3,12 @@
   "name": "Charis Studio",
   "dateAdded": "2026-01-18T12:54:09.352Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

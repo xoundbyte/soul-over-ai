@@ -3,9 +3,12 @@
   "name": "The 1924 Project",
   "dateAdded": "2026-01-19T19:46:35.394Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

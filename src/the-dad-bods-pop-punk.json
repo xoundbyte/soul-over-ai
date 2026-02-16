@@ -3,9 +3,12 @@
   "name": "The Dad Bods Pop Punk",
   "dateAdded": "2026-01-03T14:00:34.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

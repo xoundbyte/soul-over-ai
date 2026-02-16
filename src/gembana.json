@@ -3,9 +3,12 @@
   "name": "Gembana",
   "dateAdded": "2026-01-21T22:41:33.169Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

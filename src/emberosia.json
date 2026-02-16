@@ -3,9 +3,12 @@
   "name": "Emberosia",
   "dateAdded": "2026-01-13T11:23:58.509Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

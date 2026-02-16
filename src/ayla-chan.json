@@ -3,9 +3,12 @@
   "name": "Ayla - Chan",
   "dateAdded": "2026-01-02T11:31:59.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

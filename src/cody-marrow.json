@@ -3,9 +3,12 @@
   "name": "Cody Marrow",
   "dateAdded": "2026-01-21T14:35:47.205Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

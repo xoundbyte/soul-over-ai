@@ -3,9 +3,12 @@
   "name": "SilasCh",
   "dateAdded": "2026-01-26T17:50:36.200Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

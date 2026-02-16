@@ -3,9 +3,12 @@
   "name": "meid",
   "dateAdded": "2026-01-23T17:11:01.606Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

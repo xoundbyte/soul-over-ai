@@ -3,9 +3,12 @@
   "name": "Seri Rue",
   "dateAdded": "2026-02-01T10:33:13.328Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2538,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output",

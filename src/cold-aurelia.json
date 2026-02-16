@@ -3,9 +3,12 @@
   "name": "Cold Aurelia",
   "dateAdded": "2026-02-01T22:46:13.323Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2692,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

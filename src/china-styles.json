@@ -3,9 +3,12 @@
   "name": "China Styles",
   "dateAdded": "2026-01-03T13:55:29.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

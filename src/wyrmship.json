@@ -3,9 +3,12 @@
   "name": "Wyrmship",
   "dateAdded": "2026-02-01T10:17:09.722Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2533,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

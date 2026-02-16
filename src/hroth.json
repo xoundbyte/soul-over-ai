@@ -3,9 +3,12 @@
   "name": "Hroth",
   "dateAdded": "2026-01-14T09:56:27.637Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

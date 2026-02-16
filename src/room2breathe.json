@@ -3,6 +3,8 @@
   "name": "Room2Breathe",
   "dateAdded": "2026-02-15T21:24:10.243Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3277,
   "disclosure": "partial",
   "disclosureNotes": "The artist's homepage https://selfcareclub.org/pages/meet-the-visionary-behind-self-care-club-llc states: \"While singing was never her primary gift, she embraced AI technology as a tool to bring her affirmations, emotions, and healing intentions to life.\"",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "vocals",
     "mixing"
   ],
+  "urls": [],
   "markers": [
     "inconsistent-style",
     "anonymous",

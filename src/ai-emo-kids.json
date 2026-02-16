@@ -3,9 +3,12 @@
   "name": "AI Emo Kids",
   "dateAdded": "2026-01-26T22:53:24.930Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio states: \"AI Band making fun, nostalgic music for aging emo kids.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

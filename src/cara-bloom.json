@@ -3,9 +3,12 @@
   "name": "Cara Bloom",
   "dateAdded": "2026-02-04T22:25:18.832Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2893,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

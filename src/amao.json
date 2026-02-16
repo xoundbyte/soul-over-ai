@@ -3,9 +3,12 @@
   "name": "Amao",
   "dateAdded": "2026-01-21T14:42:59.222Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Occasionally use AI to create music.\" However, the high output  suggests that the majority of the songs on this channel are AI-generated.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

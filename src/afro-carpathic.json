@@ -3,9 +3,12 @@
   "name": "Afro-Carpathic",
   "dateAdded": "2026-02-05T14:53:06.955Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3027,
   "disclosure": "confirmed",
   "disclosureNotes": "The description on this artist's video https://www.youtube.com/watch?v=ceys2sLoDC0 states: \"This piece contains elements generated using artificial intelligence, artistically integrated into an original creation.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

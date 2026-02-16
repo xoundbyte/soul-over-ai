@@ -131,10 +131,13 @@ const main = async () => {
     if (artistData.youtube && artists.find(a => a.youtube === artistData.youtube))
       throw new Error('YouTube url already exists in database.');
 
+    // Set defaults
     const { fileName, filePath } = createUniqueFilePath(artistData.name);
     artistData.id = fileName.replace(/\.json$/, '');
     artistData.dateAdded = new Date().toISOString();
     artistData.dateUpdated = null;
+    artistData.removed = false;
+    artistData.issue = ISSUE_NUMBER ? Number(ISSUE_NUMBER) : null;
     
     if (!Array.isArray(artistData.disclosureTypes)) {
       throw new Error('Disclosure types is invalid.');

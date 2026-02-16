@@ -3,9 +3,12 @@
   "name": "ElectroJazz Machine",
   "dateAdded": "2026-01-07T22:55:42.824Z",
   "dateUpdated": "2026-01-10T20:59:03.287Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "YouTube bio acknowledges the music is AI-generated.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

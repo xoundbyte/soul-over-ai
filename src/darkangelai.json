@@ -3,9 +3,12 @@
   "name": "DarkangelAI",
   "dateAdded": "2026-01-03T17:37:39.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

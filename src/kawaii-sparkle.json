@@ -3,9 +3,12 @@
   "name": "Kawaii Sparkle",
   "dateAdded": "2026-02-15T14:26:54.649Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3349,
   "disclosure": "full",
   "disclosureNotes": "Spotify bio states: \"We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

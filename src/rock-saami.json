@@ -3,9 +3,12 @@
   "name": "ROCK SAAMI",
   "dateAdded": "2026-02-07T00:02:55.833Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3141,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"As Sri Lanka’s first AI artist his presence challenges old definitions of what it means to be “real” in rock.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "ai-visuals",

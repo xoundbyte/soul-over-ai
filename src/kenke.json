@@ -3,9 +3,12 @@
   "name": "Kenke",
   "dateAdded": "2026-01-03T19:10:04.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

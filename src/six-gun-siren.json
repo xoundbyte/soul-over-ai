@@ -3,9 +3,12 @@
   "name": "Six Gun Siren",
   "dateAdded": "2026-01-20T21:22:40.536Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Blending twangy guitars, heavy bass, sharp vocals, and cutting-edge production techniques (including AI where it enhances the vision).\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

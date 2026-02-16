@@ -3,9 +3,12 @@
   "name": "OrbitOST",
   "dateAdded": "2026-01-26T14:20:34.112Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Human Made // AI Assistance (Suno, Midjourney).\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

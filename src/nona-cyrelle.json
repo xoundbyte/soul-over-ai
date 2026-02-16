@@ -3,9 +3,12 @@
   "name": "Nona Cyrelle",
   "dateAdded": "2026-01-13T11:26:09.821Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"I'm an AI-created character.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

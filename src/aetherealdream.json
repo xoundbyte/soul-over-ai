@@ -3,9 +3,12 @@
   "name": "AetherealDream",
   "dateAdded": "2026-01-12T13:27:43.019Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

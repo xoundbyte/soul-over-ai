@@ -3,9 +3,12 @@
   "name": "Plague on Board",
   "dateAdded": "2026-01-20T21:27:59.242Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

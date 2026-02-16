@@ -3,9 +3,12 @@
   "name": "Starwynd",
   "dateAdded": "2026-01-13T21:11:23.032Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

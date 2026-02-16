@@ -18,6 +18,7 @@ const updateableFields = [
   'disclosure',
   'disclosureNotes',
   'disclosureTypes',
+  'urls',
   'markers',
   'markerNotes',
   'apple',
@@ -33,8 +34,7 @@ const changedData = { id: data.id };
 // Fields where empty strings should be converted to null
 const nullableFields = ['disclosureNotes', 'markerNotes', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
 
-// Fields received as comma-delimited strings that should be arrays
-const arrayFields = ['disclosureTypes', 'markers'];
+const arrayFields = ['disclosureTypes', 'urls', 'markers'];
 
 for (const field of updateableFields) {
   if (!(field in data)) continue;
@@ -47,11 +47,9 @@ for (const field of updateableFields) {
     newValue = newValue.trim();
   }
 
-  // Convert comma-delimited strings to arrays
+  // Default arrays
   if (arrayFields.includes(field)) {
-    newValue = typeof newValue === 'string' && newValue !== ''
-      ? newValue.split(',').map(s => s.trim())
-      : [];
+    newValue = newValue || [];
   }
 
   // Convert empty strings to null for nullable fields
@@ -81,22 +79,27 @@ if (changedData.youtube && changedData.youtube.startsWith('@')) {
 if (Object.keys(changedData).length > 1) {
 
   // Create link to souloverai.com update form with prefilled data
+  const encode = (value) =>
+    encodeURIComponent(value)
+      .replace(/\(/g, '%28')
+      .replace(/\)/g, '%29');
+
   const params = Object.keys(changedData)
-    .filter(key => key !== 'id') // id is in the URL path, not query params
-    .map(key => {
-      let value = changedData[key];
-      if (Array.isArray(value)) {
-        if (value.length === 0) return null;
-        value = value.join(',');
-      } else if (value === null || value === undefined) {
-        return null;
+    .filter(key => key !== 'id')
+    .flatMap(key => {
+      const value = changedData[key];
+      if (value === null || value === undefined) return [];
+      if (key === 'urls') {
+        return value.flatMap((item, i) => [
+          `url_${i + 1}=${encode(item.url)}`,
+          `notes_${i + 1}=${encode(item.notes)}`,
+        ]);
       }
-      const encodedValue = encodeURIComponent(value)
-        .replace(/\(/g, '%28') // left parenthesis
-        .replace(/\)/g, '%29'); // right parenthesis
-      return `${key}=${encodedValue}`;
+      if (Array.isArray(value)) {
+        return value.length === 0 ? [] : [`${key}=${encode(value.join(','))}`];
+      }
+      return [`${key}=${encode(value)}`];
     })
-    .filter(Boolean)
     .join('&');
 
   const link = `[Make changes](https://souloverai.com/artist/${data.id}/update?${params ? params : ''})`

@@ -71,15 +71,16 @@ const main = async () => {
       throw new Error(`Artist file not found: ${removeData.id}.json`);
     }
 
-    // Read artist data to get the name before deleting
+    // Read artist data and mark as removed
     const existingArtist = JSON.parse(fs.readFileSync(artistFilePath, 'utf8'));
     const artistName = existingArtist.name;
 
     const branchName = `artist-remove/${removeData.id}`;
 
-    // Delete artist file
-    fs.unlinkSync(artistFilePath);
-    console.log(`Artist file deleted: src/${removeData.id}.json`);
+    // Set removed flag instead of deleting the file
+    existingArtist.removed = true;
+    fs.writeFileSync(artistFilePath, JSON.stringify(existingArtist, null, 2) + '\n', 'utf8');
+    console.log(`Artist marked as removed: src/${removeData.id}.json`);
 
     // Set outputs for subsequent workflow steps
     setOutput('filename', `${removeData.id}.json`);

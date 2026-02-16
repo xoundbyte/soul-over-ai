@@ -3,9 +3,12 @@
   "name": "Klosure",
   "dateAdded": "2026-01-08T16:11:00.587Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

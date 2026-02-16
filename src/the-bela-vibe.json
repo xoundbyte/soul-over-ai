@@ -3,9 +3,12 @@
   "name": "The Bela Vibe",
   "dateAdded": "2026-01-04T16:51:05.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

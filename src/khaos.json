@@ -3,9 +3,12 @@
   "name": "Khaos",
   "dateAdded": "2026-01-04T10:56:43.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

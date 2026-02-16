@@ -3,9 +3,12 @@
   "name": "Music City Nashville Corridos",
   "dateAdded": "2026-02-05T21:00:36.396Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3048,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

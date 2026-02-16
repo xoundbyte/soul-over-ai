@@ -3,9 +3,12 @@
   "name": "Sunshine Girl",
   "dateAdded": "2026-01-13T21:46:44.517Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

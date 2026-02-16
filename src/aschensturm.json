@@ -3,9 +3,12 @@
   "name": "Aschensturm",
   "dateAdded": "2026-01-20T21:46:39.907Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"lyrics written by hand, music created by AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

@@ -3,9 +3,12 @@
   "name": "Pie For Billy",
   "dateAdded": "2025-12-20T23:40:34.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output"
   ],

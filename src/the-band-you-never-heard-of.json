@@ -3,9 +3,12 @@
   "name": "The Band You Never Heard Of",
   "dateAdded": "2026-01-09T13:52:56.108Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

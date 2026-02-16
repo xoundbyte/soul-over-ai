@@ -3,9 +3,12 @@
   "name": "KISS ME DEAD",
   "dateAdded": "2025-12-18T18:38:25.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous"
   ],

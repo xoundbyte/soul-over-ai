@@ -3,6 +3,8 @@
   "name": "The Singing Tavern",
   "dateAdded": "2026-02-03T21:03:30.953Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2863,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states\" \"How I create these stories: Every track starts with AI assisted audio stems that I manually mix, arrange, and master to ensure a rich, professional sound experience.\"",
   "disclosureTypes": [
@@ -10,6 +12,7 @@
     "instrumentation",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

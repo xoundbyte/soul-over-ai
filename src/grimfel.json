@@ -3,12 +3,15 @@
   "name": "Grimfel",
   "dateAdded": "2026-02-05T14:28:13.758Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2999,
   "disclosure": "partial",
   "disclosureNotes": "In the video for Beautiful Mess https://www.youtube.com/watch?v=N74CR3Wg1ro, the description states: “Vocal processing: Kits (AI assisted), Antares Auto-Tune, Metamorph, Melodyne. Production: Ableton Live, AI for modulations, loops and samples.”",
   "disclosureTypes": [
     "vocals",
     "mixing"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

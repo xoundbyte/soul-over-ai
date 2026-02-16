@@ -3,9 +3,12 @@
   "name": "Bon Chic",
   "dateAdded": "2026-01-20T21:49:07.715Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

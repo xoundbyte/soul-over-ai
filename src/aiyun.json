@@ -3,9 +3,12 @@
   "name": "Aiyun",
   "dateAdded": "2025-12-25T23:26:41.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

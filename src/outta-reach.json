@@ -3,9 +3,12 @@
   "name": "Outta Reach",
   "dateAdded": "2026-02-01T11:25:08.457Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2546,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Roark",
   "dateAdded": "2026-02-07T14:50:54.082Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3132,
   "disclosure": "confirmed",
   "disclosureNotes": "The Twitter bio states: \"Digital Musician.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

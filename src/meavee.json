@@ -3,9 +3,12 @@
   "name": "MeaVee",
   "dateAdded": "2026-02-05T14:38:15.666Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3007,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

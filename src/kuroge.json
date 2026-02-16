@@ -3,9 +3,12 @@
   "name": "Kuroge",
   "dateAdded": "2026-01-23T10:38:28.626Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

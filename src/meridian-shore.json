@@ -3,9 +3,12 @@
   "name": "Meridian Shore",
   "dateAdded": "2026-01-25T21:02:11.689Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"An emotional post-hardcore project combining real, vulnerable lyrics with AI-assisted instrumentation and vocals.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "AI MUSIC MATRIX",
   "dateAdded": "2026-01-30T20:29:47.830Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2638,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify and YouTube profiles state: \"AI MUSIC MATRIX is a project that combines the latest AI technology with music production\" and  \"Utilizing the generative AIs: suno ai, Claude, and ChatGPT.\" (translated into English)",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

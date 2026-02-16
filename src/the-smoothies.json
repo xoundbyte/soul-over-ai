@@ -3,9 +3,12 @@
   "name": "The Smoothies",
   "dateAdded": "2026-02-04T18:34:05.664Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2887,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

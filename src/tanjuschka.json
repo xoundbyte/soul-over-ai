@@ -3,9 +3,12 @@
   "name": "Tanjuschka",
   "dateAdded": "2026-01-31T21:23:34.486Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2523,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "ai-visuals",

@@ -3,9 +3,12 @@
   "name": "Steph Stephens",
   "dateAdded": "2026-01-27T23:20:56.988Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio states: \"Canadian pop punk musician exploring how AI compliments my creative process.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

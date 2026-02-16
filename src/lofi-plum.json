@@ -3,9 +3,12 @@
   "name": "LoFi Plum",
   "dateAdded": "2026-02-01T15:05:32.652Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2666,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

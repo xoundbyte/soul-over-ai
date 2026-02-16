@@ -3,9 +3,12 @@
   "name": "Prova MI",
   "dateAdded": "2026-01-26T22:55:56.987Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Prova MI is a digital artist who blends human creativity and artificial intelligence.\" (translated into English)",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

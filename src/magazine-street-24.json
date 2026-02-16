@@ -3,9 +3,12 @@
   "name": "Magazine Street 24",
   "dateAdded": "2026-02-03T20:49:27.746Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2847,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

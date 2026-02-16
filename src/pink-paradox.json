@@ -3,9 +3,12 @@
   "name": "Pink Paradox",
   "dateAdded": "2026-01-23T11:00:23.093Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The TikTok bio states: \"Virtual all-girl metal band from Barcelona.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

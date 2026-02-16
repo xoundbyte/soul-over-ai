@@ -3,9 +3,12 @@
   "name": "Inkflow",
   "dateAdded": "2026-01-31T21:31:39.403Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2526,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

@@ -3,9 +3,12 @@
   "name": "Likeai",
   "dateAdded": "2026-01-31T11:07:16.133Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2674,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

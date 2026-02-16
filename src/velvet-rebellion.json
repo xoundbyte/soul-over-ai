@@ -3,9 +3,12 @@
   "name": "Velvet Rebellion",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-09T09:21:43.776Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

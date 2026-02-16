@@ -3,9 +3,12 @@
   "name": "Dark Blues YT",
   "dateAdded": "2026-01-26T14:39:33.557Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Every composition originates through advanced AI generation.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

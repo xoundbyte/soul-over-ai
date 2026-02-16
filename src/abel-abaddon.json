@@ -3,9 +3,12 @@
   "name": "Abel Abaddon",
   "dateAdded": "2026-01-02T19:06:04.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

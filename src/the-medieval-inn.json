@@ -3,9 +3,12 @@
   "name": "The Medieval Inn",
   "dateAdded": "2026-02-03T21:00:48.095Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2859,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

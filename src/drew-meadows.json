@@ -3,9 +3,12 @@
   "name": "Drew Meadows",
   "dateAdded": "2026-01-19T12:53:09.476Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"AI with a heart\" and uses the hashtags #AIForHumanity and #AIForSocialGood.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

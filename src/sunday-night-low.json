@@ -3,9 +3,12 @@
   "name": "Sunday Night Low",
   "dateAdded": "2025-11-24T23:56:10.000Z",
   "dateUpdated": "2026-01-19T10:54:17.172Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

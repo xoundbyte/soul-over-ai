@@ -3,9 +3,12 @@
   "name": "GLXE",
   "dateAdded": "2026-01-23T10:51:26.598Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The TikTok bio states: \"AI KPop Group.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

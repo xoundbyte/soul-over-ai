@@ -3,11 +3,14 @@
   "name": "ONE PROJECT",
   "dateAdded": "2026-02-03T18:28:57.387Z",
   "dateUpdated": "2026-02-12T08:28:49.234Z",
+  "removed": false,
+  "issue": 2824,
   "disclosure": "partial",
   "disclosureNotes": "Many of their videos have credited vocals to the entity \"JUN (Ai).\"",
   "disclosureTypes": [
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

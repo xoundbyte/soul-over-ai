@@ -3,9 +3,12 @@
   "name": "OKISO",
   "dateAdded": "2026-01-20T21:37:07.527Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output",

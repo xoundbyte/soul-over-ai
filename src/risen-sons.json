@@ -3,9 +3,12 @@
   "name": "Risen Sons",
   "dateAdded": "2025-12-23T23:40:24.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

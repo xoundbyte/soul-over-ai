@@ -3,9 +3,12 @@
   "name": "Hyperbaiter",
   "dateAdded": "2026-01-19T11:13:19.351Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous"
   ],

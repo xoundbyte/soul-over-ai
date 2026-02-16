@@ -3,9 +3,12 @@
   "name": "RumbiaHouse",
   "dateAdded": "2026-02-08T20:39:36.903Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3140,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards",

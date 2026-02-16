@@ -3,9 +3,12 @@
   "name": "RASELHITS",
   "dateAdded": "2026-01-23T10:40:13.383Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

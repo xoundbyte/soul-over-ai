@@ -3,9 +3,12 @@
   "name": "Lock & Key Vibes",
   "dateAdded": "2026-01-10T21:06:53.181Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

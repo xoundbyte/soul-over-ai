@@ -3,9 +3,12 @@
   "name": "Rikki",
   "dateAdded": "2026-01-13T20:49:22.639Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "Spotify profile states that Rikki is a \"virtual female voice.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "POISONPOP Candy",
   "dateAdded": "2026-01-13T21:39:15.245Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "YouTube channel bio states: \"All music and illustrations on this channel are original works created using AI technology.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

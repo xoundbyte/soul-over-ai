@@ -3,9 +3,12 @@
   "name": "Honey & Buck",
   "dateAdded": "2026-02-15T13:31:18.445Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3531,
   "disclosure": "confirmed",
   "disclosureNotes": "Spotify bio states: \"Our label, Madison Music Project, combines both traditional and modern song creation and recording techniques, including analog instruments, electronic music software, digital effects, and AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

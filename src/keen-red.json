@@ -3,9 +3,12 @@
   "name": "Keen Red",
   "dateAdded": "2026-02-01T19:27:03.334Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2741,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

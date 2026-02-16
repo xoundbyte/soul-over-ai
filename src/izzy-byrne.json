@@ -3,9 +3,12 @@
   "name": "Izzy Byrne",
   "dateAdded": "2026-02-01T12:21:39.194Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2556,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output",
     "2024-onwards",

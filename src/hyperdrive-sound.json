@@ -3,9 +3,12 @@
   "name": "Hyperdrive Sound",
   "dateAdded": "2026-01-20T21:29:20.009Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

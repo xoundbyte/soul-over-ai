@@ -3,9 +3,12 @@
   "name": "conaco",
   "dateAdded": "2026-01-24T19:45:22.287Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

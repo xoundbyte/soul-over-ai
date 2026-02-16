@@ -3,9 +3,12 @@
   "name": "nanako",
   "dateAdded": "2026-01-24T23:14:59.378Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

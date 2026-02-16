@@ -3,9 +3,12 @@
   "name": "Hillbilly Hellfire",
   "dateAdded": "2026-02-13T00:01:37.821Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3415,
   "disclosure": "full",
   "disclosureNotes": "This YouTube video description https://youtu.be/fxwjdOxNt9Q states: \"Song Created by Suno AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

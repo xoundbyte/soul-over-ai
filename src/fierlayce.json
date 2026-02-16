@@ -3,9 +3,12 @@
   "name": "Fierlayce",
   "dateAdded": "2025-12-21T20:50:38.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

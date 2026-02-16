@@ -3,9 +3,12 @@
   "name": "Gerda Himmelblau",
   "dateAdded": "2026-02-08T20:35:26.104Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 3139,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Ai music jukebox.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

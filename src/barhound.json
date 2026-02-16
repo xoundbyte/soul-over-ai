@@ -3,6 +3,8 @@
   "name": "Barhound",
   "dateAdded": "2026-02-03T21:07:57.719Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": 2866,
   "disclosure": "partial",
   "disclosureNotes": "On the video 'My Neighbor Joined The Cult' https://www.youtube.com/watch?v=xo2OGCG9laI, the description states: \"AI Disclosure: Some elements of this track were enhanced using AI. Vocals and instruments are AI-assisted. My natural voice is smoother, and I primarily play acoustic rhythm and percussive guitar. The final mix includes AI-generated enhancements and additional instrumentation. Lyrics are written by me. I occasionally use ChatGPT for editing, proofing or rhyming help.\"",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "anonymous",
