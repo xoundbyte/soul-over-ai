@@ -1,0 +1,32 @@
+{
+  "id": "clarence-blue",
+  "name": "Clarence Blue",
+  "dateAdded": "2026-02-16T21:02:58.207Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3316,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This album is flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/us/album/873588932"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "anonymous",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "1bhoBp0rtFJqG4P4FxcjLy",
+  "apple": "1840973028",
+  "amazon": null,
+  "youtube": "UCO0MXwd6644mQI71i--QC9g",
+  "tiktok": null,
+  "instagram": null
+}
