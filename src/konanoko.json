@@ -1,0 +1,32 @@
+{
+  "id": "konanoko",
+  "name": "konanoko",
+  "dateAdded": "2026-02-16T16:46:41.811Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3305,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This album is flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/us/album/800822281"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "anonymous",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "2mcNCob4QtnaBBzrfujP9x",
+  "apple": "1822135523",
+  "amazon": "B0D37VL6SS",
+  "youtube": "UChE-RZ-l_0knoWsRKL0BxXQ",
+  "tiktok": null,
+  "instagram": "konanoko75"
+}
