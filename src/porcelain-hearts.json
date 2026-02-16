@@ -2,12 +2,20 @@
   "id": "porcelain-hearts",
   "name": "PORCELAIN HEARTS",
   "dateAdded": "2025-11-29T13:28:21.000Z",
-  "dateUpdated": "2026-01-10T13:12:18.992Z",
+  "dateUpdated": "2026-02-16T20:21:10.282Z",
   "removed": false,
   "issue": null,
-  "disclosure": "confirmed",
-  "disclosureTypes": [],
-  "urls": [],
+  "disclosure": "partial",
+  "disclosureTypes": [
+    "instrumentation",
+    "vocals"
+  ],
+  "urls": [
+    {
+      "notes": "\"A note on our process: PORCELAIN HEARTS is a testament to the fusion of human creativity and modern technology. While every lyric, melody, and emotional concept is written by us, we utilize artificial intelligence as the instrument to bring our sonic vision to life. This project was never created to replace the musician, but to elevate the message. We use technology as a vehicle for our stories, ensuring that the listener focuses on what truly matters: the words, the emotion, and the reflection in the mirror.\"",
+      "url": "https://open.spotify.com/artist/1SaerF7QF5mxah84qBsCnG"
+    }
+  ],
   "markers": [
     "ai-visuals"
   ],
