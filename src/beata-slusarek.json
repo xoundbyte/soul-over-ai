@@ -1,0 +1,33 @@
+{
+  "id": "beata-slusarek",
+  "name": "Beata Ślusarek",
+  "dateAdded": "2026-02-16T16:29:43.309Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3639,
+  "disclosure": "confirmed",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "Bio states: \"With the help of AI, I transform them into sound and image with the intention of creating a better world.\" (translated)",
+      "url": "https://open.spotify.com/artist/02TWJAFnfplhjiIe9qTVBc"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "inconsistent-style",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "02TWJAFnfplhjiIe9qTVBc",
+  "apple": null,
+  "amazon": "B0F9XMHWRW",
+  "youtube": "UCzgDRFbrEvq6L8W3LjJEcKQ",
+  "tiktok": null,
+  "instagram": null
+}
