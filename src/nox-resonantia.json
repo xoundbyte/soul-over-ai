@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3181,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"This metal band was born in Türkiye in 2025 with the support of AI. The melancholic rhythms of Anatolia merged with the perfection of AI. Lyrics, creative direction, mood, structure and final releases are manually curated and produced by the channel owner. AI-based tools are used as part of the production workflow, similar to digital instruments or software, while all artistic decisions remain human-directed.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -17,7 +16,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"This metal band was born in Türkiye in 2025 with the support of AI. The melancholic rhythms of Anatolia merged with the perfection of AI. Lyrics, creative direction, mood, structure and final releases are manually curated and produced by the channel owner. AI-based tools are used as part of the production workflow, similar to digital instruments or software, while all artistic decisions remain human-directed.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

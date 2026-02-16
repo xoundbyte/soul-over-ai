@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3297,
   "disclosure": "full",
-  "disclosureNotes": "From their Youtube channel description: \"This channel features original AI music and lyric videos created by ZetBit.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "From their Youtube channel description: \"This channel features original AI music and lyric videos created by ZetBit.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

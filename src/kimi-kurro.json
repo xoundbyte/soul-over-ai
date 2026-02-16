@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "This artist has over 7,000 monthly listeners withonly one song and all clips are ai generated.",
+  "notes": "This artist has over 7,000 monthly listeners withonly one song and all clips are ai generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

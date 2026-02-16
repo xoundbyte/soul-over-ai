@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3182,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"LYRICIST | SONGWRITER | PRODUCER | VOCAL DESIGNER (ai assisted).\"",
   "disclosureTypes": [
     "vocals"
   ],
@@ -17,7 +16,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"LYRICIST | SONGWRITER | PRODUCER | VOCAL DESIGNER (ai assisted).\"",
   "genres": [],
   "popularity": null,
   "followers": null,

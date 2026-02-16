@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "The artist plays all instruments but utilises AI-generated vocals.",
+  "notes": "The artist plays all instruments but utilises AI-generated vocals.",
   "genres": [],
   "popularity": null,
   "followers": null,

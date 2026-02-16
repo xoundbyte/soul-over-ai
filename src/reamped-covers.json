@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3496,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Welcome to ReAmped Covers – where music meets technology. Using the power of AI, we transform your favorite songs into electrifying rock anthems. Every track gets louder, harder, and reimagined in true rock style.\"",
   "disclosureTypes": [
     "instrumentation",
     "vocals"
@@ -17,7 +16,7 @@
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Welcome to ReAmped Covers – where music meets technology. Using the power of AI, we transform your favorite songs into electrifying rock anthems. Every track gets louder, harder, and reimagined in true rock style.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

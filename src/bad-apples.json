@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify and YouTube bio state: \"Crafted by humans, perfected by AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify and YouTube bio state: \"Crafted by humans, perfected by AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

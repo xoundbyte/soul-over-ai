@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The Spotify page describes the project as \"AI music in almost all styles, primarily rock and metal.\"",
+  "notes": "The Spotify page describes the project as \"AI music in almost all styles, primarily rock and metal.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3085,
   "disclosure": "full",
-  "disclosureNotes": "The Spotify bio states: \"Under the alias The Mac Roger Project, Jarod will release one new AI-performed demo every week for a full year—or until he lands a major artist cut or publishing deal.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Under the alias The Mac Roger Project, Jarod will release one new AI-performed demo every week for a full year—or until he lands a major artist cut or publishing deal.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

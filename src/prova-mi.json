@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Prova MI is a digital artist who blends human creativity and artificial intelligence.\" (translated into English)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Prova MI is a digital artist who blends human creativity and artificial intelligence.\" (translated into English)",
   "genres": [],
   "popularity": null,
   "followers": null,

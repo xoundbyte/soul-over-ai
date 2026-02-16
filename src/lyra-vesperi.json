@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "Their YouTube bio states \"I blend the timeless craft of human composition with AI-assisted tools, not as a shortcut, but as a way to paint with a richer, more expansive palette of sounds.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "Their YouTube bio states \"I blend the timeless craft of human composition with AI-assisted tools, not as a shortcut, but as a way to paint with a richer, more expansive palette of sounds.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

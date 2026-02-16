@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3156,
   "disclosure": "full",
-  "disclosureNotes": "The TikTok bio states: \"AI Band.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The TikTok bio states: \"AI Band.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

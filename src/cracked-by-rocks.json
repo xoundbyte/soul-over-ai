@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": "Heavily used AI-generated art in artist bio and on social profiles. Seems to try and pass as real but everything else points to AI.",
+  "notes": "Heavily used AI-generated art in artist bio and on social profiles. Seems to try and pass as real but everything else points to AI.",
   "genres": [],
   "popularity": null,
   "followers": null,

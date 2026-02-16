@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3342,
   "disclosure": "confirmed",
-  "disclosureNotes": "Spotify bio: \"Valkyrian is an AI music project from Dalarna, launched in 2024.\" (translated). TikTok bio: \"Rock/metal with help of AI.\" (translated)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Spotify bio: \"Valkyrian is an AI music project from Dalarna, launched in 2024.\" (translated). TikTok bio: \"Rock/metal with help of AI.\" (translated)",
   "genres": [],
   "popularity": null,
   "followers": null,

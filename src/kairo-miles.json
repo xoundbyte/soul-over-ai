@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist (CJ Tuttle) has acknowledged this is is an AI-generated project on his his website.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The artist (CJ Tuttle) has acknowledged this is is an AI-generated project on his his website.",
   "genres": [],
   "popularity": null,
   "followers": null,

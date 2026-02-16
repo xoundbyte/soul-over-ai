@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3143,
   "disclosure": "partial",
-  "disclosureNotes": "On some YouTube videos, the #aimusic hashtag is used and some videos are self-labelled as AI-generated on TikTok.",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -19,7 +18,7 @@
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "On some YouTube videos, the #aimusic hashtag is used and some videos are self-labelled as AI-generated on TikTok.",
   "genres": [],
   "popularity": null,
   "followers": null,

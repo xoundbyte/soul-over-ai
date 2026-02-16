@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "YouTube bio states the project is \"where human creativity meets digital storytelling.\" The Instagram and TikTok bios also states: \"Human creativity meets digital rhythm.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "YouTube bio states the project is \"where human creativity meets digital storytelling.\" The Instagram and TikTok bios also states: \"Human creativity meets digital rhythm.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

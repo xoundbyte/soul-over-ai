@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2995,
   "disclosure": "partial",
-  "disclosureNotes": "The TikTok bio states: \"I‘m Zane who loves to create music! Booktok, gamer and more! Lyrics are real, sing/hum/drum and let AI build it.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -19,7 +18,7 @@
     "ai-visuals",
     "2024-onwards"
   ],
-  "markerNotes": "Has duplicate artist profiles on Spotify. AI cover art.",
+  "notes": "The TikTok bio states: \"I‘m Zane who loves to create music! Booktok, gamer and more! Lyrics are real, sing/hum/drum and let AI build it.\" Has duplicate artist profiles on Spotify. AI cover art.",
   "genres": [],
   "popularity": null,
   "followers": null,

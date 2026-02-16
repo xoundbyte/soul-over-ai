@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Their YouTube bio states: \"Music created with Suno Studio.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Their YouTube bio states: \"Music created with Suno Studio.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

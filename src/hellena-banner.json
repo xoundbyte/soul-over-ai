@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist acknowledges usage of AI on hug.art.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The artist acknowledges usage of AI on hug.art.",
   "genres": [],
   "popularity": null,
   "followers": null,

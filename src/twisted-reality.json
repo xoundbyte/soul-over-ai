@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"AI Creator\" and the the YouTube and TikTok handles allude to AI usage.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"AI Creator\" and the the YouTube and TikTok handles allude to AI usage.",
   "genres": [],
   "popularity": null,
   "followers": null,

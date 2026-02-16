@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The music appears highly polished despite the project emerging suddenly. There is limited information available online to verify the artist's background.",
+  "notes": "The music appears highly polished despite the project emerging suddenly. There is limited information available online to verify the artist's background.",
   "genres": [],
   "popularity": null,
   "followers": null,

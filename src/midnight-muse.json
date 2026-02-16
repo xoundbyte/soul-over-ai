@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2675,
   "disclosure": "confirmed",
-  "disclosureNotes": "Their YouTube bio states: \"As an avid listener of Lo-Fi music, I often use this genre for work and study.  Out of curiosity, I tried to create tracks that I liked with AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The first 3 albums of 2024 are released in a short timeline, 17 September, 22 September, and 26 September.",
+  "notes": "Their YouTube bio states: \"As an avid listener of Lo-Fi music, I often use this genre for work and study.  Out of curiosity, I tried to create tracks that I liked with AI.\" The first 3 albums of 2024 are released in a short timeline, 17 September, 22 September, and 26 September.",
   "genres": [],
   "popularity": null,
   "followers": null,

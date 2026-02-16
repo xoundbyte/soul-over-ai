@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "In 2025, the project released 29 albums on Spotify, many exceeding 30 tracks each. The album artwork and audio exhibit characteristics consistent with AI generation. After social media activity ending in early 2022, releases resumed abruptly in late 2024 with a rapid album rollout.",
+  "notes": "In 2025, the project released 29 albums on Spotify, many exceeding 30 tracks each. The album artwork and audio exhibit characteristics consistent with AI generation. After social media activity ending in early 2022, releases resumed abruptly in late 2024 with a rapid album rollout.",
   "genres": [],
   "popularity": null,
   "followers": null,

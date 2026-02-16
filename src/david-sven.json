@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3205,
   "disclosure": "partial",
-  "disclosureNotes": "From that artist's website https://www.davidsven.com/about-project: \"The voice you hear and the songs you find here were brought to life using modern creative tools — including AI-assisted production — always guided by a human hand and heart. Every lyric is written with intention. Every sound is chosen with care. David may not be a person you can shake hands with. But the feelings in his music are real — and they’re meant for you.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "From that artist's website https://www.davidsven.com/about-project: \"The voice you hear and the songs you find here were brought to life using modern creative tools — including AI-assisted production — always guided by a human hand and heart. Every lyric is written with intention. Every sound is chosen with care. David may not be a person you can shake hands with. But the feelings in his music are real — and they’re meant for you.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

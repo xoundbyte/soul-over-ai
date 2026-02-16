@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "They describe themselves as an \"AI artist\" on their YouTube profile.",
+  "notes": "They describe themselves as an \"AI artist\" on their YouTube profile.",
   "genres": [],
   "popularity": null,
   "followers": null,

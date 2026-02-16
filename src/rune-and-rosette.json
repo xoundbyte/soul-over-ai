@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "No official website or social media presence. A similarly named Instagram account appears unrelated.",
+  "notes": "No official website or social media presence. A similarly named Instagram account appears unrelated.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states that it is a \"project that fuses heartfelt lyricism with Logic Pro production and AI creativity.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states that it is a \"project that fuses heartfelt lyricism with Logic Pro production and AI creativity.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

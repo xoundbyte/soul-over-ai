@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The artist has stated that only the vocals are AI-generated (Suno), whilst the bass and drums are programmed. All visuals appear to be AI-generated.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The artist has stated that only the vocals are AI-generated (Suno), whilst the bass and drums are programmed. All visuals appear to be AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

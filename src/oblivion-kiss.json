@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The artist description is generic and resembles common AI band templates. Album art appears AI-generated and inconsistent, with details like tattoos present on some covers but absent on others. Releases are frequent, averaging one album per month.",
+  "notes": "The artist description is generic and resembles common AI band templates. Album art appears AI-generated and inconsistent, with details like tattoos present on some covers but absent on others. Releases are frequent, averaging one album per month.",
   "genres": [],
   "popularity": null,
   "followers": null,

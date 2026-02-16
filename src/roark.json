@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3132,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Twitter bio states: \"Digital Musician.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Twitter bio states: \"Digital Musician.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

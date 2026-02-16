@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3108,
   "disclosure": "confirmed",
-  "disclosureNotes": "The TikTok bio states \"Ai Assisted Creative music\" whilst the YouTube bio states: \"I’m still learning how to shape music and narrative, experimenting with AI to help these worlds wake up.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "inconsistent-style",
     "high-output"
   ],
-  "markerNotes": "The artist has also released 3 videos in 2 weeks.",
+  "notes": "The TikTok bio states \"Ai Assisted Creative music\" whilst the YouTube bio states: \"I’m still learning how to shape music and narrative, experimenting with AI to help these worlds wake up.\" The artist has also released 3 videos in 2 weeks.",
   "genres": [],
   "popularity": null,
   "followers": null,

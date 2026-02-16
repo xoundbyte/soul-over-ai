@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "YouTube bio acknowledges the music is AI-generated.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "YouTube bio acknowledges the music is AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

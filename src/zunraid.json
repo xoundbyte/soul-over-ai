@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2939,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"I experiment with AI music. That's why I have songs of different genres and different vocals on my channel.I want to explore the limits and possibilities of AI in music creation. I use SunoAi v4.5 , ChatGPT. Lately I've been writing lyrics myself.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -21,7 +20,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"I experiment with AI music. That's why I have songs of different genres and different vocals on my channel.I want to explore the limits and possibilities of AI in music creation. I use SunoAi v4.5 , ChatGPT. Lately I've been writing lyrics myself.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

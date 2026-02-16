@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"I use artificial intelligence tools to produce fresh, one-of-a-kind music while keeping the heart of every song 100% original and personally written by me.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"I use artificial intelligence tools to produce fresh, one-of-a-kind music while keeping the heart of every song 100% original and personally written by me.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

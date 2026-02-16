@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Comments on their TikTok profile asking for clarity on AI-usage go unanswered, whilst comments are disabled on their YouTube profile.",
+  "notes": "Comments on their TikTok profile asking for clarity on AI-usage go unanswered, whilst comments are disabled on their YouTube profile.",
   "genres": [],
   "popularity": null,
   "followers": null,

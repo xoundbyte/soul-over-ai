@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states the channel features \"original AI-assisted tracks + lyrics videos.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states the channel features \"original AI-assisted tracks + lyrics videos.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3076,
   "disclosure": "full",
-  "disclosureNotes": "The YouTube bio states: \"Original Songwriting: Soulful country, blues, and pop originals brought to life with AI-enhanced animations and lyric videos.\" The description on this video https://www.youtube.com/watch?v=XKnWe5UoNsg states: \"Vocals/Composition: Suno AI, Grok, & Gemini. Visuals: MidJourney, Canva, & Hedra AI-enhanced imagery curated and directed by Lee Vyborny.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Original Songwriting: Soulful country, blues, and pop originals brought to life with AI-enhanced animations and lyric videos.\" The description on this video https://www.youtube.com/watch?v=XKnWe5UoNsg states: \"Vocals/Composition: Suno AI, Grok, & Gemini. Visuals: MidJourney, Canva, & Hedra AI-enhanced imagery curated and directed by Lee Vyborny.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

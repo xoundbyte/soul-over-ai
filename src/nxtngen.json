@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "Multiple songs feature different vocalists, with AI-generated single artwork throughout. No singers are credited, and the release frequency is unusually high for conventional recording or production processes.",
+  "notes": "Multiple songs feature different vocalists, with AI-generated single artwork throughout. No singers are credited, and the release frequency is unusually high for conventional recording or production processes.",
   "genres": [],
   "popularity": null,
   "followers": null,

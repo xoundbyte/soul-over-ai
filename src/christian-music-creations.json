@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": "Openly admits on social media that it's media is AI-generated.",
+  "notes": "Openly admits on social media that it's media is AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

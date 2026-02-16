@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"A storyteller and AI-musician blending ancient lore with modern soundscapes.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"A storyteller and AI-musician blending ancient lore with modern soundscapes.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2922,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"This channel is my space to let the inner poet speak through sound, blending human emotion with the imagination of AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"This channel is my space to let the inner poet speak through sound, blending human emotion with the imagination of AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

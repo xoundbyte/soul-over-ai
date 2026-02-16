@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2646,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"Created with AI, remixed, mastered, and fine-tuned piece by piece to perfection by VibecraftTwo, you're in for a sonic adventure.\"",
   "disclosureTypes": [
     "vocals",
     "lyrics",
@@ -17,7 +16,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Created with AI, remixed, mastered, and fine-tuned piece by piece to perfection by VibecraftTwo, you're in for a sonic adventure.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

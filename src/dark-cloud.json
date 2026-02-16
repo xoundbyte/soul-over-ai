@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"I'll be using this channel to publish all the lyrics and poetry that I've written over the years. Thanks to advances in AI, it's now possible to use services like Suno to finally put these words to music.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"I'll be using this channel to publish all the lyrics and poetry that I've written over the years. Thanks to advances in AI, it's now possible to use services like Suno to finally put these words to music.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

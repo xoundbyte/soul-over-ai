@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Instagram bio states it is a music project \"fusing bits & bytes with the soul of sound - songs born from tech, driven by emotion.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "Instagram bio states it is a music project \"fusing bits & bytes with the soul of sound - songs born from tech, driven by emotion.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

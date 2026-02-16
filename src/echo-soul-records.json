@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2904,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"We create and share original romantic ballads, emotional lyric videos, and AI-enhanced love songs that speak straight to the heart.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"We create and share original romantic ballads, emotional lyric videos, and AI-enhanced love songs that speak straight to the heart.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

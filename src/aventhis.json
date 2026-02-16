@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 2699,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Harnessing the creative power of AI as part of his artistic process.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Harnessing the creative power of AI as part of his artistic process.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

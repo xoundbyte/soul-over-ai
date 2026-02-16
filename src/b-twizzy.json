@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist has acknowledged the use of AI via their Twitch and Discord channels. Also states that their lyrics are human written.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The artist has acknowledged the use of AI via their Twitch and Discord channels. Also states that their lyrics are human written.",
   "genres": [],
   "popularity": null,
   "followers": null,

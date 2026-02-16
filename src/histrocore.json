@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": "Self-declared as an AI techno-metal project.",
+  "notes": "Self-declared as an AI techno-metal project.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3335,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Our creative process blends human artistry and storytelling with modern digital and AI-assisted tools, used as instruments to expand imagination — not replace it. Every song, lyric, and visual direction is crafted with intention, emotion, and respect for music as art.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Our creative process blends human artistry and storytelling with modern digital and AI-assisted tools, used as instruments to expand imagination — not replace it. Every song, lyric, and visual direction is crafted with intention, emotion, and respect for music as art.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

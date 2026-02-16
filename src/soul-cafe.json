@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Multiple videos on their YouTube channel have a description that states: \"All Songs & Image Created by Soul Cafe with AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "Multiple videos on their YouTube channel have a description that states: \"All Songs & Image Created by Soul Cafe with AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

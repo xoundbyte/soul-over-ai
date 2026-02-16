@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist's Spotify bio states that they utilise \"advanced AI and music production software.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The artist's Spotify bio states that they utilise \"advanced AI and music production software.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3399,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Yes, I use AI - the same way a producer uses synths, drum machines, or new studio tools.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Yes, I use AI - the same way a producer uses synths, drum machines, or new studio tools.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "The artist has acknowledged using AI-generated vocals on YouTube and Patreon, and also uses AI-generated artwork for track visuals.",
+  "notes": "The artist has acknowledged using AI-generated vocals on YouTube and Patreon, and also uses AI-generated artwork for track visuals.",
   "genres": [],
   "popularity": null,
   "followers": null,

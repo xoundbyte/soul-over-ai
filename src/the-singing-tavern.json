@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2863,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states\" \"How I create these stories: Every track starts with AI assisted audio stems that I manually mix, arrange, and master to ensure a rich, professional sound experience.\"",
   "disclosureTypes": [
     "lyrics",
     "instrumentation",
@@ -19,7 +18,7 @@
     "high-output",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states\" \"How I create these stories: Every track starts with AI assisted audio stems that I manually mix, arrange, and master to ensure a rich, professional sound experience.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

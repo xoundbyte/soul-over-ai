@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "AI-generated album artwork, with no visible presence or evidence of human involvement.",
+  "notes": "AI-generated album artwork, with no visible presence or evidence of human involvement.",
   "genres": [],
   "popularity": null,
   "followers": null,

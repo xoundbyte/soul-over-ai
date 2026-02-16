@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "Instagram bio states that the lyrics are human-written and the music is produced with AI.",
+  "notes": "Instagram bio states that the lyrics are human-written and the music is produced with AI.",
   "genres": [],
   "popularity": null,
   "followers": null,

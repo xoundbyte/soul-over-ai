@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2649,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "inconsistent-style"
   ],
-  "markerNotes": "The genre and vocal style appears to vary in every song. The country code for their Apple Music link on their website is Ivory Coast. There is no verifiable information about the artist, even on their personal website.",
+  "notes": "The genre and vocal style appears to vary in every song. The country code for their Apple Music link on their website is Ivory Coast. There is no verifiable information about the artist, even on their personal website.",
   "genres": [],
   "popularity": null,
   "followers": null,

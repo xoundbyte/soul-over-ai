@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3157,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist acknowledges the use of Suno in this Instagram post https://www.instagram.com/p/DTO9rLSDSoB/ \"I make these songs with Suno.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The artist acknowledges the use of Suno in this Instagram post https://www.instagram.com/p/DTO9rLSDSoB/ \"I make these songs with Suno.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

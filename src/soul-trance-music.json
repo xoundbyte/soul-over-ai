@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"On this channel, you'll discover a unique collection of uplifting, progressive, vocal, and classic trance tracks, all created by state-of-the-art AI music generators.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"On this channel, you'll discover a unique collection of uplifting, progressive, vocal, and classic trance tracks, all created by state-of-the-art AI music generators.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

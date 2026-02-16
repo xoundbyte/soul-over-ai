@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Every song in this channel is born from our own life journey, from emotions we've truly lived, felt, and turned into melodies with the help of AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Every song in this channel is born from our own life journey, from emotions we've truly lived, felt, and turned into melodies with the help of AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

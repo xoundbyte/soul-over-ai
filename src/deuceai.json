@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states that the project is \"a tribute through AI crafted music.\" Furthermore, the YouTube bio states: \"Everything on this YouTube channel was created with the help of the AI, in a way or another.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states that the project is \"a tribute through AI crafted music.\" Furthermore, the YouTube bio states: \"Everything on this YouTube channel was created with the help of the AI, in a way or another.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

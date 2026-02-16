@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2670,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"It’s basically me + AI teaming up to make sounds that (hopefully) don’t break your brain 😄 I bring my own riffs, melodies, and weird samples, and the AI helps me shape things faster but the final vibe always matches my taste and the style I want to create.\"",
   "disclosureTypes": [
     "mixing",
     "mastering",
@@ -20,7 +19,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"It’s basically me + AI teaming up to make sounds that (hopefully) don’t break your brain 😄 I bring my own riffs, melodies, and weird samples, and the AI helps me shape things faster but the final vibe always matches my taste and the style I want to create.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

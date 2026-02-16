@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "A large listener count despite no visible social media or online presence raises questions about audience acquisition. Cover art appears AI-generated, and generic song titles resemble search-optimised naming rather than artist-led branding.",
+  "notes": "A large listener count despite no visible social media or online presence raises questions about audience acquisition. Cover art appears AI-generated, and generic song titles resemble search-optimised naming rather than artist-led branding.",
   "genres": [],
   "popularity": null,
   "followers": null,

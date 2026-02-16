@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "This artist is featured in AI playlists on Spotify.",
+  "notes": "This artist is featured in AI playlists on Spotify.",
   "genres": [],
   "popularity": null,
   "followers": null,

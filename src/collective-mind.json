@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "AI-looking images and videos, no information about who is behind the project, and an unusually large number of recent releases.",
+  "notes": "AI-looking images and videos, no information about who is behind the project, and an unusually large number of recent releases.",
   "genres": [],
   "popularity": null,
   "followers": null,

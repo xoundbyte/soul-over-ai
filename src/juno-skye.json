@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": "Generic AI-generated artwork and biography.",
+  "notes": "Generic AI-generated artwork and biography.",
   "genres": [],
   "popularity": null,
   "followers": null,

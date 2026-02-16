@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 2791,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"On this channel, we fuse the soul of anime, the energy of video games, and the creative power of artificial intelligence.\" (translated)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"On this channel, we fuse the soul of anime, the energy of video games, and the creative power of artificial intelligence.\" (translated)",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The Spotify bio states: \"Each track is brought to life through the use of AI - some feature my own voice, melodies, or lyrics, while others are entirely AI-generated.\"",
+  "notes": "The Spotify bio states: \"Each track is brought to life through the use of AI - some feature my own voice, melodies, or lyrics, while others are entirely AI-generated.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

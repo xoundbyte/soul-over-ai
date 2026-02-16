@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Uses AI-generated visuals in music videos and album artwork. The website provides no concrete information about performers, focusing instead on thematic content related to Norse religion.",
+  "notes": "Uses AI-generated visuals in music videos and album artwork. The website provides no concrete information about performers, focusing instead on thematic content related to Norse religion.",
   "genres": [],
   "popularity": null,
   "followers": null,

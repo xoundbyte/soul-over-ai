@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Because I didn't win the genetic lottery that handed out beautiful voices, I'm assisted by a neural network.\" (translated from Russian)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Because I didn't win the genetic lottery that handed out beautiful voices, I'm assisted by a neural network.\" (translated from Russian)",
   "genres": [],
   "popularity": null,
   "followers": null,

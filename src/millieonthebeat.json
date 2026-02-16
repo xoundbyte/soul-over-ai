@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Tracks are frequently featured on AI-focused playlists on Spotify.",
+  "notes": "Tracks are frequently featured on AI-focused playlists on Spotify.",
   "genres": [],
   "popularity": null,
   "followers": null,

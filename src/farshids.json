@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "AI-generated images and bios, with audible vocal artifacts and a very high release volume. The YouTube channel shows characteristics of automated AI content, including repetitive uploads and AI-style comments.",
+  "notes": "AI-generated images and bios, with audible vocal artifacts and a very high release volume. The YouTube channel shows characteristics of automated AI content, including repetitive uploads and AI-style comments.",
   "genres": [],
   "popularity": null,
   "followers": null,

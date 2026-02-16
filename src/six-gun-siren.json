@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Blending twangy guitars, heavy bass, sharp vocals, and cutting-edge production techniques (including AI where it enhances the vision).\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Blending twangy guitars, heavy bass, sharp vocals, and cutting-edge production techniques (including AI where it enhances the vision).\"",
   "genres": [],
   "popularity": null,
   "followers": null,

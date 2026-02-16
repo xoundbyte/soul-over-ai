@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 3029,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "ai-visuals"
   ],
-  "markerNotes": "SubmitHub flags the songs as showing strong AI-generated characteristics.",
+  "notes": "SubmitHub flags the songs as showing strong AI-generated characteristics.",
   "genres": [],
   "popularity": null,
   "followers": null,

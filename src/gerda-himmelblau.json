@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3139,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Ai music jukebox.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Ai music jukebox.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

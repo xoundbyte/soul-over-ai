@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2668,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The Spotify bio implies AI usage, without outright saying it: \"I might be a digital artist, but my heart’s as real as it gets, and I'm here to make music that speaks to everyone.\"",
+  "notes": "The Spotify bio implies AI usage, without outright saying it: \"I might be a digital artist, but my heart’s as real as it gets, and I'm here to make music that speaks to everyone.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

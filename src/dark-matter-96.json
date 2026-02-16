@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": "YouTube channel description acknowledges use of AI. Has a second Youtube channel at @darkmatter0896.",
+  "notes": "YouTube channel description acknowledges use of AI. Has a second Youtube channel at @darkmatter0896.",
   "genres": [],
   "popularity": null,
   "followers": null,

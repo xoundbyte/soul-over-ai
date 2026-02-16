@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"We use AI technology to rework iconic tracks in fresh styles.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"We use AI technology to rework iconic tracks in fresh styles.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

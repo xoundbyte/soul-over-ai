@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Note that this project is not to be confused with a non-AI artist by the same name.",
+  "notes": "Note that this project is not to be confused with a non-AI artist by the same name.",
   "genres": [],
   "popularity": null,
   "followers": null,

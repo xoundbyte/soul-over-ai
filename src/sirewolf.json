@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Lyrics show patterns commonly associated with AI-generated Christian music, including highly consistent rhyming and polished thematic messaging. The artist has publicly confirmed the use of AI in production.",
+  "notes": "Lyrics show patterns commonly associated with AI-generated Christian music, including highly consistent rhyming and polished thematic messaging. The artist has publicly confirmed the use of AI in production.",
   "genres": [],
   "popularity": null,
   "followers": null,

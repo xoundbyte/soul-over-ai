@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Releases a new album roughly every two weeks, and there's no verifiable information about the artist beyond their Spotify and YouTube profiles.",
+  "notes": "Releases a new album roughly every two weeks, and there's no verifiable information about the artist beyond their Spotify and YouTube profiles.",
   "genres": [],
   "popularity": null,
   "followers": null,

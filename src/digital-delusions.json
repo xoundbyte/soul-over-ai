@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Blurring the Edges of Creativity and AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Blurring the Edges of Creativity and AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The Spotify bio describes Lunar Horizon as an AI project started in 2023, noting that the lyrics are written by the artist with AI assistance bringing the songs to life. The YouTube bio states: \"Everything that you find here is made by AI. To be more specific, I use Suno AI for all of my songs.\"",
+  "notes": "The Spotify bio describes Lunar Horizon as an AI project started in 2023, noting that the lyrics are written by the artist with AI assistance bringing the songs to life. The YouTube bio states: \"Everything that you find here is made by AI. To be more specific, I use Suno AI for all of my songs.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

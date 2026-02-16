@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist uses #AIArtist tags and similar on Instagram.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The artist uses #AIArtist tags and similar on Instagram.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2768,
   "disclosure": "full",
-  "disclosureNotes": "On the artist's website (https://www.redneckoutlawmusic.com) they state: \"Redneck Outlaw is a digital-first, AI-driven country rock band built for fans who want something real, raw, and rebellious. Every release is crafted to keep the spirit of outlaw music alive while pushing the edge of what AI-powered creativity can do.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "On the artist's website (https://www.redneckoutlawmusic.com) they state: \"Redneck Outlaw is a digital-first, AI-driven country rock band built for fans who want something real, raw, and rebellious. Every release is crafted to keep the spirit of outlaw music alive while pushing the edge of what AI-powered creativity can do.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

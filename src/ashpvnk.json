@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2787,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "inconsistent-style"
   ],
-  "markerNotes": "Appears to be one of many AI side projects of a member Jülz of the established band Rev Theory. according to this thread: https://www.reddit.com/r/numetal/comments/1c8yzdu/is_rev_theory_passing_off_ai_music_as_new_songs/",
+  "notes": "Appears to be one of many AI side projects of a member Jülz of the established band Rev Theory. according to this thread: https://www.reddit.com/r/numetal/comments/1c8yzdu/is_rev_theory_passing_off_ai_music_as_new_songs/",
   "genres": [],
   "popularity": null,
   "followers": null,

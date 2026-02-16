@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"All artists, music, and stories featured on this channel are entirely fictional and created using AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"All artists, music, and stories featured on this channel are entirely fictional and created using AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 3299,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Generic AI art on social profiles; no artist details; vocals vary between songs",
+  "notes": "Generic AI art on social profiles; no artist details; vocals vary between songs",
   "genres": [],
   "popularity": null,
   "followers": null,

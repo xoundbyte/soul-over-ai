@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "All releases date from 2025 onward, with only a minimal bio and no real artist information. The album artwork appears AI-generated and closely resembles visuals used by other AI-driven music projects.",
+  "notes": "All releases date from 2025 onward, with only a minimal bio and no real artist information. The album artwork appears AI-generated and closely resembles visuals used by other AI-driven music projects.",
   "genres": [],
   "popularity": null,
   "followers": null,

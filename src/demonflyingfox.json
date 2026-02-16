@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Hi, I'm demonflyingfox and I want to show what's possible with AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Hi, I'm demonflyingfox and I want to show what's possible with AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

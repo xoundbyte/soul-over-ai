@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist states on their Spotify bio: \"Using Suno to make new sounds.\" They state that all visuals are created by themselves.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The artist states on their Spotify bio: \"Using Suno to make new sounds.\" They state that all visuals are created by themselves.",
   "genres": [],
   "popularity": null,
   "followers": null,

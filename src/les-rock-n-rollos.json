@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3146,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"A human composer writes the lyrics, music, and arrangements, while the vocals are performed by an AI voice, created to bring this modern Breton energy to life.\"",
   "disclosureTypes": [
     "vocals"
   ],
@@ -17,7 +16,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"A human composer writes the lyrics, music, and arrangements, while the vocals are performed by an AI voice, created to bring this modern Breton energy to life.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

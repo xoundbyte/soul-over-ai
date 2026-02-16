@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Audio quality is inconsistent across tracks, with vocal artifacts typical of AI-generated content.",
+  "notes": "Audio quality is inconsistent across tracks, with vocal artifacts typical of AI-generated content.",
   "genres": [],
   "popularity": null,
   "followers": null,

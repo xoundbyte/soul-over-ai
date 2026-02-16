@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2852,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
+  "notes": "The artist appears to be part of a network of AI instrumental jazz produced by the entities 'Maison Jazz' and 'FL47K3YS' https://credits.muso.ai/profile/76a12ea6-ef02-418d-baa7-b4d879d8c469. All share similar cover art, and all are cross-linked under the user profile Maison Jazz on Spotify https://open.spotify.com/user/31umo5u6jbf5hzlhd2os3yvrqfje.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Self-declared as an AI project.",
+  "notes": "Self-declared as an AI project.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 3254,
   "disclosure": "full",
-  "disclosureNotes": "Disclosed the use of Suno on this video https://www.youtube.com/watch?v=we75cRwfrqk.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "2024-onwards",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Disclosed the use of Suno on this video https://www.youtube.com/watch?v=we75cRwfrqk.",
   "genres": [],
   "popularity": null,
   "followers": null,

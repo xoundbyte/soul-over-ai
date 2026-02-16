@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2795,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Every track is forged with grit, rum-rough voices, pounding deck-drums, sea-worn instruments and a spark of modern sorcerAI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Every track is forged with grit, rum-rough voices, pounding deck-drums, sea-worn instruments and a spark of modern sorcerAI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

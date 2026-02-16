@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The artist states on their Spotify bio that \"I use AI to help build each project but I assure you the humanity is in it, sampling instruments, my vocals or just arrangement.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The artist states on their Spotify bio that \"I use AI to help build each project but I assure you the humanity is in it, sampling instruments, my vocals or just arrangement.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

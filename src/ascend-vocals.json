@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Songs feature AI vocalist Sadie Winters.",
+  "notes": "Songs feature AI vocalist Sadie Winters.",
   "genres": [],
   "popularity": null,
   "followers": null,

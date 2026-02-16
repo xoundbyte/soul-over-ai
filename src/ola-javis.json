@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "No online presence outside of music streaming platforms. Features a collaboration with Kairo Mansa, another AI artist.",
+  "notes": "No online presence outside of music streaming platforms. Features a collaboration with Kairo Mansa, another AI artist.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": 2722,
   "disclosure": "partial",
-  "disclosureNotes": "The artist acknowledges the use of AI on Reddit: \"Yeah, I sing the vocals myself, but I use AI to filter and tweak them to get the sound I want\" and \"It’s a hybrid workflow. I use modern tools to push the sound boundaries, but the core vision and direction are mine.\"\nhttps://www.reddit.com/r/PromoteYourMusic/comments/1pzpu8w/",
   "disclosureTypes": [
     "mastering",
     "mixing"
   ],
   "urls": [],
   "markers": [],
-  "markerNotes": null,
+  "notes": "The artist acknowledges the use of AI on Reddit: \"Yeah, I sing the vocals myself, but I use AI to filter and tweak them to get the sound I want\" and \"It’s a hybrid workflow. I use modern tools to push the sound boundaries, but the core vision and direction are mine.\"\nhttps://www.reddit.com/r/PromoteYourMusic/comments/1pzpu8w/",
   "genres": [],
   "popularity": null,
   "followers": null,

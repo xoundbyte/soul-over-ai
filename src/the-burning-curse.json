@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3583,
   "disclosure": "full",
-  "disclosureNotes": "YouTube bio: \"🤘🏻vocals and beats by Ai🤘🏻\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "YouTube bio: \"🤘🏻vocals and beats by Ai🤘🏻\"",
   "genres": [],
   "popularity": null,
   "followers": null,

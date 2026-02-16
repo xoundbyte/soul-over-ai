@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2631,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Lyrics are my own - music is powered by Suno AI and the artwork is created with a combo of AI, digital painting and Photoshop.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -18,7 +17,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Lyrics are my own - music is powered by Suno AI and the artwork is created with a combo of AI, digital painting and Photoshop.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Created with a mix of AI tools and the artist's original concepts.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Created with a mix of AI tools and the artist's original concepts.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

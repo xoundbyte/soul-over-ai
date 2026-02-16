@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2689,
   "disclosure": "confirmed",
-  "disclosureNotes": "On this video (https://www.youtube.com/watch?v=UuQc21C8bBE) the artist states: \"I use modern tools as part of the creative process, but the direction, concept, and emotional intent of each track are entirely mine.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "On this video (https://www.youtube.com/watch?v=UuQc21C8bBE) the artist states: \"I use modern tools as part of the creative process, but the direction, concept, and emotional intent of each track are entirely mine.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

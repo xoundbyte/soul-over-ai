@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "Audio quality varies across tracks, with shifts in vocal tone and instability on higher notes commonly associated with AI vocals. The project shows limited public presence, frequent releases, AI-generated visuals, a non-human-sounding bio, and interactions that appear automated.",
+  "notes": "Audio quality varies across tracks, with shifts in vocal tone and instability on higher notes commonly associated with AI vocals. The project shows limited public presence, frequent releases, AI-generated visuals, a non-human-sounding bio, and interactions that appear automated.",
   "genres": [],
   "popularity": null,
   "followers": null,

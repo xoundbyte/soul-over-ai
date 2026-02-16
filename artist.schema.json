@@ -42,13 +42,6 @@
       "enum": ["confirmed", "full", "partial", "none"],
       "description": "Whether the artist has self-disclosed AI usage: confirmed = yes without context, full = fully AI-generated, partial = uses AI for parts of their process, none = no disclosure"
     },
-    "disclosureNotes": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "description": "Additional details for the disclosure value, or null if no details provided"
-    },
     "disclosureTypes": {
       "type": "array",
       "description": "Types of AI usage in the artist's music production",
@@ -96,7 +89,7 @@
       },
       "uniqueItems": true
     },
-    "markerNotes": {
+    "notes": {
       "type": [
         "string",
         "null"
@@ -193,11 +186,10 @@
     "removed",
     "issue",
     "disclosure",
-    "disclosureNotes",
     "disclosureTypes",
     "urls",
     "markers",
-    "markerNotes",
+    "notes",
     "genres",
     "popularity",
     "followers",

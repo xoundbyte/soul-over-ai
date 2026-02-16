@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Uses hashtags such as #aiartist and #aimusic on social profiles.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "Uses hashtags such as #aiartist and #aimusic on social profiles.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Here, I use AI as my unpredictable lab assistant-generating strange vocals and chaotic instruments.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Here, I use AI as my unpredictable lab assistant-generating strange vocals and chaotic instruments.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

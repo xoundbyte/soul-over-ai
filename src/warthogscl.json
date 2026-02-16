@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The Spotify page acknowledges the use of AI, with the artist confirming that the vocals are AI-generated.",
+  "notes": "The Spotify page acknowledges the use of AI, with the artist confirming that the vocals are AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

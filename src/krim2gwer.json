@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3185,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "Flagged as AI by Deezer https://www.deezer.com/us/album/890605362.",
+  "notes": "Flagged as AI by Deezer https://www.deezer.com/us/album/890605362.",
   "genres": [],
   "popularity": null,
   "followers": null,

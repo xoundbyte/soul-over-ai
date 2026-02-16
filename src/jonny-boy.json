@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "inconsistent-style"
   ],
-  "markerNotes": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
+  "notes": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
   "genres": [],
   "popularity": null,
   "followers": null,

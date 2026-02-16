@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2999,
   "disclosure": "partial",
-  "disclosureNotes": "In the video for Beautiful Mess https://www.youtube.com/watch?v=N74CR3Wg1ro, the description states: “Vocal processing: Kits (AI assisted), Antares Auto-Tune, Metamorph, Melodyne. Production: Ableton Live, AI for modulations, loops and samples.”",
   "disclosureTypes": [
     "vocals",
     "mixing"
@@ -19,7 +18,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The X account https://x.com/GrimfelOfficial posts frequently in support of AI in art, for example \"The picture looks great even if its AI. Who pays $500 for art anyway?\" https://x.com/GrimfelOfficial/status/1701582025822548156 and \n“I have to laugh that goths of all people are crying the most about AI in music” https://x.com/GrimfelOfficial/status/2015998361371820438.",
+  "notes": "In the video for Beautiful Mess https://www.youtube.com/watch?v=N74CR3Wg1ro, the description states: “Vocal processing: Kits (AI assisted), Antares Auto-Tune, Metamorph, Melodyne. Production: Ableton Live, AI for modulations, loops and samples.” The X account https://x.com/GrimfelOfficial posts frequently in support of AI in art, for example \"The picture looks great even if its AI. Who pays $500 for art anyway?\" https://x.com/GrimfelOfficial/status/1701582025822548156 and \n“I have to laugh that goths of all people are crying the most about AI in music” https://x.com/GrimfelOfficial/status/2015998361371820438.",
   "genres": [],
   "popularity": null,
   "followers": null,

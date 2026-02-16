@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3350,
   "disclosure": "partial",
-  "disclosureNotes": "\"Daddy Unicorn is an innovative TONOAI artist at the forefront of fusing technology and music. The project is a manifestation of an endless fascination with tinkering and exploring the boundaries of artificial intelligence in the musical realm—while still placing human creativity at its core. We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "\"Daddy Unicorn is an innovative TONOAI artist at the forefront of fusing technology and music. The project is a manifestation of an endless fascination with tinkering and exploring the boundaries of artificial intelligence in the musical realm—while still placing human creativity at its core. We bring visionary ideas to life using a dedicated AI toolkit, including Gemini (for concepts, synopsis, and prompting ideas), Suno (for music and vocals), and OpenArt (for album art and covers).\"",
   "genres": [],
   "popularity": null,
   "followers": null,

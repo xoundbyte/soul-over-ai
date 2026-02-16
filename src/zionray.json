@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "Claims to be a real person, but only AI-generated images exist and no verifiable information can be found. A large volume of releases, all dating from 2025.",
+  "notes": "Claims to be a real person, but only AI-generated images exist and no verifiable information can be found. A large volume of releases, all dating from 2025.",
   "genres": [],
   "popularity": null,
   "followers": null,

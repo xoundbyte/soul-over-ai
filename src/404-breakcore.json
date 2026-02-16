@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2897,
   "disclosure": "confirmed",
-  "disclosureNotes": "The description for the song 'i sing unto thee' https://www.youtube.com/watch?v=53O2QuqYFzk states: \"Please note the art and music are made with the help of AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The description for the song 'i sing unto thee' https://www.youtube.com/watch?v=53O2QuqYFzk states: \"Please note the art and music are made with the help of AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

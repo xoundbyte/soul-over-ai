@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Fully AI-generated, appears to be made by the same unknown party behind the AI-generated artist \"Eurozia\".",
+  "notes": "Fully AI-generated, appears to be made by the same unknown party behind the AI-generated artist \"Eurozia\".",
   "genres": [],
   "popularity": null,
   "followers": null,

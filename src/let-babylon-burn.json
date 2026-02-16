@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Spotify bio refers to \"AI-enhanced creativity\" with human lyrics.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "Spotify bio refers to \"AI-enhanced creativity\" with human lyrics.",
   "genres": [],
   "popularity": null,
   "followers": null,

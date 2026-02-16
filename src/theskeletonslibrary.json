@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "Spotify bio states: \"The Skeletons Library is a modern metal project built on real human emotion and brought to life through the power of AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "Spotify bio states: \"The Skeletons Library is a modern metal project built on real human emotion and brought to life through the power of AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

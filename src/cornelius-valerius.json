@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2708,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The song credits on YouTube and Spotify refer to a logistics company 'HESS LOGISTICS LLC'.",
+  "notes": "The song credits on YouTube and Spotify refer to a logistics company 'HESS LOGISTICS LLC'.",
   "genres": [],
   "popularity": null,
   "followers": null,

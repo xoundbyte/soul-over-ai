@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The artist name itself hints at AI involvement, which is openly confirmed in the YouTube bio.",
+  "notes": "The artist name itself hints at AI involvement, which is openly confirmed in the YouTube bio.",
   "genres": [],
   "popularity": null,
   "followers": null,

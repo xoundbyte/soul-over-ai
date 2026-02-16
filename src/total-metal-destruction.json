@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"Groupe de metal IA.\" (AI metal band)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"Groupe de metal IA.\" (AI metal band)",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "There's no information about who's behind the project. Instagram content appears AI-generated, and all released songs date only from 2025.",
+  "notes": "There's no information about who's behind the project. Instagram content appears AI-generated, and all released songs date only from 2025.",
   "genres": [],
   "popularity": null,
   "followers": null,

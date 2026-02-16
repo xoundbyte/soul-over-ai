@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3089,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"k-pop k-Phonk AI Artist.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"k-pop k-Phonk AI Artist.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

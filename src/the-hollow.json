@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states that the project consists of \"handwritten lyrics echoed through the digital ghost\" and that \"A.I. tools ares used in production.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states that the project consists of \"handwritten lyrics echoed through the digital ghost\" and that \"A.I. tools ares used in production.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

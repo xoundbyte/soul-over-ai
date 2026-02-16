@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio explicitly states that AI is used to generate the instrumentals.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio explicitly states that AI is used to generate the instrumentals.",
   "genres": [],
   "popularity": null,
   "followers": null,

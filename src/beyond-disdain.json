@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2950,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Our music is composed using an innovative process mixing real instruments, traditional production techniques, professional mixing & mastering, blended with artificial intelligence to meticulously craft every track.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "The first release was in 2025, and features another vocalist suspected to be entirely AI.",
+  "notes": "The YouTube bio states: \"Our music is composed using an innovative process mixing real instruments, traditional production techniques, professional mixing & mastering, blended with artificial intelligence to meticulously craft every track.\" The first release was in 2025, and features another vocalist suspected to be entirely AI.",
   "genres": [],
   "popularity": null,
   "followers": null,

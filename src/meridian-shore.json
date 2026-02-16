@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"An emotional post-hardcore project combining real, vulnerable lyrics with AI-assisted instrumentation and vocals.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"An emotional post-hardcore project combining real, vulnerable lyrics with AI-assisted instrumentation and vocals.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "No available information on the artist, with only singles released in 2025.",
+  "notes": "No available information on the artist, with only singles released in 2025.",
   "genres": [],
   "popularity": null,
   "followers": null,

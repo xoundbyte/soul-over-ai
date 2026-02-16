@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3053,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Farsi Jazz is an experimental project exploring Persian musical heritage through jazz improvisation and atmospheric soundscapes, blending human creativity with AI assistance.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Farsi Jazz is an experimental project exploring Persian musical heritage through jazz improvisation and atmospheric soundscapes, blending human creativity with AI assistance.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

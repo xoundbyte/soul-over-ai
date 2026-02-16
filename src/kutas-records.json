@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": "The YouTube bio states that the melody and vocals are created using generative AI. Controversial themes.",
+  "notes": "The YouTube bio states that the melody and vocals are created using generative AI. Controversial themes.",
   "genres": [],
   "popularity": null,
   "followers": null,

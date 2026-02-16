@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2831,
   "disclosure": "full",
-  "disclosureNotes": "On their YouTube video for Paralized (Hardstyle Mix) https://www.youtube.com/watch?v=GAx8IaxqgnA, the description states: \"Made (2026) with Suno AI, Grok Imagine, Chat GPT by Ronny Krahl.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "inconsistent-style",
     "2024-onwards"
   ],
-  "markerNotes": null,
+  "notes": "On their YouTube video for Paralized (Hardstyle Mix) https://www.youtube.com/watch?v=GAx8IaxqgnA, the description states: \"Made (2026) with Suno AI, Grok Imagine, Chat GPT by Ronny Krahl.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

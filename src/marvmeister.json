@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3163,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"I write all my songs myself - usually in a notepad and then later transfer them to my PC. I also cut and master them myself, But I mostly use AI voices for the songs. I also speak or sing some of them myself and then use AI tools.\" (translated)",
   "disclosureTypes": [
     "vocals"
   ],
@@ -17,7 +16,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"I write all my songs myself - usually in a notepad and then later transfer them to my PC. I also cut and master them myself, But I mostly use AI voices for the songs. I also speak or sing some of them myself and then use AI tools.\" (translated)",
   "genres": [],
   "popularity": null,
   "followers": null,

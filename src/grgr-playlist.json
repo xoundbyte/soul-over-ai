@@ -6,13 +6,12 @@
   "removed": false,
   "issue": 2645,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Creating laid-back groove & hip hop playlists with AI-made tracks.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Creating laid-back groove & hip hop playlists with AI-made tracks.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

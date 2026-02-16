@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "AI-generated visuals are used, with limited information about the musicians' backgrounds. While the project claims generative AI is only applied during mixing and mastering, the high release frequency and all output dating to 2025 raise questions about that assertion.",
+  "notes": "AI-generated visuals are used, with limited information about the musicians' backgrounds. While the project claims generative AI is only applied during mixing and mastering, the high release frequency and all output dating to 2025 raise questions about that assertion.",
   "genres": [],
   "popularity": null,
   "followers": null,

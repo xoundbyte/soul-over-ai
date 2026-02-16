@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram and TikTok bios state: \"Powered by AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram and TikTok bios state: \"Powered by AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

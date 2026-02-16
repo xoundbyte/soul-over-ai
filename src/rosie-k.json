@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist's record label, Colossal, describes her as their first AI artist from East Africa.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The artist's record label, Colossal, describes her as their first AI artist from East Africa.",
   "genres": [],
   "popularity": null,
   "followers": null,

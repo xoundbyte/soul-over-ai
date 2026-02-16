@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2800,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Built with a little help from AI, but rooted in raw, human storytelling, TitanChord is for anyone who’s felt haunted… and kept going anyway.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Built with a little help from AI, but rooted in raw, human storytelling, TitanChord is for anyone who’s felt haunted… and kept going anyway.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

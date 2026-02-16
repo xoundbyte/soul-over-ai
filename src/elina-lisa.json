@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "Spotify bio claims that the artist is an \"AI Singer\" and utilises Suno.",
+  "notes": "Spotify bio claims that the artist is an \"AI Singer\" and utilises Suno.",
   "genres": [],
   "popularity": null,
   "followers": null,

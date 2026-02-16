@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist's YouTube bio states that they combine \"human creativity with modern tools like AI to explore new sounds\".",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The artist's YouTube bio states that they combine \"human creativity with modern tools like AI to explore new sounds\".",
   "genres": [],
   "popularity": null,
   "followers": null,

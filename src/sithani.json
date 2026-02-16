@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3336,
   "disclosure": "confirmed",
-  "disclosureNotes": "The description on this video https://www.youtube.com/watch?v=HHlvKKbCiTY states: \"Shots in this video and some audio parts were created using Al-based tools.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The description on this video https://www.youtube.com/watch?v=HHlvKKbCiTY states: \"Shots in this video and some audio parts were created using Al-based tools.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

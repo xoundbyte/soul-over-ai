@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2731,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"AI channel\" and \"Making music with the help of AI about games and other things that I like.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"AI channel\" and \"Making music with the help of AI about games and other things that I like.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

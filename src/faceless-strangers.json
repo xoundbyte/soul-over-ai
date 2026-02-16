@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "The Spotify description implies AI involvement with the phrase \"a blend of algorithms and intention,\" while the Instagram bio describes the project as \"a music collective where stories are written collaboratively by humans and machines.\"",
+  "notes": "The Spotify description implies AI involvement with the phrase \"a blend of algorithms and intention,\" while the Instagram bio describes the project as \"a music collective where stories are written collaboratively by humans and machines.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

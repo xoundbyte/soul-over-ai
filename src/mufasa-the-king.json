@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3488,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "The artist releases what appears to be AI-generated afro covers of popular songs. All released just a few days apart with AI-generated artwork. There appears to be different vocalists in each song.",
+  "notes": "The artist releases what appears to be AI-generated afro covers of popular songs. All released just a few days apart with AI-generated artwork. There appears to be different vocalists in each song.",
   "genres": [],
   "popularity": null,
   "followers": null,

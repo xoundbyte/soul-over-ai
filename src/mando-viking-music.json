@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "Produces music in a genre prone to AI-generated content. Vague descriptions; not clear who's in the band. Bio links to multiple other channels hence flagged as \"inconsistent-style\". Linked with Mando Pirate Music, 50 Mark Club and  Cristi din Apus.",
+  "notes": "Produces music in a genre prone to AI-generated content. Vague descriptions; not clear who's in the band. Bio links to multiple other channels hence flagged as \"inconsistent-style\". Linked with Mando Pirate Music, 50 Mark Club and  Cristi din Apus.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2923,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio states: \"Science of the Soul — Co-Created with AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio states: \"Science of the Soul — Co-Created with AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

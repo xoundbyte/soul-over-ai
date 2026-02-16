@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Instagram bio alludes to AI usage by stating that \"In a world where A.I. and artistry converge and change the way we make music.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Instagram bio alludes to AI usage by stating that \"In a world where A.I. and artistry converge and change the way we make music.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

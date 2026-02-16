@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"Powered by AI but driven by heart.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Powered by AI but driven by heart.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

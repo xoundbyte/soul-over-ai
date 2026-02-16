@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube channel states that they are \"Blending human creativity with artificial intelligence to create music you've never heard before.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube channel states that they are \"Blending human creativity with artificial intelligence to create music you've never heard before.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

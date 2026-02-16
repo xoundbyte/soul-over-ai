@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The artist's YouTube bio states that they are a \"a mysterious AI singer.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The artist's YouTube bio states that they are a \"a mysterious AI singer.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

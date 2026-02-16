@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2859,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "anonymous"
   ],
-  "markerNotes": "Their YouTube channel features multiple new songs per day over a long period of time.",
+  "notes": "Their YouTube channel features multiple new songs per day over a long period of time.",
   "genres": [],
   "popularity": null,
   "followers": null,

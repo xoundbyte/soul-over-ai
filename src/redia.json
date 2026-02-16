@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": "The Spotify bio describes the project as a \"passionate AI artist\" and states that the music is entirely AI-generated.",
+  "notes": "The Spotify bio describes the project as a \"passionate AI artist\" and states that the music is entirely AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

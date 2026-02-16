@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3147,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"Different AI technologies help me make my productions.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Different AI technologies help me make my productions.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

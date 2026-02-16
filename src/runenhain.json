@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states that their music is \"created by advanced AI from udio.com.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states that their music is \"created by advanced AI from udio.com.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

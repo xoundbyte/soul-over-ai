@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Stereotypical sound and visuals, found on station playlist made up exclusively of other AI \"artists\".  Cover art has the telltale signs, no band socials, no background or previous history.",
+  "notes": "Stereotypical sound and visuals, found on station playlist made up exclusively of other AI \"artists\".  Cover art has the telltale signs, no band socials, no background or previous history.",
   "genres": [],
   "popularity": null,
   "followers": null,

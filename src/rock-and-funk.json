@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous"
   ],
-  "markerNotes": "Produces covers of classic rock songs.",
+  "notes": "Produces covers of classic rock songs.",
   "genres": [],
   "popularity": null,
   "followers": null,

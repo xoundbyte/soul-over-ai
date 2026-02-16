@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2709,
   "disclosure": "confirmed",
-  "disclosureNotes": "The YouTube bio states: \"The best AI songs and covers from the POLSKA label.\" (translated)",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"The best AI songs and covers from the POLSKA label.\" (translated)",
   "genres": [],
   "popularity": null,
   "followers": null,

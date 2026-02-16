@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "YouTube bio openly acknowledges that the music is \"ai-assisted\".",
+  "notes": "YouTube bio openly acknowledges that the music is \"ai-assisted\".",
   "genres": [],
   "popularity": null,
   "followers": null,

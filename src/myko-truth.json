@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": "YouTube comments allude to AI-generated content being used in the project.",
+  "notes": "YouTube comments allude to AI-generated content being used in the project.",
   "genres": [],
   "popularity": null,
   "followers": null,

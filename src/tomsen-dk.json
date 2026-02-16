@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2935,
   "disclosure": "partial",
-  "disclosureNotes": "The credits on a Facebook video https://www.facebook.com/watch/?v=1781123795897091 states that the music and voice is AI, whilst the lyrics are human.",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -20,7 +19,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The credits on a Facebook video https://www.facebook.com/watch/?v=1781123795897091 states that the music and voice is AI, whilst the lyrics are human.",
   "genres": [],
   "popularity": null,
   "followers": null,

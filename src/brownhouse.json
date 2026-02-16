@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "Over 15 albums released within a single year, each with roughly 10-12 tracks. The YouTube channel openly acknowledges AI involvement, and most songs are capped around 2:30 in length, consistent with common AI generation limits (with few exceptions).",
+  "notes": "Over 15 albums released within a single year, each with roughly 10-12 tracks. The YouTube channel openly acknowledges AI involvement, and most songs are capped around 2:30 in length, consistent with common AI generation limits (with few exceptions).",
   "genres": [],
   "popularity": null,
   "followers": null,

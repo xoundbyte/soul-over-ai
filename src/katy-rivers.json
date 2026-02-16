@@ -6,14 +6,13 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": "AI-generated thumbnails are used, with real artists tagged on Spotify tracks - for example, \"Paradise\" lists \"Lappy\" as an artist. SubmitHub analysis indicates typical AI generation patterns but does not confirm with complete certainty.",
+  "notes": "AI-generated thumbnails are used, with real artists tagged on Spotify tracks - for example, \"Paradise\" lists \"Lappy\" as an artist. SubmitHub analysis indicates typical AI generation patterns but does not confirm with complete certainty.",
   "genres": [],
   "popularity": null,
   "followers": null,

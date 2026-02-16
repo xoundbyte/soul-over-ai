@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3232,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -16,7 +15,7 @@
     "high-output",
     "inconsistent-style"
   ],
-  "markerNotes": "Alludes to AI usage in Spotify bio: \"Evil Chicken here. Not a band. Not a plan. Possibly not real.\"",
+  "notes": "Alludes to AI usage in Spotify bio: \"Evil Chicken here. Not a band. Not a plan. Possibly not real.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

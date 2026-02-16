@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2785,
   "disclosure": "partial",
-  "disclosureNotes": "The Spotify bio states: \"Original lyrics, often from years ago, are now brought to life thanks to SUNO AI. I use Suno AI, FL Studio, and Audacity.\"",
   "disclosureTypes": [
     "instrumentation",
     "mastering",
@@ -19,7 +18,7 @@
     "ai-visuals",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"Original lyrics, often from years ago, are now brought to life thanks to SUNO AI. I use Suno AI, FL Studio, and Audacity.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

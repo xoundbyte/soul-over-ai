@@ -6,7 +6,6 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": "Artwork and SoundCloud descriptions appear AI-generated, with no Spotify bio. The project likely relies heavily on AI in its music. Vocals sometimes exhibit AI-related distortion, and has a high release count in 2025.",
+  "notes": "Artwork and SoundCloud descriptions appear AI-generated, with no Spotify bio. The project likely relies heavily on AI in its music. Vocals sometimes exhibit AI-related distortion, and has a high release count in 2025.",
   "genres": [],
   "popularity": null,
   "followers": null,

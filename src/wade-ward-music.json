@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2739,
   "disclosure": "partial",
-  "disclosureNotes": "The YouTube bio states: \"Because of how my brain works, digital tools and AI-assisted vocals help me get the ideas out before they disappear.\"",
   "disclosureTypes": [
     "vocals",
     "instrumentation"
@@ -18,7 +17,7 @@
     "anonymous",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"Because of how my brain works, digital tools and AI-assisted vocals help me get the ideas out before they disappear.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

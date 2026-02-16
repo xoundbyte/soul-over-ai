@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": "The artist has stated in TikTok comments that the instrumentals are AI-generated.",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "ai-visuals"
   ],
-  "markerNotes": null,
+  "notes": "The artist has stated in TikTok comments that the instrumentals are AI-generated.",
   "genres": [],
   "popularity": null,
   "followers": null,

@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "partial",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "inconsistent-style"
   ],
-  "markerNotes": null,
+  "notes": null,
   "genres": [],
   "popularity": null,
   "followers": null,

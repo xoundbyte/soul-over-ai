@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3421,
   "disclosure": "confirmed",
-  "disclosureNotes": "The Spotify bio states: \"By blending acoustic expression with studio craftsmanship and touches of creative AI, I create songs that aim to move, reflect, and connect.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "ai-visuals",
     "anonymous"
   ],
-  "markerNotes": null,
+  "notes": "The Spotify bio states: \"By blending acoustic expression with studio craftsmanship and touches of creative AI, I create songs that aim to move, reflect, and connect.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

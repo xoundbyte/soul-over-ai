@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 2555,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -15,7 +14,7 @@
     "anonymous",
     "2024-onwards"
   ],
-  "markerNotes": "The Spotify profile lists 13 whole albums in January 2026 alone. The Instagram photos also show visual differences between the artist (for example tattoos on the hand in some pictures but not others).",
+  "notes": "The Spotify profile lists 13 whole albums in January 2026 alone. The Instagram photos also show visual differences between the artist (for example tattoos on the hand in some pictures but not others).",
   "genres": [],
   "popularity": null,
   "followers": null,

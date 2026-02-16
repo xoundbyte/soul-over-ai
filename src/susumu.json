@@ -6,7 +6,6 @@
   "removed": false,
   "issue": 3385,
   "disclosure": "full",
-  "disclosureNotes": "The YouTube bio states: \"I'm creating songs with AI.\"",
   "disclosureTypes": [],
   "urls": [],
   "markers": [
@@ -14,7 +13,7 @@
     "2024-onwards",
     "high-output"
   ],
-  "markerNotes": null,
+  "notes": "The YouTube bio states: \"I'm creating songs with AI.\"",
   "genres": [],
   "popularity": null,
   "followers": null,

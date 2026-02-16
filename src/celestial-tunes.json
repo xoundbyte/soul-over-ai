@@ -6,13 +6,12 @@
   "removed": false,
   "issue": null,
   "disclosure": "none",
-  "disclosureNotes": null,
   "disclosureTypes": [],
   "urls": [],
   "markers": [
     "high-output"
   ],
-  "markerNotes": "AI generated artwork; releases only from 2025 onwards",
+  "notes": "AI generated artwork; releases only from 2025 onwards",
   "genres": [],
   "popularity": null,
   "followers": null,
