@@ -15,7 +15,6 @@ const existingArtist = JSON.parse(readFileSync(`src/${data.id}.json`, 'utf8'));
 const issueData = {
   id: data.id,
   details: data.details || null,
-  email: data.email || null,
 };
 
 const link = `[View artist profile](https://souloverai.com/artist/${data.id})`;
