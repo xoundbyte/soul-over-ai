@@ -1,0 +1,33 @@
+{
+  "id": "hymns-of-the-imperium",
+  "name": "Hymns of the Imperium",
+  "dateAdded": "2026-02-16T15:53:58.191Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3289,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "Flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/us/album/903352582"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "high-output",
+    "anonymous"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "4B0qRT1wAIp3IJFbJ2bdgf",
+  "apple": "1847024492",
+  "amazon": "B0FX2TR8BW",
+  "youtube": "UClu5FhMmtN7W4yHwrRrmXzQ",
+  "tiktok": null,
+  "instagram": "imperiumhymns"
+}
