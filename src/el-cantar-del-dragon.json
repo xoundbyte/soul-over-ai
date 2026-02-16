@@ -1,0 +1,32 @@
+{
+  "id": "el-cantar-del-dragon",
+  "name": "El Cantar Del Dragon",
+  "dateAdded": "2026-02-16T16:34:18.290Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3292,
+  "disclosure": "full",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "Bio states: \"Performed by Suno.\"",
+      "url": "https://www.youtube.com/channel/UCtn0hfHRctZRIM6YtvEoaJQ"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "7uvaRGEFLO8YnbcEckurGz",
+  "apple": "1843720010",
+  "amazon": "B0FHWLFM6N",
+  "youtube": "UCtn0hfHRctZRIM6YtvEoaJQ",
+  "tiktok": "@el.cantar.del.dragon",
+  "instagram": null
+}
