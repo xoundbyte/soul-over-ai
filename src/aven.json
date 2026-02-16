@@ -3,9 +3,12 @@
   "name": "Aven",
   "dateAdded": "2026-01-23T17:17:07.552Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

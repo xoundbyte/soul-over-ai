@@ -3,9 +3,12 @@
   "name": "Ames Ives",
   "dateAdded": "2026-01-28T14:36:04.438Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"I'm taking my ideas about the world-the funny, the political, the absurd-and using AI to turn them into music.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

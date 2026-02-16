@@ -3,9 +3,12 @@
   "name": "Elowine",
   "dateAdded": "2025-12-16T11:41:37.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

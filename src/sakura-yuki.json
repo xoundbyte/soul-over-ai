@@ -3,9 +3,12 @@
   "name": "Sakura Yuki",
   "dateAdded": "2026-01-25T20:56:36.109Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

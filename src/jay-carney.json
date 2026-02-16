@@ -3,9 +3,12 @@
   "name": "Jay Carney",
   "dateAdded": "2026-01-14T21:30:12.269Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

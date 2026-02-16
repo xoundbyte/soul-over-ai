@@ -3,9 +3,12 @@
   "name": "surelynotsibi42",
   "dateAdded": "2025-12-30T19:37:36.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

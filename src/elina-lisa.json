@@ -3,9 +3,12 @@
   "name": "Elina Lisa　絵里奈リサ",
   "dateAdded": "2026-01-05T20:40:32.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

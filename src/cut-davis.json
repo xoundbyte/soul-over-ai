@@ -3,9 +3,12 @@
   "name": "Cut Davis",
   "dateAdded": "2026-01-17T11:47:16.404Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

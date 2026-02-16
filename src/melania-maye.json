@@ -3,9 +3,12 @@
   "name": "Melania Maye",
   "dateAdded": "2026-01-18T09:14:59.170Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous"
   ],

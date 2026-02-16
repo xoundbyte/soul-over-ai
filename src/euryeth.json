@@ -3,9 +3,12 @@
   "name": "Euryeth",
   "dateAdded": "2026-01-10T10:49:21.670Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

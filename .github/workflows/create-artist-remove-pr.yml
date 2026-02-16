@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Remove artist file
+      - name: Mark artist as removed
         id: remove_file
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -39,7 +39,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: 'Remove ${{ steps.remove_file.outputs.artist_name }}'
+          commit_message: 'Mark ${{ steps.remove_file.outputs.artist_name }} as removed'
           branch: ${{ steps.remove_file.outputs.branch_name }}
           create_branch: true
           file_pattern: 'src/'
@@ -67,7 +67,7 @@ jobs:
               title: `Remove ${artistName}`,
               head: branchName,
               base: 'main',
-              body: `This PR removes the artist **${artistName}** (${artistId}.json).\n\nCreated from issue #${issueNumber}`
+              body: `This PR marks the artist **${artistName}** (${artistId}.json) as removed.\n\nCreated from issue #${issueNumber}`
             });
 
             console.log(`PR created: ${pr.html_url}`);

@@ -3,9 +3,12 @@
   "name": "B Twizzy",
   "dateAdded": "2026-01-18T12:38:05.804Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The artist has acknowledged the use of AI via their Twitch and Discord channels. Also states that their lyrics are human written.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

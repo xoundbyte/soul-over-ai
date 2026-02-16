@@ -3,9 +3,12 @@
   "name": "326 YASUBE-",
   "dateAdded": "2026-02-06T22:50:17.317Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio states: \"k-pop k-Phonk AI Artist.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

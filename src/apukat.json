@@ -3,9 +3,12 @@
   "name": "Apukat",
   "dateAdded": "2025-12-09T22:35:10.000Z",
   "dateUpdated": "2026-01-21T20:09:42.940Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

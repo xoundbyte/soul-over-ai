@@ -3,9 +3,12 @@
   "name": "Veil & Verse",
   "dateAdded": "2026-01-01T15:16:04.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "inconsistent-style"

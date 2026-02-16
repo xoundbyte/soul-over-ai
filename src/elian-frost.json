@@ -3,9 +3,12 @@
   "name": "ELIAN FROST",
   "dateAdded": "2026-02-01T10:10:13.437Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

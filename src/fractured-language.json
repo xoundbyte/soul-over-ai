@@ -3,9 +3,12 @@
   "name": "Fractured Language",
   "dateAdded": "2026-01-02T12:01:20.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

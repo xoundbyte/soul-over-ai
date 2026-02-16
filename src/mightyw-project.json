@@ -3,9 +3,12 @@
   "name": "MightyW Project",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-12T10:58:54.426Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Their YouTube bio states: \"This in an experiment how to utilize AI in music, everything is made with AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

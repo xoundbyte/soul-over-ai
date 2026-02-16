@@ -3,6 +3,8 @@
   "name": "Tomsen.dk",
   "dateAdded": "2026-02-03T17:52:40.049Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The credits on a Facebook video https://www.facebook.com/watch/?v=1781123795897091 states that the music and voice is AI, whilst the lyrics are human.",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

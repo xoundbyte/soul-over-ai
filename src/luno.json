@@ -3,9 +3,12 @@
   "name": "Luno",
   "dateAdded": "2026-01-19T13:03:01.737Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

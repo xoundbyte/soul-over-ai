@@ -3,9 +3,12 @@
   "name": "Valkyrian",
   "dateAdded": "2026-02-14T17:11:15.517Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Spotify bio: \"Valkyrian is an AI music project from Dalarna, launched in 2024.\" (translated). TikTok bio: \"Rock/metal with help of AI.\" (translated)",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

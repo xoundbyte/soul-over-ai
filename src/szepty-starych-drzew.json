@@ -3,9 +3,12 @@
   "name": "Szepty Starych Drzew",
   "dateAdded": "2026-01-11T19:47:52.756Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

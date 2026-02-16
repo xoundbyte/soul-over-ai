@@ -3,9 +3,12 @@
   "name": "Beats By AI",
   "dateAdded": "2026-01-24T17:52:50.433Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The username acknowledges the use of AI-generated content.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

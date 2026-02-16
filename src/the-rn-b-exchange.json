@@ -3,9 +3,12 @@
   "name": "The RnB Exchange",
   "dateAdded": "2025-12-17T15:10:49.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output"
   ],

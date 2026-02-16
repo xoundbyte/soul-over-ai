@@ -3,9 +3,12 @@
   "name": "Hushveil",
   "dateAdded": "2026-01-12T15:09:33.372Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

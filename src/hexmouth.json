@@ -3,9 +3,12 @@
   "name": "HexMouth",
   "dateAdded": "2026-01-09T16:02:09.329Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

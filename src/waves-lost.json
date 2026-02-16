@@ -3,9 +3,12 @@
   "name": "Waves Lost",
   "dateAdded": "2026-01-23T11:09:43.690Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "inconsistent-style"

@@ -3,9 +3,12 @@
   "name": "Pokévibe Studio's",
   "dateAdded": "2026-01-23T10:55:25.471Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

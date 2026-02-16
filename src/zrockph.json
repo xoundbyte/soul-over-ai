@@ -3,12 +3,15 @@
   "name": "ZrockPH",
   "dateAdded": "2026-02-13T20:55:50.875Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Music are created with AI tools, real voice and standard music instruments. Any revenue generated will go to the rightful owners. All Track is for Entertainment and Creative exploration of Ai-Assisted music production.\"",
   "disclosureTypes": [
     "instrumentation",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "high-output",

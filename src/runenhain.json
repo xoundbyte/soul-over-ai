@@ -3,9 +3,12 @@
   "name": "Runenhain",
   "dateAdded": "2026-01-16T19:37:28.583Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states that their music is \"created by advanced AI from udio.com.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

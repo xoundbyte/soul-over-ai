@@ -3,9 +3,12 @@
   "name": "Sublime Vocal",
   "dateAdded": "2026-02-08T22:40:39.723Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

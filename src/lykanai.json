@@ -3,9 +3,12 @@
   "name": "LykanAI",
   "dateAdded": "2026-01-09T13:44:38.784Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "inconsistent-style"

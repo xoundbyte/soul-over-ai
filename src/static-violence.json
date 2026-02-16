@@ -3,9 +3,12 @@
   "name": "Static Violence",
   "dateAdded": "2026-01-07T23:47:50.693Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

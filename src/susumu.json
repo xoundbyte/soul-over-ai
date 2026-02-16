@@ -3,9 +3,12 @@
   "name": "susumu.",
   "dateAdded": "2026-02-12T23:51:05.536Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "full",
   "disclosureNotes": "The YouTube bio states: \"I'm creating songs with AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards",

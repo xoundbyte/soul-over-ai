@@ -3,6 +3,8 @@
   "name": "Otiyan",
   "dateAdded": "2026-02-13T11:17:21.816Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"All the songs on this channel are written by me, unfortunately due to lack of budget and not being able to pay, Musicians, Singers and Recording Studio have not traditionally been made with these elements, so I clarify, the voice and musicalization of them It is made with AI.\" (translated)",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

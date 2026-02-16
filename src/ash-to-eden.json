@@ -3,9 +3,12 @@
   "name": "Ash to Eden",
   "dateAdded": "2026-01-02T12:04:45.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

@@ -3,9 +3,12 @@
   "name": "Vowless",
   "dateAdded": "2026-01-23T17:12:21.313Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"AI-assisted production.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

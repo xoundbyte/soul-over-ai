@@ -3,9 +3,12 @@
   "name": "LXNE",
   "dateAdded": "2026-01-10T21:11:31.636Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

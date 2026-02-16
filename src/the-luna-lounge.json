@@ -3,9 +3,12 @@
   "name": "The Luna Lounge",
   "dateAdded": "2026-01-31T21:09:05.332Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output",

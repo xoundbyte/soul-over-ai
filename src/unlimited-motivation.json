@@ -3,6 +3,8 @@
   "name": "Unlimited Motivation",
   "dateAdded": "2026-02-05T10:07:07.193Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"I turn comments into music using AI.\"",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

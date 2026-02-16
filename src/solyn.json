@@ -3,9 +3,12 @@
   "name": "Solyn",
   "dateAdded": "2026-01-20T21:47:53.707Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

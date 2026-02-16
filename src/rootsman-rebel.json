@@ -3,9 +3,12 @@
   "name": "Rootsman Rebel",
   "dateAdded": "2026-01-23T23:29:04.354Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"All artists, music, and stories featured on this channel are entirely fictional and created using AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

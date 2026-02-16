@@ -3,9 +3,12 @@
   "name": "Viviana Belle Rey",
   "dateAdded": "2026-01-13T20:57:01.037Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "YouTube bio states: \"Made with heart, harmony, and a touch of Suno AI magic.\" Recent albums are published on the label 'Records DK' which features other AI artists.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output"
   ],

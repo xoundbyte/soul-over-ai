@@ -3,9 +3,12 @@
   "name": "Roadkill Pickers",
   "dateAdded": "2026-01-19T10:59:32.895Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

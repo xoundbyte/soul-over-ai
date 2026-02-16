@@ -3,9 +3,12 @@
   "name": "BoxxBoxx",
   "dateAdded": "2026-01-06T19:50:52.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

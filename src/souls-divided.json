@@ -3,9 +3,12 @@
   "name": "Souls Divided",
   "dateAdded": "2025-12-10T17:20:50.000Z",
   "dateUpdated": "2026-01-17T11:46:09.246Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

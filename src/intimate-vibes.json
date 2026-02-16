@@ -3,9 +3,12 @@
   "name": "Intimate Vibes",
   "dateAdded": "2026-01-13T20:50:38.682Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

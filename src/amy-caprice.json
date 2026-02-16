@@ -3,9 +3,12 @@
   "name": "Amy Caprice",
   "dateAdded": "2026-01-20T21:33:06.866Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

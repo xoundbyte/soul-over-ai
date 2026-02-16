@@ -3,9 +3,12 @@
   "name": "The Unbroken Kings",
   "dateAdded": "2026-02-02T23:34:38.787Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"AI channel\" and \"Making music with the help of AI about games and other things that I like.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

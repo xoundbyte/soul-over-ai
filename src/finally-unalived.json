@@ -3,9 +3,12 @@
   "name": "Finally Unalived",
   "dateAdded": "2026-01-18T14:58:22.508Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

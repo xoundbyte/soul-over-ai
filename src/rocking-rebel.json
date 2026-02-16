@@ -3,9 +3,12 @@
   "name": "Rocking Rebel",
   "dateAdded": "2026-01-10T22:56:35.786Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

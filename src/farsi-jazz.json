@@ -3,9 +3,12 @@
   "name": "Farsi Jazz",
   "dateAdded": "2026-02-05T21:11:13.973Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Farsi Jazz is an experimental project exploring Persian musical heritage through jazz improvisation and atmospheric soundscapes, blending human creativity with AI assistance.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "high-output",

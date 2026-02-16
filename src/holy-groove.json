@@ -3,9 +3,12 @@
   "name": "Holy Groove",
   "dateAdded": "2026-01-12T21:42:52.761Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Hangover Carousel",
   "dateAdded": "2026-01-11T08:49:48.047Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

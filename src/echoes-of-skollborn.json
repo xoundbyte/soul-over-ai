@@ -3,9 +3,12 @@
   "name": "Echoes Of Skollborn",
   "dateAdded": "2026-02-15T21:27:39.826Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "Per the YouTube page: \"Music & Vocals: Original composition, created using AI (Suno Pro) based on my own lyrics.\" (translated). Per the official website https://echoes-of-skollborn.de/elementor-2644/ \"Words and melodies that originally existed only in my head were brought to life by AI.\" (translated)",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

@@ -3,9 +3,12 @@
   "name": "Caleb Raines",
   "dateAdded": "2026-01-09T16:03:37.192Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

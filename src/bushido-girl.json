@@ -3,9 +3,12 @@
   "name": "Bushido Girl",
   "dateAdded": "2026-01-20T22:02:34.020Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Echoes Of Babylon",
   "dateAdded": "2026-01-19T09:02:16.451Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"All artists, music, and stories featured on this channel are entirely fictional and created using AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

@@ -3,9 +3,12 @@
   "name": "WizFlow Tunes",
   "dateAdded": "2026-01-14T10:16:18.291Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

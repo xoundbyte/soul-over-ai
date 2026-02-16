@@ -3,9 +3,12 @@
   "name": "Corner of the Café",
   "dateAdded": "2026-01-23T11:01:18.559Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"All content (both visuals and music) on \"Corner of the Café\" is generated using AI technology.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

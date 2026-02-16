@@ -3,9 +3,12 @@
   "name": "KILLATRONIC",
   "dateAdded": "2026-01-21T20:16:17.255Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

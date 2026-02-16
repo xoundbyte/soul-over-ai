@@ -3,9 +3,12 @@
   "name": "Kealux",
   "dateAdded": "2026-01-11T16:19:30.662Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

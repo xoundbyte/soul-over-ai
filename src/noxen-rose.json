@@ -3,9 +3,12 @@
   "name": "Noxen Rose",
   "dateAdded": "2026-01-26T21:41:56.340Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

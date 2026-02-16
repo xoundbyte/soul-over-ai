@@ -3,9 +3,12 @@
   "name": "SEIDR",
   "dateAdded": "2026-01-07T23:07:00.092Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

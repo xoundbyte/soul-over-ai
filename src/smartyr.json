@@ -3,9 +3,12 @@
   "name": "SMARTYR",
   "dateAdded": "2026-01-14T10:33:29.700Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

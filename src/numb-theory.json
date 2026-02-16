@@ -3,9 +3,12 @@
   "name": "Numb Theory",
   "dateAdded": "2026-02-04T10:52:03.790Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"We are a new kind of band, blending artificial intelligence with human creativity to push the boundaries of heavy music. Every track you hear is AI-assisted, but nothing is automatic, real work, direction, and hours of editing go into shaping each song, lyric, and visual.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

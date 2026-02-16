@@ -3,9 +3,12 @@
   "name": "Haus of Hekate",
   "dateAdded": "2026-01-04T16:56:27.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Power Seeker X",
   "dateAdded": "2026-01-21T17:05:54.488Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

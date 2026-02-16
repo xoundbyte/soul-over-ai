@@ -3,9 +3,12 @@
   "name": "Eichenherz",
   "dateAdded": "2026-01-23T11:06:55.023Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

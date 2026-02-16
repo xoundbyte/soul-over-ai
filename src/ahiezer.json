@@ -3,9 +3,12 @@
   "name": "ahiezer",
   "dateAdded": "2026-02-03T11:14:14.059Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

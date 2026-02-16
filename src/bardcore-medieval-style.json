@@ -3,9 +3,12 @@
   "name": "Bardcore Medieval Style",
   "dateAdded": "2026-01-12T13:39:04.774Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

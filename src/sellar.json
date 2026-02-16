@@ -3,9 +3,12 @@
   "name": "sellar",
   "dateAdded": "2026-01-12T20:23:33.480Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

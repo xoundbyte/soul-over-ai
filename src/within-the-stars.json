@@ -3,9 +3,12 @@
   "name": "Within the Stars",
   "dateAdded": "2026-01-17T21:11:51.409Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

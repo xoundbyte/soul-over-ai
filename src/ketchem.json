@@ -3,9 +3,12 @@
   "name": "Ketchem",
   "dateAdded": "2026-01-23T23:40:43.022Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

@@ -3,9 +3,12 @@
   "name": "Antonin Herbeck",
   "dateAdded": "2026-01-15T20:06:20.713Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

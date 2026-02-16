@@ -3,9 +3,12 @@
   "name": "Timeless Hour",
   "dateAdded": "2026-01-04T11:08:07.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

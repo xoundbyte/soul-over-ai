@@ -3,9 +3,12 @@
   "name": "Desa",
   "dateAdded": "2026-02-04T18:39:03.257Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "ai-visuals",

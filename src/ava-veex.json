@@ -3,9 +3,12 @@
   "name": "Ava Veex",
   "dateAdded": "2025-12-27T12:49:47.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "kuroshibapalette",
   "dateAdded": "2026-02-14T16:56:58.561Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "full",
   "disclosureNotes": "YouTube channel description states: \"AI Music & AI Video  by Kuroshibapalette.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

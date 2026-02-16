@@ -3,9 +3,12 @@
   "name": "Nika",
   "dateAdded": "2026-01-20T21:53:59.466Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

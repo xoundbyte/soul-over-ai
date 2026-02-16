@@ -3,9 +3,12 @@
   "name": "Bardtholomew",
   "dateAdded": "2026-01-13T21:16:31.743Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

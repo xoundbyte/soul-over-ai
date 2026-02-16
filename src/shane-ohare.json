@@ -3,11 +3,14 @@
   "name": "Shane OHare",
   "dateAdded": "2026-02-10T23:14:50.797Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "TikTok bio states: “I DO USE AI TO HELP WITH VOCALS.”",
   "disclosureTypes": [
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards"
   ],

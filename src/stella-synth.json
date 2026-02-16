@@ -3,9 +3,12 @@
   "name": "Stella Synth",
   "dateAdded": "2026-01-08T21:14:29.137Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Horror Disco",
   "dateAdded": "2026-01-07T12:59:31.356Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

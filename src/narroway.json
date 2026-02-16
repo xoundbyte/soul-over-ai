@@ -3,9 +3,12 @@
   "name": "NARROWAY",
   "dateAdded": "2026-01-12T16:26:00.938Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

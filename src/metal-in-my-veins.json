@@ -3,9 +3,12 @@
   "name": "Metal in My Veins",
   "dateAdded": "2026-01-26T18:20:15.419Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

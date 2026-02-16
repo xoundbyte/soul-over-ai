@@ -3,9 +3,12 @@
   "name": "Vahid Beats",
   "dateAdded": "2026-02-15T14:41:32.869Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

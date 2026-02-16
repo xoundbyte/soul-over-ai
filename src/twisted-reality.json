@@ -3,9 +3,12 @@
   "name": "Twisted Reality",
   "dateAdded": "2026-01-21T14:32:25.340Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"AI Creator\" and the the YouTube and TikTok handles allude to AI usage.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

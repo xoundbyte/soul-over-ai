@@ -3,9 +3,12 @@
   "name": "How to Haunt Your House",
   "dateAdded": "2026-02-15T14:45:41.057Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "full",
   "disclosureNotes": "Disclosed the use of Suno on this video https://www.youtube.com/watch?v=we75cRwfrqk.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "high-output"

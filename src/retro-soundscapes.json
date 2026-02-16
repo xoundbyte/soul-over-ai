@@ -3,9 +3,12 @@
   "name": "Retro Soundscapes",
   "dateAdded": "2026-02-08T19:42:15.991Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

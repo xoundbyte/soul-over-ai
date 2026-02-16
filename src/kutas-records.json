@@ -3,9 +3,12 @@
   "name": "Kutas Records",
   "dateAdded": "2026-01-04T21:21:07.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous"
   ],

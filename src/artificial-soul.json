@@ -3,9 +3,12 @@
   "name": "Artificial Soul",
   "dateAdded": "2026-02-05T09:58:49.023Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"This channel is my space to let the inner poet speak through sound, blending human emotion with the imagination of AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

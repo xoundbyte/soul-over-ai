@@ -3,9 +3,12 @@
   "name": "Voxnaris",
   "dateAdded": "2026-01-12T13:31:42.049Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"Voxnaris is a medieval ai music project.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

@@ -3,9 +3,12 @@
   "name": "ELDRHEIM",
   "dateAdded": "2026-01-07T14:17:24.598Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

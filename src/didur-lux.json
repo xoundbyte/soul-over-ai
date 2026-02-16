@@ -3,9 +3,12 @@
   "name": "DiDur Lux",
   "dateAdded": "2026-01-23T10:57:06.112Z",
   "dateUpdated": "2026-01-24T17:48:48.862Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"a genre-bending artist blending AI innovation with raw emotion\" and \"created with passion + AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

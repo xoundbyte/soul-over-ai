@@ -3,9 +3,12 @@
   "name": "Icy Mattrix",
   "dateAdded": "2026-01-14T17:03:34.386Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

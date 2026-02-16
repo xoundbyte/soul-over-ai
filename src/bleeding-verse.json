@@ -3,9 +3,12 @@
   "name": "Bleeding Verse",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-31T21:01:06.865Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Human lyrics, turned to songs with AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards"

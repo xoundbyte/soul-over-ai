@@ -3,9 +3,12 @@
   "name": "Dozy Duzzn",
   "dateAdded": "2026-01-12T20:26:14.733Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

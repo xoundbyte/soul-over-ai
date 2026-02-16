@@ -3,9 +3,12 @@
   "name": "ToonFanatic",
   "dateAdded": "2026-01-04T16:33:57.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "zeros_and_ones",
   "dateAdded": "2026-02-01T10:36:26.687Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output",
     "anonymous",

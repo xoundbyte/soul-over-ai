@@ -3,9 +3,12 @@
   "name": "BookTok",
   "dateAdded": "2026-01-03T17:26:05.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

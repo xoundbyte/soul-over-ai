@@ -3,9 +3,12 @@
   "name": "elle.",
   "dateAdded": "2026-01-13T22:06:22.264Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

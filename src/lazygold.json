@@ -3,9 +3,12 @@
   "name": "LazyGold",
   "dateAdded": "2026-01-13T11:29:36.505Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Their YouTube description states that the artist is a \"music band created by artificial intelligence.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

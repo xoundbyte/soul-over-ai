@@ -3,6 +3,8 @@
   "name": "RetroCop 1980",
   "dateAdded": "2026-02-08T22:24:16.738Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"To remove any future doubts, the lyrics are original and the music is created by my musical taste but with A.I.\"",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

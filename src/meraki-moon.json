@@ -3,11 +3,14 @@
   "name": "Meraki Moon",
   "dateAdded": "2026-02-08T21:33:01.242Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"LYRICIST | SONGWRITER | PRODUCER | VOCAL DESIGNER (ai assisted).\"",
   "disclosureTypes": [
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

@@ -3,9 +3,12 @@
   "name": "Decadent Stories",
   "dateAdded": "2026-01-09T13:51:19.380Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

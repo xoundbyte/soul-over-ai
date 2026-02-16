@@ -3,9 +3,12 @@
   "name": "Lunatick",
   "dateAdded": "2026-01-18T14:56:17.454Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

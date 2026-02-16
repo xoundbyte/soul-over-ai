@@ -3,9 +3,12 @@
   "name": "Steel Legion",
   "dateAdded": "2026-02-02T23:37:15.492Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "Spotify description: \"All lyrics are written by Uwe Hunsicker, who also directs the artistic vision and sound design. The music is created in collaboration with Suno AI, under his creative supervision – combining human storytelling with cutting-edge technology.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards",

@@ -3,9 +3,12 @@
   "name": "Altered Insurgence",
   "dateAdded": "2026-01-09T11:13:51.117Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

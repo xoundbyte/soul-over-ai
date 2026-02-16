@@ -3,9 +3,12 @@
   "name": "The Roux",
   "dateAdded": "2026-01-03T18:41:08.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Tripstone Heathen",
   "dateAdded": "2026-01-14T23:23:33.235Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio explicitly states that AI is used to generate the instrumentals.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

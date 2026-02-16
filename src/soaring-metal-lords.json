@@ -3,9 +3,12 @@
   "name": "Soaring Metal Lords",
   "dateAdded": "2026-01-14T10:13:03.417Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

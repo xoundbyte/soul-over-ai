@@ -3,9 +3,12 @@
   "name": "Son of the Dead Sun",
   "dateAdded": "2026-01-09T16:05:19.479Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

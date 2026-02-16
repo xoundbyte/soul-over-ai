@@ -3,9 +3,12 @@
   "name": "Absolute Introspect",
   "dateAdded": "2026-02-03T14:00:02.893Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "full",
   "disclosureNotes": "Their Spotify bio reads: \"With no traditional band behind them, they lean into AI as their studio toolkit, building full arrangements around the songs they write together.\" It should also be noted that the band name is chosen to have the initials AI.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals"

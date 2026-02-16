@@ -3,9 +3,12 @@
   "name": "Charli Morgan",
   "dateAdded": "2026-01-21T20:17:29.109Z",
   "dateUpdated": "2026-02-01T20:58:13.878Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "ai-visuals",

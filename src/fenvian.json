@@ -3,9 +3,12 @@
   "name": "Fenvian",
   "dateAdded": "2026-02-15T14:05:33.782Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

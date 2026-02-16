@@ -3,9 +3,12 @@
   "name": "Feral Cry",
   "dateAdded": "2026-01-14T09:52:31.569Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio states: \"AI Heavy Metal Music at it's best.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

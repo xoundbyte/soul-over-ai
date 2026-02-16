@@ -3,9 +3,12 @@
   "name": "ESSLLL",
   "dateAdded": "2026-01-18T12:50:03.658Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio alludes to AI usage by stating that \"In a world where A.I. and artistry converge and change the way we make music.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

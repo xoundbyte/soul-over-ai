@@ -3,6 +3,8 @@
   "name": "Akuma Dollz",
   "dateAdded": "2026-02-14T20:43:02.706Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "Spotify bio states: \"The Akuma DollZ are not a real band — they are fictional characters I created as the visual and creative spirit of this project. The music itself still starts entirely with me: I write the lyrics, compose the melodies, record guitar ideas, and build a full arrangement using virtual instruments. These demos are strict, detailed blueprints that define the structure, harmonies, riffs, vocal parts, and transitions.\"",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

@@ -3,9 +3,12 @@
   "name": "A Million Sparks",
   "dateAdded": "2026-02-02T23:38:46.609Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"A creative engine that blends modern AI tools with old-school showmanship.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output",
     "ai-visuals",

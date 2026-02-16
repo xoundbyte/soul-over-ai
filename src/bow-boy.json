@@ -3,9 +3,12 @@
   "name": "Bow Boy",
   "dateAdded": "2026-01-23T10:52:47.252Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

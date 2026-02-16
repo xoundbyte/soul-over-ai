@@ -3,9 +3,12 @@
   "name": "EverHits-moritabari",
   "dateAdded": "2026-01-16T20:55:41.143Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"The voice you hear in my songs is AI-generated.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output"
   ],

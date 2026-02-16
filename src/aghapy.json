@@ -3,9 +3,12 @@
   "name": "Aghapy",
   "dateAdded": "2026-01-31T21:51:50.009Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"At Aghapy, we bring the Bible to life through breathtaking cinematic visuals, AI-enhanced storytelling, and deep spiritual insights.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

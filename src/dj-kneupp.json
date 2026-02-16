@@ -3,9 +3,12 @@
   "name": "DJ Kneupp",
   "dateAdded": "2026-01-13T20:59:42.511Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

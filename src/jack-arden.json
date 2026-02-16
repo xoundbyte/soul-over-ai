@@ -3,6 +3,8 @@
   "name": "Jack Arden",
   "dateAdded": "2026-02-01T22:38:07.543Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"This is Ai music, but with my lyrics and my heart. Available on all streaming platforms.\"",
   "disclosureTypes": [
@@ -11,6 +13,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Hustler Soul",
   "dateAdded": "2026-01-19T19:44:57.474Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

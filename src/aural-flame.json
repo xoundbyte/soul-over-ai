@@ -3,9 +3,12 @@
   "name": "Aural Flame",
   "dateAdded": "2026-02-12T23:47:54.045Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Our creative process blends human artistry and storytelling with modern digital and AI-assisted tools, used as instruments to expand imagination — not replace it. Every song, lyric, and visual direction is crafted with intention, emotion, and respect for music as art.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards",

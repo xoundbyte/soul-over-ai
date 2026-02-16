@@ -50,6 +50,8 @@ for (const file of files) {
     continue;
   }
 
+  if (obj.removed) continue;
+
   combined.push(obj);
 }
 

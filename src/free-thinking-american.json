@@ -3,9 +3,12 @@
   "name": "Free_Thinking_American",
   "dateAdded": "2026-02-04T10:50:05.795Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

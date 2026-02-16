@@ -3,9 +3,12 @@
   "name": "Daylight Rapture",
   "dateAdded": "2026-02-04T18:35:04.713Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

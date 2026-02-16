@@ -3,9 +3,12 @@
   "name": "Underworld Vibes",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-27T23:11:46.858Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"I write poems and a bunch of ideas and turn them into songs with the amazing power of AI.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "Hybrid Collapse",
   "dateAdded": "2026-01-26T18:06:19.514Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Hybrid Collapse is an experimental AI-generated music and visual art project.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

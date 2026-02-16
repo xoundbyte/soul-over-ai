@@ -3,9 +3,12 @@
   "name": "White Girl",
   "dateAdded": "2026-02-05T20:48:33.471Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output",
     "anonymous",

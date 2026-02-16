@@ -3,9 +3,12 @@
   "name": "Santino Ray",
   "dateAdded": "2026-02-05T14:32:42.572Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

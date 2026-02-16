@@ -3,9 +3,12 @@
   "name": "Essecer",
   "dateAdded": "2026-01-25T20:59:21.401Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Because I didn't win the genetic lottery that handed out beautiful voices, I'm assisted by a neural network.\" (translated from Russian)",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

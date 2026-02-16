@@ -3,9 +3,12 @@
   "name": "REDFOX2809",
   "dateAdded": "2026-02-03T18:39:12.543Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "full",
   "disclosureNotes": "On their YouTube video for Paralized (Hardstyle Mix) https://www.youtube.com/watch?v=GAx8IaxqgnA, the description states: \"Made (2026) with Suno AI, Grok Imagine, Chat GPT by Ronny Krahl.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "inconsistent-style",

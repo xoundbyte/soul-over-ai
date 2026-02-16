@@ -3,9 +3,12 @@
   "name": "The Pirx",
   "dateAdded": "2026-02-01T12:31:56.383Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "On the video for 'One Breath' (https://www.youtube.com/watch?v=WYpkpdP4EPY), the artist writes: \"The music is created using a sampler, a computer, FL Studio, Ableton Live, Audacity, AI models, and sound editing tools.\". Songs include vocals however no singer appears to be credited.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "anonymous"

@@ -3,6 +3,8 @@
   "name": "Rockaholic Productions",
   "dateAdded": "2026-02-07T20:39:01.097Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Every song I'll release is produced with a \"little help\" from AI while putting my own lyrics and melodies into the mix.\"",
   "disclosureTypes": [
@@ -10,6 +12,7 @@
     "mixing",
     "vocals"
   ],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

@@ -3,9 +3,12 @@
   "name": "Dethrone the crown",
   "dateAdded": "2026-02-07T00:04:10.132Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "full",
   "disclosureNotes": "The TikTok bio states: \"AI Band.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

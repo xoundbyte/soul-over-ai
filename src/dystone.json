@@ -3,9 +3,12 @@
   "name": "Dystøne",
   "dateAdded": "2026-01-11T13:12:30.635Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

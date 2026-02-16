@@ -3,9 +3,12 @@
   "name": "Johnny “Red Keys” Callahan",
   "dateAdded": "2026-01-14T09:40:37.996Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

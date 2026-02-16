@@ -3,9 +3,12 @@
   "name": "Sierra Vale",
   "dateAdded": "2026-01-02T11:55:47.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

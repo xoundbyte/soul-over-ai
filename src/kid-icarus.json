@@ -3,9 +3,12 @@
   "name": "Kid Icarus",
   "dateAdded": "2026-01-05T16:14:22.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

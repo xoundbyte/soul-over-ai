@@ -3,9 +3,12 @@
   "name": "Solitary Haze",
   "dateAdded": "2026-01-14T13:27:28.013Z",
   "dateUpdated": "2026-02-13T21:52:43.531Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

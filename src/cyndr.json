@@ -3,9 +3,12 @@
   "name": "Cyndr",
   "dateAdded": "2026-01-09T20:15:20.307Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous"
   ],

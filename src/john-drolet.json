@@ -3,9 +3,12 @@
   "name": "John Drolet",
   "dateAdded": "2026-01-08T16:05:02.513Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

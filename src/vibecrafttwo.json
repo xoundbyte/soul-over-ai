@@ -3,6 +3,8 @@
   "name": "VibecraftTwo",
   "dateAdded": "2026-01-30T20:49:16.741Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"Created with AI, remixed, mastered, and fine-tuned piece by piece to perfection by VibecraftTwo, you're in for a sonic adventure.\"",
   "disclosureTypes": [
@@ -10,6 +12,7 @@
     "lyrics",
     "instrumentation"
   ],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

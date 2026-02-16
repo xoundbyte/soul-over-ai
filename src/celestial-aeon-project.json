@@ -3,9 +3,12 @@
   "name": "Celestial Aeon Project",
   "dateAdded": "2026-01-07T14:42:29.221Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

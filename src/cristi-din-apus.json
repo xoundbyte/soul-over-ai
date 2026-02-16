@@ -3,9 +3,12 @@
   "name": "Cristi din Apus",
   "dateAdded": "2026-02-01T22:44:21.837Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards",

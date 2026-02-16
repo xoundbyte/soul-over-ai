@@ -3,9 +3,12 @@
   "name": "PORCELAIN HEARTS",
   "dateAdded": "2025-11-29T13:28:21.000Z",
   "dateUpdated": "2026-01-10T13:12:18.992Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals"
   ],

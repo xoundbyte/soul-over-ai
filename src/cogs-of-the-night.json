@@ -3,9 +3,12 @@
   "name": "Cogs Of The Night",
   "dateAdded": "2026-01-11T19:17:22.821Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

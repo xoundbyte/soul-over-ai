@@ -3,9 +3,12 @@
   "name": "Olivia B Moore",
   "dateAdded": "2026-01-01T15:50:06.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

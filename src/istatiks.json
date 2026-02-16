@@ -3,9 +3,12 @@
   "name": "Istatiks",
   "dateAdded": "2026-01-20T21:30:48.067Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

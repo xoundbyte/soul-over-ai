@@ -3,9 +3,12 @@
   "name": "We Are Jazz",
   "dateAdded": "2026-02-01T11:19:51.448Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "anonymous",
     "high-output"

@@ -3,9 +3,12 @@
   "name": "Myrkrheimr",
   "dateAdded": "2026-01-09T18:29:26.978Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

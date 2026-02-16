@@ -3,9 +3,12 @@
   "name": "Rea Gopane",
   "dateAdded": "2026-02-14T12:00:13.741Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "Acknowledges use of AI in this interview https://iol.co.za/entertainment/music/2026-01-16-rea-gopane-on-ai-and-creativity-as-his-music-finds-streaming-success/ \"Despite online speculation that his new music is AI-generated, Gopane clarified that “AI is part of the toolkit, not the story.” “I use it as a production and creative accelerator, similar to how artists once embraced new instruments or software. The vision, direction, emotion and final decisions are entirely human,” he explained.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

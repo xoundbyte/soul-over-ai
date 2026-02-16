@@ -3,9 +3,12 @@
   "name": "Danty_Lwanga",
   "dateAdded": "2026-02-09T10:54:22.186Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "high-output",

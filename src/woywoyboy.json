@@ -3,9 +3,12 @@
   "name": "WoyWoyBoy",
   "dateAdded": "2026-01-08T15:58:22.315Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

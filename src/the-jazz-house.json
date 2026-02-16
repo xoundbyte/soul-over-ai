@@ -3,9 +3,12 @@
   "name": "The Jazz House",
   "dateAdded": "2026-01-04T16:21:47.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

@@ -3,9 +3,12 @@
   "name": "Broken Altar",
   "dateAdded": "2025-11-25T11:50:50.000Z",
   "dateUpdated": "2026-01-19T10:57:17.418Z",
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

@@ -3,9 +3,12 @@
   "name": "Jess Tailor",
   "dateAdded": "2026-01-21T20:39:35.196Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output",

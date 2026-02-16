@@ -3,9 +3,12 @@
   "name": "LYSSA RAYE",
   "dateAdded": "2026-01-09T13:00:44.980Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

@@ -3,9 +3,12 @@
   "name": "The Burning Curse",
   "dateAdded": "2026-02-14T20:13:23.300Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "full",
   "disclosureNotes": "YouTube bio: \"🤘🏻vocals and beats by Ai🤘🏻\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

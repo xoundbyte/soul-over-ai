@@ -3,9 +3,12 @@
   "name": "NEOX STUDIO",
   "dateAdded": "2026-01-03T12:06:13.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

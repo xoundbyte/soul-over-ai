@@ -3,9 +3,12 @@
   "name": "Yesterday Once Again",
   "dateAdded": "2026-01-12T13:36:04.109Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

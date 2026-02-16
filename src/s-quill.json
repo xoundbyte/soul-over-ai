@@ -3,9 +3,12 @@
   "name": "S. Quill",
   "dateAdded": "2026-01-15T20:29:16.153Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

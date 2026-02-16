@@ -3,9 +3,12 @@
   "name": "Enkisoul",
   "dateAdded": "2026-01-07T14:07:39.052Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

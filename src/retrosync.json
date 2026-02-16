@@ -3,9 +3,12 @@
   "name": "Retrosync",
   "dateAdded": "2026-01-11T20:01:11.670Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

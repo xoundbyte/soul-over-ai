@@ -3,9 +3,12 @@
   "name": "SLVMLORD",
   "dateAdded": "2026-01-12T13:25:56.350Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Some of the artist's YouTube videos state in the description: \"Created with AI and human collaboration.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

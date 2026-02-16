@@ -3,9 +3,12 @@
   "name": "What if music",
   "dateAdded": "2026-01-26T09:09:48.939Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

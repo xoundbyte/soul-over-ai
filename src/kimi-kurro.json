@@ -3,9 +3,12 @@
   "name": "Kimi Kurro",
   "dateAdded": "2026-01-20T21:24:04.886Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

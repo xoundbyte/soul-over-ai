@@ -3,9 +3,12 @@
   "name": "SISO Wave",
   "dateAdded": "2026-02-04T18:43:12.600Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "Some of their older videos https://www.youtube.com/watch?v=f606zWRiuAo state in the description: \"Created with the assistance of AI technology.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "inconsistent-style",

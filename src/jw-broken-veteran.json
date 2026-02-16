@@ -3,9 +3,12 @@
   "name": "JW \"Broken Veteran\"",
   "dateAdded": "2026-01-16T20:50:35.992Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Poetry has always been my outlet, and thanks to AI technology, I can now transform my self-written lyrics into music that touches hearts.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

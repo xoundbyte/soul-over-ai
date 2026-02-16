@@ -3,9 +3,12 @@
   "name": "ARAÉ",
   "dateAdded": "2026-01-16T16:20:28.447Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio describes themselves as a \"virtual artist\" and utilises hashtags such as #AIMusic and #VirtualArtist.",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

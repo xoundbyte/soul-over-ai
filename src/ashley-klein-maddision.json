@@ -3,9 +3,12 @@
   "name": "Ashley Klein Maddision",
   "dateAdded": "2026-01-12T11:01:38.703Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "high-output"

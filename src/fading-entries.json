@@ -3,9 +3,12 @@
   "name": "Fading Entries",
   "dateAdded": "2026-01-09T13:03:47.771Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

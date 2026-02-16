@@ -3,9 +3,12 @@
   "name": "DARIUS REIG",
   "dateAdded": "2026-02-08T20:47:20.052Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Different AI technologies help me make my productions.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "2024-onwards",
     "ai-visuals",

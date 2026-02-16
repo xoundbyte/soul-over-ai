@@ -3,9 +3,12 @@
   "name": "TheMidnightBlackout",
   "dateAdded": "2026-01-10T11:13:06.945Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous",

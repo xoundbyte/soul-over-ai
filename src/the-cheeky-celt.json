@@ -3,9 +3,12 @@
   "name": "The Cheeky Celt",
   "dateAdded": "2026-01-07T23:33:50.981Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

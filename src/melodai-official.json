@@ -3,9 +3,12 @@
   "name": "MelodAI_Official",
   "dateAdded": "2026-01-05T20:29:17.000Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

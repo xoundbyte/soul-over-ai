@@ -3,9 +3,12 @@
   "name": "Katherine Jayne",
   "dateAdded": "2026-01-19T21:43:01.091Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "inconsistent-style"
   ],

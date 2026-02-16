@@ -3,9 +3,12 @@
   "name": "True Roots Blues",
   "dateAdded": "2026-02-04T13:32:22.415Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Rather than just looking back, T.R.B. embraces AI-powered creativity to sculpt a sound that is both authentic and cinematic.\"",
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "high-output",
     "ai-visuals",

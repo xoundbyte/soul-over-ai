@@ -3,9 +3,12 @@
   "name": "Pochito",
   "dateAdded": "2026-01-22T23:02:01.699Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

@@ -3,9 +3,12 @@
   "name": "Reaper VX",
   "dateAdded": "2026-01-09T13:33:01.349Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

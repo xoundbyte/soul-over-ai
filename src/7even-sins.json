@@ -3,9 +3,12 @@
   "name": "7even Sins",
   "dateAdded": "2026-01-14T09:50:37.322Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "anonymous"

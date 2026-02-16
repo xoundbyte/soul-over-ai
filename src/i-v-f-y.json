@@ -3,6 +3,8 @@
   "name": "I-V-f-Y",
   "dateAdded": "2026-02-07T12:07:38.398Z",
   "dateUpdated": null,
+  "removed": false,
+  "issue": null,
   "disclosure": "partial",
   "disclosureNotes": "The artist self-submitted this listing: \"This project is built on original compositions and MIDI structures developed over eight years of work. I’m the creator of I-V-f-Y, a composition-first workflow where all songwriting, structure, and creative direction are entirely human-driven. AI is used strictly as an rendering instruments, voices and phonetic adaptation tool within the production process. Composition, mixing, final arrangement, and mastering are fully handled by me.\"",
   "disclosureTypes": [
@@ -12,6 +14,7 @@
     "mixing",
     "mastering"
   ],
+  "urls": [],
   "markers": [
     "ai-visuals",
     "2024-onwards",
