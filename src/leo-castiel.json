@@ -1,0 +1,33 @@
+{
+  "id": "leo-castiel",
+  "name": "Léo Castiel",
+  "dateAdded": "2026-02-16T16:49:11.726Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3306,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This album is flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/en/album/913555631"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "7GiIP1GXFaDERrf3c5CuBf",
+  "apple": null,
+  "amazon": null,
+  "youtube": "UCE31quqyo7hNsmQwT-cWokQ",
+  "tiktok": "@leocastielofficiel",
+  "instagram": "leocastiel4"
+}
