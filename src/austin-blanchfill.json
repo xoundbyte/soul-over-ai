@@ -1,0 +1,37 @@
+{
+  "id": "austin-blanchfill",
+  "name": "Austin Blanchfill",
+  "dateAdded": "2026-02-16T17:05:53.291Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3621,
+  "disclosure": "confirmed",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "Bio: Austin Blanchfill is a worship leader, singer/songwriter, AI artist, and a creative entrepreneur whose mission is to point people to Jesus.",
+      "url": "https://www.youtube.com/@AustinBlanchfill"
+    },
+    {
+      "notes": "Video description: Some of my music is created using AI-assisted tools as part of the production process. This is one of those songs, and it is not my voice singing this song. I remain creatively and spiritually responsible for the message, lyrics, and direction of every song that I do, AI voice or my voice. AI is simply a tool that allows me to create and distribute music at scale, with excellence, and with the intention of pointing people to Jesus.",
+      "url": "https://www.youtube.com/watch?v=6Vqbf-G1bDs"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "high-output",
+    "inconsistent-style"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "7pddJCODtxUyoL9TXPzRcy",
+  "apple": null,
+  "amazon": null,
+  "youtube": "UCsvF3B04sMzWpjsJDv1q1cg",
+  "tiktok": "@austinblanchfill",
+  "instagram": "austinblanchfill"
+}
