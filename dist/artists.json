@@ -3191,6 +3191,43 @@
     "instagram": "marmes.music"
   },
   {
+    "id": "austin-blanchfill",
+    "name": "Austin Blanchfill",
+    "dateAdded": "2026-02-16T17:05:53.291Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3621,
+    "disclosure": "confirmed",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "Bio: Austin Blanchfill is a worship leader, singer/songwriter, AI artist, and a creative entrepreneur whose mission is to point people to Jesus.",
+        "url": "https://www.youtube.com/@AustinBlanchfill"
+      },
+      {
+        "notes": "Video description: Some of my music is created using AI-assisted tools as part of the production process. This is one of those songs, and it is not my voice singing this song. I remain creatively and spiritually responsible for the message, lyrics, and direction of every song that I do, AI voice or my voice. AI is simply a tool that allows me to create and distribute music at scale, with excellence, and with the intention of pointing people to Jesus.",
+        "url": "https://www.youtube.com/watch?v=6Vqbf-G1bDs"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7pddJCODtxUyoL9TXPzRcy",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCsvF3B04sMzWpjsJDv1q1cg",
+    "tiktok": "@austinblanchfill",
+    "instagram": "austinblanchfill"
+  },
+  {
     "id": "ava-veex",
     "name": "Ava Veex",
     "dateAdded": "2025-12-27T12:49:47.000Z",
@@ -3701,6 +3738,40 @@
     "instagram": null
   },
   {
+    "id": "basi-gonzalez-music",
+    "name": "Basi Gonzalez Music",
+    "dateAdded": "2026-02-16T16:42:03.881Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3300,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album is flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/en/album/891056982"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "08uDZ5xq2Lnr9cTPUaLpKS",
+    "apple": "1845053647",
+    "amazon": null,
+    "youtube": "UCBgP4UOHnmHMzJrPSL82_KQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "beach-days",
     "name": "Beach Days",
     "dateAdded": "2026-01-12T13:21:34.983Z",
@@ -3751,6 +3822,39 @@
     "apple": "1792445101",
     "amazon": "B0DV15JD97",
     "youtube": "UC1DL_GGzZW155j5ev9yXoxg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "beata-slusarek",
+    "name": "Beata Ślusarek",
+    "dateAdded": "2026-02-16T16:29:43.309Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3639,
+    "disclosure": "confirmed",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "Bio states: \"With the help of AI, I transform them into sound and image with the intention of creating a better world.\" (translated)",
+        "url": "https://open.spotify.com/artist/02TWJAFnfplhjiIe9qTVBc"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "inconsistent-style",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "02TWJAFnfplhjiIe9qTVBc",
+    "apple": null,
+    "amazon": "B0F9XMHWRW",
+    "youtube": "UCzgDRFbrEvq6L8W3LjJEcKQ",
     "tiktok": null,
     "instagram": null
   },
@@ -9292,6 +9396,38 @@
     "amazon": "B0FXDGXN82",
     "youtube": "UCK4SPb4qlaFUHp6Jwso5pkg",
     "tiktok": "@ekospir",
+    "instagram": null
+  },
+  {
+    "id": "el-cantar-del-dragon",
+    "name": "El Cantar Del Dragon",
+    "dateAdded": "2026-02-16T16:34:18.290Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3292,
+    "disclosure": "full",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "Bio states: \"Performed by Suno.\"",
+        "url": "https://www.youtube.com/channel/UCtn0hfHRctZRIM6YtvEoaJQ"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7uvaRGEFLO8YnbcEckurGz",
+    "apple": "1843720010",
+    "amazon": "B0FHWLFM6N",
+    "youtube": "UCtn0hfHRctZRIM6YtvEoaJQ",
+    "tiktok": "@el.cantar.del.dragon",
     "instagram": null
   },
   {
@@ -16658,6 +16794,38 @@
     "instagram": "kodpoezii"
   },
   {
+    "id": "konanoko",
+    "name": "konanoko",
+    "dateAdded": "2026-02-16T16:46:41.811Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3305,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album is flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/us/album/800822281"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2mcNCob4QtnaBBzrfujP9x",
+    "apple": "1822135523",
+    "amazon": "B0D37VL6SS",
+    "youtube": "UChE-RZ-l_0knoWsRKL0BxXQ",
+    "tiktok": null,
+    "instagram": "konanoko75"
+  },
+  {
     "id": "kotr-knights-of-the-revival",
     "name": "KOTR – Knights of the Revival",
     "dateAdded": "2025-12-31T16:00:02.000Z",
@@ -17205,6 +17373,39 @@
     "youtube": "UCQkwuZ9IYVNagcb_Bic9zJw",
     "tiktok": "@lenzspot",
     "instagram": "lenzspot"
+  },
+  {
+    "id": "leo-castiel",
+    "name": "Léo Castiel",
+    "dateAdded": "2026-02-16T16:49:11.726Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3306,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album is flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/en/album/913555631"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7GiIP1GXFaDERrf3c5CuBf",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCE31quqyo7hNsmQwT-cWokQ",
+    "tiktok": "@leocastielofficiel",
+    "instagram": "leocastiel4"
   },
   {
     "id": "les-rock-n-rollos",
@@ -19139,6 +19340,38 @@
     "youtube": "UCE-PAlHdlnT8yi9rlOdKfWA",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "melissageurts",
+    "name": "@melissageurts",
+    "dateAdded": "2026-02-16T16:38:33.532Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3301,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album is flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/en/album/751281521"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2kzYxRlizKl4XKk2piAsWA",
+    "apple": "1812157851",
+    "amazon": "B0F7F6RGHK",
+    "youtube": "UC7fy85ockRa67URZN7oFDYw",
+    "tiktok": null,
+    "instagram": "melissageurts"
   },
   {
     "id": "melodai-official",
@@ -22275,6 +22508,39 @@
     "instagram": "o.es.3"
   },
   {
+    "id": "obey-the-pulse",
+    "name": "OBEY THE PULSE",
+    "dateAdded": "2026-02-16T17:09:09.512Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3325,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album is flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/us/album/834263472"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0QjTSzyBGfotjuK8cuXMML",
+    "apple": "1832651771",
+    "amazon": null,
+    "youtube": "UCS7P_n1oMjaFHDsKBy0iN7g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "oblivion-kiss",
     "name": "Oblivion Kiss",
     "dateAdded": "2026-01-01T16:11:09.000Z",
@@ -25358,6 +25624,39 @@
     "youtube": "UCbEuoag7cQCZbusUpv1vLhA",
     "tiktok": "@rithyzinha",
     "instagram": "peleirinha"
+  },
+  {
+    "id": "river-bottom-audio-co",
+    "name": "River Bottom Audio Co",
+    "dateAdded": "2026-02-16T16:36:31.532Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3294,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This song is flagged as altered or synthetic content by YouTube",
+        "url": "https://www.youtube.com/watch?v=GWvzB2MhW1c"
+      }
+    ],
+    "markers": [
+      "ai-visuals",
+      "anonymous",
+      "2024-onwards",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "16Ii9llipDem5BQse0XzO2",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCcHZe4ek3d5nX8wfkLtyTNQ",
+    "tiktok": null,
+    "instagram": "river.bottom.audio.co"
   },
   {
     "id": "rizzers",
@@ -31304,6 +31603,38 @@
     "instagram": "mrprofessor318"
   },
   {
+    "id": "the-redacted",
+    "name": "The redacted",
+    "dateAdded": "2026-02-16T16:54:50.644Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3311,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album has been flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/en/album/909915512"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "ai-visuals"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3uXq1Ajk5JaxCYqULqCbsA",
+    "apple": "1871849747",
+    "amazon": null,
+    "youtube": "UCMmjwi259j4ROUZrtzXhe5g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "the-relic-hunters",
     "name": "The Relic Hunters",
     "dateAdded": "2026-02-15T14:51:12.088Z",
@@ -32227,6 +32558,39 @@
     "instagram": null
   },
   {
+    "id": "tora-nightthorn",
+    "name": "Tora Nightthorn",
+    "dateAdded": "2026-02-16T16:00:30.091Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3291,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album is flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/en/album/892924452"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2K9mZuRjTkaGDCM71OhCI9",
+    "apple": "1830698078",
+    "amazon": null,
+    "youtube": "UCxwJpnHFjNn3F9473Xi_CaA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "toruc-macto",
     "name": "Toruc macto",
     "dateAdded": "2026-01-19T10:32:28.236Z",
@@ -32383,6 +32747,36 @@
     "youtube": "UCA1z2cDDl_WkH2YrhKKkEng",
     "tiktok": "@trouble_ment",
     "instagram": "lizzy_trouble"
+  },
+  {
+    "id": "true-funk-players",
+    "name": "True Funk Players",
+    "dateAdded": "2026-02-16T16:56:39.457Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3313,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album has been flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/en/album/878630812"
+      }
+    ],
+    "markers": [
+      "anonymous"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6Ew4EuuPyPEzVIq4pLhdVK",
+    "apple": "1848609335",
+    "amazon": null,
+    "youtube": "UCe0L28dbn12qy-s79CWSFqg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "true-roots-blues",
