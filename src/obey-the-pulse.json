@@ -1,0 +1,33 @@
+{
+  "id": "obey-the-pulse",
+  "name": "OBEY THE PULSE",
+  "dateAdded": "2026-02-16T17:09:09.512Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3325,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This album is flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/us/album/834263472"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "0QjTSzyBGfotjuK8cuXMML",
+  "apple": "1832651771",
+  "amazon": null,
+  "youtube": "UCS7P_n1oMjaFHDsKBy0iN7g",
+  "tiktok": null,
+  "instagram": null
+}
