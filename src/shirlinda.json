@@ -1,0 +1,33 @@
+{
+  "id": "shirlinda",
+  "name": "Shirlinda",
+  "dateAdded": "2026-02-16T15:40:44.292Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3271,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This album is flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/us/album/669808741"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "011S10yFs7e1kxzq1noZc4",
+  "apple": "1735656822",
+  "amazon": "B0CXPVFFLZ",
+  "youtube": "UC3aPyEzxTQeGXHXRV9ISCSQ",
+  "tiktok": null,
+  "instagram": "shirlinda.music"
+}
