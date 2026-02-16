@@ -1,0 +1,33 @@
+{
+  "id": "river-bottom-audio-co",
+  "name": "River Bottom Audio Co",
+  "dateAdded": "2026-02-16T16:36:31.532Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3294,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This song is flagged as altered or synthetic content by YouTube",
+      "url": "https://www.youtube.com/watch?v=GWvzB2MhW1c"
+    }
+  ],
+  "markers": [
+    "ai-visuals",
+    "anonymous",
+    "2024-onwards",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "16Ii9llipDem5BQse0XzO2",
+  "apple": null,
+  "amazon": null,
+  "youtube": "UCcHZe4ek3d5nX8wfkLtyTNQ",
+  "tiktok": null,
+  "instagram": "river.bottom.audio.co"
+}
