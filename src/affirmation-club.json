@@ -1,0 +1,33 @@
+{
+  "id": "affirmation-club",
+  "name": "Affirmation Club",
+  "dateAdded": "2026-02-16T15:44:19.999Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3275,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "Flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/en/album/897206042"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "7JEsohKV7zlxbt0EsjYCfu",
+  "apple": "1870034368",
+  "amazon": null,
+  "youtube": "UCbqOYOn7Eyj-h5BD13H5VWA",
+  "tiktok": null,
+  "instagram": null
+}
