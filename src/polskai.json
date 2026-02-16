@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T08:41:34.912Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2709",
+  "issue": 2709,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"The best AI songs and covers from the POLSKA label.\" (translated)",
   "disclosureTypes": [],

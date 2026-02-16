@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-07T14:50:54.082Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3132",
+  "issue": 3132,
   "disclosure": "confirmed",
   "disclosureNotes": "The Twitter bio states: \"Digital Musician.\"",
   "disclosureTypes": [],

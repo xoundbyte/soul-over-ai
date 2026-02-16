@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-13T11:06:13.165Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3282",
+  "issue": 3282,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Welcome to AIDROLICS , the AI-driven powerhouse where I drop nothing but heat. The voice might be AI, but the bars, the grind, the ideas, and the pain behind every track are straight from me.\"",
   "disclosureTypes": [

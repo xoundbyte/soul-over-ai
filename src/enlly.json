@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-12T18:38:22.516Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3421",
+  "issue": 3421,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"By blending acoustic expression with studio craftsmanship and touches of creative AI, I create songs that aim to move, reflect, and connect.\"",
   "disclosureTypes": [],

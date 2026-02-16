@@ -4,7 +4,7 @@
   "dateAdded": "2026-01-11T19:50:39.882Z",
   "dateUpdated": "2026-02-06T22:47:44.293Z",
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3181",
+  "issue": 3181,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"This metal band was born in Türkiye in 2025 with the support of AI. The melancholic rhythms of Anatolia merged with the perfection of AI. Lyrics, creative direction, mood, structure and final releases are manually curated and produced by the channel owner. AI-based tools are used as part of the production workflow, similar to digital instruments or software, while all artistic decisions remain human-directed.\"",
   "disclosureTypes": [

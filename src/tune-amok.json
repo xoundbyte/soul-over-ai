@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-05T21:20:51.996Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3060",
+  "issue": 3060,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Tune Amok is a solo project by Stig Kristensen and is brought to life with the help of AI.\"",
   "disclosureTypes": [],

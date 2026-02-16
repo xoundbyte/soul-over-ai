@@ -32,11 +32,10 @@
     },
     "issue": {
       "type": [
-        "string",
+        "number",
         "null"
       ],
-      "format": "uri",
-      "description": "URL to the related GitHub issue, or null if not available"
+      "description": "GitHub issue number, or null if not available"
     },
     "disclosure": {
       "type": "string",

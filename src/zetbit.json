@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-10T09:39:24.337Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3297",
+  "issue": 3297,
   "disclosure": "full",
   "disclosureNotes": "From their Youtube channel description: \"This channel features original AI music and lyric videos created by ZetBit.\"",
   "disclosureTypes": [],

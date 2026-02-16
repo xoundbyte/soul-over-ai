@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-04T18:43:12.600Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2892",
+  "issue": 2892,
   "disclosure": "confirmed",
   "disclosureNotes": "Some of their older videos https://www.youtube.com/watch?v=f606zWRiuAo state in the description: \"Created with the assistance of AI technology.\"",
   "disclosureTypes": [],

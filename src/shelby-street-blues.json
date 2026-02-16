@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-01T19:20:23.531Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2689",
+  "issue": 2689,
   "disclosure": "confirmed",
   "disclosureNotes": "On this video (https://www.youtube.com/watch?v=UuQc21C8bBE) the artist states: \"I use modern tools as part of the creative process, but the direction, concept, and emotional intent of each track are entirely mine.\"",
   "disclosureTypes": [],

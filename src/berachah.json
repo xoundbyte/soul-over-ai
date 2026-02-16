@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-08T00:30:52.028Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3211",
+  "issue": 3211,
   "disclosure": "confirmed",
   "disclosureNotes": "The Youtube channel description states: \"This channel exists to give people good quality lyric videos, and amazing Biblical AI music for all to enjoy.\" On Youtube \"Psalm 20 // Metal Cover\" description states: \"[...] The song was generated using Suno AI, the lyrics were written by AI, and then I edited them quite a bit. [...]\"",
   "disclosureTypes": [],

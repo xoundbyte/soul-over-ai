@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T08:45:41.519Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2727",
+  "issue": 2727,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Here you'll find emotional and sad country music created with the help of AI.\"",
   "disclosureTypes": [],

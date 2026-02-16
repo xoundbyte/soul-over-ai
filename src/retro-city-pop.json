@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T18:23:33.910Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2822",
+  "issue": 2822,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"All music is created and produced by Retro City Pop — blending authentic 80s-inspired lyrics and sound with the support of modern AI tools to reimagine the timeless Showa-era vibe.\"",
   "disclosureTypes": [],

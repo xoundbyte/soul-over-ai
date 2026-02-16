@@ -4,7 +4,7 @@
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-02-03T18:11:34.466Z",
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2950",
+  "issue": 2950,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Our music is composed using an innovative process mixing real instruments, traditional production techniques, professional mixing & mastering, blended with artificial intelligence to meticulously craft every track.\"",
   "disclosureTypes": [],

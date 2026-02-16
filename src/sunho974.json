@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T10:57:52.839Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2737",
+  "issue": 2737,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"All music on this channel is independently created using AI-assisted tools, but with human creative input. AI tools (e.g., ChatGPT, Suno AI) were used solely as creative aids, and final decisions regarding planning, composition, lyrics, and editing were made directly by artists sunho974, SONN985, and \"Music Speaks.\" (translated)",
   "disclosureTypes": [

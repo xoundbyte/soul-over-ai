@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-15T14:45:41.057Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3254",
+  "issue": 3254,
   "disclosure": "full",
   "disclosureNotes": "Disclosed the use of Suno on this video https://www.youtube.com/watch?v=we75cRwfrqk.",
   "disclosureTypes": [],

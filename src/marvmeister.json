@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-08T22:21:44.438Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3163",
+  "issue": 3163,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"I write all my songs myself - usually in a notepad and then later transfer them to my PC. I also cut and master them myself, But I mostly use AI voices for the songs. I also speak or sing some of them myself and then use AI tools.\" (translated)",
   "disclosureTypes": [

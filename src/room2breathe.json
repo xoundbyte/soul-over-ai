@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-15T21:24:10.243Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3277",
+  "issue": 3277,
   "disclosure": "partial",
   "disclosureNotes": "The artist's homepage https://selfcareclub.org/pages/meet-the-visionary-behind-self-care-club-llc states: \"While singing was never her primary gift, she embraced AI technology as a tool to bring her affirmations, emotions, and healing intentions to life.\"",
   "disclosureTypes": [

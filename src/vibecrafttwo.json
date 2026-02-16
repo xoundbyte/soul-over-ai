@@ -4,7 +4,7 @@
   "dateAdded": "2026-01-30T20:49:16.741Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2646",
+  "issue": 2646,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"Created with AI, remixed, mastered, and fine-tuned piece by piece to perfection by VibecraftTwo, you're in for a sonic adventure.\"",
   "disclosureTypes": [

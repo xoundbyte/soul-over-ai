@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T13:31:58.002Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2785",
+  "issue": 2785,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"Original lyrics, often from years ago, are now brought to life thanks to SUNO AI. I use Suno AI, FL Studio, and Audacity.\"",
   "disclosureTypes": [

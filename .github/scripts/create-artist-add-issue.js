@@ -21,9 +21,10 @@ for (const key of propertyOrder) {
   orderedData[key] = data[key];
 }
 
-// Convert comma-delimited strings to arrays, default to empty array
-orderedData.disclosureTypes = orderedData.disclosureTypes && typeof orderedData.disclosureTypes === 'string' ? orderedData.disclosureTypes.split(',').map(s => s.trim()) : [];
-orderedData.markers = orderedData.markers && typeof orderedData.markers === 'string' ? orderedData.markers.split(',').map(s => s.trim()) : [];
+// Default arrays
+orderedData.disclosureTypes = orderedData.disclosureTypes || [];
+orderedData.markers = orderedData.markers || [];
+orderedData.urls = orderedData.urls || [];
 
 // Trim strings and set empty to null
 for (const key in orderedData) {

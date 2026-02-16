@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-07T20:33:43.331Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3136",
+  "issue": 3136,
   "disclosure": "partial",
   "disclosureNotes": "The description on this video https://www.youtube.com/watch?v=RbfFzJA27e4 states: \"Music and visuals were partly shaped using generative AI, with final editing and mastering done by hand.\"",
   "disclosureTypes": [

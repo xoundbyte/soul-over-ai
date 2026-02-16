@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-14T17:11:15.517Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3342",
+  "issue": 3342,
   "disclosure": "confirmed",
   "disclosureNotes": "Spotify bio: \"Valkyrian is an AI music project from Dalarna, launched in 2024.\" (translated). TikTok bio: \"Rock/metal with help of AI.\" (translated)",
   "disclosureTypes": [],

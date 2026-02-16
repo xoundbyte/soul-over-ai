@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-08T19:04:14.851Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3146",
+  "issue": 3146,
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"A human composer writes the lyrics, music, and arrangements, while the vocals are performed by an AI voice, created to bring this modern Breton energy to life.\"",
   "disclosureTypes": [

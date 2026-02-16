@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T18:42:33.770Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2832",
+  "issue": 2832,
   "disclosure": "partial",
   "disclosureNotes": "On the track 'Bound by a Dream' https://www.youtube.com/watch?v=6xT9K2Rx80Y, the description states: \"Lyrics by me, vocals made with SunoAi.\"",
   "disclosureTypes": [

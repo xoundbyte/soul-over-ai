@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-01T20:59:48.989Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2768",
+  "issue": 2768,
   "disclosure": "full",
   "disclosureNotes": "On the artist's website (https://www.redneckoutlawmusic.com) they state: \"Redneck Outlaw is a digital-first, AI-driven country rock band built for fans who want something real, raw, and rebellious. Every release is crafted to keep the spirit of outlaw music alive while pushing the edge of what AI-powered creativity can do.\"",
   "disclosureTypes": [],

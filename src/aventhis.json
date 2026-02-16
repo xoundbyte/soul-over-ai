@@ -4,7 +4,7 @@
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-31T21:02:15.536Z",
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2699",
+  "issue": 2699,
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Harnessing the creative power of AI as part of his artistic process.\"",
   "disclosureTypes": [],

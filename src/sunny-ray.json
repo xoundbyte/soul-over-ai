@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-07T17:15:25.652Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3170",
+  "issue": 3170,
   "disclosure": "confirmed",
   "disclosureNotes": "From their Spotify description: \"🌞 Sunny Ray is where tradition meets technology — blending the heart of folk, the grit of country, the groove of soul, and the spirit of gospel into something completely new. Every song, whether it’s a reimagined classic or an original creation, is brought to life with the help of AI and a whole lot of feeling. Music is subjective. Whether it's a person or a program, what matters is what it brings out in you. \"",
   "disclosureTypes": [],

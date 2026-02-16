@@ -4,7 +4,7 @@
   "dateAdded": "2026-01-31T11:44:25.423Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2681",
+  "issue": 2681,
   "disclosure": "partial",
   "disclosureNotes": "On certain YouTube videos, the artist asks the question in the video description: \"Do you want more metal versions of classics created with AI?.\" Certain videos also have lyric credits to other people.",
   "disclosureTypes": [

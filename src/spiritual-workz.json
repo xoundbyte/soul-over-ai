@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-14T16:54:41.330Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3407",
+  "issue": 3407,
   "disclosure": "partial",
   "disclosureNotes": "Spotify bio states: \"(Disclaimer: All vocals and instrumentals are AI generated) NC born, small town raised. Started recording and making my own music in 2019-2024, but I wasn’t in the best situation mentally nor spiritually. However, I did learn a lot about how to edit sound and write lyrics. Sometime in early 2024 I began making all sorts of different content and learning how to video edit and use a wide variety of AI models for visuals/sounds/voices.\"",
   "disclosureTypes": [

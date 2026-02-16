@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-07T20:39:01.097Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3142",
+  "issue": 3142,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Every song I'll release is produced with a \"little help\" from AI while putting my own lyrics and melodies into the mix.\"",
   "disclosureTypes": [

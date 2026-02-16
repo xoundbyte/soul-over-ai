@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-15T14:56:57.235Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3293",
+  "issue": 3293,
   "disclosure": "partial",
   "disclosureNotes": "YouTube bio states: \"Most of the tracks are AI-generated and then refined, arranged, and mastered to achieve their final form. The lyrics and concepts are written by me, blending alternative rock, dark ambience, and synthetic storytelling.\"",
   "disclosureTypes": [

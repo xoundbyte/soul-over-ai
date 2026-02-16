@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-12T20:03:40.815Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3318",
+  "issue": 3318,
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Virtual artist • Live guitars • AI-enhanced vocals Punk-pop from the void.\"",
   "disclosureTypes": [],

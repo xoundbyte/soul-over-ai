@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-13T20:52:44.273Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3497",
+  "issue": 3497,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Not all tracks are AI-generated. The music here is a mix of human-made and AI-enhanced elements. All vocals originate from real human recordings, which are then transformed using AI tools to achieve the desired style and vibe.\"",
   "disclosureTypes": [

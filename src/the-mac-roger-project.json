@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-06T14:05:47.763Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3085",
+  "issue": 3085,
   "disclosure": "full",
   "disclosureNotes": "The Spotify bio states: \"Under the alias The Mac Roger Project, Jarod will release one new AI-performed demo every week for a full year—or until he lands a major artist cut or publishing deal.\"",
   "disclosureTypes": [],

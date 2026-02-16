@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T18:39:12.543Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2831",
+  "issue": 2831,
   "disclosure": "full",
   "disclosureNotes": "On their YouTube video for Paralized (Hardstyle Mix) https://www.youtube.com/watch?v=GAx8IaxqgnA, the description states: \"Made (2026) with Suno AI, Grok Imagine, Chat GPT by Ronny Krahl.\"",
   "disclosureTypes": [],

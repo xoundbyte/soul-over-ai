@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T11:13:34.311Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2739",
+  "issue": 2739,
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Because of how my brain works, digital tools and AI-assisted vocals help me get the ideas out before they disappear.\"",
   "disclosureTypes": [

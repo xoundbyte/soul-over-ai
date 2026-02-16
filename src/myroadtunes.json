@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-15T13:54:37.860Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3216",
+  "issue": 3216,
   "disclosure": "confirmed",
   "disclosureNotes": "YouTube bio states: \"This journey is fueled by a unique collaboration: Human creativity, AI tools, and a cat's adventurous spirit.\"",
   "disclosureTypes": [],
