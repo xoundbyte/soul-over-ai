@@ -1,0 +1,32 @@
+{
+  "id": "the-redacted",
+  "name": "The redacted",
+  "dateAdded": "2026-02-16T16:54:50.644Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3311,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This album has been flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/en/album/909915512"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "anonymous",
+    "ai-visuals"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "3uXq1Ajk5JaxCYqULqCbsA",
+  "apple": "1871849747",
+  "amazon": null,
+  "youtube": "UCMmjwi259j4ROUZrtzXhe5g",
+  "tiktok": null,
+  "instagram": null
+}
