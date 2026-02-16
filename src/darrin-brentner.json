@@ -1,0 +1,33 @@
+{
+  "id": "darrin-brentner",
+  "name": "Darrin Brentner",
+  "dateAdded": "2026-02-16T21:06:58.582Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3683,
+  "disclosure": "confirmed",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "Spotify artist 'About' section says: \"A fan-made, AI-assisted tribute inspired by the work of Eiichiro Oda.\"",
+      "url": "https://open.spotify.com/artist/0UUrb9u49Gx7sVe1YFltdP"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "ai-visuals",
+    "anonymous",
+    "inconsistent-style"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "0UUrb9u49Gx7sVe1YFltdP",
+  "apple": "1868929451",
+  "amazon": "B0GGSCKR93",
+  "youtube": "UCkhuT7TkHuM2zV1BtB1ptVQ",
+  "tiktok": null,
+  "instagram": null
+}
