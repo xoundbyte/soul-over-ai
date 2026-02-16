@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-05T21:11:13.973Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3053",
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Farsi Jazz is an experimental project exploring Persian musical heritage through jazz improvisation and atmospheric soundscapes, blending human creativity with AI assistance.\"",
   "disclosureTypes": [],

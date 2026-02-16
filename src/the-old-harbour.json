@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T13:58:22.878Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2795",
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Every track is forged with grit, rum-rough voices, pounding deck-drums, sea-worn instruments and a spark of modern sorcerAI.\"",
   "disclosureTypes": [],

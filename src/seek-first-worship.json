@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-08T19:50:25.565Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3103",
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Since I’m just one person, I do use digital tools to help with vocals and production.\"",
   "disclosureTypes": [],

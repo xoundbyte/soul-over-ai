@@ -4,7 +4,7 @@
   "dateAdded": "2026-01-30T20:49:08.176Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2645",
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Creating laid-back groove & hip hop playlists with AI-made tracks.\"",
   "disclosureTypes": [],

@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-04T13:35:01.754Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2886",
   "disclosure": "partial",
   "disclosureNotes": "The artist title alludes to AI usage and the YouTube bio states: \"I use synthesized software to generate the vocals and rhythm, but the songs are all written by me.\"",
   "disclosureTypes": [

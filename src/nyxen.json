@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T08:44:18.464Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2721",
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Artificial singer.\" (translated)",
   "disclosureTypes": [],

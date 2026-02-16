@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T11:17:53.629Z",
   "dateUpdated": "2026-02-03T14:32:58.052Z",
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2743",
   "disclosure": "partial",
   "disclosureNotes": "The YouTube description for this video (https://www.youtube.com/watch?v=xiZZ53kWWuM) refers to: \"Vocals : AI\". Lappy further explains in a comment on the video that the track originally was recorded with multiple human vocalists. The Spotify bio states: \"For legal/business, contact my management team Autodidactic Studios music@autodidactic.ai\"; Autodidactic is an AI company using a machine learning algorithm to generate a revenue stream for its sponsored artists via the Tech Trader Fund.",
   "disclosureTypes": [

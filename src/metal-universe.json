@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-08T21:13:23.184Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3151",
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"All content on this channel, including music and artwork, is create by AI generate with remixing mastering and editing by Metal Universe.\"",
   "disclosureTypes": [

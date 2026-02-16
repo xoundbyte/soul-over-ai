@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-13T20:50:26.591Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3522",
   "disclosure": "confirmed",
   "disclosureNotes": "According to their TikTok: \"AI Artist | Dreamer.\"",
   "disclosureTypes": [],

@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-01T11:11:42.569Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2540",
   "disclosure": "none",
   "disclosureNotes": null,
   "disclosureTypes": [],

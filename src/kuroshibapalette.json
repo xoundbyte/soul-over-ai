@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-14T16:56:58.561Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3398",
   "disclosure": "full",
   "disclosureNotes": "YouTube channel description states: \"AI Music & AI Video  by Kuroshibapalette.\"",
   "disclosureTypes": [],

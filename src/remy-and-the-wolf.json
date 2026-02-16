@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-05T21:30:39.580Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3066",
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Gaming culture, glitch aesthetics, machine-aided experimentation, and weaponised feelings bleed into every track.\" The Instagram bio states: \"Glitchy heartbreak, AI made & digital distortion. We don’t exist. Neither do you.\"",
   "disclosureTypes": [],

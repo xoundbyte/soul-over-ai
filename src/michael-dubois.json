@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-02T23:35:53.996Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2857",
   "disclosure": "partial",
   "disclosureNotes": "Quote from https://michaelduboismusic.com: \"Michael writes his own lyrics, uses a persona of his voice and directs the music which then is created using Suno AI. He then mixes and edits until things are good to go.\"",
   "disclosureTypes": [],

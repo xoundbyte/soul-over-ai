@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-15T13:31:18.445Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3531",
   "disclosure": "confirmed",
   "disclosureNotes": "Spotify bio states: \"Our label, Madison Music Project, combines both traditional and modern song creation and recording techniques, including analog instruments, electronic music software, digital effects, and AI.\"",
   "disclosureTypes": [],

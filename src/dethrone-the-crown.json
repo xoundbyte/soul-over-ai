@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-07T00:04:10.132Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3156",
   "disclosure": "full",
   "disclosureNotes": "The TikTok bio states: \"AI Band.\"",
   "disclosureTypes": [],

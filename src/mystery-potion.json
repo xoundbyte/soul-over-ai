@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-05T21:18:41.751Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3059",
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"Mystery Potion is an innovative A.I. project that fuses technology and artistry to produce a vast array of musical styles.\". On the Instagram bio, they state: \"Makin' moves, breakin' rules, with A.I.\"",
   "disclosureTypes": [],

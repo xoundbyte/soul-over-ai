@@ -4,7 +4,7 @@
   "dateAdded": "2026-01-30T16:37:03.327Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2621",
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"these are songs from the soul, written entirely by me (with a little help from AI to bring the productions to life).\"",
   "disclosureTypes": [],

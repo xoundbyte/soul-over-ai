@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-13T20:48:36.115Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3228",
   "disclosure": "partial",
   "disclosureNotes": "The video description for Monster For Them https://www.youtube.com/watch?v=z3C0cKjJ90M states: \"This track was created using AI-assisted tools combined with original lyrics, composition, and creative direction by SyraxSoul. All rights are cleared for commercial use. Visual content was generated through original prompts using a commercially licensed model.\"",
   "disclosureTypes": [

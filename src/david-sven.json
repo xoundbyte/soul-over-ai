@@ -4,7 +4,7 @@
   "dateAdded": "2026-01-02T12:18:25.000Z",
   "dateUpdated": "2026-02-07T14:49:30.550Z",
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3205",
   "disclosure": "partial",
   "disclosureNotes": "From that artist's website https://www.davidsven.com/about-project: \"The voice you hear and the songs you find here were brought to life using modern creative tools — including AI-assisted production — always guided by a human hand and heart. Every lyric is written with intention. Every sound is chosen with care. David may not be a person you can shake hands with. But the feelings in his music are real — and they’re meant for you.\"",
   "disclosureTypes": [],

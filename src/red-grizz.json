@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-05T14:50:34.370Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3025",
   "disclosure": "confirmed",
   "disclosureNotes": "The TikTok profile states: \"Making awesome AI music and bringing it to you!\"",
   "disclosureTypes": [],

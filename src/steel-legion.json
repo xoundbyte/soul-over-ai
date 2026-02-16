@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-02T23:37:15.492Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2825",
   "disclosure": "partial",
   "disclosureNotes": "Spotify description: \"All lyrics are written by Uwe Hunsicker, who also directs the artistic vision and sound design. The music is created in collaboration with Suno AI, under his creative supervision – combining human storytelling with cutting-edge technology.\"",
   "disclosureTypes": [],

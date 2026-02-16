@@ -4,7 +4,7 @@
   "dateAdded": "2026-01-10T11:07:40.829Z",
   "dateUpdated": "2026-02-05T14:58:08.340Z",
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3051",
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"I work from my own MIDI songs (full arrangements of guitars, bass, keys, drums), build everything in a DAW, program the instruments and use orchestral libraries for the symphonic parts. Vocals are written and tuned with Melodyne, then processed with AI, always crafted with my intention and emotion. Finally, I mix and master everything myself.\"",
   "disclosureTypes": [

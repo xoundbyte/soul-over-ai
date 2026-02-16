@@ -4,7 +4,7 @@
   "dateAdded": "2025-12-22T16:58:01.000Z",
   "dateUpdated": "2026-01-31T11:49:39.240Z",
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2627",
   "disclosure": "partial",
   "disclosureNotes": "The TikTok profile states \"Ai-Assisted.\"",
   "disclosureTypes": [

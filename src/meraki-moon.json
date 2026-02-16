@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-08T21:33:01.242Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3182",
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"LYRICIST | SONGWRITER | PRODUCER | VOCAL DESIGNER (ai assisted).\"",
   "disclosureTypes": [

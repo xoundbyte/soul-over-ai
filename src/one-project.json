@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-03T18:28:57.387Z",
   "dateUpdated": "2026-02-12T08:28:49.234Z",
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2824",
   "disclosure": "partial",
   "disclosureNotes": "Many of their videos have credited vocals to the entity \"JUN (Ai).\"",
   "disclosureTypes": [

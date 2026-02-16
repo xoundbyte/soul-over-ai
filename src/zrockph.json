@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-13T20:55:50.875Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3490",
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"Music are created with AI tools, real voice and standard music instruments. Any revenue generated will go to the rightful owners. All Track is for Entertainment and Creative exploration of Ai-Assisted music production.\"",
   "disclosureTypes": [

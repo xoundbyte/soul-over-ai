@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-12T20:02:14.138Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3326",
   "disclosure": "confirmed",
   "disclosureNotes": "The Spotify bio states: \"Metal Sanctuary is an experimental AI-powered music project that fuses the heavy, brooding elements of doom metal with the soaring intensity of power metal, all while showcasing the intricate, virtuosic mastery of guitar work. By utilizing advanced artificial intelligence, the project explores new sonic landscapes, pushing the boundaries of traditional metal music and blending technical skill with emotional depth.\"",
   "disclosureTypes": [],

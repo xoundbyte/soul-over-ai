@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-01T22:32:38.995Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2667",
   "disclosure": "confirmed",
   "disclosureNotes": "The Instagram bio implies Suno usage: \"The Weird Side of Music Child of the Sunoverse.\"",
   "disclosureTypes": [],

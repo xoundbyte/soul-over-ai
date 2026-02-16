@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-02T23:34:38.787Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2731",
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"AI channel\" and \"Making music with the help of AI about games and other things that I like.\"",
   "disclosureTypes": [],

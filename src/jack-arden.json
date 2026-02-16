@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-01T22:38:07.543Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2761",
   "disclosure": "partial",
   "disclosureNotes": "The Spotify bio states: \"This is Ai music, but with my lyrics and my heart. Available on all streaming platforms.\"",
   "disclosureTypes": [

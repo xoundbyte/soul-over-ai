@@ -4,7 +4,7 @@
   "dateAdded": "2026-01-30T20:36:33.435Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2640",
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"AI-supported electronic music & experimental sounds.\"",
   "disclosureTypes": [],

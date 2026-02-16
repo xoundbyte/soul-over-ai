@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-08T18:52:37.800Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/3143",
   "disclosure": "partial",
   "disclosureNotes": "On some YouTube videos, the #aimusic hashtag is used and some videos are self-labelled as AI-generated on TikTok.",
   "disclosureTypes": [

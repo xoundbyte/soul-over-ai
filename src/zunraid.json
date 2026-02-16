@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-05T10:05:48.816Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2939",
   "disclosure": "partial",
   "disclosureNotes": "The YouTube bio states: \"I experiment with AI music. That's why I have songs of different genres and different vocals on my channel.I want to explore the limits and possibilities of AI in music creation. I use SunoAi v4.5 , ChatGPT. Lately I've been writing lyrics myself.\"",
   "disclosureTypes": [

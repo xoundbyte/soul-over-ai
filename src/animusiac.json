@@ -4,7 +4,7 @@
   "dateAdded": "2026-02-01T22:55:56.719Z",
   "dateUpdated": null,
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2791",
   "disclosure": "confirmed",
   "disclosureNotes": "The YouTube bio states: \"On this channel, we fuse the soul of anime, the energy of video games, and the creative power of artificial intelligence.\" (translated)",
   "disclosureTypes": [],

@@ -4,7 +4,7 @@
   "dateAdded": "2025-12-18T10:08:03.000Z",
   "dateUpdated": "2026-02-04T10:44:09.654Z",
   "removed": false,
-  "issue": null,
+  "issue": "https://github.com/xoundbyte/soul-over-ai/issues/2995",
   "disclosure": "partial",
   "disclosureNotes": "The TikTok bio states: \"I‘m Zane who loves to create music! Booktok, gamer and more! Lyrics are real, sing/hum/drum and let AI build it.\"",
   "disclosureTypes": [
