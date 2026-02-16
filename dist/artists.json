@@ -5887,6 +5887,38 @@
     "instagram": null
   },
   {
+    "id": "clarence-blue",
+    "name": "Clarence Blue",
+    "dateAdded": "2026-02-16T21:02:58.207Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3316,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album is flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/us/album/873588932"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "anonymous",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1bhoBp0rtFJqG4P4FxcjLy",
+    "apple": "1840973028",
+    "amazon": null,
+    "youtube": "UCO0MXwd6644mQI71i--QC9g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "cleiris",
     "name": "CLEIRIS",
     "dateAdded": "2026-02-04T13:30:14.081Z",
@@ -7331,6 +7363,39 @@
     "youtube": "UC_Ai8H5NG_iTP8gwTevunhA",
     "tiktok": null,
     "instagram": "darklux8"
+  },
+  {
+    "id": "darrin-brentner",
+    "name": "Darrin Brentner",
+    "dateAdded": "2026-02-16T21:06:58.582Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3683,
+    "disclosure": "confirmed",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "Spotify artist 'About' section says: \"A fan-made, AI-assisted tribute inspired by the work of Eiichiro Oda.\"",
+        "url": "https://open.spotify.com/artist/0UUrb9u49Gx7sVe1YFltdP"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0UUrb9u49Gx7sVe1YFltdP",
+    "apple": "1868929451",
+    "amazon": "B0GGSCKR93",
+    "youtube": "UCkhuT7TkHuM2zV1BtB1ptVQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "darth-kanga",
@@ -22048,6 +22113,39 @@
     "youtube": "UCkaWZEM9tM3AKt59_AzswEw",
     "tiktok": null,
     "instagram": "nonacyrelle"
+  },
+  {
+    "id": "nora-macrowe",
+    "name": "Nora MacRowe",
+    "dateAdded": "2026-02-16T21:05:24.536Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3319,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/us/album/914826361"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1dWDvjr2lP4xnWBqcGhTUG",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UC-YFcZ1BjRVXbT2HJ863xGA",
+    "tiktok": null,
+    "instagram": "noramacrowe"
   },
   {
     "id": "noraeon",
