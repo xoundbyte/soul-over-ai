@@ -3,7 +3,7 @@
   "name": "ROCK SAAMI",
   "dateAdded": "2026-02-07T00:02:55.833Z",
   "dateUpdated": null,
-  "removed": false,
+  "removed": true,
   "issue": 3141,
   "disclosure": "confirmed",
   "disclosureTypes": [],
