@@ -681,6 +681,39 @@
     "instagram": null
   },
   {
+    "id": "affirmation-club",
+    "name": "Affirmation Club",
+    "dateAdded": "2026-02-16T15:44:19.999Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3275,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "Flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/en/album/897206042"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7JEsohKV7zlxbt0EsjYCfu",
+    "apple": "1870034368",
+    "amazon": null,
+    "youtube": "UCbqOYOn7Eyj-h5BD13H5VWA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "afro-carpathic",
     "name": "Afro-Carpathic",
     "dateAdded": "2026-02-05T14:53:06.955Z",
@@ -7759,34 +7792,6 @@
     "instagram": null
   },
   {
-    "id": "dept",
-    "name": "Dept",
-    "dateAdded": "2026-02-03T18:36:55.074Z",
-    "dateUpdated": null,
-    "removed": false,
-    "issue": 2829,
-    "disclosure": "none",
-    "disclosureTypes": [],
-    "urls": [],
-    "markers": [
-      "2024-onwards",
-      "ai-visuals",
-      "high-output",
-      "inconsistent-style"
-    ],
-    "notes": "Very high output, with multiple albums released in 2025. The artist is Korean, and previously released acoustic music, yet has released a new electronic album in Spanish which has raised suspicions.",
-    "genres": [],
-    "popularity": null,
-    "followers": null,
-    "shScore": null,
-    "spotify": "48JtfAggQQpfUXQNxkGm5U",
-    "apple": "1134937261",
-    "amazon": "B001OQIETI",
-    "youtube": "UCI7bDhhETJhlk7dYUhDzLPA",
-    "tiktok": null,
-    "instagram": "dept113"
-  },
-  {
     "id": "desa",
     "name": "Desa",
     "dateAdded": "2026-02-04T18:39:03.257Z",
@@ -9124,6 +9129,38 @@
     "youtube": "UCiZACMoBdpEei04azoYVcZw",
     "tiktok": null,
     "instagram": "eclipsewarriormusic"
+  },
+  {
+    "id": "edyta-taraszkiewicz",
+    "name": "Edyta Taraszkiewicz",
+    "dateAdded": "2026-02-16T15:32:28.214Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3640,
+    "disclosure": "confirmed",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "In my work, AI is a co-creator, but not the author.\nIt is a brush, an instrument, a mirror of consciousness.\nI set the direction, choose the tone, emotion, and rhythm.\nAI helps me bring them to life—turning vision into sound, image, and word.",
+        "url": "https://edytataraszkiewicz.com/2025/10/15/🌕-tworczosc-z-ai/"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0qLStEomcWnwjZj5LBh8Rt",
+    "apple": null,
+    "amazon": "B0FQ4794VK",
+    "youtube": "UCpzgolAN3tvJdld0x7-jQvQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "efyliph",
@@ -13654,6 +13691,39 @@
     "youtube": "UCfPZL9pFl96ec4WMxQ3VTDg",
     "tiktok": null,
     "instagram": "hyfi"
+  },
+  {
+    "id": "hymns-of-the-imperium",
+    "name": "Hymns of the Imperium",
+    "dateAdded": "2026-02-16T15:53:58.191Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3289,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "Flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/us/album/903352582"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4B0qRT1wAIp3IJFbJ2bdgf",
+    "apple": "1847024492",
+    "amazon": "B0FX2TR8BW",
+    "youtube": "UClu5FhMmtN7W4yHwrRrmXzQ",
+    "tiktok": null,
+    "instagram": "imperiumhymns"
   },
   {
     "id": "hyperbaiter",
@@ -27383,6 +27453,39 @@
     "instagram": "shiranai.exe"
   },
   {
+    "id": "shirlinda",
+    "name": "Shirlinda",
+    "dateAdded": "2026-02-16T15:40:44.292Z",
+    "dateUpdated": null,
+    "removed": false,
+    "issue": 3271,
+    "disclosure": "none",
+    "disclosureTypes": [],
+    "urls": [
+      {
+        "notes": "This album is flagged as AI by Deezer.",
+        "url": "https://www.deezer.com/us/album/669808741"
+      }
+    ],
+    "markers": [
+      "2024-onwards",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "notes": null,
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "011S10yFs7e1kxzq1noZc4",
+    "apple": "1735656822",
+    "amazon": "B0CXPVFFLZ",
+    "youtube": "UC3aPyEzxTQeGXHXRV9ISCSQ",
+    "tiktok": null,
+    "instagram": "shirlinda.music"
+  },
+  {
     "id": "shonjii",
     "name": "SHONjii",
     "dateAdded": "2026-01-09T18:12:12.006Z",
@@ -35423,13 +35526,21 @@
     "id": "zayen",
     "name": "Zayen",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-02-16T15:50:09.070Z",
     "removed": false,
     "issue": null,
-    "disclosure": "none",
+    "disclosure": "confirmed",
     "disclosureTypes": [],
-    "urls": [],
-    "markers": [],
+    "urls": [
+      {
+        "notes": "I create music that blends emotion, storytelling, and a touch of AI magic.",
+        "url": "https://www.youtube.com/channel/UCi-t-oP9Ct01F2Bnwy0vXag"
+      }
+    ],
+    "markers": [
+      "ai-visuals",
+      "anonymous"
+    ],
     "notes": null,
     "genres": [],
     "popularity": null,
