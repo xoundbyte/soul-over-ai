@@ -42,21 +42,26 @@ if (orderedData.youtube && orderedData.youtube.startsWith('@')) {
 }
 
 // Create link to souloverai.com submission form with prefilled data
+const encode = (value) =>
+  encodeURIComponent(value)
+    .replace(/\(/g, '%28')
+    .replace(/\)/g, '%29');
+
 const params = Object.keys(orderedData)
-  .map(key => {
-    let value = orderedData[key];
-    if (Array.isArray(value)) {
-      if (value.length === 0) return null;
-      value = value.join(',');
-    } else if (value === null || value === undefined) {
-      return null;
+  .flatMap(key => {
+    const value = orderedData[key];
+    if (value === null || value === undefined) return [];
+    if (key === 'urls') {
+      return value.flatMap((item, i) => [
+        `url_${i + 1}=${encode(item.url)}`,
+        `notes_${i + 1}=${encode(item.notes)}`,
+      ]);
     }
-    const encodedValue = encodeURIComponent(value)
-      .replace(/\(/g, '%28') // left parenthesis
-      .replace(/\)/g, '%29'); // right parenthesis
-    return `${key}=${encodedValue}`;
+    if (Array.isArray(value)) {
+      return value.length === 0 ? [] : [`${key}=${encode(value.join(','))}`];
+    }
+    return [`${key}=${encode(value)}`];
   })
-  .filter(Boolean)
   .join('&');
 
 const link = `[Make changes](https://souloverai.com/add?${params})`;
