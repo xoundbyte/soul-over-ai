@@ -1,0 +1,32 @@
+{
+  "id": "melissageurts",
+  "name": "@melissageurts",
+  "dateAdded": "2026-02-16T16:38:33.532Z",
+  "dateUpdated": null,
+  "removed": false,
+  "issue": 3301,
+  "disclosure": "none",
+  "disclosureTypes": [],
+  "urls": [
+    {
+      "notes": "This album is flagged as AI by Deezer.",
+      "url": "https://www.deezer.com/en/album/751281521"
+    }
+  ],
+  "markers": [
+    "2024-onwards",
+    "high-output",
+    "inconsistent-style"
+  ],
+  "notes": null,
+  "genres": [],
+  "popularity": null,
+  "followers": null,
+  "shScore": null,
+  "spotify": "2kzYxRlizKl4XKk2piAsWA",
+  "apple": "1812157851",
+  "amazon": "B0F7F6RGHK",
+  "youtube": "UC7fy85ockRa67URZN7oFDYw",
+  "tiktok": null,
+  "instagram": "melissageurts"
+}
