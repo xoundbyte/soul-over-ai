@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+This project is now deprecated. Please join us at our new community at https://github.com/xoundbyte/zoundhub.
+---
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <div align="center">
     <a href="https://souloverai.com" target="_blank">
     <p><img src="https://raw.githubusercontent.com/xoundbyte/soul-over-ai/refs/heads/main/.github/images/logo.png" width="600" alt="Soul Over AI Logo"></p>
